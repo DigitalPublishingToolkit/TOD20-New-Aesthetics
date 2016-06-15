@@ -1,4 +1,4 @@
-#Chapter 2: Manifestations of the New Aesthetic#
+# <span id="_Toc321914092" class="anchor"><span id="_Toc321914198" class="anchor"></span></span>Chapter 2: Manifestations of the New Aesthetic
 
 In 2005, Sandy Island in the Pacific Ocean was undiscovered. {Fig. 7}
 Sandy Island had been listed as an island on maps and noted in documents
@@ -18,9 +18,9 @@ on Google Maps until 2012 and had been utilized in scientific data
 models since 2005; in short, the non-existence of Sandy Island had
 maintained a persistent digital autonomy with real world effects that
 itself has been made real precisely because of the impossibility of its
-recollection as not having existed.
+recollection as not having existed.    
 
-![](img/Fig007.tiff) Fig. 7 Sandy Island as seen by GoogleMaps
+<img src="img/Fig007.png"/><br />Fig. 7 Sandy Island as seen by Google Maps  
 
 In many respects, Sandy Island is merely an instance of a cartographic
 error, but we also believe that it’s a good example of the pervasive
@@ -93,11 +93,11 @@ Bus*, created in 1995 to reproduce the eight-hour drive from Tucson,
 Arizona to Las Vegas, Nevada with unrelenting and excruciating boredom
 (you drive the bus in real time, with only the perfectly straight road
 as a vague distraction, and get one point for each successful run you
-make there and back) – may be one instance.[^1] {Fig. 8} 
+make there and back) – may be one instance.[^02ok_1] {Fig. 8}  
 
-![](img/Fig008.tiff) Fig. 8 *Desert Bus* (1995)
+<img src="img/Fig008.png"/><br />Fig. 8 <em>Desert Bus</em> (1995)  
 
-*Desert Bus* is
+ *Desert Bus* is
 a video game without any goals beyond one, with an almost unceasingly
 tedious display of just desert and road, but it has attracted a strange,
 determined cult following among a few gamers who return to it for
@@ -143,10 +143,10 @@ of a digital environment independent of human control.
 
 Certain instances of New Aesthetic objects, like this screen shot from
 the UK McDonald’s iPhone app, fit easily into our notions of what this
-attitude entails. {Fig. 9}
+attitude entails. {Fig. 9}   
 
-![](img/Fig009.tiff)  
-Fig. 9 McDonald’s App, Map of the UK
+<img src="img/Fig009.png"/><br />
+Fig. 9 McDonald’s App, Map of the UK  
 
 Here we have a map of all of the locations of
 the fast food restaurant McDonald’s in the entire country, including
@@ -162,14 +162,13 @@ instances of the programming overtaking the programmer’s intentions;
 facial recognition may be a valuable tool for control of the public,
 police and intelligence agencies, but its history indicates a shift from
 practical uses to a more intrusive construction of digital
-identification. 
+identification.   
 
-![](img/Fig010.tiff) Fig. 10 Facial Recognition Error
+<img src="img/Fig010.png"/> Fig. 10 Facial Recognition Error  
 
 Facial recognition software has a long history,
 extending back into the 1960s with early work being done by of Woody
-Bledsoe, Helen Chan and Charles Bisson at Panoramic Research Inc.[^2]
-
+Bledsoe, Helen Chan and Charles Bisson at Panoramic Research Inc.[^02ok_2]
 Originally focused on artificial intelligence, their efforts at creating
 software based pattern recognition was quickly identified as having a
 multiplicity of purposes, including reading address labels as well as
@@ -209,15 +208,15 @@ forefront of our perception intertwined layers of algorithms and
 computation that contemporary society and culture is built on, further
 instances of New Aesthetic objects as experience can be identified at an
 increasing rate. Another example of a manifestation of a New Aesthetic
-object is ‘What colour is it?’.[^3] {Fig. 11} In many respects, this is
+object is ‘What colour is it?’.[^02ok_3] {Fig. 11} In many respects, this is
 merely a webpage displaying the user’s local time, an increasingly
 common type of application for Chrome and other browsers, but what
 becomes immediately apparent over a short time is the ever-shifting
 color of the background. Here we have the emergence of computationality
 as an onto-theology, wherein the datafication of web colors embeds
-itself into our temporal sensibilities.
+itself into our temporal sensibilities.   
 
-![](img/Fig011.tiff) Fig. 11 James E. Murphy, *What colour is it?* (2014)
+<img src="img/Fig011.png"/> Fig. 11 James E. Murphy, <em>What colour is it?</em> (2014)  
 
 With each new second the
 background corresponds to its HTML color code, e.g. 08:55:59 turns out
@@ -227,7 +226,7 @@ nothing could be further from the truth; a solely numeric listing of
 HTML color codes tends towards dark greens and blues, so there’s less
 variation than might be anticipated. Created by Berlin based artist and
 designer James E. Murphy, it is part of a series of webpages and
-coding[^4] that challenge users’ preconceived notions of web
+coding[^02ok_4] that challenge users’ preconceived notions of web
 interactions. It’s difficult to think of ‘What colour is it?’ as an
 example of art per se (and we will return to Murphy’s work in the next
 chapter on examples of New Aesthetic art where other work seems more
@@ -237,18 +236,18 @@ digital coding is itself New Aesthetic in nature; it’s not the gimmick
 that makes it that but the increasing degree of autonomy and means of
 confounding the user’s experience.
 
-Chris Foley’s *Glitchtop*[^5] {Fig. 12} is a further example of the
+Chris Foley’s *Glitchtop*[^02ok_5] {Fig. 12} is a further example of the
 development of HTML coding producing a specifically New Aesthetic
-experience.
+experience.   
 
-![](img/Fig012.tiff) Fig. 12 Chris Foley, *Glitchtop* (2015)
+<img src="img/Fig012.png"/> Fig. 12 Chris Foley, <em>Glitchtop</em> (2015)  
 
 Chris Foley is a web designer whose work is focused on data
 management, including the innovative browser extension LightboxE for
 Chrome and Safari that allows users to view and manipulate images found
 on websites on their own terms without leaving the page. Glitchtop is
 quite different from other programming efforts by Foley, labeled as ‘an
-online art generator inspired by glitch art and pixel art’.[^6] Users
+online art generator inspired by glitch art and pixel art’.[^02ok_6] Users
 are invited to choose from a range of different sliding parameters –
 size, hue, saturation, lightness, repeat and speed – which are then used
 to generate an image of varying colored squares that alternate between
@@ -272,12 +271,12 @@ limited control in contrast to the final product. The response of most
 users to what is generated is less of a sense of awe and aesthetic
 excitement and is rather an acceptance that this is what should have
 been expected, graphically represented in the ubiquity of the poster
-produced by the Deterritorial Support Group. {Fig. 13}
+produced by the Deterritorial Support Group. {Fig. 13}  
 
-![](img/Fig013.tiff)  
-Fig. 13 Deterritorial Support Group poster
+<img src="img/Fig013.png"/><br />
+Fig. 13 Deterritorial Support Group poster  
 
-What is revealed
+ What is revealed
 isn’t some hypnotic, cathartic or enlivening visually engaging set of
 patterns but a distancing removal of the user from a critical engagement
 or an aesthetics of computational miscalculation. In many ways, it’s a
@@ -294,10 +293,9 @@ most famous of this type of image associated with Bridle’s blog and the
 New Aesthetic is that of an airplane appearing on Google Maps; flying
 too quickly to be resolved accurately, it appears as four different
 images of the same plane broken up into a grainy image and three
-separate RGB shadows. {Fig. 14}
+separate RGB shadows. {Fig. 14}   
 
-![](img/Fig014.tiff)
-Fig. 14 Google Maps image of a plane flying over Hyde Park, Chicago
+<img src="img/Fig014.png"/> Fig. 14 Google Maps image of a plane flying over Hyde Park, Chicago  
 
 This is a true glitch, an error caused
 by the inability of the software to process real time imagery or an
@@ -325,10 +323,9 @@ notes:
 > the logic of interactions isn’t clear to us, we’re left with what can
 > feel like pure absurdity. But these glitches in technology aren’t
 > always just random acts of incoherency; they’re often the product of a
-> breakdown of communication.[^7]
+> breakdown of communication.[^02ok_7]  
 
-![](img/Fig015.tiff)
-Fig. 15 Agricultural Fields
+<img src="img/Fig015.png"/> Fig. 15 Agricultural Fields  
 
 Maddening deterioration and surreal autocorrection often are taken as
 criticisms of aesthetic experiences, especially the former, but they’ve
@@ -348,7 +345,7 @@ Sterling wrote:
 > Valorizing machine-generated imagery is like valorizing the
 > unconscious mind. Like Surrealist imagery, it is cool, weird,
 > provocative, suggestive, otherworldly, but it is also
-> impoverished.[^8]
+> impoverished.[^02ok_8]
 
 Clearly, though, while the image generated as a result of the glitch
 isn’t surreal (a word all too often synonymously used in place of
@@ -373,15 +370,14 @@ pixelated are glitchy in a way, in that there is the illusion of digital
 parameters being imposed on the world (an illusion that may be all too
 real, given the increasing dependency in agricultural production on GPS
 technology as databases). Other images appear to be glitchy when they
-are, instead, the product of the visualization of data. {Fig. 16}
+are, instead, the product of the visualization of data. {Fig. 16}   
 
-![](img/Fig016.tiff)
-Fig. 16 Population Blocks
+<img src="img/Fig016.png"/> Fig. 16 Population Blocks  
 
 These
 images in particular are interesting in that they represent population
 figures of the contiguous United States at varying levels as part of the
-Polymers JavaScript library[^9] that is designed to create interactive
+Polymers JavaScript library[^02ok_9] that is designed to create interactive
 maps for web browsers; giving each pixel the task of representing an
 area populated by 1000+ people, the programmers still felt the need to
 make the result more visual appealing, such that:
@@ -389,7 +385,7 @@ make the result more visual appealing, such that:
 > My team selected the old-school color scheme to maximize contrast
 > whilst maintaining some semblance of readability. According to them,
 > if it dredges up any repressed 8-bit feelings – like the urge to snipe
-> an Atari 2600 off Ebay – that’s not a bug. It’s a feature.[^10]
+> an Atari 2600 off Ebay – that’s not a bug. It’s a feature.[^02ok_10]
 
 Pixelization has seemingly acquired a value as a tool. Apps like
 Pixelate Tool {Fig. 17} are advertised as ‘a QUICK and HANDY tool for
@@ -397,10 +393,10 @@ adding pixelated blur to your photo in seconds’ with one reviewer’s
 comments being ‘I can get used to it not being super accurate but I hope
 it doesn’t get removed because as of now it’s the only simple tool that
 does what it does’ as if the accuracy of the pixelization is ironically
-important.[^11]
+important.[^02ok_11]   
 
-![](img/Fig017.tiff)  
-Fig. 17 Pixelate in the iTunes store
+<img src="img/Fig017.png"/><br />
+Fig. 17 Pixelate in the iTunes store  
 
 When we start to look at images or videos, wherein the
 players of a football game are reduced to pixels equivalent to the
@@ -408,13 +404,13 @@ information provided by the drone to its operators {Fig. 18}, or in
 which the photographer noted was referred to by people as the ‘Lego
 Tornado’ {Fig. 19} but is more appropriately described as a Tornado
 fight jet covered in a semi-glitchy livery, we start to see a different
-approach to glitches and pixelization.
+approach to glitches and pixelization.   
 
-![](img/Fig018.tiff)  
-Fig. 18 Neymar goal filmed by a Brazilian Air Force drone
+<img src="img/Fig018.png"/><br />
+Fig. 18 Neymar goal filmed by a Brazilian Air Force drone  
 
-![](img/Fig019.tiff)  
-Fig. 19 Maurice Hendriks, *German Air Force Tornado ECR, Tiger Meet 2010* (2010)
+<img src="img/Fig019.png"/><br />
+Fig. 19 Maurice Hendriks, <em>German Air Force Tornado ECR, Tiger Meet 2010</em> (2010)  
 
 Other images such as those from
 the 2015 parade in China marking the 70th anniversary of the end of WWII
@@ -423,13 +419,13 @@ normative human experience; putting aside the political and military
 themes, with the subtext running through each of the images discussed in
 this paragraph, it’s evident that the digital style of the camouflage is
 entirely counterproductive but assumed contradictorily to be effective.
-{Fig. 21}
+{Fig. 21}   
 
-![](img/Fig020.tiff)  
-Fig. 20 Chinese Tanks in the WWII Victory Celebration in 2015
+<img src="img/Fig020.png"/><br />
+Fig. 20 Chinese Tanks in the WWII Victory Celebration in 2015  
 
-![](img/Fig021.tiff)  
-Fig. 21 Chinese Tanks in the WWII Victory Celebration in 2015
+<img src="img/Fig021.png"/><br />
+Fig. 21 Chinese Tanks in the WWII Victory Celebration in 2015  
 
 Consider, for the moment, the purpose of camouflage: it’s
 designed to obscure the object from sight, specifically human sight. Now
@@ -442,10 +438,10 @@ hiding the military vehicle, such as the image of a Leopard 2 tank
 photographed outside of Munich, the effectiveness of such a visual
 scheme has been proven to be quite low, as evidenced by the quick
 retirement by the United States military of patterns there are entirely
-fractal or pixel based.[^12] {Fig. 22} 
+fractal or pixel based.[^02ok_12] {Fig. 22}   
 
-![](img/Fig022.tiff)  
-Fig. 22 Leopard Tank
+<img src="img/Fig022.png"/><br />
+Fig. 22 Leopard Tank  
 
 Thinking about these tanks even
 further in contrast to the German Tornado it’s also clear that the
@@ -476,16 +472,16 @@ billboard system, described thusly:
 > socialise in EC1. The newly digitised, iconic advertising architecture
 > in the centre of Silicon Roundabout has become synonymous with the EC1
 > area, providing unparalleled impact within the vibrant and creative
-> East London community.[^13] 
+> East London community.[^02ok_13] 
 
 Part of the Old Street EC1’s design was the display of Google and
 YouTube searches in the UK with predictably unruly and offensive
-results. {Fig. 23}
+results. {Fig. 23}  
 
-![](img/Fig023.tiff)  
-Fig. 23 Old Street, New Billboard in 2015
+<img src="img/Fig023.png"/><br />
+Fig. 23 Old Street, New Billboard in 2015  
 
-It’s always remarkable that designers and advertisers
+ It’s always remarkable that designers and advertisers
 don’t anticipate unintended effects that spark outcries and offense, but
 clearly what ended up being on display was beyond what almost anyone
 could have imagined. Humorous, yes, but, like the camouflage on Chinese
@@ -507,8 +503,8 @@ decisively act digitally. It’s at the boundaries of the unintended
 consequences that the New Aesthetic has emerged, where digital autonomy
 supersedes human intention and even social structures. Whether it’s an
 expired QR code on a bottle of Heinz ketchup going terribly wrong,
-resulting in a link to a pornography website,[^14] the use of selfies
-for live reporting[^15] or advertising for Facebook in Yemen,[^16] the
+resulting in a link to a pornography website,[^02ok_14] the use of selfies
+for live reporting[^02ok_15] or advertising for Facebook in Yemen,[^02ok_16] the
 presence of New Aesthetic digital objects has become so widespread that
 it’s no longer recognized but simply accepted, an indication that we’ve
 stopped thinking of the world as digitized and started thinking of the
@@ -546,11 +542,11 @@ chapter, though the status of some of this work as art is
 unquestionable.
 
 One of the most interesting manifestations of the New Aesthetic has been
-the work produced by the CAVI group based in Aarhus University.[^17]
+the work produced by the CAVI group based in Aarhus University.[^02ok_17]
 With recent contributions from members focused on digital aesthetics, a
 number of projects by CAVI have explored in great detail the interplay
 between digitally produced information and human interactivity. In 2006,
-the group installed the Dynamically Transparent Window[^18] {Fig. 24} in
+the group installed the Dynamically Transparent Window[^02ok_18] {Fig. 24} in
 the Salling department store in Aarhus; using data generated by tracking
 the people walking by, exploiting the computational materiality of our
 everyday activities, the large, glass storefront shifts from opaque to
@@ -558,10 +554,10 @@ transparent with changes in thin electro-chromatic strips of foil in
 response to transmedial aesthetic patterns elaborating a dynamic
 relationship between the storefront as advertising and users’ experience
 of the storefront, but often with a collapse of the standard enticing or
-seductive intent of advertising alone.  
- 
-![](img/Fig024.tiff)  
-Fig. 24 CAVI, *Dynamically Transparent Window* (2006)
+seductive intent of advertising alone.   
+
+<img src="img/Fig024.png"/><br />
+Fig. 24 CAVI, <em>Dynamically Transparent Window</em> (2006)  
 
 The intent of this installation
 is to draw people closer to the window, to give them the opportunity to
@@ -575,11 +571,11 @@ undermines the display’s manifest purpose to hunt down future customers
 through the semblance of interactivity.
 
 In 2009, in collaboration with Digital Urban Living at Aarhus
-University, CAVI installed *Climate on the Wall*,[^19] another instance
-of a seemingly interactive display. {Fig. 25} 
+University, CAVI installed *Climate on the Wall*,[^02ok_19] another instance
+of a seemingly interactive display. {Fig. 25}  
 
-![](img/Fig025.tiff)  
-Fig. 25 CAVI, *Climate on the Walls* (2009)
+<img src="img/Fig025.png"/><br />
+Fig. 25 CAVI, <em>Climate on the Walls</em> (2009)  
 
 Tracking people passing by
 with infrared cameras, thought bubbles with words and thoughts related
@@ -610,10 +606,10 @@ the increasingly pervasive effect of the digitalization of the world on
 our human experience, but we’re still cautious about the work’s status
 as New Aesthetic objects. If we want a better example of an object that
 autonomously controls experience then it would be good to start with the
-app Cloak, available for smartphone. {Fig. 26}
+app Cloak, available for smartphone. {Fig. 26}   
 
-![](img/Fig026.tiff)  
-Fig. 26 Franz Kirschner *Cloak app* (2014)
+<img src="img/Fig026.png"/><br />
+Fig. 26 Franz Kirschner <em>Cloak app</em> (2014)  
 
 Launched in 2014 with a
 lot of media coverage, Cloak is an app designed to prevent what has
@@ -644,15 +640,16 @@ taken note of a dissatisfaction with the pervasive digitization of our
 world. Apparently, we’ve reached a stage where we want everyone to know
 where we are but no one actually knows where we are.
 
-The creation of the typeface ZXX[^20] also presents a really interesting
-instance of a New Aesthetic object in a manner similar to Cloak. {Fig. 27}
+The creation of the typeface ZXX[^02ok_20] also presents a really interesting
+instance of a New Aesthetic object in a manner similar to Cloak. {Fig.
+27}   
 
-![](img/Fig027.tiff)  
-Fig. 27 Sang Mun *ZXX* Typeface (2013)
+<img src="img/Fig027.png"/><br />
+Fig. 27 Sang Mun <em>ZXX</em> Typeface (2013)  
 
 Created specifically in response to the revelations of the American
 government’s spying program targeting American citizens, ZXX is a
-typeface that is unreadable by text scanning software.[^21] A first
+typeface that is unreadable by text scanning software.[^02ok_21] A first
 response to this might quickly conclude that ZXX is an absurd project –
 how much disruption can occur as a result of text scanning software that
 reads hard copies, when so much of the world’s information is digital
@@ -670,8 +667,8 @@ Aesthetic art, but it’s indicative of something much more. In his
 statement about the typeface on the website of the Walker Art Center,
 where Mun was an artist in residence, he quotes both Slavoj Žižek and
 Julian Assange. Žižek wrote: ‘We feel free because we lack the language
-to articulate our unfreedom.’[^22] Assange stated: ‘What does censorship
-reveal? It reveals fear.’[^23] What’s curious about these statements is
+to articulate our unfreedom.’[^02ok_22] Assange stated: ‘What does censorship
+reveal? It reveals fear.’[^02ok_23] What’s curious about these statements is
 how contradictory they are. Žižek’s indicates his position that a state
 of ignorance and muteness creates the illusion of freedom, while
 Assange’s implies that the very act of censorship creates the conditions
@@ -704,7 +701,7 @@ to intrude, Mun writes:
 > “homeland security” is only a small step into a totalitarian society.
 > This non-physical-yet-ideological violence is what allows us to lapse
 > into lethargic silence. But really, we shouldn’t be afraid to question
-> the authorities’ continual intrusions.[^24]
+> the authorities’ continual intrusions.[^02ok_24]
 
 This is a curious statement. Where’s the violence? In cyberspace,
 whatever that means today. How is our personal information stored in
@@ -745,7 +742,7 @@ organizing and sharing all this information with interested parties,
 from advertisers to common users. From the very beginning of the New
 Aesthetic, Google Maps aesthetics and its glitches were considered as
 key examples of the ‘new ways of seeing the world’ and ‘machine ways of
-seeing’.[^25] Google Maps (2005), and particularly Google Street View
+seeing’.[^02ok_25] Google Maps (2005), and particularly Google Street View
 (2007), which provides 360° panoramic street-level views of various
 locations, introduced a new worldwide cultural paradigm, a new
 aesthetics which encapsulates the way we can experience the world beyond
@@ -769,7 +766,7 @@ computational technologies by focusing on examples that preprogrammed,
 specific use cases cannot ‘process’ while at the same time redirecting
 our attention so that we fail to recognize those limitations. This seems
 especially troublesome with Google’s efforts to digitize as many works
-of art as possible. The Google Cultural Institute[^26] states that its
+of art as possible. The Google Cultural Institute[^02ok_26] states that its
 mission is to facilitate the discovery of artworks and collections from
 around the world by as broad an audience as possible. Our first thought
 would be to embrace this effort; it’s long been a truism that seeing art
@@ -788,21 +785,18 @@ subscribe to the idea that the value of artworks is necessarily lessened
 by their reproduction. Rather, what troubles us is the opportunity for
 error that inevitably creeps into such a large-scale effort as Google’s,
 highlighted and embodied in the images curated by Mario Santamaria in
-his Tumblr ‘The Camera in the Mirror’. {Fig. 28}
-
-![](img/Fig028.tiff)  
-Fig. 28 Mario Santamaría, *Google Art Bots* (2014)
-
+his Tumblr ‘The Camera in the Mirror’. {Fig. 28}   <img src="img/Fig028.png"/><br />
+Fig. 28 Mario Santamaría, <em>Google Art Bots</em> (2014)  
 Jené Gutierrez writes
 about these images: ‘In some of the images, the cameras don
 silvery-white blankets – this effect, combined with our culture’s
 immersion in selfies, renders these cameras almost familiar and
 comfortable, but startling in its reflection of itself and selfie
 culture. These museums and galleries are, for the most part, emptied of
-people, the camera eerily alone in its self-documentation.’[^27] This
+people, the camera eerily alone in its self-documentation.’[^02ok_27] This
 statement is both strange and stranger still. The very notion of a
 robotic selfie reflects our tendency as human beings to anthropomorphize
-activity.[^28] Further, the idea that the cameras ‘don’ blankets and
+activity.[^02ok_28] Further, the idea that the cameras ‘don’ blankets and
 actively document themselves is obviously erroneous, in the simple fact
 that the robots never clothed themselves and are unintentionally
 documenting their presence and activities. But is Google Art a
@@ -822,21 +816,17 @@ demonstrate a capability of transforming our epistemic position into a
 position of weakness. This is evident in two recent projects that
 partake of New Aesthetic ideas while still resisting its transformations
 of our world: *Report a Problem* (2012) {Fig. 29} by Emilio
-Vavarella[^29] and the efforts of Eduardo Graells-Garrido at the
+Vavarella[^02ok_29] and the efforts of Eduardo Graells-Garrido at the
 Universitat Pompeu Fabra in Barcelona together with Mounia Lalmas and
 Daniel Quercia, ironically both at Yahoo Labs, to burst the so-called
-‘filter bubble’.[^30]
-
-![](img/Fig029.tiff)  
-Fig. 29 Emilio Vavarella, *Report a Problem* (2014)
-
+‘filter bubble’.[^02ok_30]   
+<img src="img/Fig029.png"/><br />
+Fig. 29 Emilio Vavarella, <em>Report a Problem</em> (2014)  
 *Report a Problem* {Fig. 30} is part of
 Vavarella’s ‘Google Trilogy’ as an ongoing effort to explore ‘the
-relationship between humans, power, and technological errors’.
-
-![](img/Fig030.tiff)  
-Fig. 30 Emilio Vavarella, *Report a Problem* (2014)
-
+relationship between humans, power, and technological errors’.   
+<img src="img/Fig030.png"/><br />
+Fig. 30 Emilio Vavarella, <em>Report a Problem</em> (2014)  
 Presented
 as an art project in a number of galleries, it catalogs a series of
 images in which Google Maps has failed to accurately represent a
@@ -888,11 +878,10 @@ abstract to their paper presenting the project they write:
 > design reverts that effect. We also observed significant individual
 > differences linked to evaluation of recommendations. Our results
 > suggest that organic visualization may revert the negative effects of
-> providing potentially sensitive content.[^31]
+> providing potentially sensitive content.[^02ok_31]
 
-![](img/Fig031.tiff)  
-Fig. 31 Eduardo Graells-Garrido, MouniaLalmas and Daniel Quercia, *Data Portraits:Connecting People of Opposing Views*,‘Bursting the Filter Bubble’ (2013)
-
+<img src="img/Fig031.png"/><br />
+Fig. 31 Eduardo Graells-Garrido, Mounia Lalmas and Daniel Quercia, <em>Data Portraits: Connecting People of Opposing Views</em>, ‘Bursting the Filter Bubble’ (2013)  
 This is a remarkably interesting New Aesthetic object not so much for
 the intended results but in that the visualization of contrasting
 opinions and the means of facilitating the introduction of opposing
@@ -905,7 +894,7 @@ users are receptive to new ideas. In a comment about the project in the
 *MIT Technology Review*, it’s noted that ‘There is good evidence that
 users can sometimes become so resistant to change than any form of
 redesign dramatically reduces the popularity of the service. Giving them
-a greater range of content could change that.’[^32] Or, as it is put it
+a greater range of content could change that.’[^02ok_32] Or, as it is put it
 another way, technology bursts the ‘filter bubble’. But let’s be careful
 here. Technology may be bursting the ‘filter bubble’ by easing the
 resistance that users have to different ideological perspectives, but
@@ -918,18 +907,15 @@ like Twitter. For example, recently a group on Facebook supporting the
 continued use of the Confederate flag in the United States was
 ‘hijacked’ by Virgil Texas, a self-described ‘internet user’ whose
 efforts at subversively undermining ethically questionable activity
-through humor are becoming well known.[^33] {Fig. 32}
-
-![](img/Fig032.tiff) 
-Fig. 32 Virgil Texas, *LGBT Southerns for Michelle Obama* (2015)
-
+through humor are becoming well known.[^02ok_33] {Fig. 32}   
+<img src="img/Fig032.png"/> Fig. 32 Virgil Texas, <em>LGBT Southerns for Michelle Obama</em> (2015)  
 For a brief period
 of time, Texas acquired full administrative control of the group,
 removed other users’ administrative privileges, and transformed the
 group into ‘LGBT Southerners for Michelle Obama’. In an interview, Texas
 noted ‘Everyone in Confederate Facebook seems to accept friend requests
 from strangers, which I guess can be chalked up to Southern
-hospitality.’[^34] From our perspective, as much as we applaud Texas’
+hospitality.’[^02ok_34] From our perspective, as much as we applaud Texas’
 efforts and thought they were a hysterically funny sabotage of a
 self-righteous group’s buffoonery, we disagree with this last remark;
 the willing acceptance of Texas’ requests for administrative control of
@@ -948,8 +934,8 @@ programming.
 Other instances of this become increasingly visible the more you know
 where to look. Again and again, the pervasiveness of the New Aesthetic
 has surprised us, especially when it affects political theory in a
-cross-pollinating fashion. Google’s recent Constitute project,[^35] in
-partnership with the Comparative Constitutions Project,[^36] has the
+cross-pollinating fashion. Google’s recent Constitute project,[^02ok_35] in
+partnership with the Comparative Constitutions Project,[^02ok_36] has the
 best of intentions – giving access to all of the constitutions of the
 world to everyone, so that people rewriting constitutions can reference
 others, search for key words and ideas, and pin specific areas of
@@ -961,33 +947,28 @@ often amidst social upheavals, will be reduced to Google searches rather
 than the product of any genuinely original effort (and its description
 as machine consumable, while understood in its normal context of
 database use and cross-referencing, gives us chills). This disconnect in
-New Aesthetic objects often prompts some opposition.[^37] Anna Jobin
+New Aesthetic objects often prompts some opposition.[^02ok_37] Anna Jobin
 importantly notes the inherent sexism of Google searches, with a
 particularly interesting contribution in the coining of the phrase
 ‘linguistic prosthesis,’ along with her co-author Frederic Kaplan, that
 identifies the fact that ‘the mediation by autocompletion algorithms
 acts in a particularly powerful way because it doesn’t correct us
-afterwards’[^38] and asks the absolutely perfect question of ‘Who is in
+afterwards’[^02ok_38] and asks the absolutely perfect question of ‘Who is in
 charge when algorithms are in charge?’ With the images produced for UN
-Women by Memac Ogilvy and Mather Dubai[^39] {Fig. 33} it’s clear that
-search results themselves are offensive. {Fig. 34}
-
-![](img/Fig033.tiff)  
-Fig. 33 Memac Ogilvy and Mather Dubai for UN Women (2015)
-
-![](img/Fig034.tiff)  
-Fig. 34 Memac Ogilvy and Mather Dubai for UN Women (2015)
-
-It’s not just that
+Women by Memac Ogilvy and Mather Dubai[^02ok_39] {Fig. 33} it’s clear that
+search results themselves are offensive. {Fig. 34}  
+<img src="img/Fig033.png"/><br />
+Fig. 33 Memac Ogilvy and Mather Dubai for UN Women (2015)  
+<img src="img/Fig034.png"/><br />
+Fig. 34 Memac Ogilvy and Mather Dubai for UN Women (2015)  
+ It’s not just that
 the text shows search results that indicate misogynistic viewpoints,
 condemnable at a fundamental level, but just as important from the
 perspective of a critical engagement with the New Aesthetic it’s the
 fact that all human beings themselves are reducible to the products of
-search engines and autocompletion. {Fig. 35} 
-
-![](img/Fig035.tiff)  
-Fig. 35 Memac Ogilvy and Mather Dubai for UN Women (2015)
-
+search engines and autocompletion. {Fig. 35}   
+<img src="img/Fig035.png"/><br />
+Fig. 35 Memac Ogilvy and Mather Dubai for UN Women (2015)  
 Yet, even if those search
 results don’t appear in Google searches in the United States, the
 results themselves are still there; given the supposed democratic nature
@@ -1001,11 +982,9 @@ the world and our experiences of it in a way that’s beyond our control.
 
 Representing this perfectly is an image from Bridle’s blog that shows
 the average appearance of every one of the 535 members of the United
-States’ Congress. {Fig. 36} 
-
-![](img/Fig036.tiff)  
-Fig. 36 Average member of the United States Congress
-
+States’ Congress. {Fig. 36}  
+<img src="img/Fig036.png"/><br />
+Fig. 36 Average member of the United States Congress   
 A first reaction would be to see this as a
 humorous representation of the lack of genuine differences amongst
 American legislators, an unfocused image that is white, dressed in a
@@ -1070,7 +1049,7 @@ navigation app on our smartphone is a perfect example of this in the
 often documented instances of users relying on data rather than their
 own awareness of their surroundings; when someone drives onto a runway
 in the path of oncoming aircraft because Google Maps or Apple Maps told
-them to,[^40] they’ve done so less out of stupidity and more because
+them to,[^02ok_40] they’ve done so less out of stupidity and more because
 they believed what they were being told and because they assumed the
 information the app was providing was correct. In fact, the information
 as far as the app was aware of (and we do attribute a certain digital
@@ -1089,7 +1068,7 @@ Most of these software-based phenomena are just a ‘pull of a plug’ away
 from oblivion, never to be archived, never to be available again,
 absolutely temporary. From an aesthetics perspective, there has been a
 spectrum of responses. Hito Steyerl’s article ‘In Defense of the Poor
-Image’[^41] is an acceptance at an aesthetic level of a range of image
+Image’[^02ok_41] is an acceptance at an aesthetic level of a range of image
 quality, particularly poor quality images. Steyerl’s defense centers
 around the poor quality of images from pirated sources of cinema and
 video work, an inevitable consequence in the conversion process when
@@ -1104,7 +1083,7 @@ identifies as an inherent quality of imperfect cinema:
 > labor within class society. It merges art with life and science,
 > blurring the distinction between consumer and producer, audience and
 > author. It insists upon its own imperfection, is popular but not
-> consumerist, committed without becoming bureaucratic.[^42]
+> consumerist, committed without becoming bureaucratic.[^02ok_42]
 
 We find ourselves very much in alignment with Steyerl’s position; it has
 been one of the crucial catalysts of our own thought. At the same time,
@@ -1119,7 +1098,7 @@ article. Steyerl writes:
 > image, a preview, a thumbnail, an errant idea, an itinerant image
 > distributed for free, squeezed through slow digital connections,
 > compressed, reproduced, ripped, remixed, as well as copied and pasted
-> into other channels of distribution.[^43]
+> into other channels of distribution.[^02ok_43]
 
 The poor image, the glitchy and distorted image that is often the
 product of digital processing, is indeed an image in motion, though
@@ -1146,7 +1125,7 @@ A good example of New Aesthetic objects as evidence of a metaphysical
 shift is, again, Stephen von Worley’s efforts at an artistic
 visualization of data that have produced images of population data that
 have a visual flair to them. But in his posting ‘My God, It’s Full Of
-Blocks! Population Density Meets The Tile Space’[^44] we see something
+Blocks! Population Density Meets The Tile Space’[^02ok_44] we see something
 different. What he describes is a constant shifting of the means of
 presenting information which itself is prone to shifts, but the title of
 the posting is telling as an exclamatory passive response to the
@@ -1156,10 +1135,9 @@ underlying subtext in this shocked response that is equally a response
 to the potential future changes in the data. Another example is Yarin
 Gal’s efforts at a machine-learning based implementation of Photoshop’s
 ‘PatchMatch’ function to ‘extrapolate the scene of a painting to see
-what the full scenery might have looked like’.[^45] {Fig. 37} 
-![](img/Fig037.tiff)   
-Fig. 37 Gal, Yarin, *Patchmatch*, ‘Starry Night’ (2014)
-
+what the full scenery might have looked like’.[^02ok_45] {Fig. 37}   
+<img src="img/Fig037.png"/><br />
+Fig. 37 Gal, Yarin, <em>Patchmatch</em>, ‘Starry Night’ (2014)  
 What Gal
 displays is a series of images by artists such as van Gogh, Monet,
 Picasso and Hokusai that have been digitally extended to ‘complete’ the
@@ -1178,25 +1156,21 @@ strange sense of presence that is vividly temporary, but even work such
 as the 2015 *As Long As Possible* project by Juha van Ingen in
 collaboration with Janne Särkelä, which consists of a GIF viewable only
 over a thousand years showing 48,140,288 frames changing every ten
-minutes, is an artistic work that is clearly unfeasible. {Fig. 38} 
-
-![](img/Fig038.tiff)   
-Fig. 38 Juha van Ingen and Janne Särkelä, *As Long As Possible* (2015)
-
+minutes, is an artistic work that is clearly unfeasible. {Fig. 38}   
+<img src="img/Fig038.png"/><br />
+Fig. 38 Juha van Ingen and Janne Särkelä, <em>As Long As Possible</em> (2015)  
 The
 New Aesthetic objects often appear to be permanent, but clearly are not.
 In the context of these manifestations, we wonder if it’s possible to
 resist the digitizing homogenization and increased acceptance of digital
 autonomy, to resist this shift in our metaphysics. The New Aesthetic
 objects that give us a sense of success are few, but products like Mint
-Digital Products *WhiteAlbum*,[^46] a recently developed app for iOS, is
+Digital Products *WhiteAlbum*,[^02ok_46] a recently developed app for iOS, is
 in many respects the perfect instance that alters our relationship with
 photographic objects and that, perhaps, is also a product of efforts
-resisting the New Aesthetic. {Fig. 39} 
-
-![](img/Fig039.tiff)   
-Fig. 39 Mint Digital Projects, *Whitealbum* (2015)
-
+resisting the New Aesthetic. {Fig. 39}   
+<img src="img/Fig039.png"/><br />
+Fig. 39 Mint Digital Projects, <em>Whitealbum</em> (2015)  
 Released in early 2015, and since
 discontinued, it was a photographic application for the iPhone that
 confoundingly did not provide visual feedback nor a digital file to the
@@ -1204,7 +1178,7 @@ photographer, making it impossible to correct, edit, save or share the
 results. *WhiteAlbum*, rather ponderously, mimicked the disposable
 camera by saving the photographs to a server until 24 shots have been
 produced, at which point the user was charged \$20 for those shots to be
-printed on high quality paper and to receive them by mail.[^47] It’s in
+printed on high quality paper and to receive them by mail.[^02ok_47] It’s in
 the return to the analog, in a return to the actual world, that the
 paradigmatic and metaphysical shift identifiable as the New Aesthetic
 loses its dominance. That being said, *WhiteAlbum* was also a little
@@ -1309,7 +1283,7 @@ presented to us – vertically, rather than horizontally – which shifts
 our critical perspective, even the basic level at which we understand
 visually presented information, from one that is naturally familiar to
 one that is artificially familiar. There has been some resistance to
-this and some lively debates; ‘Vertical Video Syndrome’[^48] is neither
+this and some lively debates; ‘Vertical Video Syndrome’[^02ok_48] is neither
 dangerous nor offensive per se, but it does indicate an unwillingness on
 the part of the content producer to account for our horizontal panoramic
 video, and as an example of the New Aesthetic it indicates an
@@ -1317,11 +1291,11 @@ unconscious concession to the software paradigm that is itself governed
 by limitations of the hardware. It’s more than just a sign of
 amateurism, it’s increasingly becoming the norm as authors like Farhad
 Manjoo argue: ‘They worry they are on the wrong side of history. The
-future of video, it turns out, just may be vertical.’[^49] Quoted in
+future of video, it turns out, just may be vertical.’[^02ok_49] Quoted in
 Manjoo’s article, Jon Steinberg, the chief executive of *The Daily
 Mail*’s North American operations, states: ‘We find the engagement much
 higher. Users are more satisfied, and there’s a higher completion rate
-on them.’[^50] B<span id="Chapter_2_Manifestations_of_Ne"
+on them.’[^02ok_50] B<span id="Chapter_2_Manifestations_of_Ne"
 class="anchor"></span>ut does Steinberg genuinely believe that there is
 actual engagement, which is highly unlikely, or is this merely
 indicative of an increased length of time watching the video and the web
@@ -1341,174 +1315,103 @@ defines contemporary society and culture then it’s increasingly evident
 that New Aesthetic experiences are becoming a dominant and driving force
 for that change.
 
-[^1]: Simon Parkin, ‘Desert Bus: The Very Worst Video Game Ever
-    Created’, *The New Yorker*, 9 July 2013,
-    http://www.newyorker.com/tech/elements/desert-bus-the-very-worst-video-game-ever-created.
+[^02ok_1]: Simon Parkin, ‘Desert Bus: The Very Worst Video Game Ever Created’, *The New Yorker*, 9 July 2013, [http://www.newyorker.com/tech/elements/desert-bus-the-very-worst-video-game-ever-created](http://www.newyorker.com/tech/elements/desert-bus-the-very-worst-video-game-ever-created).
 
-[^2]: Robert Boyer, James C. Browne and Jayadev Misra, ‘In Memoriam
-    Woodrow W. Bledsoe’, Faculty Council, The University of Texas,
-    Austin, 27 May 2014,
-    <https://www.utexas.edu/faculty/council/1998-1999/memorials/Bledsoe/bledsoe.html>,
-    adapted from ‘Woody Bledsoe: His Life and Legacy’, authored by
-    Michael Ballantyne, Robert S Boyer and Larry Hines, *AI Magazine*,
-    Volume 17, Number 1, Spring 1996, pp. 7-20.
+[^02ok_2]: Robert Boyer, James C. Browne and Jayadev Misra, ‘In Memoriam Woodrow W. Bledsoe’, Faculty Council, The University of Texas, Austin, 27 May 2014, <https://www.utexas.edu/faculty/council/1998-1999/memorials/Bledsoe/bledsoe.html>, adapted from ‘Woody Bledsoe: His Life and Legacy’, authored by Michael Ballantyne, Robert S Boyer and Larry Hines, *AI Magazine*, Volume 17, Number 1, Spring 1996, pp. 7-20.
 
-[^3]: What colour is it?, http://whatcolourisit.scn9a.org/.
+[^02ok_3]: What colour is it?, <http://whatcolourisit.scn9a.org/>.
 
-[^4]: J.E. Murphy, http://jemurphy.org/.
+[^02ok_4]: J.E. Murphy, <http://jemurphy.org/>.
 
-[^5]: Glitchtop, http://chrisfoley.github.io/glitchtop/.
+[^02ok_5]: Glitchtop, <http://chrisfoley.github.io/glitchtop/>.
 
-[^6]: Chris Foley, http://www.cfoley.net/.
+[^02ok_6]: Chris Foley, <http://www.cfoley.net/>.
 
-[^7]: Skyler Balbus, ‘What Glitch? Technology And The New Aesthetic’,
-    *Hook & Loop*, 20 September 2013,
-    http://www.hookandloopnyc.com/author/skyler/.
+[^02ok_7]: Skyler Balbus, ‘What Glitch? Technology And The New Aesthetic’, *Hook & Loop*, 20 September 2013, <http://www.hookandloopnyc.com/author/skyler/>.
 
-[^8]: Sterling, ‘An Essay on the New Aesthetic’.
+[^02ok_8]: Sterling, ‘An Essay on the New Aesthetic’.
 
-[^9]: Polymaps, http://polymaps.org/.
+[^02ok_9]: Polymaps, <http://polymaps.org/>.
 
-[^10]: Steven von Worley, ‘My God, It’s Full Of Blocks: Population
-    Density Meets The Tile Space’, *Data Pointed*, 3 October, 2011,
-    http://www.datapointed.net/2011/10/us-population-density-and-google-maps-tiles/.
+[^02ok_10]: Steven von Worley, ‘My God, It’s Full Of Blocks: Population Density Meets The Tile Space’, *Data Pointed*, 3 October, 2011, <http://www.datapointed.net/2011/10/us-population-density-and-google-maps-tiles/>.
 
-[^11]: ‘Pixelate Tool’, iTunes Store, September 2015,
-    https://itunes.apple.com/us/app/id442157795.
+[^02ok_11]: ‘Pixelate Tool’, iTunes Store, September 2015, <https://itunes.apple.com/us/app/id442157795.>
 
-[^12]: Matthew Cox, ‘Army Unveils Design Changes for New Camo Uniform’,
-    *Military.com*, 6 August 2014,
-    http://www.military.com/daily-news/2014/08/06/army-unveils-design-changes-for-new-camo-uniform.html?ESRC=todayinmil.sm.
+[^02ok_12]: Matthew Cox, ‘Army Unveils Design Changes for New Camo Uniform’, *Military.com*, 6 August 2014, <http://www.military.com/daily-news/2014/08/06/army-unveils-design-changes-for-new-camo-uniform.html?ESRC=todayinmil.sm>.
 
-[^13]: JCDecaux, ‘Old Street EC1’, September 2015,
-    http://www.jcdecaux.co.uk/roadside/roundabouts/old-street-ec1.
+[^02ok_13]: JCDecaux, ‘Old Street EC1’, September 2015, <http://www.jcdecaux.co.uk/roadside/roundabouts/old-street-ec1>.
 
-[^14]: Kashmira Gander, ‘Heinz forced to apologise after QR code on
-    ketchup bottle linked to hardcore porn site’, *The Independent*, 17
-    June 2015,
-    http://www.independent.co.uk/life-style/food-and-drink/news/heinz-forced-to-apologise-after-qr-code-on-ketchup-bottle-linked-to-hardcore-porn-site-10327313.html.
+[^02ok_14]: Kashmira Gander, ‘Heinz forced to apologise after QR code on ketchup bottle linked to hardcore porn site’, *The Independent*, 17 June 2015, <http://www.independent.co.uk/life-style/food-and-drink/news/heinz-forced-to-apologise-after-qr-code-on-ketchup-bottle-linked-to-hardcore-porn-site-10327313.html>.
 
-[^15]: @Matt\_Macklin7, ‘The latest in live cross technology. Pic via
-    Instagram’, Twitter Post, 28 October 2014, 7:54PM,
-    https://twitter.com/Matt\_Macklin7/status/527292438574952449/photo/1.
+[^02ok_15]: @Matt\_Macklin7, ‘The latest in live cross technology. Pic via Instagram’, Twitter Post, 28 October 2014, 7:54PM, <https://twitter.com/Matt\_Macklin7/status/527292438574952449/photo/1>.
 
-[^16]: Maciej Cegłowski, ‘Ta’izz’, *Idle Words blog*, 17 May 2015,
-    http://idlewords.com/2015/05/ta\_izz.htm.
+[^02ok_16]: Maciej Cegłowski, ‘Ta’izz’, *Idle Words blog*, 17 May 2015, <http://idlewords.com/2015/05/ta\_izz.htm>.
 
-[^17]: CAVI, http://cavi.au.dk.
+[^02ok_17]: CAVI, <http://cavi.au.dk>.
 
-[^18]: Kim Halskov, Morten Lervig and Peter Dalsgaard, ‘The Dynamically
-    Transparent Window’, 14 October 2014, *CAVI*,
-    http://cavi.au.dk/research-areas/the-dynamically-transparent-window/.
+[^02ok_18]: Kim Halskov, Morten Lervig and Peter Dalsgaard, ‘The Dynamically Transparent Window’, 14 October 2014, *CAVI*, <http://cavi.au.dk/research-areas/the-dynamically-transparent-window/>.
 
-[^19]: Kim Halskov, Morten Lervig and Peter Dalsgaard, ‘Climate on the
-    Wall’, *CAVI*, 14 October 2014,
-    http://cavi.au.dk/research-areas/climate-on-the-wall/.
+[^02ok_19]: Kim Halskov, Morten Lervig and Peter Dalsgaard, ‘Climate on the Wall’, *CAVI*, 14 October 2014, <http://cavi.au.dk/research-areas/climate-on-the-wall/>.
 
-[^20]: Eric Limer, ‘A Typeface Designed To Thwart Spying Computers’,
-    *Gizmodo.com*, 22 June 2013,
-    http://gizmodo.com/a-typeface-designed-to-thwart-sneaky-spying-computers-543341176.
+[^02ok_20]: Eric Limer, ‘A Typeface Designed To Thwart Spying Computers’, *Gizmodo.com*, 22 June 2013, <http://gizmodo.com/a-typeface-designed-to-thwart-sneaky-spying-computers-543341176>.
 
-[^21]: Sang Mun, ‘Making Democracy Legible: A Defiant Typeface’, *Walker
-    Art Center blog*, 20 June 2013,
-    http://blogs.walkerart.org/design/2013/06/20/sang-mun-defiant-typeface-nsa-privacy/.
+[^02ok_21]: Sang Mun, ‘Making Democracy Legible: A Defiant Typeface’, *Walker Art Center blog*, 20 June 2013, <http://blogs.walkerart.org/design/2013/06/20/sang-mun-defiant-typeface-nsa-privacy/>.
 
-[^22]: Slavoj Žižek, *Welcome to the Desert of the Real!: Five Essays on
-    September 11 and Related Dates*, New York: Verso, 2002, p. 2
+[^02ok_22]: Slavoj Žižek, *Welcome to the Desert of the Real!: Five Essays on September 11 and Related Dates*, New York: Verso, 2002, p. 2.
 
-[^23]: Make a DifferenSe, ‘What is Wikileaks? by founder Julian
-    Assange’, 11 December 2010, YouTube video, Duration: 14:58,
-    https://youtu.be/DFE7d91vQf4*.*
+[^02ok_23]: Make a DifferenSe, ‘What is Wikileaks? by founder Julian Assange’, 11 December 2010, YouTube video, Duration: 14:58, <https://youtu.be/DFE7d91vQf4>.
 
-[^24]: Mun, ‘Making Democracy Legible: A Defiant Typeface’.
+[^02ok_24]: Mun, ‘Making Democracy Legible: A Defiant Typeface’.
 
-[^25]: James Bridle, ‘Waving at the Machines’.
+[^02ok_25]: James Bridle, ‘Waving at the Machines’.
 
-[^26]: Google Cultural Institute,
-    https://www.google.com/culturalinstitute/about/.
+[^02ok_26]: Google Cultural Institute, <https://www.google.com/culturalinstitute/about/>.
 
-[^27]: Jené Gutierrez, ‘Google’s Robot Cameras Caught Taking
-    Unintentional Selfies In Museums And Galleries’, *Beautiful/Decay*,
-    7 July 2014,
-    http://beautifuldecay.com/2014/07/07/googles-robot-cameras-caught-taking-unintentional-selfies-museums-galleries/.
+[^02ok_27]: Jené Gutierrez, ‘Google’s Robot Cameras Caught Taking Unintentional Selfies In Museums And Galleries’, *Beautiful/Decay*, 7 July 2014, <http://beautifuldecay.com/2014/07/07/googles-robot-cameras-caught-taking-unintentional-selfies-museums-galleries/>.
 
-[^28]: Michael Silverberg, ‘Google’s Street View cameras are touring
-    museums and taking weird selfies by accident’, *Quartz*, 3 July
-    2014,
-    http://qz.com/229852/googles-street-view-cameras-are-touring-museums-and-taking-weird-selfies-by-accident/.
+[^02ok_28]: Michael Silverberg, ‘Google’s Street View cameras are touring museums and taking weird selfies by accident’, *Quartz*, 3 July 2014, <http://qz.com/229852/googles-street-view-cameras-are-touring-museums-and-taking-weird-selfies-by-accident/>.
 
-[^29]: Emilio Vavarella, ‘Report a Problem’,
-    http://emiliovavarella.com/archive/google-trilogy/report-a-problem/.
+[^02ok_29]: Emilio Vavarella, ‘Report a Problem’, <http://emiliovavarella.com/archive/google-trilogy/report-a-problem/>.
 
-[^30]: KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the
-    "Filter Bubble" that Protects Us from Opposing Views’, *MIT
-    Technology Review*, 29 November 2013,
-    http://www.technologyreview.com/view/522111/how-to-burst-the-filter-bubble-that-protects-us-from-opposing-views/.
+[^02ok_30]: KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the "Filter Bubble" that Protects Us from Opposing Views’, *MIT Technology Review*, 29 November 2013, <http://www.technologyreview.com/view/522111/how-to-burst-the-filter-bubble-that-protects-us-from-opposing-views/>.
 
-[^31]: Eduardo Graells-Garrido, Mounia Lalmas, and Daniele Quercia,
-    ‘Data Portraits: Connecting People of Opposing Views’,
-    Human-Computer Interaction (cs.HC); Social and Information Networks,
-    Cornell University, 19 November 2013,
-    http://arxiv.org/abs/1311.4658.
+[^02ok_31]: Eduardo Graells-Garrido, Mounia Lalmas, and Daniele Quercia, ‘Data Portraits: Connecting People of Opposing Views’, Human-Computer Interaction (cs.HC); Social and Information Networks, Cornell University, 19 November 2013, <http://arxiv.org/abs/1311.4658>.
 
-[^32]: KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the
-    "Filter Bubble" that Protects Us from Opposing Views’.
+[^02ok_32]: KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the "Filter Bubble" that Protects Us from Opposing Views’.
 
-[^33]: Ben Mathis-Lilley, ‘Hacked Confederate Facebook Group Becomes
-    Tribute to LGBT Rights, Obama, Judaism’, *Slate.com*, 29 July 2015,
-    http://www.slate.com/blogs/the\_slatest/2015/07/29/confederate\_flag\_pride\_facebook\_group\_hijacked\_michelle\_obama\_and\_multi.html.
+[^02ok_33]: Ben Mathis-Lilley, ‘Hacked Confederate Facebook Group Becomes Tribute to LGBT Rights, Obama, Judaism’, *Slate.com*, 29 July 2015, <http://www.slate.com/blogs/the\_slatest/2015/07/29/confederate\_flag\_pride\_facebook\_group\_hijacked\_michelle\_obama\_and\_multi.html>.
 
-[^34]: Virgil Texas, ‘How I Infiltrated a White Pride Facebook Group and
-    Turned It into “LGBT Southerners for Michelle Obama”’, *Vice.com*, 3
-    August 2015,
-    http://www.vice.com/read/virgil-texas-white-power-facebook-group-troll.
+[^02ok_34]: Virgil Texas, ‘How I Infiltrated a White Pride Facebook Group and Turned It into “LGBT Southerners for Michelle Obama”’, *Vice.com*, 3 August 2015, <http://www.vice.com/read/virgil-texas-white-power-facebook-group-troll>.
 
-[^35]: James Bridle, ‘Google launches “Constitute,” a new tool for
-    designing governments | The Verge’, *The New Aesthetic Tumblr blog*,
-    25 September 2013,
-    http://new-aesthetic.tumblr.com/post/62244541600/google-launches-constitute-a-new-tool-for.
+[^02ok_35]: James Bridle, ‘Google launches “Constitute,” a new tool for designing governments | The Verge’, *The New Aesthetic Tumblr blog*, 25 September 2013, <http://new-aesthetic.tumblr.com/post/62244541600/google-launches-constitute-a-new-tool-for>.
 
-[^36]: Comparative Constitutions Project,
-    http://comparativeconstitutionsproject.org/.
+[^02ok_36]: Comparative Constitutions Project, <http://comparativeconstitutionsproject.org/>.
 
-[^37]: Randall Patrick Munroe, ‘Questions’, *xkcd.com*, 26 August 2013,
-    http://xkcd.com/1256/.
+[^02ok_37]: Randall Patrick Munroe, ‘Questions’, *xkcd.com*, 26 August 2013, <http://xkcd.com/1256/>.
 
-[^38]: Anna Jobin, ‘Google’s autocompletion: algorithms, stereotypes and
-    accountability’, *Sociostrategy blog*, 22 October 2013,
-    http://sociostrategy.com/2013/googles-autocompletion-algorithms-stereotypes-accountability/.
+[^02ok_38]: Anna Jobin, ‘Google’s autocompletion: algorithms, stereotypes and accountability’, *Sociostrategy blog*, 22 October 2013, <http://sociostrategy.com/2013/googles-autocompletion-algorithms-stereotypes-accountability/>.
 
-[^39]: *UN Women*, ‘UN Women ad series reveals widespread sexism ‘, 21
-    October 2013,
-    http://www.unwomen.org/en/news/stories/2013/10/women-should-ads.
+[^02ok_39]: *UN Women*, ‘UN Women ad series reveals widespread sexism ‘, 21 October 2013, <http://www.unwomen.org/en/news/stories/2013/10/women-should-ads>.
 
-[^40]: Leo Kelion, ‘Apple Maps flaw results in drivers crossing airport
-    runway’, *BBC News*, 25 September 2013,
-    http://www.bbc.com/news/technology-24246646.
+[^02ok_40]: Leo Kelion, ‘Apple Maps flaw results in drivers crossing airport runway’, *BBC News*, 25 September 2013, <http://www.bbc.com/news/technology-24246646>.
 
-[^41]: Hito Steyerl, ‘In Defense of the Poor Image’, *e-flux*, November
-    2009, http://www.e-flux.com/journal/in-defense-of-the-poor-image/.
+[^02ok_41]: Hito Steyerl, ‘In Defense of the Poor Image’, *e-flux*, November 2009, <http://www.e-flux.com/journal/in-defense-of-the-poor-image/>.
 
-[^42]: Steyerl, ‘In Defense of the Poor Image’.
+[^02ok_42]: Steyerl, ‘In Defense of the Poor Image’.
 
-[^43]: Steyerl, ‘In Defense of the Poor Image’.
+[^02ok_43]: Steyerl, ‘In Defense of the Poor Image’.
 
-[^44]: Stephen von Worley, ‘My God, It’s Full Of Blocks! Population
-    Density Meets The Tile Space’.
+[^02ok_44]: Stephen von Worley, ‘My God, It’s Full Of Blocks! Population Density Meets The Tile Space’.
 
-[^45]: Yarin Gal, *Extrapolated Art*, http://extrapolated-art.com/.
+[^02ok_45]: Yarin Gal, *Extrapolated Art*, <http://extrapolated-art.com/>.
 
-[^46]: WhiteAlbum, https://whitealbumapp.com/.
+[^02ok_46]: WhiteAlbum, <https://whitealbumapp.com/>.
 
-[^47]: Kyle Vanhemert, ‘App Turns Your iPhone Into a Crappy Disposable
-    Camera (And That’s a Good Thing)’, *Wired.com*, 1 January 2015,
-    http://www.wired.com/2015/01/app-turns-iphone-crappy-disposable-camera-thats-good-thing/.
+[^02ok_47]: Kyle Vanhemert, ‘App Turns Your iPhone Into a Crappy Disposable Camera (And That’s a Good Thing)’, *Wired.com*, 1 January 2015, <http://www.wired.com/2015/01/app-turns-iphone-crappy-disposable-camera-thats-good-thing/>.
 
-[^48]: Glove and Boots, ‘Vertical Video Syndrome - A PSA’, YouTube
-    video, 2:58, 5 June 2012, https://youtu.be/Bt9zSfinwFA.
+[^02ok_48]: Glove and Boots, ‘Vertical Video Syndrome - A PSA’, YouTube video, 2:58, 5 June 2012, <https://youtu.be/Bt9zSfinwFA>.
 
-[^49]: Farhad Manjoo, ‘Vertical Video on the Small Screen? Not a Crime’,
-    *The New York Times*, 12 August 2015,
-    http://www.nytimes.com/2015/08/13/technology/personaltech/vertical-video-on-the-small-screen-not-a-crime.html?\_r=0.
+[^02ok_49]: Farhad Manjoo, ‘Vertical Video on the Small Screen? Not a Crime’, *The New York Times*, 12 August 2015, <http://www.nytimes.com/2015/08/13/technology/personaltech/vertical-video-on-the-small-screen-not-a-crime.html?\_r=0>.
 
-[^50]: Ibid.
+[^02ok_50]: Ibid.
+  

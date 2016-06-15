@@ -67,6 +67,7 @@ html: book.md
 book.md: clean $(allmarkdown)
 	for i in $(allmarkdown) ; \
 	do ./scripts/md_stripmetada.py $$i >> md/book.md ; \
+    ./scripts/md_unique_footnotes.py md/book.md >> md/book.md ; \
 	done
 #Note: md_urlize.py script requires Django to be installed
 
@@ -82,7 +83,7 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-cover-image=../epub/cover.jpg \
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
-		--toc-depth=1 \
+		--toc-depth=2 \
 		--epub-embed-font=../lib/* \
 		-o ../book.epub \
 		book.md && \

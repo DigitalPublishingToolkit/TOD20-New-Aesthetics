@@ -24,7 +24,7 @@ the way we interact with them. Affecting more than just scientific
 research, this New Aesthetic effect extends to a dramatic diminishment
 of efforts to freely group and summate disparate cultural products or
 enact curatorial practices in an impassioned manner without the taint of
-a digitized horizon serving as a preordained end result.[^1] In a way,
+a digitized horizon serving as a preordained end result.[^06-Chap6_1] In a way,
 valuation has been irrevocably altered.
 
 Recent years have produced an increased interest in the practice of
@@ -60,7 +60,7 @@ applications. Miya Tokumitsu notes:
 > world become a venue for curation? And how did curating, a highly
 > specialized line of museum work involving the care, accessioning, and
 > exhibition of artworks, come to mean, as cultural policy scholar
-> Amanda Coles puts it, “just picking stuff?”[^2]
+> Amanda Coles puts it, “just picking stuff?”[^06-Chap6_2]
 
 Tokumitsu’s article is an interesting perspective on what has become a
 dominant part of our connected culture; providing lists of options to
@@ -173,7 +173,7 @@ Schopenhauer as a baseline for a digital taxonomy.
 
 The first time we began to think about Schopenhauer’s philosophy was in
 relationship to Dmitriy Krotevich’s image manipulation software
-PixelDrifter (2014).[^3] In describing the effect of the software,
+PixelDrifter (2014).[^06-Chap6_3] In describing the effect of the software,
 Krotevich notes:
 
 > “By default, each pixel tries to find the ‘weakest’ pixel among its
@@ -181,7 +181,7 @@ Krotevich notes:
 > Also pixels with a higher ‘power’ value can do more ‘swaps.’” Put
 > differently, the pixels are imbued with enough intelligence to behave
 > autonomously, although Krotevich says, “an experienced user can
-> predict a result”.[^4]
+> predict a result”.[^06-Chap6_4]
 
 The function of PixelDrifter is driven by pixels themselves, with the
 inherent strength of each one allowed to be a part of determining its
@@ -207,7 +207,7 @@ Krotevich notes:
 > pixels – it’s more like a scientific visualization/artificial
 > intelligence program that “breathes life” into pixels, making them
 > decide where to travel \[…\] It’s not quite Turing Test AI, but the
-> pixels do react like they’re autonomous creatures.[^5]
+> pixels do react like they’re autonomous creatures.[^06-Chap6_5]
 
 Is Krotevich perhaps being a little too coy with his use of quotation
 marks? We think he might be. In so many respects, Krotevich seems to be
@@ -222,7 +222,7 @@ a complete difference between the phenomena of inorganic nature and the
 will, perceived by us as the inner reality of our own being, arises
 principally from the contrast between the wholly determined conformity
 to law in one species of phenomenon, and the apparently irregular
-arbitrariness the other’.[^6] The key here is that the representations
+arbitrariness the other’.[^06-Chap6_6] The key here is that the representations
 of the pixels, their presented presence to us, is not necessarily
 determined by a conformity to laws but is also more than just set a
 random occurrences that is perceivable as a group of independent
@@ -247,7 +247,7 @@ makes a really interesting point when he notes:
 > if unconscious and non-intentional. Inorganic entities simply do not
 > seem to have proper functions nor strive towards the fulfillment of
 > real goals. In short, inorganic entities do not seem to manifest
-> will.[^7]
+> will.[^06-Chap6_7]
 
 Scott’s interpretation of Schopenhauer at this point is that there seems
 to be an assertion of a difference between organic and inorganic
@@ -267,7 +267,7 @@ this limitation when he writes:
 > blindly in a dull, one-sided, and unalterable manner. Yet, because it
 > is everywhere one and the same-just as the first morning dawn shares
 > the name of sunlight with the rays of the full midday sun-it must in
-> either case bear the name of will.[^8]
+> either case bear the name of will.[^06-Chap6_8]
 
 Schopenhauer’s use of active verbs makes it clear that he conceives of
 all things as having active wills, even inorganic objects, and that
@@ -292,7 +292,7 @@ way: ‘Teleology, \[Schopenhauer\] argued \[…\] is not the result of the
 accumulation of small selected adaptations, neither is it the result of
 intelligent foresight, as supposed by the rationalist and theist, but
 the inevitable showing forth of the underlying unity of the “will to
-live.”’[^9] If one is to draw out a teleology of wills from
+live.”’[^06-Chap6_9] If one is to draw out a teleology of wills from
 Schopenhauer’s philosophy, a purpose to their existence, it is simply to
 sustain their existence in conflict with other things and, even, to
 overcome their opposition.
@@ -317,7 +317,7 @@ develop an applicable understanding of the *Critique of Judgment* based
 on regularities to objects of the New Aesthetic. In the *Critique of
 Pure Reason* Kant writes: ‘By nature, in the empirical sense, we
 understand the connection of appearances as regards their existence
-according to necessary rules, that is, according to laws.’[^10] If this
+according to necessary rules, that is, according to laws.’[^06-Chap6_10] If this
 is the case, is there a degree of regularity involved with postdigital
 and New Aesthetic objects?
 
@@ -337,7 +337,7 @@ left only with nature itself? More importantly, what happens when the
 opportunity to make a judgment of taste eludes us or, even more
 poignantly, is an impossibility?
 
-For Kant beauty is only for humans.[^11] This is a crucially important
+For Kant beauty is only for humans.[^06-Chap6_11] This is a crucially important
 part of Kant’s examination of judgments because judgment is always
 subjectively reflective, regardless of whether it’s aesthetic or
 teleological, and is distinct from epistemic claims or moral certitude
@@ -388,7 +388,7 @@ to disregard the manner in which it ‘enhances’ our lives or alerts us to
 information about ourselves that we could not have known otherwise? Is
 it possible to neither love nor hate our iPhones but disinterestedly
 appreciate them, especially when they don’t ‘just work’? Regardless of
-the debate about the functional beauty of artworks,[^12] the
+the debate about the functional beauty of artworks,[^06-Chap6_12] the
 functionality of New Aesthetic objects makes it impossible to assess
 their aesthetic quality as beautiful in a Kantian sense because the
 presentations of their functional and aesthetic natures are frequently
@@ -423,7 +423,7 @@ beautiful but because they apparently will themselves to be described as
 beautiful. Kant writes: ‘For a judgment of taste consists precisely in
 this, that it calls a thing beautiful only by virtue of that
 characteristic in which it adapts itself to the way we apprehend
-it.’[^13] This means that the appearance of objects will seemingly
+it.’[^06-Chap6_13] This means that the appearance of objects will seemingly
 change so as to be in accordance with our capacity to judge them as
 beautiful, but Kant certainly didn’t mean that the objects would
 actually change. New Aesthetic objects, however, do change in a
@@ -455,7 +455,7 @@ in it according to laws of freedom; if there is no opportunity for the
 free play of imagination in its relation to intuition then there is no
 available freedom and a ‘dialectic of aesthetic judgment’ is
 unavailable. The possibility of the free play of faculties is lessened
-in the instance of art in comparison to nature. [^14]In the case of New
+in the instance of art in comparison to nature. In the case of New
 Aesthetic objects, however, what we arrive at is almost an indeterminate
 indeterminacy. Taste enables a move to freedom, from indeterminate
 theory to determined but freely created response; objects which exist
@@ -467,7 +467,7 @@ simple objection however is that the ‘dilemma \[…\] is \[that either\]
 the free play of the faculties is involved in all cognitive perceptual
 experience, or it is not. If it is, then it would seem,
 counterintuitively, that every object should be perceived as
-beautiful.’[^15] In the case of New Aesthetic objects what can be
+beautiful.’[^06-Chap6_15] In the case of New Aesthetic objects what can be
 intuited about their intention is, at best, the nature of their origins;
 this, however, is entirely alien to our nature, as they derive their
 existence from self-sufficient algorithms that are impossible to submit
@@ -477,7 +477,7 @@ But could they be judged as having a purpose? Kant writes: ‘For if we
 want to investigate the organized products of nature by continued
 observation, we find it completely unavoidable to apply to nature the
 concept of intention, so that even for our empirical use of reason this
-concept is an absolutely necessary maxim.’[^16]
+concept is an absolutely necessary maxim.’[^06-Chap6_16]
 
 Objects of the New Aesthetic do exist for aesthetic and, therefore,
 reflective judgment. Furthermore, New Aesthetic objects do exist as a
@@ -492,7 +492,7 @@ aesthetics to Kant’s conception of teleological judgments.
 While Kant’s ideas on teleology are, at most, complicated and primarily
 a niche interest, it can be asserted that ‘teleology serves a useful, if
 not indispensable, role in our understanding of the living objects and
-phenomena in nature’.[^17] For Kant, a teleological judgment of an
+phenomena in nature’.[^06-Chap6_17] For Kant, a teleological judgment of an
 object is a judgment as *understanding* of its intrinsic purpose, a
 purpose to which the object embodies its realization. Teleological
 judgments are primarily concerned with a theoretical analysis of the
@@ -507,7 +507,7 @@ the *Critique of Teleological* *Judgement* Kant is concerned with
 particular material objects of experience, and not with the concept of
 matter as it can be “constructed” in pure intuition. In order to explain
 the former we thus require laws that go beyond and are more specific
-than the a priori laws of pure science.’[^18] While a teleological
+than the a priori laws of pure science.’[^06-Chap6_18] While a teleological
 judgment may reveal a sense of the purpose of the object, perhaps even
 more valuable is that the identification of that purpose reveals the
 object as a self-organizing organism; it’s not just that we figure out
@@ -524,7 +524,7 @@ articulated in the antinomy based on the following two principles:
 > The second maxim is the antithesis: Some products of material nature
 > cannot be judged as possible according to merely mechanical laws
 > (judging them requires an entirely different law of causality, namely
-> that of final causes).[^19]
+> that of final causes).[^06-Chap6_19]
 
 What emerges is a dialectic that describes these organisms, subject to
 teleological judgment, as both things that are restricted to the
@@ -546,7 +546,7 @@ Natural Purposes’, Kant writes:
 > it is *both cause and effect of itself* (although in two different
 > senses). For this involves a concept of a nature without regarding
 > nature as acting from a purpose; and even then, though we can think
-> this causality, we cannot grasp it.[^20]
+> this causality, we cannot grasp it.[^06-Chap6_20]
 
 What Kant means by this is that a natural object will both be itself,
 exist as it is, while equally be available for judgment as to the
@@ -569,7 +569,7 @@ his critical system, Kant argues that any effort to judge the natural
 purpose of a thing, its *Naturzweck*, based on its intrinsic form, is
 dependent on its natural form as *Naturwerk*; when an object appears to
 our experience to be efficaciously purposive, initially understood as
-related to art[^21] but extended to all things that ground a causality
+related to art[^06-Chap6_21] but extended to all things that ground a causality
 to a purpose, it is because it appears to be a means by which a purpose
 is achieved as an intrinsic quality of the object, such that ‘\[…\] we
 arrive at no categorical \[but only a hypothetical\] purpose if we
@@ -577,7 +577,7 @@ disregard the internal form and organization \[of a blade of grass\],
 and consider instead extrinsic purposive relations as to what use other
 natural beings make of the grass \[…\] this condition (namely, the
 existence of a thing as a final purpose) is unconditioned and hence lies
-wholly outside a physicoteleological consideration of the world’.[^22]
+wholly outside a physicoteleological consideration of the world’.[^06-Chap6_22]
 To put it another way, Kant’s idea of a teleological judgment depends on
 ignoring our aesthetic response (the tastiness of an apple, for example)
 in favor of seeing different purposes to the parts of the organism that
@@ -586,7 +586,7 @@ the apple tree and its species).
 
 A teleological judgment regards an object only in terms of its efficient
 presentation of its purpose, what Kant refers to as its ‘intrinsic
-purpose’.[^23] While this is problematic – as a number of commentators
+purpose’.[^06-Chap6_23] While this is problematic – as a number of commentators
 point out this is both paradoxical to human thought and appears opposed
 to scientific thinking – Kant argues that it is a necessary judgment in
 order not to explain objects but simply to be able to cite their
@@ -595,7 +595,7 @@ asses, wherein an object is a means towards an end in a causal
 connection that is real, far more interesting are the intrinsic
 purposes, wherein an object is organized to reveal itself as itself in a
 causal connection that is ideal, an organism is ‘both cause and effect
-of itself’.[^24]
+of itself’.[^06-Chap6_24]
 
 Kant is quite upfront about this being inapplicable to art, writing:
 ‘Now in order for a thing to be a natural purpose, it must meet two
@@ -604,7 +604,7 @@ their existence and their form) must depend on their relation to the
 whole. For since the thing itself is a purpose, it is covered by a
 concept or idea that must determine a priori everything that the thing
 is to contain. But if we think of a thing as possible only in *that* way
-then it is merely a work of art’.[^25] This is where Lou’s *Color Field*
+then it is merely a work of art’.[^06-Chap6_25] This is where Lou’s *Color Field*
 serves as a differentiating boundary point; quite clearly, the work
 doesn’t serve a natural purpose and its teleological nature is neither
 self-sufficient nor autonomous. While there is a telos involved – the
@@ -636,7 +636,7 @@ of sustaining the continuation of the whole.
 > the form and combination of all the parts, not as cause – for then the
 > whole would be a product of art – but as the basis on which someone
 > judging this whole cognizes the systematic unity in the form and
-> combination of all the manifold contained in the given matter.[^26]
+> combination of all the manifold contained in the given matter.[^06-Chap6_26]
 
 Normally this second condition is not available to inanimate objects but
 only to living organisms because the parts of the whole do not generate
@@ -657,13 +657,13 @@ this maxim: ‘Everything in the world is good for something or other;
 nothing in it is gratuitous; and the example that nature offers us in
 its organic products justifies us, indeed calls upon us, to expect
 nothing from it and its laws except what is purposive in \[relation to\]
-the whole’.[^27] As a reflective judgment, and not as a determinative
+the whole’.[^06-Chap6_27] As a reflective judgment, and not as a determinative
 judgment, this allows us to reflect on objects of our experience and to
 transcend the specificities of the object. In short, we can begin to
 teleologically judge non-natural objects in a manner similar to natural
 objects. Kant even proposes that we are ‘entitled’ to go beyond the
 specific purposiveness of an object to a consideration of a ‘unity of
-supersensible principle’[^28] whereby the entirety of nature as a system
+supersensible principle’[^06-Chap6_28] whereby the entirety of nature as a system
 is considered and judged as a whole. This allows us, in a way, to
 understand the frequent biological metaphors used to describe digital
 ecologies.
@@ -679,13 +679,13 @@ purpose unless we resort (as is hinted by Kant) to some divine power.
 Kant wants to avoid this, and so do we. ‘A teleological principle for
 explaining the inner possibility of certain natural forms leaves it
 undetermined whether their purposiveness is intentional or
-unintentional.’[^29] This dialectic between intention and driven
+unintentional.’[^06-Chap6_29] This dialectic between intention and driven
 necessity complicates the intrinsic causal relations of the object but
 it’s in that complexity that the teleological judgment has the most
 force. Kant writes: ‘we would find no distinction between a natural
 mechanism and a technique of nature, i.e., a connection to ends in it,
 if our understanding were not of the sort that must go from the
-universal to the particular’.[^30] This gets to a central point of the
+universal to the particular’.[^06-Chap6_30] This gets to a central point of the
 matter. For Kant, an identification of the
 
 > apparent internal purposiveness – as presented in the phenomena of
@@ -695,7 +695,7 @@ matter. For Kant, an identification of the
 > purposes exhibiting a real, internal purposiveness having its source
 > in a nonhuman, intelligent causality analogous to our own practical
 > causality \[…\] which provides us with an intelligible estimation
-> (*Beurteilung*) of organic nature.[^31]
+> (*Beurteilung*) of organic nature.[^06-Chap6_31]
 
 What’s taking place here is crucial. *Naturwerke*, natural organisms,
 appear to have *Naturzwecke*, natural ends, but are they programmed or
@@ -711,7 +711,7 @@ smartphone that do all those things? Would we start to call them
 organisms?
 
 This goes beyond what Paul Fishwick has described as the aesthetic
-products of embodied cognition[^32] in that it describes a set of
+products of embodied cognition[^06-Chap6_32] in that it describes a set of
 aesthetic forms that are the products of cognitive organisms that are
 the result of programming but function independently of the intentions
 of their programming. Ralf Baecker’s art illustrates this very well,
@@ -729,7 +729,7 @@ an interview after it was installed at the NOME art gallery in Berlin.
 > mathematical foundations of these technologies. A closer look reveals
 > a fully closed deterministic system, that is the result of separating
 > mathematics from the world and our experience of it, in order to
-> create a pure formal system.[^33]
+> create a pure formal system.[^06-Chap6_33]
 
 Our focus on objects of the New Aesthetic ends up there. What if we were
 to take Kant’s solution to the problem and run with it? Kant would
@@ -737,13 +737,13 @@ certainly disagree with where we are heading but, for Kant, a
 reconciliation between the mechanistic character of the first
 requirement and the natural self-sufficiency of the second requirement
 can happen if the mechanistic becomes subordinate to the teleology while
-remaining autonomous and independent.[^34] We want to avoid intentional
+remaining autonomous and independent.[^06-Chap6_34] We want to avoid intentional
 purposes because those make it difficult to avoid thinking about whose
 intentions we’re looking at. We want to only discuss natural purposes as
 natural ends. And what are natural purposes ultimately? To continue life
 as *Naturwerk*, natural works, sustained through their *Naturzwecke*,
 their own closed, unique and self-determinating organizational
-principals.[^35]
+principals.[^06-Chap6_35]
 
 Any reflective judgment must discover *a priori* the purposiveness of
 nature revealed in teleological judgments while simultaneously engaging
@@ -768,7 +768,7 @@ teleological judgment of New Aesthetic objects. Kant may write that
 purposiveness, which is essentially distinct from a practical
 purposiveness), if it is not to be a merely superstitious substitution
 of *what we make out of nature* for what *nature is*, is a concept
-separate from all dogmatic philosophy’[^36] but we arrive at a different
+separate from all dogmatic philosophy’[^06-Chap6_36] but we arrive at a different
 conclusion regarding these technologically based objects. Obviously New
 Aesthetic objects are not actually biological organisms, but we would
 argue that the degree to which they are analogous to *Naturwerk*e is
@@ -821,7 +821,7 @@ understanding evolution and biological processes. He writes:
 > heavy stress on the necessity of teleological considerations for the
 > understanding of organisms would seem to lead to the conclusion that
 > teleology is a constitutive condition for the possibility of biology,
-> and thus not regulative.[^37]
+> and thus not regulative.[^06-Chap6_37]
 
 Quarfood’s point is clear and aligned with Kant’s: we can, we do, and we
 are even driven to make teleological judgments about organisms. While
@@ -842,7 +842,7 @@ inherent to the existence of objects. Quarfood continues:
 > to be constitutive for that experience, provided that this
 > constitutivity is understood as relative to this level and to the
 > “human point of view”, rather than as prescriptive for objects in
-> general.[^38]
+> general.[^06-Chap6_38]
 
 The point here is similar to Kant’s in that teleological judgments
 provide only a human perspective for human experience; every time we
@@ -862,12 +862,12 @@ help it, with Quarfood noting that ‘In § 68, Kant tells us that
 concerning “empirical laws of natural purposes in organized beings it is
 not merely permissible but even unavoidable to use the teleological way
 of judging as the principle of the theory of nature with regard to a
-special class of its objects” (CJ 382).’[^39] Organized beings are
+special class of its objects” (CJ 382).’[^06-Chap6_39] Organized beings are
 necessarily recognized as organized – we can’t avoid seeing patterns,
 regulative processes and purposiveness in organisms even if they aren’t
 there – even if Kant himself would go on to say that such recognitions
 are inexplicable and only serve as a rough, failing guide to describing
-mechanistic explanations.[^40]
+mechanistic explanations.[^06-Chap6_40]
 
 Quarfood’s point is neatly applicable if one reverses it and then
 extends it far beyond his philosophical position: it’s not just that we
@@ -897,7 +897,7 @@ teleology as a concept in the philosophy of science, points out:
 > physicalism, “known to be the best” or at least the only reliable
 > methods for such analyses. These philosophers have ignored the
 > findings of the biologists, even though teleology concerns mostly or
-> entirely the world of life.[^41]
+> entirely the world of life.[^06-Chap6_41]
 
 What’s interesting about this statement, written before the explosion of
 the increasingly pervasive presence of the internet, is its dependency
@@ -910,7 +910,7 @@ teleology, Mayr disassociates the notion that a teleological description
 is oriented towards finality and instead moves it beyond
 functional-associations. As Mayr notes: ‘the principal endeavor of the
 traditional philosopher was to eliminate teleological language from all
-descriptions and analyses’[^42] because it got wrapped up into excessive
+descriptions and analyses’[^06-Chap6_42] because it got wrapped up into excessive
 speculation that resulted in terminating descriptions of history such as
 Hegel’s own efforts. For Mayr, though, teleology still has a role in
 biology because it emphasizes the self-preservative drive of organisms,
@@ -944,12 +944,12 @@ migrations, which are seemingly programmed but subject to variable
 conditions and which respond to those variables. For Mayr, neither
 teleomatic nor teleonomic processes are adequate, however, in describing
 a genuine sense of the teleological, regardless of some debates
-concerning their conceptual similarity to teleology[^43] and especially
+concerning their conceptual similarity to teleology[^06-Chap6_43] and especially
 in light of the tendency to conflate teleonomy with a theist notion of
 teleology; for Mayr, teleology is more than just adherence to laws or
 the realization of goals, it is the manifestation of goals that is less
 a product of adaptiveness (which Mayr identifies as Kant’s
-*Zweckmässigkeit*)[^44] and more a product of goal-orientation
+*Zweckmässigkeit*)[^06-Chap6_44] and more a product of goal-orientation
 capability. In a way, this is similar to Mayr’s notion of what a species
 is, in response to the species problem present in Charles Darwin’s
 ideas; for Mayr, a species is not just a group of similar individuals
@@ -1015,14 +1015,16 @@ performance art *Excellences & Perfections* {Fig. 116} that had
 concluded that month and has been, after its reveal, favorably compared
 to the art of Cindy Sherman and Yves Klein. 
 
-![](img/Fig116.tiff)   
-Fig. 116 Amalia Ulman, ‘Isn't it nice to betaken care of✨’, *Excellences & Perfections*(2015)
+![](img/Fig116.png)   
+Fig. 116 Amalia Ulman, ‘Isn't it nice to be
+taken care of✨’, *Excellences & Perfections*
+(2015)
 
 In a post on Facebook
 referencing a review published in the British Newspaper *The
-Telegraph*,[^45] Nicolas Bourriaud described Ulman’s project as an
+Telegraph*,[^06-Chap6_45] Nicolas Bourriaud described Ulman’s project as an
 example of post-internet art, then quickly declared that to be an
-incorrect appellation.[^46] Bourriaud’s rejection of the term is
+incorrect appellation.[^06-Chap6_46] Bourriaud’s rejection of the term is
 ensconced in his critical perspective of relational aesthetics, but his
 willingness to reconsider Ulman’s work based on the review is
 fascinating. Sean O’Hagan, writing in *The Guardian*, notes:
@@ -1034,7 +1036,7 @@ fascinating. Sean O’Hagan, writing in *The Guardian*, notes:
 > attempts to become a somebody in Los Angeles. Like a would-be Kim
 > Kardashian, she recorded her shopping expeditions and pole-dancing
 > classes, attracting the inevitable “haters”, but also about 90,000
-> followers.[^47]
+> followers.[^06-Chap6_47]
 
 Ulman’s work is about gender, celebrity, identity construction and an
 exploration of an engagement with social media. At the same time, in a
@@ -1068,7 +1070,7 @@ make it hard to apply it to New Aesthetic objects; Kant writes (§64):
 ‘all our art finds itself infinitely outdistanced if it tries to
 reconstruct those products of the vegetable kingdom from the elements we
 obtain by dissecting them, or for that matter from the material that
-nature supplies for their nourishment’.[^48] We hope that this chapter
+nature supplies for their nourishment’.[^06-Chap6_48] We hope that this chapter
 hasn’t been read as a slavishly devoted appropriation of Schopenhauer’s
 and Kant’s ideas, influential as they are. Instead, we’ve thought of
 their ideas, and those of other theorists mentioned throughout the book,
@@ -1101,107 +1103,105 @@ are both indistinguishable from manufactured, digital artifacts on one
 level and indistinguishable on another, functional level from biological
 organisms.
 
-[^1]: Again, as always, the irony doesn’t escape us.
+[^06-Chap6_1]: Again, as always, the irony doesn’t escape us.
 
-[^2]: Miya Tokumitsu, ‘The Politics of the Curation Craze’, *New
+[^06-Chap6_2]: Miya Tokumitsu, ‘The Politics of the Curation Craze’, *New
     Republic*, 24 August 2015,
-    http://www.newrepublic.com/article/122589/when-did-we-all-become-curators.
+    <http://www.newrepublic.com/article/122589/when-did-we-all-become-curators>.
 
-[^3]: Dmitriy Krotevich, ‘PixelDrifter’, *Internet Archive*, 11 May
-    2014, https://archive.org/details/pixeldrifter.
+[^06-Chap6_3]: Dmitriy Krotevich, ‘PixelDrifter’, *Internet Archive*, 11 May
+    2014, <https://archive.org/details/pixeldrifter>.
 
-[^4]: Margaret Rhodes, ‘This Glitch Art Is Made of Pixels Powered by
+[^06-Chap6_4]: Margaret Rhodes, ‘This Glitch Art Is Made of Pixels Powered by
     Their Own AI’, *Wired.com*, 7 August 2014,
-    http://www.wired.com/2014/08/this-glitch-art-is-made-of-pixels-powered-by-their-own-ai/.
+    <http://www.wired.com/2014/08/this-glitch-art-is-made-of-pixels-powered-by-their-own-ai/>.
 
-[^5]: DJ Pangburn, ‘Here’s What Artificially Intelligent Pixel Bending
+[^06-Chap6_5]: DJ Pangburn, ‘Here’s What Artificially Intelligent Pixel Bending
     Looks Like ‘, *The Creators Project*, 28 July 2014,
-    http://thecreatorsproject.vice.com/blog/heres-what-artificially-intelligent-pixel-bending-looks-like.
+    <http://thecreatorsproject.vice.com/blog/heres-what-artificially-intelligent-pixel-bending-looks-like>.
 
-[^6]: Arthur Schopenhauer, *The World as Will and Representation*,
+[^06-Chap6_6]: Arthur Schopenhauer, *The World as Will and Representation*,
     trans. E.F.J. Payne. Dover Publications, New York: 1966, p. 118.
 
-[^7]: Damion Scott, ‘Functional Analysis and Schopenhauer’s Theory of
+[^06-Chap6_7]: Damion Scott, ‘Functional Analysis and Schopenhauer’s Theory of
     the Will’ (*The World as Will and Representation*, Volume I,
     Sections 17-29),
     <https://www.academia.edu/2576175/Functional_Analysis_and_Schopenhauers_Theory_of_the_Will>.
 
-[^8]: Arthur Schopenhauer, *The World as Will and Representation*, p.
+[^06-Chap6_8]: Arthur Schopenhauer, *The World as Will and Representation*, p.
     118.
 
-[^9]: DeWitt H. Parker, ‘Introduction’, *Schopenhauer Selections*, New
+[^06-Chap6_9]: DeWitt H. Parker, ‘Introduction’, *Schopenhauer Selections*, New
     York: Scribner, 1928.
 
-[^10]: *Critique of Pure Reason*, A216/B263
+[^06-Chap6_10]: *Critique of Pure Reason*, A216/B263
 
-[^11]: KU 15
+[^06-Chap6_11]: KU 15
 
-[^12]: Stephen Davies, ‘Aesthetic Judgements, Artworks and Functional
+[^06-Chap6_12]: Stephen Davies, ‘Aesthetic Judgements, Artworks and Functional
     Beauty’, *The Philosophical Quarterly*, Vol. 56, No. 223 (April,
     2006): 224-241.
 
-[^13]: Immanuel Kant*, The Critique of Judgment*, trans. Pluhar, Werner,
+[^06-Chap6_13]: Immanuel Kant*, The Critique of Judgment*, trans. Pluhar, Werner,
     Indianapolis, IN: Hackett, 1987, p. 145.
 
-[^14]: 
-
-[^15]: Hannah Ginsborg, ‘Kant’s Aesthetics and Teleology’, in Edward N.
+[^06-Chap6_15]: Hannah Ginsborg, ‘Kant’s Aesthetics and Teleology’, in Edward N.
     Zalta (ed.) *The Stanford Encyclopedia of Philosophy*, Fall 2014,
-    http://plato.stanford.edu/archives/fall2014/entries/kant-aesthetics/.
+    <http://plato.stanford.edu/archives/fall2014/entries/kant-aesthetics/>.
 
-[^16]: Kant, *Critique of Judgment*, Pluhar, p. 280
+[^06-Chap6_16]: Kant, *Critique of Judgment*, Pluhar, p. 280
 
-[^17]: Shidan Lofti, ‘The ‘Purposiveness’ of Life: Kant’s Critique of
+[^06-Chap6_17]: Shidan Lofti, ‘The ‘Purposiveness’ of Life: Kant’s Critique of
     Natural Teleology’, *The Monist*, January 2010, 93:1, p. 124.
 
-[^18]: Angela Breitenbach, ‘Two views on nature: A solution to Kant’s
+[^06-Chap6_18]: Angela Breitenbach, ‘Two views on nature: A solution to Kant’s
     antinomy of mechanism and teleology’, *British Journal for the
     History of Philosophy*, 16:2, 2008: 351-369.
 
-[^19]: Immanuel Kant, *Kritik der Urtheilskraft*, (*KdU*), §70, AAV:
+[^06-Chap6_19]: Immanuel Kant, *Kritik der Urtheilskraft*, (*KdU*), §70, AAV:
     387.
 
-[^20]: Kant, *Critique of Judgment*, Pluhar, p. 249.
+[^06-Chap6_20]: Kant, *Critique of Judgment*, Pluhar, p. 249.
 
-[^21]: KU §10
+[^06-Chap6_21]: KU §10
 
-[^22]: Kant, *Critique of Judgment*, Pluhar, p. 258.
+[^06-Chap6_22]: Kant, *Critique of Judgment*, Pluhar, p. 258.
 
-[^23]: ‘\[I\]f a thing is a natural product but yet we are to cognize it
+[^06-Chap6_23]: ‘\[I\]f a thing is a natural product but yet we are to cognize it
     as possible only as a natural purpose, then it must have this
     character: it must relate to itself in such a way that it is both
     cause and effect of itself.’ Kant, *Critique of Judgment*, Pluhar,
     p. 251.
 
-[^24]: Kant, *Critique of Judgment*, Pluhar, p. 371.
+[^06-Chap6_24]: Kant, *Critique of Judgment*, Pluhar, p. 371.
 
-[^25]: Kant, *Critique of Judgment*, Pluhar, p. 252.
+[^06-Chap6_25]: Kant, *Critique of Judgment*, Pluhar, p. 252.
 
-[^26]: Kant, *Critique of Judgment*, Pluhar, p. 252.
+[^06-Chap6_26]: Kant, *Critique of Judgment*, Pluhar, p. 252.
 
-[^27]: Kant, *Critique of Judgment*, Pluhar, p. 259.
+[^06-Chap6_27]: Kant, *Critique of Judgment*, Pluhar, p. 259.
 
-[^28]: Kant, *Critique of Judgment*, Pluhar, p. 261.
+[^06-Chap6_28]: Kant, *Critique of Judgment*, Pluhar, p. 261.
 
-[^29]: Kant, *Critique of Judgment*, Pluhar, p. 237.
+[^06-Chap6_29]: Kant, *Critique of Judgment*, Pluhar, p. 237.
 
-[^30]: Immanuel Kant, *KdU*, AAV: 404.
+[^06-Chap6_30]: Immanuel Kant, *KdU*, AAV: 404.
 
-[^31]: A.C. Genova, ‘Review of *Kant’s Concept of Teleology* by J.D.
+[^06-Chap6_31]: A.C. Genova, ‘Review of *Kant’s Concept of Teleology* by J.D.
     McFarland’, *Ethics*, University of Chicago Press, Vol. 81, No. 2
     (Jan., 1971): 186-189.
 
-[^32]: Paul Fishwick, ‘Aesthetic Computing’, Mads Soegaard and Rikke
+[^06-Chap6_32]: Paul Fishwick, ‘Aesthetic Computing’, Mads Soegaard and Rikke
     Friis Dam (eds.) *The Encyclopedia of Human-Computer Interaction*,
     Aarhus: The Interactive Design Foundation, 2013.
 
-[^33]: Régine Debatty, ‘Order+Noise, a tug of war for motors, strings
+[^06-Chap6_33]: Régine Debatty, ‘Order+Noise, a tug of war for motors, strings
     and rubber bands’, We Make Money Not Art blog, 29 April 2016,
-    http://we-make-money-not-art.com/ordernoise-a-tug-of-war-for-motors-strings-and-rubber-bands/.
+    <http://we-make-money-not-art.com/ordernoise-a-tug-of-war-for-motors-strings-and-rubber-bands/>.
 
-[^34]: Kant, *Critique of Judgment*, Pluhar, p. 144.
+[^06-Chap6_34]: Kant, *Critique of Judgment*, Pluhar, p. 144.
 
-[^35]: In a strange but related aside, the Viennese art historian Alois
+[^06-Chap6_35]: In a strange but related aside, the Viennese art historian Alois
     Riegl wrote ‘Naturwerk und Kunstwerk I’, in Alois Riegl, *Gesammelte
     Aufsätze*, Augsburg-Wien: Benno Filser Verlag, 1928, 64; Alois
     Riegl, ‘Naturwerk und Kunstwerk II’, 67, 70, proposing a similar
@@ -1211,43 +1211,47 @@ organisms.
     Vienna*, San Diego: University of California, 1997. We wonder what
     Riegl would have made of New Aesthetic objects.
 
-[^36]: Kant, *Critique of Judgment*, Pluhar, p. 243.
+[^06-Chap6_36]: Kant, *Critique of Judgment*, Pluhar, p. 243.
 
-[^37]: Marcel Quarfood, ‘Kant on Biological Teleology: Towards a
+[^06-Chap6_37]: Marcel Quarfood, ‘Kant on Biological Teleology: Towards a
     Two-level Interpretation’, *Studies in History and Philosophy of
     Biological and Biomedical Sciences*, vol. 37, 2006: 735-747.
 
-[^38]: Marcel Quarfood, ‘Kant on Biological Teleology’.
+[^06-Chap6_38]: Marcel Quarfood, ‘Kant on Biological Teleology’.
 
-[^39]: Quarfood, ‘Kant on Biological Teleology’, quoting Kant.
+[^06-Chap6_39]: Quarfood, ‘Kant on Biological Teleology’, quoting Kant.
 
-[^40]: James Kreines, ‘The Inexplicability of Kant’s Naturzweck: Kant on
+[^06-Chap6_40]: James Kreines, ‘The Inexplicability of Kant’s Naturzweck: Kant on
     Teleology, Explanation and Biology’, *Archiv für Geschichte der
     Philosophie* 87 (3: 2005): 270-311.
 
-[^41]: Ernst Mayr, ‘The Idea of Teleology’, *Journal of the History of
+[^06-Chap6_41]: Ernst Mayr, ‘The Idea of Teleology’, *Journal of the History of
     Ideas*, 53:1, 1992.
 
-[^42]: Mayr, ‘The Idea of Teleology’, p. 122.
+[^06-Chap6_42]: Mayr, ‘The Idea of Teleology’, p. 122.
 
-[^43]: Nicholas Cf. Thompson, ‘The Misappropriation of Teleonomy’, in
+[^06-Chap6_43]: Nicholas Cf. Thompson, ‘The Misappropriation of Teleonomy’, in
     *Perspectives in Ethology* (eds) Bateson, P. Bateosn and P. Klopfer,
     P., *Volume 7: Alternatives*, Springer-Verlag, 1987.
 
-[^44]: Mayr, ‘The Idea of Teleology’, p. 134.
+[^06-Chap6_44]: Mayr, ‘The Idea of Teleology’, p. 134.
 
-[^45]: Sooke, Alastair, “Is this the first Instagram Masterpiece?”, *The
+[^06-Chap6_45]: Sooke, Alastair, “Is this the first Instagram Masterpiece?”, *The
     Telegraph*, 18 January 2016,
-    http://www.telegraph.co.uk/photography/what-to-see/is-this-the-first-instagram-masterpiece/.
+    <http://www.telegraph.co.uk/photography/what-to-see/is-this-the-first-instagram-masterpiece/>.
 
-[^46]: Nicholas Bourraiud’s Facebook Page. Accessed January 31^st^,
+[^06-Chap6_46]: Nicholas Bourraiud’s Facebook Page. Accessed January 31^st^,
     2016.
-    https://www.facebook.com/nicolas.bourriaud.7/posts/10154019377457280?pnref=story.
+    <https://www.facebook.com/nicolas.bourriaud.7/posts/10154019377457280?pnref=story>.
 
-[^47]: Sean O’Hagan, ‘Exposed: photography’s fabulous fakes. Phoney
+[^06-Chap6_47]: Sean O’Hagan, ‘Exposed: photography’s fabulous fakes. Phoney
     engagements, flying surrealists, faux Instagram celebrities, dubious
     family portraits … a short history of performance photography’, *The
     Guardian*, January 31 2016,
-    http://www.theguardian.com/artanddesign/2016/jan/31/exposed-photographys-fabulous-fakes.
+    <http://www.theguardian.com/artanddesign/2016/jan/31/exposed-photographys-fabulous-fakes>.
 
-[^48]: Kant, *CJ*, p. 250.
+[^06-Chap6_48]: Kant, *CJ*, p. 250.
+
+ <br></br> 
+ <br></br> 
+ <br></br> 

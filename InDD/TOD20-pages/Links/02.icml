@@ -398,7 +398,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In 2005, Sandy Island in the Pacific Ocean was undiscovered. {Fig. 7} Sandy Island had been listed as an island on maps and noted in documents perhaps as far back as 1774 when James Cook supposedly discovered it. Additionally, instances of its sighting and its representation on maps continued well into the late 19th century, including notes on an 1895 British Admiralty Map that described its heavy breakers and sandy islets. Despite repeated attempts to find Sandy Island, it was never seen again even though it continued to appear on many maritime charts and maps through the rest of the 20th century. Finally, in 2012, the Australian ship R/V Southern Surveyor conclusively proved that it did not exist and only then was it removed from Google Maps. In many ways, this is simply an example of how large our world remains and how there is still more to explore and explain even in the 21st century. Still, despite the increasing digitalization of the world, the island remained on Google Maps until 2012 and had been utilized in scientific data models since 2005; in short, the non-existence of Sandy Island had maintained a persistent digital autonomy with real world effects that itself has been made real precisely because of the impossibility of its recollection as not having existed.</Content>
 				<Br/>
-				<Rectangle Self="u8621" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 111.25984251968497 -62.5836614173228">
+				<Rectangle Self="u8621" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 111.25984251968497 -62.5836614173228">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -1679,7 +1679,7 @@ S/Xco/1k+o+gn/q39Pp8Os+vxvCp4lfH108bNNemmPD0dvX/2Q==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1698,7 +1698,7 @@ S/Xco/1k+o+gn/q39Pp8Os+vxvCp4lfH108bNNemmPD0dvX/2Q==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> {Fig. 8}</Content>
 				<Br/>
-				<Rectangle Self="u862d" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 131.24999999999838 -87.49999999999892">
+				<Rectangle Self="u862d" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 131.24999999999838 -87.49999999999892">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -2672,7 +2672,7 @@ uLEJkS1FXZCom+3lAjqcVT0cei6amM8eZrm1D8Dx8/1Hvalq5UD7Cx/wgdXBkJGpEA9VZif2FR/h
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Certain instances of New Aesthetic objects, like this screen shot from the UK McDonald’s iPhone app, fit easily into our notions of what this attitude entails. {Fig. 9}</Content>
 				<Br/>
-				<Rectangle Self="u8639" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 58.66666666666666 -88">
+				<Rectangle Self="u8639" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 58.66666666666666 -88">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -3385,7 +3385,7 @@ JozWlO2vRfBp8Cbj9VQ6dfDT51p+OnD8HH5df//Z]]></GraphicProxy>
 				<Br/>
 				<Content>Here we have a map of all of the locations of the fast food restaurant McDonald’s in the entire country, including Northern Ireland and Jersey. Having scaled back to the appropriate level, the user has created a map of the UK constructed entirely of McDonald’s locations – a dystopian nightmare if there ever was one – that deletes any possible map function and obfuscates actual restaurant locations with an excessive number of overlapping logos. What makes this a New Aesthetic product, the most important aspect of this image, is the manner in which the use of the digital object greatly circumvents the programmer’s intentions. With other images {Fig. 10} we have even more instances of the programming overtaking the programmer’s intentions; facial recognition may be a valuable tool for control of the public, police and intelligence agencies, but its history indicates a shift from practical uses to a more intrusive construction of digital identification.</Content>
 				<Br/>
-				<Rectangle Self="u8647" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u8647" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -3928,7 +3928,7 @@ Tq029V9NvVo9+691g/yLzf8AMXfb6v8As4PP9xo/8+nh8n/VNf8A2j37r3X/2Q==]]></GraphicProx
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -3961,7 +3961,7 @@ Tq029V9NvVo9+691g/yLzf8AMXfb6v8As4PP9xo/8+nh8n/VNf8A2j37r3X/2Q==]]></GraphicProx
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -3974,7 +3974,7 @@ Tq029V9NvVo9+691g/yLzf8AMXfb6v8As4PP9xo/8+nh8n/VNf8A2j37r3X/2Q==]]></GraphicProx
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> {Fig. 11} In many respects, this is merely a webpage displaying the user’s local time, an increasingly common type of application for Chrome and other browsers, but what becomes immediately apparent over a short time is the ever-shifting color of the background. Here we have the emergence of computationality as an onto-theology, wherein the datafication of web colors embeds itself into our temporal sensibilities.</Content>
 				<Br/>
-				<Rectangle Self="u865a" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 76.62646198830376 -43.74999999999981">
+				<Rectangle Self="u865a" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 76.62646198830376 -43.74999999999981">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -4687,7 +4687,7 @@ AAAaAQUAAQAAAHSKAAAbAQUAAQAAAHyKAAAcAQMAAQAAAAEAAABSAQMAAQAAAAEACgAAAAAA]]></Gra
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -4708,7 +4708,7 @@ AAAaAQUAAQAAAHSKAAAbAQUAAQAAAHyKAAAcAQMAAQAAAAEAAABSAQMAAQAAAAEACgAAAAAA]]></Gra
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -4721,7 +4721,7 @@ AAAaAQUAAQAAAHSKAAAbAQUAAQAAAHyKAAAcAQMAAQAAAAEAAABSAQMAAQAAAAEACgAAAAAA]]></Gra
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> {Fig. 12} is a further example of the development of HTML coding producing a specifically New Aesthetic experience.</Content>
 				<Br/>
-				<Rectangle Self="u866b" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 65.625 -43.75">
+				<Rectangle Self="u866b" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 65.625 -43.75">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -5248,7 +5248,7 @@ AAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -5261,7 +5261,7 @@ AAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Users are invited to choose from a range of different sliding parameters – size, hue, saturation, lightness, repeat and speed – which are then used to generate an image of varying colored squares that alternate between the spectrum of those parameters. At first this seems like an interesting visual experience and, in reality, it’s really nothing more than that. Where this is a New Aesthetic experience, though, is in the illusion of control; user input seems to be a contributing factor to the product, but user input is a limiting factor in that the relations between the different colored squares are a result of the digitization of the color spectrum itself. While Foley notes that this is inspired by glitch art, with its dependency on random information and errors, it’s clear that glitches do not make an appearance. Where, indeed, is the art or the New Aesthetic experience in this case? The status of both Murphy’s and Foley’s work as art is debatable – though we would tend to place them into that category – their status as New Aesthetic products is not. The contrast between viewers’ expectations and the resulting visuals generates more than just a flashing sequence of colors; instead, more poignantly, what is created is a remarkably overlooked response of indifference to the digital reality, based on an acceptance of the limited control in contrast to the final product. The response of most users to what is generated is less of a sense of awe and aesthetic excitement and is rather an acceptance that this is what should have been expected, graphically represented in the ubiquity of the poster produced by the Deterritorial Support Group. {Fig. 13}</Content>
 				<Br/>
-				<Rectangle Self="u8679" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u8679" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -5623,7 +5623,7 @@ tof8zf8A+zG/45/9XT7X37r3X//Z]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> is at best a reproduction of the glitch interjecting itself into our experience of the digitization of the world. We will return to glitches as art in the next chapter, but for now we’re focused on glitches as they manifest as part of the digital experience. Perhaps the most famous of this type of image associated with Bridle’s blog and the New Aesthetic is that of an airplane appearing on Google Maps; flying too quickly to be resolved accurately, it appears as four different images of the same plane broken up into a grainy image and three separate RGB shadows. {Fig. 14}</Content>
 				<Br/>
-				<Rectangle Self="u8685" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 77.50000000000055 -50.00000000000035">
+				<Rectangle Self="u8685" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 77.50000000000055 -50.00000000000035">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -6695,7 +6695,7 @@ AwABAAAAAQAAAFIBAwABAAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -6715,7 +6715,7 @@ AwABAAAAAQAAAFIBAwABAAAAAQAKAAAAAAA=]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u8693" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 88.13903085937699 -57.954431250001306">
+				<Rectangle Self="u8693" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 88.13903085937699 -57.954431250001306">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -7412,7 +7412,7 @@ fbeXwHT9993/AGvFe2r1eXT4+dfvdt4fjvor4nnTjpp/n6R3/h/6Jo+HGr7fL8+lDUfw/wCypPHb
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -7430,7 +7430,7 @@ fbeXwHT9993/AGvFe2r1eXT4+dfvdt4fjvor4nnTjpp/n6R3/h/6Jo+HGr7fL8+lDUfw/wCypPHb
 				<Br/>
 				<Content>The appearance of glitches as a hallmark of the New Aesthetic has become a commonplace paradigm. Images like agricultural fields appearing to be pixelated are glitchy in a way, in that there is the illusion of digital parameters being imposed on the world (an illusion that may be all too real, given the increasing dependency in agricultural production on GPS technology as databases). Other images appear to be glitchy when they are, instead, the product of the visualization of data. {Fig. 16}</Content>
 				<Br/>
-				<Rectangle Self="u86a4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 73.84251968503932 -42.95173228346454">
+				<Rectangle Self="u86a4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 73.84251968503932 -42.95173228346454">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -8487,7 +8487,7 @@ v4Dlr3/4Az/W/wDqD7ftq/WQ+J8erz49T191P/xKb7r+n4f9cjljhw/5Llj0EHs26+tl/jb7T173
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -8509,7 +8509,7 @@ v4Dlr3/4Az/W/wDqD7ftq/WQ+J8erz49T191P/xKb7r+n4f9cjljhw/5Llj0EHs26+tl/jb7T173
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -8534,7 +8534,7 @@ v4Dlr3/4Az/W/wDqD7ftq/WQ+J8erz49T191P/xKb7r+n4f9cjljhw/5Llj0EHs26+tl/jb7T173
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -8548,7 +8548,7 @@ v4Dlr3/4Az/W/wDqD7ftq/WQ+J8erz49T191P/xKb7r+n4f9cjljhw/5Llj0EHs26+tl/jb7T173
 				<Br/>
 				<Content>When we start to look at images or videos, wherein the players of a football game are reduced to pixels equivalent to the information provided by the drone to its operators {Fig. 18}, or in which the photographer noted was referred to by people as the ‘Lego Tornado’ {Fig. 19} but is more appropriately described as a Tornado fight jet covered in a semi-glitchy livery, we start to see a different approach to glitches and pixelization.</Content>
 				<Br/>
-				<Rectangle Self="u9031" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 49.549868766404316 -74.32480314960647">
+				<Rectangle Self="u9031" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 49.549868766404316 -74.32480314960647">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -9895,7 +9895,7 @@ bXahFLbQaACE/kB9Xv3XumeT/OSf8Hb/AKGPv3XuuHv3Xuve/de697917r3v3Xuv/9k=]]></Graphic
 				</Rectangle>
 				<Content> Fig. 17 Pixelate in the iTunes store</Content>
 				<Br/>
-				<Rectangle Self="u86c5" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 89.22047244094492 -50.247411156288784">
+				<Rectangle Self="u86c5" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 89.22047244094492 -50.247411156288784">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -10494,7 +10494,7 @@ D+zrJqG4Z2BIqQACTxOB0m8hUTxMUhicEKgcFGYnUlyFABC2Lc/149qzUUFP9VD0cKcCn29Jrz1v
 				</Rectangle>
 				<Content> Fig. 18 Neymar goal filmed by a Brazilian Air Force drone</Content>
 				<Br/>
-				<Rectangle Self="u86d4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 89.2204724409449 -60.66992125984253">
+				<Rectangle Self="u86d4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 89.2204724409449 -60.66992125984253">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -11376,7 +11376,7 @@ L/kpf8L40/6s/wDGeg9+hp/6lH/Dvhr/ANXv+qnX/9k=]]></GraphicProxy>
 				<Br/>
 				<Content>Other images such as those from the 2015 parade in China marking the 70th anniversary of the end of WWII {Fig. 20} are even more strikingly strange and distanced from a normative human experience; putting aside the political and military themes, with the subtext running through each of the images discussed in this paragraph, it’s evident that the digital style of the camouflage is entirely counterproductive but assumed contradictorily to be effective. {Fig. 21}</Content>
 				<Br/>
-				<Rectangle Self="u86e4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 72.1768867924541 -76.50750000000131">
+				<Rectangle Self="u86e4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 72.1768867924541 -76.50750000000131">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -12999,7 +12999,7 @@ AAEAAAABAAAAUgEDAAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 				</Rectangle>
 				<Content> Fig. 20 Chinese Tanks in the WWII Victory Celebration in 2015</Content>
 				<Br/>
-				<Rectangle Self="u86f6" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 158.6582413937008 -105.85479542985976">
+				<Rectangle Self="u86f6" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 158.6582413937008 -105.85479542985976">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -17091,7 +17091,7 @@ AAAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -17110,7 +17110,7 @@ AAAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> {Fig. 22}</Content>
 				<Br/>
-				<Rectangle Self="u8709" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 96.58134278215218 -72.43600708661414">
+				<Rectangle Self="u8709" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 96.58134278215218 -72.43600708661414">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -18615,7 +18615,7 @@ UDoBABsBBQABAAAAWDoBABwBAwABAAAAAQAAAFIBAwABAAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -18634,7 +18634,7 @@ UDoBABsBBQABAAAAWDoBABwBAwABAAAAAQAAAFIBAwABAAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Part of the Old Street EC1’s design was the display of Google and YouTube searches in the UK with predictably unruly and offensive results. {Fig. 23}</Content>
 				<Br/>
-				<Rectangle Self="u8717" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 74.99999999999999 -50.000000000000696">
+				<Rectangle Self="u8717" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 74.99999999999999 -50.000000000000696">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -21369,7 +21369,7 @@ AAD0TQIAHAEDAAEAAAABAAAAUgEDAAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -21391,7 +21391,7 @@ AAD0TQIAHAEDAAEAAAABAAAAUgEDAAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -21407,7 +21407,7 @@ AAD0TQIAHAEDAAEAAAABAAAAUgEDAAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -21443,7 +21443,7 @@ AAD0TQIAHAEDAAEAAAABAAAAUgEDAAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -21459,7 +21459,7 @@ AAD0TQIAHAEDAAEAAAABAAAAUgEDAAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -21492,7 +21492,7 @@ AAD0TQIAHAEDAAEAAAABAAAAUgEDAAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -21511,7 +21511,7 @@ AAD0TQIAHAEDAAEAAAABAAAAUgEDAAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> another instance of a seemingly interactive display. {Fig. 25}</Content>
 				<Br/>
-				<Rectangle Self="u92df" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 75 -50.000000000000114">
+				<Rectangle Self="u92df" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 75 -50.000000000000114">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -22070,7 +22070,7 @@ RI29TNo+h4B49uK+r8JH2inVOpP3U/2mvwS+D6avAvm8f2mrV4P89/m/9ovfj68e79bxT516/9k=
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> (2006)</Content>
 				<Br/>
-				<Rectangle Self="u8739" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 155.40944881889766 -103.33075054447983">
+				<Rectangle Self="u8739" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 155.40944881889766 -103.33075054447983">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -33310,7 +33310,7 @@ HAEDAAEAAAABAAAAUgEDAAEAAAABAAoAAAAAAA==]]></GraphicProxy>
 				<Br/>
 				<Content>One problem with either instances of work by the CAVI group is that they are not genuinely intrusive in the way that typical examples of New Aesthetic objects are, in part because they clearly are products produced in response to specific needs and conditions. This does not make CAVI’s work any less interesting, in that it seems clear to us that individuals making New Aesthetic products are exhibiting an awareness of the increasingly pervasive effect of the digitalization of the world on our human experience, but we’re still cautious about the work’s status as New Aesthetic objects. If we want a better example of an object that autonomously controls experience then it would be good to start with the app Cloak, available for smartphone. {Fig. 26}</Content>
 				<Br/>
-				<Rectangle Self="u8745" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 72 -46.421052631578945">
+				<Rectangle Self="u8745" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 72 -46.421052631578945">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -33892,7 +33892,7 @@ AAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -33911,7 +33911,7 @@ AAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> also presents a really interesting instance of a New Aesthetic object in a manner similar to Cloak. {Fig. 27}</Content>
 				<Br/>
-				<Rectangle Self="u8759" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 86.25107012441306 -62.704527980448326">
+				<Rectangle Self="u8759" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 86.25107012441306 -62.704527980448326">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -34766,7 +34766,7 @@ de9+691737r3X//Z]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -34788,7 +34788,7 @@ de9+691737r3X//Z]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -34810,7 +34810,7 @@ de9+691737r3X//Z]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -34835,7 +34835,7 @@ de9+691737r3X//Z]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -34862,7 +34862,7 @@ de9+691737r3X//Z]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -34878,7 +34878,7 @@ de9+691737r3X//Z]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -34891,7 +34891,7 @@ de9+691737r3X//Z]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> states that its mission is to facilitate the discovery of artworks and collections from around the world by as broad an audience as possible. Our first thought would be to embrace this effort; it’s long been a truism that seeing art in museums around the world is an inherently elitist activity, if for no other reason than the financial resources necessary, and Google’s efforts are obviously couched within a democratizing impetus. At the same time, something else occurs when literally millions of examples of art are made easily available through the most prevalent search engine in the world: the experience of art becomes potentially commonplace. This is not an assertion on our part of Walter Benjamin’s description of the loss of aura in his influential chapter ‘The Work of Art in the Age of Mechanical Reproduction’ – which we are, nevertheless, remarkably sympathetic about, and which has been a major influence on the development of our critical perspective – in that we don’t readily subscribe to the idea that the value of artworks is necessarily lessened by their reproduction. Rather, what troubles us is the opportunity for error that inevitably creeps into such a large-scale effort as Google’s, highlighted and embodied in the images curated by Mario Santamaria in his Tumblr ‘The Camera in the Mirror’. {Fig. 28}</Content>
 				<Br/>
-				<Rectangle Self="u876f" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 141.03854389381482 -78.01194459126634">
+				<Rectangle Self="u876f" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 141.03854389381482 -78.01194459126634">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -38420,7 +38420,7 @@ BQABAAAAbP0CABwBAwABAAAAAQAAAFIBAwABAAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -38442,7 +38442,7 @@ BQABAAAAbP0CABwBAwABAAAAAQAAAFIBAwABAAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -38472,7 +38472,7 @@ BQABAAAAbP0CABwBAwABAAAAAQAAAFIBAwABAAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -38488,11 +38488,17 @@ BQABAAAAbP0CABwBAwABAAAAAQAAAFIBAwABAAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the &quot;Filter Bubble&quot; that Protects Us from Opposing Views’, </Content>
+							<Content>	KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the “Filter Bubble</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+							<Content>”</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> that Protects Us from Opposing Views’, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>MIT Technology Review</Content>
@@ -38513,7 +38519,7 @@ BQABAAAAbP0CABwBAwABAAAAAQAAAFIBAwABAAAAAQAKAAAAAAA=]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> {Fig. 30} is part of Vavarella’s ‘Google Trilogy’ as an ongoing effort to explore ‘the relationship between humans, power, and technological errors’. Presented as an art project in a number of galleries, it catalogs a series of images in which Google Maps has failed to accurately represent a specific location. The failures</Content>
 				<Br/>
-				<Rectangle Self="u92f4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 113.38582677165354 -70.91113610798651">
+				<Rectangle Self="u92f4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 113.38582677165354 -70.91113610798651">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -39227,7 +39233,7 @@ AL5/xX+8P2n8J/iP3/8ACv8AcT/Cv+AX8f8A8p+/+x9nWrbvEr4ctPq+Hb8Oj7fhrnoz8NfD/tp6
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> (2014)</Content>
 				<Br/>
-				<Rectangle Self="u8795" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 113.52755905511803 -70.99977502812143">
+				<Rectangle Self="u8795" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 113.52755905511803 -70.99977502812143">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -39949,7 +39955,7 @@ jgYr/m6UFj91b9nw/wAc82ry7e0fefwfX9p/wF83/A70Xt5tf9vxer2gq/8ACeHRhpT+Mfz4evDr
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -39963,7 +39969,7 @@ jgYr/m6UFj91b9nw/wAc82ry7e0fefwfX9p/wF83/A70Xt5tf9vxer2gq/8ACeHRhpT+Mfz4evDr
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u87a5" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 98.52236220472443 -66.9326524184477">
+				<Rectangle Self="u87a5" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 98.52236220472443 -66.9326524184477">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -40462,11 +40468,17 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the &quot;Filter Bubble&quot; that Protects Us from Opposing Views’.</Content>
+							<Content>	KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the “Filter Bubble</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+							<Content>”</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> that Protects Us from Opposing Views’.</Content>
 							<Br/>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
@@ -40478,7 +40490,7 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -40497,7 +40509,7 @@ r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> {Fig. 32}</Content>
 				<Br/>
-				<Rectangle Self="u87b6" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 129.11244094488185 -86.07496062992124">
+				<Rectangle Self="u87b6" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 129.11244094488185 -86.07496062992124">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -41503,7 +41515,7 @@ rsb7dn+MfZ1ROH59CL7Z6v1737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -41527,7 +41539,7 @@ rsb7dn+MfZ1ROH59CL7Z6v1737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -41549,7 +41561,7 @@ rsb7dn+MfZ1ROH59CL7Z6v1737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -41565,7 +41577,7 @@ rsb7dn+MfZ1ROH59CL7Z6v1737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -41587,7 +41599,7 @@ rsb7dn+MfZ1ROH59CL7Z6v1737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -41609,7 +41621,7 @@ rsb7dn+MfZ1ROH59CL7Z6v1737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -41628,7 +41640,7 @@ rsb7dn+MfZ1ROH59CL7Z6v1737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> {Fig. 33} it’s clear that search results themselves are offensive. {Fig. 34}</Content>
 				<Br/>
-				<Rectangle Self="u87d4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 58.646708838361484 -82.8501124859392">
+				<Rectangle Self="u87d4" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 58.646708838361484 -82.8501124859392">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -45608,7 +45620,7 @@ BQABAAAASGADABwBAwABAAAAAQD//1IBAwABAAAAAQD//zWCAQABAAAAAAAAAAAAAAA=]]></Graphic
 				</Rectangle>
 				<Content> Fig. 33 Memac Ogilvy and Mather Dubai for UN Women (2015)</Content>
 				<Br/>
-				<Rectangle Self="u87e1" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 58.650020333349104 -82.91685414323216">
+				<Rectangle Self="u87e1" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="0.9999999999999999 0 0 0.9999999999999999 58.650020333349104 -82.91685414323216">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -46698,7 +46710,7 @@ eQ6x1v8Am3/1z/0O3t88D1d/iPQFbh/4HN/waT/of2vtP7Povf4j0w+1XVeve/de67H1H+uP979+
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -46722,7 +46734,7 @@ eQ6x1v8Am3/1z/0O3t88D1d/iPQFbh/4HN/waT/of2vtP7Povf4j0w+1XVeve/de67H1H+uP979+
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -46762,7 +46774,7 @@ eQ6x1v8Am3/1z/0O3t88D1d/iPQFbh/4HN/waT/of2vtP7Povf4j0w+1XVeve/de67H1H+uP979+
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -46787,7 +46799,7 @@ eQ6x1v8Am3/1z/0O3t88D1d/iPQFbh/4HN/waT/of2vtP7Povf4j0w+1XVeve/de67H1H+uP979+
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -46808,7 +46820,7 @@ eQ6x1v8Am3/1z/0O3t88D1d/iPQFbh/4HN/waT/of2vtP7Povf4j0w+1XVeve/de67H1H+uP979+
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -46824,7 +46836,7 @@ eQ6x1v8Am3/1z/0O3t88D1d/iPQFbh/4HN/waT/of2vtP7Povf4j0w+1XVeve/de67H1H+uP979+
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -46851,7 +46863,7 @@ eQ6x1v8Am3/1z/0O3t88D1d/iPQFbh/4HN/waT/of2vtP7Povf4j0w+1XVeve/de67H1H+uP979+
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> project by Juha van Ingen in collaboration with Janne Särkelä, which consists of a GIF viewable only over a thousand years showing 48,140,288 frames changing every ten minutes, is an artistic work that is clearly unfeasible. {Fig. 38}</Content>
 				<Br/>
-				<Rectangle Self="u9371" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1.0000000000000002 0 0 1.0000000000000002 77.24409448818895 -54.755307485298495">
+				<Rectangle Self="u9371" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1.0000000000000002 0 0 1.0000000000000002 77.24409448818895 -54.755307485298495">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -48630,7 +48642,7 @@ AQAAAMh3AQAbAQUAAQAAANB3AQAcAQMAAQAAAAEAAABSAQMAAQAAAAEACgAAAAAA]]></GraphicProx
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, ‘Starry Night’ (2014)</Content>
 				<Br/>
-				<Rectangle Self="u8822" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75.11811023622043 -56.38276980083368">
+				<Rectangle Self="u8822" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75.11811023622043 -56.38276980083368">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -50296,7 +50308,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAEACgAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -50309,7 +50321,7 @@ AQMAAQAAAAEAAABSAQMAAQAAAAEACgAAAAAA]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> a recently developed app for iOS, is in many respects the perfect instance that alters our relationship with photographic objects and that, perhaps, is also a product of efforts resisting the New Aesthetic. {Fig. 39}</Content>
 				<Br/>
-				<Rectangle Self="u8831" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="true" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 92.6929133858268 -56.59662542182228">
+				<Rectangle Self="u8831" ContentType="GraphicType" StoryTitle="$ID/" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 92.6929133858268 -56.59662542182228">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -51073,7 +51085,7 @@ ufii/wBL1Yx0vfxUl/vL/bx3vo1W+4f/ADejjRb9Fuden839jzlzgOPD/Pw6jXff9F4U+XDh59G9
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -51119,7 +51131,7 @@ ufii/wBL1Yx0vfxUl/vL/bx3vo1W+4f/ADejjRb9Fuden839jzlzgOPD/Pw6jXff9F4U+XDh59G9
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -51135,7 +51147,7 @@ ufii/wBL1Yx0vfxUl/vL/bx3vo1W+4f/ADejjRb9Fuden839jzlzgOPD/Pw6jXff9F4U+XDh59G9
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -51163,7 +51175,7 @@ ufii/wBL1Yx0vfxUl/vL/bx3vo1W+4f/ADejjRb9Fuden839jzlzgOPD/Pw6jXff9F4U+XDh59G9
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">

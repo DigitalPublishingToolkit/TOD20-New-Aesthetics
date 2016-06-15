@@ -10,8 +10,9 @@ in the subsequent chapters devoted to studying glitches in digital
 media, consumer software and hardware ecosystems, artistic interventions
 and works of art. {Fig. 40} 
 
-![](img/Fig040.tiff)   
-Fig. 40 Nicolas Maigret, *The PirateCinema* (2014)
+![](img/Fig040.png)   
+Fig. 40 Nicolas Maigret, *The Pirate
+Cinema* (2014)
 
 The glitch is a result of the ‘attitude’
 (Bridle’s characterization) that drives the New Aesthetic; it is a
@@ -27,11 +28,11 @@ Goriunova and Alexei Shulgin write that
 > machine. A glitch appears as a defect (a voltage-change or signal of
 > the wrong duration – a change of input) in an electrical circuit.
 > Thus, a glitch is a short-term deviation from a correct value and as
-> such the term can also describe hardware malfunctions.[^1]
+> such the term can also describe hardware malfunctions.[^03-Chap3_03-Chap3_1]
 
 From the aesthetic perspective glitches can be ‘claimed to be a
 manifestation of genuine software aesthetics’ as they reveal the
-computational nature of the digital image.[^2] There is even a sense
+computational nature of the digital image.[^03-Chap3_03-Chap3_2] There is even a sense
 that the glitch is a challenge to the moral or ethical status of the
 digital object’s use, in that it manifests an incorrect value
 contradicting the user’s expectations. Glitch aesthetics has been
@@ -49,7 +50,7 @@ the software’s influence on the aesthetics of digital image:
 > Just as digital technologies and software mediate our experience and
 > engagement with the world, often invisibly, so the “digital” and
 > “software” is itself mediated and made visible through the
-> representational forms of pixelation and glitch.[^3]
+> representational forms of pixelation and glitch.[^03-Chap3_03-Chap3_3]
 
 In this sense, glitches are more than just a manifestation of a coding
 error or the result of inputted data from the user; they are both an
@@ -70,7 +71,7 @@ gives examples of such situations:
 > announce an encounter with media. When it shows itself, the spell is
 > broken. In retrospect, immediacy turns out to be a matter of unnoticed
 > and concealed mediation, revealing itself now in the split into a
-> faltering medium and a stammering message.[^4]
+> faltering medium and a stammering message.[^03-Chap3_03-Chap3_4]
 
 In focusing on the appearances of glitches and miscalculations in New
 Aesthetic objects, we believe that at least part of its nature is
@@ -88,7 +89,7 @@ checked for overflow, and memory is managed automatically.’
 
 On the aesthetic level they seem to address the approach taken by many
 proponents of the New Aesthetic. For Matt Jones the New Aesthetic
-encourages us to ‘see the grain of computation’[^5] in everyday
+encourages us to ‘see the grain of computation’[^03-Chap3_03-Chap3_5] in everyday
 interaction not only with the digital but with the physical world as
 well. The ‘grain of computation’ would be these specific aesthetic
 patterns associated with the digital that are becoming visible through
@@ -99,10 +100,10 @@ resolution, seamless user interfaces and ubiquitous systems that Peter
 Knapp names the ‘era of noise canceling’, the New Aesthetic
 manifestations, and particularly glitches, unveil the limitations of the
 computational through something that Kim Cascone calls the ‘aesthetics
-of failure’.[^6]
+of failure’.[^03-Chap3_03-Chap3_6]
 
 Both glitch studies and the New Aesthetic seem to share the spirit of a
-‘critical trans-media aesthetics’[^7] as understood by Rosa Menkman, the
+‘critical trans-media aesthetics’[^03-Chap3_03-Chap3_7] as understood by Rosa Menkman, the
 author of the *Glitch Art Manifesto* (2010) and the *Glitch Momentum*
 (2011).
 
@@ -111,7 +112,7 @@ author of the *Glitch Art Manifesto* (2010) and the *Glitch Momentum*
 > aesthetics critique the medium (genre, interface and expectations)
 > \[…\] They challenge its inherent politics and the established
 > template of creative practice while producing a theory of
-> reflection.[^8]
+> reflection.[^03-Chap3_03-Chap3_8]
 
 Menkman suggests that glitch aesthetics offer more than just interesting
 and attractive visual experiences. They give us a new perspective on
@@ -133,7 +134,7 @@ with glitches digital media seem universally equivalent. All digital
 objects are susceptible to unwanted, sudden errors that lead to visual
 glitches. The reason for this is the fact that the very conditions for
 glitch aesthetics are structured by core properties of computer-based
-media enumerated by Lev Manovich in his *The Language of New Media.*[^9]
+media enumerated by Lev Manovich in his *The Language of New Media.*[^03-Chap3_03-Chap3_9]
 Manovich argues that all digital media share some common properties,
 which are deeply rooted in their numerical nature. Consequently, all
 digital images are discrete since they are broken and then displayed as
@@ -195,7 +196,7 @@ glitches and errors.
 > constraints, technologies make it easier to do some things, rather
 > than others, and either easier or more difficult to communicate
 > certain messages. Errors can help reveal these hidden constraints and
-> the power that technology imposes. [^10]
+> the power that technology imposes. [^03-Chap3_03-Chap3_10]
 
 In other words, Hill argues that glitches do reveal the boundaries of
 the digital sandbox that a user usually plays in while being enchanted
@@ -203,7 +204,7 @@ by supposed limitless creative possibilities and perfect visual
 representations that come with user-oriented software and systems.
 ‘Through noise, through anomalies, we are able to decipher a range of
 crucial issues concerning politics, aesthetics and cultural processes of
-media.’[^11] Parikka goes even further, saying that a critical
+media.’[^03-Chap3_03-Chap3_11] Parikka goes even further, saying that a critical
 examination of anomalies and noise in digital media can be a starting
 point for a more broad analysis of the impact of the computational on
 society and culture. Parikka seems to follow an important line of
@@ -224,7 +225,7 @@ a particular organization of digital spaces:
 > software’s inner structure, whether it is a mechanism of data
 > compression or HTML code. Although a glitch does not reveal the true
 > functionality of the computer, it shows the ghostly conventionality of
-> the forms by which digital spaces are organized.[^12]
+> the forms by which digital spaces are organized.[^03-Chap3_03-Chap3_12]
 
 Goriunova and Schulgin understand glitches and errors as unique
 epistemic micro-states that offer a chance to critically assess the
@@ -237,7 +238,7 @@ layered structure of the computational, but also make clear the
 limitations of the programmability of the digital. Mark Nunes and
 Benjamin Mako follow a similar logic, emphasizing the importance of
 opening the computational ‘black boxes’ for making possible a critical
-analysis of HCI.[^13] The scholars claim that errors that provide clear
+analysis of HCI.[^03-Chap3_03-Chap3_13] The scholars claim that errors that provide clear
 views into black boxes provide a view into some of what we might be
 missing. However, they also emphasize that glitches may be of vital
 importance for making the users aware of the great formational power of
@@ -246,7 +247,7 @@ digital technologies.
 Given the growing dominance of this ideology of informatic control,
 error provides us with an important critical lens for understanding what
 it means to live within a network society. Error reveals not only a
-system’s failure, but also its operational logic.[^14] David M. Berry,
+system’s failure, but also its operational logic.[^03-Chap3_03-Chap3_14] David M. Berry,
 similarly to Goriunova and Schulgin, claims that glitches do introduce a
 specific phenomenological condition that enables a user to interact with
 the computational in a state of failure. Berry conceptualizes this
@@ -259,12 +260,12 @@ interaction.
 > slowing down at the level of the experience of the user. This is
 > suggestive of the possibility for a micro-phenomenology that could
 > fully explore the breaks in perception that the computer
-> generates.[^15]
+> generates.[^03-Chap3_03-Chap3_15]
 >
 > \[…\] just as digital technologies and software mediate our experience
 > and engagement with the world, often invisibly, so the “digital” and
 > “software” is itself mediated and made visible through the
-> representational forms of pixelation and glitch.[^16]
+> representational forms of pixelation and glitch.[^03-Chap3_03-Chap3_16]
 
 Berry emphasizes the importance of glitches for bringing to the
 forefront the layered nature of computational technologies. However
@@ -285,11 +286,11 @@ society and culture which will lead to ultimate synchronization with, or
 better, to subordination to the digital. This should be understood as an
 era when cultural and social practices are both rooted in and bound by
 digital technology – e.g. the various types of hardware, software,
-distributed networks or interaction paradigms.[^17] Lev Manovich in his
+distributed networks or interaction paradigms.[^03-Chap3_03-Chap3_17] Lev Manovich in his
 *Software Takes Command* argues that even now we rely on software and
 hardware to create, transform and distribute information to such an
 extent that our society should rather be characterized as software
-society.[^18]
+society.[^03-Chap3_03-Chap3_18]
 
 The media studies, digital art and critical theory scholars cited above
 are intrigued by the critical potential of glitch aesthetics. On the one
@@ -307,7 +308,7 @@ in new human-computer interaction paradigms and digital image aesthetic.
 This evolution has left an imprint on the way glitches manifest
 themselves in everyday interaction with digital media based on real-time
 and cloud-based computational technologies, ubiquitous computing and
-autonomous systems.[^19] Postdigital glitch studies should, similarly to
+autonomous systems.[^03-Chap3_03-Chap3_19] Postdigital glitch studies should, similarly to
 the New Aesthetic, critically challenge the mainstream technological
 narratives that were founded on the latest technological innovation,
 including the illusion of seamless interaction, automation and perfect
@@ -390,7 +391,7 @@ theory of ‘ontological levels of the computational’ advocated in
 > distinctly insubstantial and non-thing-like fashion. In doing so,
 > Heidegger illuminates the seemingly intangible but actually
 > fundamental phenomenological aspects of mediated things – those things
-> we commonly experience as “equipment”.[^20]
+> we commonly experience as “equipment”.[^03-Chap3_03-Chap3_20]
 
 Heidegger argues that things are actual things acquiring their proper
 ‘thingly character’ only when they are used for a particular purpose.
@@ -399,16 +400,16 @@ The thing is then available as ‘ready-to-hand’. However, its unique
 work, as we can’t grasp it only through its appearance. He explicitly
 states that ‘no matter how sharply we look at the “outward appearance”
 of Things in whatever form this takes, we cannot discover anything
-ready-to-hand’.[^21] The specific mode of being that belongs to the
-thing appears as a using of something for something.[^22] Heidegger’s
+ready-to-hand’.[^03-Chap3_03-Chap3_21] The specific mode of being that belongs to the
+thing appears as a using of something for something.[^03-Chap3_03-Chap3_22] Heidegger’s
 famous example of this logic is a hammer and a nail. The specific
 thingness (manipulability) of the hammer is unveiled through putting it
-to actual work – nailing the nail. [^23] The process of putting the
+to actual work – nailing the nail. [^03-Chap3_03-Chap3_23] The process of putting the
 things to actual work disclose them and their thingness to the user.
 David Gunkel and Paul A. Taylor argue that if we’d follow Heidegger’s
 line of reasoning we would conclude that ‘Readiness-to-hand is therefore
 not just a temporary attitude or viewpoint we adopt with regards to
-things. It acts to define the very being of things as things.’[^24] The
+things. It acts to define the very being of things as things.’[^03-Chap3_03-Chap3_24] The
 Readiness-to-hand defines things both ontologically and categorically.
 From the perspective of media and communication studies, the things
 should then be understood as intermediary means to and end or simply
@@ -419,7 +420,7 @@ and its thingness become transparent or unremarkable. The tool follows
 the logic of immediacy, being a mere mean to an end. ‘The paradox of the
 ready-to-hand is therefore the fact that in its most authentic form, it
 necessarily withdraws from direct view’, Gunkel and Taylor
-write.[^25]<span id="_Toc321914099" class="anchor"><span
+write.[^03-Chap3_03-Chap3_25]<span id="_Toc321914099" class="anchor"><span
 id="_Toc321914205" class="anchor"></span></span>The Glitch as
 Non-operative Modi
 
@@ -431,12 +432,12 @@ consumer-oriented computing, the visionaries of the computing age
 envisioned computers as tools that would serve as autonomous machines
 that would assist humans in storing, processing and accessing
 information. From an electromechanical device called Memex, described in
-‘As We May Think’ by Vannevar Bush,[^26] through Sketchpad designed by
-Ivan E. Sutherland in 1963[^27] and PARC User Interface (Xerox 8010 Star
+‘As We May Think’ by Vannevar Bush,[^03-Chap3_03-Chap3_26] through Sketchpad designed by
+Ivan E. Sutherland in 1963[^03-Chap3_03-Chap3_27] and PARC User Interface (Xerox 8010 Star
 Information System) from the early 1980s to various modifications of the
 personal computers from the 1990s: all have been designed with the
 principle to ‘augment the human intellect’, while being as transparent
-as possible.[^28] The logic of the immediacy of the computational has
+as possible.[^03-Chap3_03-Chap3_28] The logic of the immediacy of the computational has
 prevailed even more in the age of ubiquitous computing, cloud-based and
 multi-device ecosystems. Their ultimate readiness-to-hand is a necessary
 condition of their actual interoperability and versatility. They are
@@ -450,12 +451,12 @@ ready-to-hand may be met as something unusable, not properly adapted for
 the use we have decided upon. \[…\] we discover its unusability,
 however, not by looking at it and establishing its properties, but
 rather by the circumspection of the dealings in which we use
-it’.[^29]Gunkel and Taylor also emphasize the fact that the evolution
+it’.[^03-Chap3_03-Chap3_29]Gunkel and Taylor also emphasize the fact that the evolution
 from being ready-to-hand to present-to-hand of certain tools, takes
 place not in the user’s perception of a tool, but through putting it to
 actual use. ‘Something becomes present-at-hand when the thing in
 question fails to work, breaks down or interrupts the smooth functioning
-of what had been already handy and ready-to-hand.’[^30] If we return to
+of what had been already handy and ready-to-hand.’[^03-Chap3_03-Chap3_30] If we return to
 our broader understanding of the New Aesthetic, described as a
 theoretical approach that takes to the forefront of our perception the
 conditions of existence of the computational in the postdigital age
@@ -478,7 +479,7 @@ defective. The state of unreadiness-to-hand goes far beyond a mere
 problem of incalculability. Something – a tool, device, application – is
 *conspicuous* when it becomes unusable. Unusability means in this
 context a situation when a thing no longer serves the use for which it
-was initially designed.[^31] It is not just about breaking the seamless
+was initially designed.[^03-Chap3_03-Chap3_31] It is not just about breaking the seamless
 interaction and utility paradigm in partially working machines or
 software. The conspicuousness is a result of a complete failure of the
 computational, a situation in which a user is confronted with a broken
@@ -486,7 +487,7 @@ piece of hardware, or an application that fails to launch.A thing
 becomes *obtrusive* when it is missing. As Heidegger argues, the thing
 is then not ‘handy’ but is not ‘to hand’ at all. The more we need what
 is missing to perform a task, the more intensive it enters into the
-state of obtrusiveness.[^32] The problem of obtrusiveness occurs when
+state of obtrusiveness.[^03-Chap3_03-Chap3_32] The problem of obtrusiveness occurs when
 for example a certain media file cannot be opened or processed due to
 lack of a specific codec, or when a cloud-based application cannot
 access data which is stored on the remote server. The state of
@@ -501,7 +502,7 @@ variation of unreadiness-to-hand is the state of *obstinacy*. The
 and interrupts our activities. Anything which is un-ready-to-hand in
 this way is disturbing to us, and enables us to see the obstinacy of
 that with which we must concern ourselves first before we do anything
-else.[^33] If we were to study glitch in the light of obstinacy, we
+else.[^03-Chap3_03-Chap3_33] If we were to study glitch in the light of obstinacy, we
 could claim that a glitch is an unexpected deviation from the intended
 functioning of a computational system which prevents the user from
 completing the task (in a usual manner). However, the state of obstinacy
@@ -530,7 +531,7 @@ and the New Aesthetic.
 > computation as opposed to other technical forms (Berry 2011a). This is
 > the glitch that creates the conspicuousness that breaks the everyday
 > experience of things, and more importantly breaks the flow of things
-> being readily at hand.[^34]
+> being readily at hand.[^03-Chap3_03-Chap3_34]
 
 Following Heidegger’s analysis we could conclude that glitches which
 occur in contemporary computational systems can be characterized as
@@ -563,7 +564,7 @@ technological world into six different categories:
 > institutions, economies, culture, etc.)
 >
 > 6 Individuational: Stratification of embodied personality (the
-> psychology of actors, the user, etc.) [^35]
+> psychology of actors, the user, etc.) [^03-Chap3_03-Chap3_35]
 
 If we were to look again at the constellation of the various visual
 phenomena associated with the New Aesthetic – glitches in software and
@@ -600,15 +601,15 @@ encountered across ‘ontological levels of the computational’.
 Clement Valla, a New York-based artist, has critically analyzed glitches
 in Google Earth, which appear as distorted images of the earth’s surface
 i.e. drooping roads and bridges. His analysis resulted in the ‘Universal
-Texture’ artwork presented in 2012.[^36] According to Valla, Google uses
+Texture’ artwork presented in 2012.[^03-Chap3_03-Chap3_36] According to Valla, Google uses
 the Universal Texture mapping system which applies hybrid images, a
 patchwork of two-dimensional photographic data and three-dimensional
 topographic data extracted from a slew of sources, data-mined,
 pre-processed, blended and merged in real-time in order to create this
 particular god-like fluid planetary navigation system – Google
-Earth.[^37] {Fig. 41} 
+Earth.[^03-Chap3_03-Chap3_37] {Fig. 41} 
 
-![](img/Fig041.tiff)   
+![](img/Fig041.png)   
 Fig. 41 Clement Valla, *Postcards from Google Earth* (2010–)
 
 Valla argues that drooping roads and bridges, and
@@ -639,98 +640,102 @@ ever-changing postdigital technologies is one of the few practices that
 enable us to critically reflect on the development of flux technologies
 of the postdigital age.
 
-[^1]: Olga Goriunova and Alexei Shulgin, ‘Glitch’, in Matthew Fuller
+[^03-Chap3_03-Chap3_1]: Olga Goriunova and Alexei Shulgin, ‘Glitch’, in Matthew Fuller
     (ed.) *Software Studies: a Lexicon*, London: MIT Press, 2008, p.
     110.
 
-[^2]: Goriunova and Shulgin, ‘Glitch’.
+[^03-Chap3_03-Chap3_2]: Goriunova and Shulgin, ‘Glitch’.
 
-[^3]: Berry et al. *New Aesthetic, New Anxieties,* p. 43.
+[^03-Chap3_03-Chap3_3]: Berry et al. *New Aesthetic, New Anxieties,* p. 43.
 
-[^4]: van den Boomen, *Transcoding the Digital*, p. 65.
+[^03-Chap3_03-Chap3_4]: van den Boomen, *Transcoding the Digital*, p. 65.
 
-[^5]: Matt Jones,’Sensor-Vernacular’, *Berg London blog*, 13 May 2011
-    2011, http://berglondon.com/blog/2011/05/13/sensor-vernacular/.
+[^03-Chap3_03-Chap3_5]: Matt Jones,’Sensor-Vernacular’, *Berg London blog*, 13 May 2011
+    2011, <http://berglondon.com/blog/2011/05/13/sensor-vernacular/>.
 
-[^6]: Kim Cascone, ‘The Aesthetics of Failure: Post-Digital Tendencies
+[^03-Chap3_03-Chap3_6]: Kim Cascone, ‘The Aesthetics of Failure: Post-Digital Tendencies
     in Contemporary Computer Music’, *subsol*, 24 April 2004,
-    http://subsol.c3.hu/subsol\_2/contributors3/casconetext.html.
+    <http://subsol.c3.hu/subsol\_2/contributors3/casconetext.html>.
 
-[^7]: Rosa Menkman, *Glitch Studies Manifesto*, *Sunshine in My Throat*,
+[^03-Chap3_03-Chap3_7]: Rosa Menkman, *Glitch Studies Manifesto*, *Sunshine in My Throat*,
     2009/2010, p. 8, 9, 11.
-    http://rosa-menkman.blogspot.com/2010/02/glitch-studies-manifesto.html.
+    <http://rosa-menkman.blogspot.com/2010/02/glitch-studies-manifesto.html>.
 
-[^8]: Menkman, *Glitch Studies Manifesto*, p. 8.
+[^03-Chap3_03-Chap3_8]: Menkman, *Glitch Studies Manifesto*, p. 8.
 
-[^9]: Manovich, *The Language of New Media*, pp. 246-250.
+[^03-Chap3_03-Chap3_9]: Manovich, *The Language of New Media*, pp. 246-250.
 
-[^10]: Benjamin Mako Hill, ‘Revealing Errors’ in Mark Nunes (ed.) *Error
+[^03-Chap3_03-Chap3_10]: Benjamin Mako Hill, ‘Revealing Errors’ in Mark Nunes (ed.) *Error
     Glitch, Noise, and Jam in New Media Cultures,* New York and London:
     Continuum, 2011, p. 29.
 
-[^11]: Jussi Parikka, *What is Media Archaeology?*, Cambridge: Polity,
+[^03-Chap3_03-Chap3_11]: Jussi Parikka, *What is Media Archaeology?*, Cambridge: Polity,
     2012, p. 110.
 
-[^12]: Goriunova and Schulgin, ‘Glitch’, p. 114. (110-1119).
+[^03-Chap3_03-Chap3_12]: Goriunova and Schulgin, ‘Glitch’, p. 114. (110-1119).
 
-[^13]: Mako Hill, ‘Revealing Errors’, p. 39.
+[^03-Chap3_03-Chap3_13]: Mako Hill, ‘Revealing Errors’, p. 39.
 
-[^14]: Mark Nunes (ed.) *Error Glitch, Noise, and Jam in New Media
+[^03-Chap3_03-Chap3_14]: Mark Nunes (ed.) *Error Glitch, Noise, and Jam in New Media
     Cultures*, New York and London: Continuum, 2011, p. 3.
 
-[^15]: Berry, *Critical Theory and the Digital*, p. 99.
+[^03-Chap3_03-Chap3_15]: Berry, *Critical Theory and the Digital*, p. 99.
 
-[^16]: Berry, *Critical Theory and the Digital*, p. 159.
+[^03-Chap3_03-Chap3_16]: Berry, *Critical Theory and the Digital*, p. 159.
 
-[^17]: Berry, *Philosophy of Software Code and Mediation in a Digital
+[^03-Chap3_03-Chap3_17]: Berry, *Philosophy of Software Code and Mediation in a Digital
     Age*, p. 27.
 
-[^18]: Manovich, *Software Takes Command*, p. 147.
+[^03-Chap3_03-Chap3_18]: Manovich, *Software Takes Command*, p. 147.
 
-[^19]: Berry, *Critical Theory and the Digital*, p. 38.
+[^03-Chap3_03-Chap3_19]: Berry, *Critical Theory and the Digital*, p. 38.
 
-[^20]: David Gunkel and Paul A. Taylor, *Heidegger and the Media,*
+[^03-Chap3_03-Chap3_20]: David Gunkel and Paul A. Taylor, *Heidegger and the Media,*
     Cambridge: Polity, 2014, p. 98.
 
-[^21]: Martin Heidegger, *Being and Time*, trans. John Macquarrie &
+[^03-Chap3_03-Chap3_21]: Martin Heidegger, *Being and Time*, trans. John Macquarrie &
     Edward Robinson, Oxford: Basil Blackwell, 1962, p. 98.
 
-[^22]: Heidegger, *Being and Time*, p. 100.
+[^03-Chap3_03-Chap3_22]: Heidegger, *Being and Time*, p. 100.
 
-[^23]: Heidegger, *Being and Time*, p. 98.
+[^03-Chap3_03-Chap3_23]: Heidegger, *Being and Time*, p. 98.
 
-[^24]: Gunkel and Taylor, *Heidegger and the Media*, p. 103.
+[^03-Chap3_03-Chap3_24]: Gunkel and Taylor, *Heidegger and the Media*, p. 103.
 
-[^25]: Gunkel and Taylor, *Heidegger and the Media*, p. 104.
+[^03-Chap3_03-Chap3_25]: Gunkel and Taylor, *Heidegger and the Media*, p. 104.
 
-[^26]: Vannevar Bush, ‘As We May Think’, in Noah Wardrip-Fruin and Nick
+[^03-Chap3_03-Chap3_26]: Vannevar Bush, ‘As We May Think’, in Noah Wardrip-Fruin and Nick
     Montfort (eds) *The New Media Reader*, Cambridge/London: MIT Press,
     2003, pp. 44-46.
 
-[^27]: Evan E. Sutherland, ‘Sketchpad: A Man-Machine Graphical
+[^03-Chap3_03-Chap3_27]: Evan E. Sutherland, ‘Sketchpad: A Man-Machine Graphical
     Communication System’, in Noah Wardrip-Fruin and Nick Montfort (eds)
     *The New Media Reader*, Cambridge/London: MIT Press, 2003, pp.
     109-126.
 
-[^28]: Douglas Engelbart, ‘A Research Center for Augmenting Human
+[^03-Chap3_03-Chap3_28]: Douglas Engelbart, ‘A Research Center for Augmenting Human
     Intellect’, in Noah Wardrip-Fruin and Nick Montfort (eds) *The New
     Media Reader*, Cambridge/London: MIT Press, 2003, pp. 233-246.
 
-[^29]: Heidegger, *Being and Time,* p. 102.
+[^03-Chap3_03-Chap3_29]: Heidegger, *Being and Time,* p. 102.
 
-[^30]: Gunkel and Taylor, *Heidegger and the Media*, p. 106.
+[^03-Chap3_03-Chap3_30]: Gunkel and Taylor, *Heidegger and the Media*, p. 106.
 
-[^31]: Heidegger, *Being and Time*, p. 102.
+[^03-Chap3_03-Chap3_31]: Heidegger, *Being and Time*, p. 102.
 
-[^32]: Heidegger, *Being and Time*, p. 103.
+[^03-Chap3_03-Chap3_32]: Heidegger, *Being and Time*, p. 103.
 
-[^33]: Heidegger, *Being and Time*, p. 103.
+[^03-Chap3_03-Chap3_33]: Heidegger, *Being and Time*, p. 103.
 
-[^34]: Berry, *Critical Theory and the Digital*, p. 99.
+[^03-Chap3_03-Chap3_34]: Berry, *Critical Theory and the Digital*, p. 99.
 
-[^35]: Berry, *Critical Theory and the Digital*, p. 58.
+[^03-Chap3_03-Chap3_35]: Berry, *Critical Theory and the Digital*, p. 58.
 
-[^36]: Clement Valla, ‘The Universal Texture’, *Clement Valla*,
-    http://clementvalla.com/work/the-universal-texture-recreated-46423-50n-1202628-59w/.
+[^03-Chap3_03-Chap3_36]: Clement Valla, ‘The Universal Texture’, *Clement Valla*,
+    <http://clementvalla.com/work/the-universal-texture-recreated-46423-50n-1202628-59w/>.
 
-[^37]: Clement Valla, ‘The Universal Texture’.
+[^03-Chap3_03-Chap3_37]: Clement Valla, ‘The Universal Texture’.
+
+ <br></br> 
+ <br></br> 
+ <br></br> 

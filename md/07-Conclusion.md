@@ -3,13 +3,13 @@
 *shardcore* {Fig. 117} is a collection of projects by Eric Drass, an
 artist and curator who aptly describes his work as such: ‘Sometimes this
 work is political, frequently it is playful, often it is provocative or
-transgressive in some way.’[^1] 
+transgressive in some way.’[^07-Conclusion_1] 
 
-![](img/Fig117.tiff)   
+![](img/Fig117.png)   
 Fig. 117 Eric Drass, *shardcore* (2016)
 
 In March 2016, Drass launched the
-‘Glitch News Network’[^2] that consists of conglomerations of the day’s
+‘Glitch News Network’[^07-Conclusion_2] that consists of conglomerations of the day’s
 news in visual form assembled into a video 2000 microseconds in length
 that is undecipherable at a conscious level but entirely decipherable at
 an unconscious level with only the briefest moments of recognition
@@ -24,7 +24,7 @@ enhances our survivability; he’s correct, but the extension of this is
 that the digital representation of information can be equally sped up.
 ‘The Glitch News Network perhaps offers a glimpse of the future, where
 we further disengage from our conscious central executor and merely
-stream blipverts at our subconscious.’[^3] Drass’ project is clearly a
+stream blipverts at our subconscious.’[^07-Conclusion_3] Drass’ project is clearly a
 little sardonic, but the point is well taken in this remarkably
 intelligent art work: it’s not just simply that we, as human beings,
 have evolved to process information quickly but that the information
@@ -36,7 +36,7 @@ extendable beyond his words when he writes: ‘After the novel, and
 subsequently cinema privileged narrative as the key form of cultural
 expression of the modern age, the computer age introduces its correlate
 – database. But it is also appropriate that we would want to develop
-poetics, aesthetics, and ethics of this database.’[^4]
+poetics, aesthetics, and ethics of this database.’[^07-Conclusion_4]
 
 In taking a broader overview than we have, focusing on software, Lev
 Manovich recently wrote: ‘I am interested in how software appears to
@@ -44,7 +44,7 @@ users – i.e. what *functions* it offers to create, share, reuse, mix,
 create, manage, share and communicate content, the *interfaces* used to
 present these functions, and *assumptions and models about a user,
 her/his needs, and society* encoded in these functions and their
-interface design.’[^5] Our approach has been very similar, if a little
+interface design.’[^07-Conclusion_5] Our approach has been very similar, if a little
 more focused on a particular set of objects as the outcomes of software,
 in line with one piece of art by Metahaven that declares *The Future Of
 Soft Power Depends On A Handful Of Pixels*, part of the *Disposable
@@ -95,18 +95,21 @@ has become so independent from the creators’ full control in our
 postdigital world that it has asserted an autonomy of its own. And,
 therein, can be found the New Aesthetic.
 
-[^1]: Eric Drass, *shardcore*, ‘About shardcore.org: bio’,
-    http://www.shardcore.org/shardpress/about-shardcoreorg/.
+[^07-Conclusion_1]: Eric Drass, *shardcore*, ‘About shardcore.org: bio’,
+    <http://www.shardcore.org/shardpress/about-shardcoreorg/>.
 
-[^2]: Eric Drass, *shardcore*, ‘Glitch New Network’, 2 March 2016,
-    http://www.shardcore.org/shardpress/2016/03/02/glitch-news-network/.
+[^07-Conclusion_2]: Eric Drass, *shardcore*, ‘Glitch New Network’, 2 March 2016,
+    <http://www.shardcore.org/shardpress/2016/03/02/glitch-news-network/>.
 
-[^3]: Eric Drass, *shardcore*.
+[^07-Conclusion_3]: Eric Drass, *shardcore*.
 
-[^4]: Manovich, *The Language of New Media*, p. 219.
+[^07-Conclusion_4]: Manovich, *The Language of New Media*, p. 219.
 
-[^5]: Manovich, *Software Takes Command*, p. 29.
+[^07-Conclusion_5]: Manovich, *Software Takes Command*, p. 29.
 
+ <br></br> 
+ <br></br> 
+ <br></br> 
 
 
 

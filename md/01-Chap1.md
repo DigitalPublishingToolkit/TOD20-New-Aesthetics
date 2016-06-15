@@ -1,4 +1,4 @@
-#Chapter 1 The Case for the New Aesthetic
+#Chapter 1: The Case for the New Aesthetic  
 
 In September 2014 at the Emmanuel Gallery on the Auraria Campus in
 Denver, Colorado, an exhibition titled ‘The Emperor’s New Aesthetic’
@@ -9,16 +9,16 @@ poke fun at the burgeoning institutionalization of “the new aesthetic”,
 “post-internet” and “new-media” art in general, while still
 acknowledging the potential for cultural, political, economic and
 aesthetic intervention inherent in control of access / protocols /
-networks.’[^1] Obviously, we take issue with that premise. The New
+networks.’[^01-Chap1_1] Obviously, we take issue with that premise. The New
 Aesthetic, we believe, is a recent and important phenomenon, permeating
 much of everyday life as well as more rarified circles in academia and
 the art world; a perfect example of this is the proposed new designs of
-Norwegian banknotes that were revealed in October 2014[^2] and which use
+Norwegian banknotes that were revealed in October 2014[^01-Chap1_2] and which use
 a broad arrangement of pixels in a manner supposedly ‘typically Nordic’
 in character but which, perhaps deceptively or unconsciously, could be
 more accurately described as driven by a digital aesthetic. {Fig. 1}
   
-![](img/Fig001.tiff) Fig. 1 Norge Bank Notes
+![](img/Fig001.png) Fig. 1 Norge Bank Notes
 
 The
 contrast between the frivolity of the Denver exhibition and the serious
@@ -32,7 +32,7 @@ To make the case that the New Aesthetic is worth studying perhaps a
 little history is a good place to start with even though it’s only the
 most recent of histories. The New Aesthetic as a project was started by
 James Bridle, a London-based writer, publisher and artist, upon
-launching a new personal website in May 2011.[^3] The first significant
+launching a new personal website in May 2011.[^01-Chap1_3] The first significant
 public and off-internet discussion on the New Aesthetic was held in 2012
 at the SXSW conference, one of the most influential creative events in
 the world, attended by artists, curators, scholars and professional
@@ -51,7 +51,7 @@ description of the panel, Bridle stated:
 > layers of digital maps. In this session, the participants will give
 > examples of these effects, products and artworks, and discuss the ways
 > in which ways of seeing are increasingly transforming ways of making
-> and doing.[^4]
+> and doing.[^01-Chap1_4]
 
 In many ways Bridle’s description of the New Aesthetic is intentionally
 vague but, at the same time, it did more than just provide a series of
@@ -61,7 +61,7 @@ curatorial manifesto in his efforts to describe and categorize it at the
 time, but at the same time its vagueness certainly created opportunities
 that engaged others. {Fig. 2}
 
-![](img/Fig002.tiff) Fig. 2 ‘Le Pixel Umbrella’
+![](img/Fig002.png) Fig. 2 ‘Le Pixel Umbrella’
 
 The New Aesthetic panel at SXSW and the critique that followed right
 after, made the term popular and helped it to gain attention among
@@ -76,7 +76,7 @@ included ‘\[…\] Satellite views. Parametric architecture. Surveillance
 cameras. Digital image processing. Data-mashed video frames. Glitches
 and corruption artifacts. Voxelated 3D pixels in real-world geometries.
 Dazzle camou. Augments. Render ghosts. And, last and least, nostalgic
-retro 8bit graphics from the 1980s.’[^5] Sterling’s description shows
+retro 8bit graphics from the 1980s.’[^01-Chap1_5] Sterling’s description shows
 that he was starting to catch on to the notion that there was this new
 thing, this new approach, this new attitude, that could be utilized in
 an extensive, horizontal and synchronic approach, taking into account
@@ -88,18 +88,18 @@ contemporary imagery as a vital element of the New Aesthetic’s fields of
 interest, in a way that contributed new insights into some of the
 discussions about the glitch that had been taking place in recent years.
 Some critics stressed the political consequences of increased
-human-technology interaction as seen by the New Aesthetic.[^6] Others
+human-technology interaction as seen by the New Aesthetic.[^01-Chap1_6] Others
 emphasized its social and gender-specific context e.g. the ‘politics of
-the gaze’[^7] problem (male vs. machine vs. human).[^8] David M. Berry
+the gaze’[^01-Chap1_7] problem (male vs. machine vs. human).[^01-Chap1_8] David M. Berry
 valued the New Aesthetic for stimulating interest in the computational
 aspects of contemporary civilization and their political and cultural
 impact, but at the same time stressed the unconditional inclusiveness of
 the term that result in its vagueness in terms of the accuracy of
-description and information.[^9] On the other hand, Bruce Sterling
+description and information.[^01-Chap1_9] On the other hand, Bruce Sterling
 criticized its supporters for the anthropomorphisation of technological
 artifacts, arguing that their assertion that computers are praiseworthy
 because their effects are apparently analogous to conscious decisions is
-like praising the Freudian unconsciousness as an autonomous agent.[^10]
+like praising the Freudian unconsciousness as an autonomous agent.[^01-Chap1_10]
 
 Quickly, the New Aesthetic became a hot topic of conversation, and the
 term became commonplace at least among those interested in technology’s
@@ -111,7 +111,7 @@ What fascinates us about the New Aesthetic cannot be summarized neatly.
 It is a non-movement that can’t be easily defined but can be easily
 indicated. It’s really cool, in a way, that a thorough academic approach
 to the New Aesthetic has not emerged so far when so many new categories
-instantly become the subjects of a feverish academic onslaught.[^11] The
+instantly become the subjects of a feverish academic onslaught.[^01-Chap1_11] The
 New Aesthetic aims to cover so many contemporary social and cultural
 phenomena that any disciplinary approach would be too limited to analyze
 it as a whole. However, only a few weeks after the SXSW 2012 conference,
@@ -119,7 +119,7 @@ a seminar was organized in the Netherlands in order to elaborate a
 critical study of the New Aesthetic. As a result of a booksprint
 session, a freely available e-book called *New Aesthetics, New
 Anxieties* was written by six authors – new media scholars, artists,
-curators and writers.[^12] The authors focused on many aspects of the
+curators and writers.[^01-Chap1_12] The authors focused on many aspects of the
 non-movement emphasizing the misunderstandings and anxieties generated
 by many instances considered as examples of the New Aesthetic. The
 authors were also interested in the influence of network-based
@@ -127,7 +127,7 @@ initiatives as the New Aesthetic on their professional work. They
 ‘attempt to move beyond lazy thinking, positions of pious indifference
 or naive enthusiasm, and ask what the New Aesthetic might tell us about
 this juncture in which we find ourselves, as curators, critics, artists,
-theorists and creative workers’.[^13] Yet this remains, to date, the
+theorists and creative workers’.[^01-Chap1_13] Yet this remains, to date, the
 only sustained academic treatment of the subject.
 
 Perhaps what tempts us to think about the New Aesthetic is that it is an
@@ -161,7 +161,7 @@ What makes the New Aesthetic such a challenge is more than just the fact
 that it exists at all; Sterling wrote ‘It’s our fault for pretending
 otherwise, for fooling ourselves, for projecting our own qualities onto
 phenomena that we built, that are very interesting to us, but not at all
-like us.’[^14] We’ve both created the New Aesthetic and become a
+like us.’[^01-Chap1_14] We’ve both created the New Aesthetic and become a
 recipient of its existence’s implication and, in the digital realm,
 therefore, to critically think about it means that it’s necessary to
 utilize it at times uncritically. The New Aesthetic covered so many
@@ -178,7 +178,7 @@ boundaries were of second importance:
 > One of the things about New Aesthetic was that it was very much
 > supposed to be not “post” anything else and not “pre” anything else,
 > it was an observation about something hopefully grander, of which
-> these are some current examples of.[^15]
+> these are some current examples of.[^01-Chap1_15]
 
 That is why Bridle chose a blog as a platform for sharing his ideas,
 instead of an academic journal or professional magazines, as the
@@ -199,7 +199,7 @@ it is an ‘ongoing research project’ – but then again, clearly, the
 commentators responded to his call. At the peak of the popularity of the
 New Aesthetic, Bridle was so overwhelmed by the interest that he even
 suspended the blog for some time, evidence of a growing awareness of its
-impact.[^16]
+impact.[^01-Chap1_16]
 
 The New Aesthetic is not without its limitations. It is hardly a firm
 academic theory or methodology.
@@ -246,7 +246,7 @@ presentation of the information; as Wim Westera writes:
 > is the outcome of a hidden processing chain containing numerous
 > calculations, transport, raw materials, mechanics, administrative
 > files, orders, and coordinative messages, many of which are carried by
-> digital media.[^17]
+> digital media.[^01-Chap1_17]
 
 Everything has become digitized and, thus, every set of information
 surrounding our lives has become digitally available. In this respect,
@@ -263,7 +263,7 @@ transmitting information, communicating and for sharing social life.
 Through these important functions the digital becomes a privileged site
 for social and political engagement and therefore it is increasingly
 important that we understand the digital and offer the possibility of a
-critical theory of the digital.’[^18] While such a perspective is
+critical theory of the digital.’[^01-Chap1_18] While such a perspective is
 received unquestionably in all branches of cultural theory, nevertheless
 the shift of the digital from a functional tool to a ‘de facto medium of
 information’ is startling in its implications and cannot be taken for
@@ -277,7 +277,7 @@ feeds the evolutionary and organic growth of the digital in order for it
 to operate with even greater autonomy, independent of the rarified
 controls found in a computer science laboratory. Witnessing the growth
 of apps available for Apple iOS as just one example – what started with
-500 in 2008[^19] has now reached 1,200,000 by mid-2014[^20] – is like
+500 in 2008[^01-Chap1_19] has now reached 1,200,000 by mid-2014[^01-Chap1_20] – is like
 witnessing the exponential replication of viruses and bacteria. Over the
 course of several decades we have been increasingly relying on the
 computational in many domains of our activity at a civilizational level:
@@ -383,7 +383,7 @@ graphical user interfaces but are experienceable and self-determining
 phenomena in their own right, displayed on ultra-high definition
 displays and accessed and edited thanks to intuitive user interfaces;
 with the increasing processing power available in decreasing physical
-parameters[^21] partnered with a graphic user interface that seemingly
+parameters[^01-Chap1_21] partnered with a graphic user interface that seemingly
 grasps our intentions spontaneously and predictively, conditions are
 being constructed whereby the output of the device assumes an
 unquestioned and teleologically natural state. The very computational
@@ -394,7 +394,7 @@ of increasing invisibility, with the implications or the
 predeterminatively agreed conventions that it will just work without any
 need for a user to change its operating parameters. {Fig. 3}
 
-![](img/Fig003.tiff) Fig. 3 Image Processed Through Decim8
+![](img/Fig003.png) Fig. 3 Image Processed Through Decim8
 
 In many
 respects, the benefits have been self-evident, and it’s impossible to
@@ -423,7 +423,7 @@ but what is increasingly clear is that these phenomena are synthetic in
 nature and effect, affecting and transforming in their use our
 perception of the world while simultaneously creating their own worlds.
 In short, we’ve entered a new form of experience best labeled
-‘postdigital’ as an indication that the digital revolution is over.[^22]
+‘postdigital’ as an indication that the digital revolution is over.[^01-Chap1_22]
 The world of raw data and technology, while being in front of us, is
 usually hidden underneath graphical user interfaces, smooth high-res
 images, seamless user experience and touch-screen Retina displays. The
@@ -442,7 +442,7 @@ interact and influence each other. Mel Alexenberg describes this as:
 > autoethnography and community narrative, and between web-enabled
 > peer-produced wikiart and artworks created with alternative media
 > through participation, interaction, and collaboration in which the
-> role of the artist is redefined.[^23]
+> role of the artist is redefined.[^01-Chap1_23]
 
 The key here is the betweenness, the notion of a mixed reality, the
 synthesis. Baudrillard was only partially correct: what governs our
@@ -493,7 +493,7 @@ wrote:
 > politics and people that co-produce them. The *New Aesthetic* is not a
 > movement, it is not a thing which can be done. It is a series of
 > artifacts of the heterogeneous network, which recognizes differences,
-> the gaps in our distant but overlapping realities.[^24]
+> the gaps in our distant but overlapping realities.[^01-Chap1_24]
 
 And, on another occasion:
 
@@ -503,7 +503,7 @@ And, on another occasion:
 > real world. It’s something that’s come out of digital. It’s come out
 > of a digital way of seeing, that represents things in this form. The
 > real world doesn’t, or at least didn’t, have a grain that looks like
-> this.[^25]
+> this.[^01-Chap1_25]
 
 In this sense, to analyze the New Aesthetic is to engage in a form of
 topological description from a new perspective and position, identifying
@@ -522,7 +522,7 @@ being (user) we can shed light on the condition of contemporary
 civilization which is founded on (mega)mass production and distribution
 of images, writing: ‘The invention of photography constitutes a break in
 history that can only be understood in comparison to that other
-historical break constituted by the invention of linear writing.’[^26]
+historical break constituted by the invention of linear writing.’[^01-Chap1_26]
 In the process of being able to reproduce the appearance of reality, the
 status of such reproductions became portable, mobile, and transmittable;
 whereas descriptions of the world were once dependent on lengthy
@@ -542,7 +542,7 @@ assumed to be sufficient and self-sufficient to the task. He explained
 that, ‘nothing can resist the force of this current of technical images
 – there is no artistic, scientific or political activity which is not
 aimed at it, there is no everyday activity which does not aspire to be
-photographed, filmed, video-taped’.[^27] In essence, this shift marks a
+photographed, filmed, video-taped’.[^01-Chap1_27] In essence, this shift marks a
 relinquishment of the user of their freedom to the apparatus’ methods,
 creating a new topology of knowledge that had profound ontological and
 epistemic consequences because the user, even if they believe they are
@@ -557,7 +557,7 @@ writing:
 > \[…\] \[I\] will illustrate that the photographic universe can serve
 > as a model for post-industrial society as a whole and that a
 > philosophy of photography can be the starting point for any philosophy
-> engaging with the current and future existence of human beings.[^28]
+> engaging with the current and future existence of human beings.[^01-Chap1_28]
 
 In many respects, Flusser is arguing for two paths of philosophical
 effort: first, that philosophy should investigate how any epistemology
@@ -600,23 +600,23 @@ we interact with data today. One way is to look at projects such as the
 Palladio platform, developed by the Human+Design Research Lab at
 Stanford University, that takes on a justified faith that visual
 representation of data leads to insightful and critical new discoveries
-of the relations between various trends;[^29] at the Text Encoding
+of the relations between various trends;[^01-Chap1_29] at the Text Encoding
 Initiative Conference in October 2014 at Northwestern University, Thomas
 Faith and Joseph Wicentowski, working for the Office of the Historian in
 the U.S. Department of State, presented ‘Visualizing the History of U.S.
 Foreign Relations: The State of TEI at Foggy Bottom’ – how they’ve used
 Palladio to visualize the encoded Foreign Relations of the United States
 series, a 150 year old, 500 volume document that is the official history
-of United States foreign policy.[^30] Another way is to consider the
+of United States foreign policy.[^01-Chap1_30] Another way is to consider the
 development of Ubiquitous Learning Materials as an effort to shift the
 educational process away from a linear instructor-centered model to an
 immersive, social model utilizing mobile devices in order to remove the
 stress of the classroom experience while preparing students for ‘real
 life’; a perfect instance of this is the Philippines Smart
-Communications’ project TXTBKS[^31] {Fig. 4} that provides transcribed
+Communications’ project TXTBKS[^01-Chap1_31] {Fig. 4} that provides transcribed
 elementary school textbooks to children through discarded mobile phones.
 
-![](img/Fig004.tiff) Fig. 4 Smart Philippines Textbooks
+![](img/Fig004.png) Fig. 4 Smart Philippines Textbooks
 
 Everything is increasingly visual, including text to the detriment of
 textuality. Still, these are singular instances and it is on the more
@@ -638,10 +638,10 @@ different from normal digital objects. In most cases, digital products
 adhere to a simple presentation of information, often governed by the
 type of data being provided; by allowing a certain degree of
 simplification one could propose an equation: digital visual media =
-algorithms + data structure.[^32] An easy example of this is the typical
+algorithms + data structure.[^01-Chap1_32] An easy example of this is the typical
 Excel spreadsheet, which has its origins in a program called Multiplan,
 was code named ‘EP’ for ‘Electronic Paper’ and released in 1982 as a
-competitor for Lotus 1-2-3.[^33] Multiplan’s code name is revealing in
+competitor for Lotus 1-2-3.[^01-Chap1_33] Multiplan’s code name is revealing in
 that there was every intention of imitating and being visually analogous
 to an accounting ledger’s columns for ease of use. However, digital
 objects have shifted dramatically as contemporary digital images have
@@ -663,7 +663,7 @@ studying only the layer closest to us – the digital image displayed or
 projected on the screen – we ignore the existence of hidden
 computational layers and their influence on the aesthetics of the
 images. The New Aesthetic reminds us that the computational layer of
-digital media is inextricably linked with the cultural layer.[^34]
+digital media is inextricably linked with the cultural layer.[^01-Chap1_34]
 
 In this light, the New Aesthetic encourages us to take a postdigital
 approach in studying computational-based visual media. This might lead
@@ -677,18 +677,18 @@ screen-centric approach in image analysis as the privileged site for
 research – precisely because we do not want to limit ourselves to
 judgments of appearance or usability alone. Berry argues that ‘without
 an attentiveness to the layers of software beneath this surface
-interface we are in danger of further screen essentialism’.[^35] Indeed
+interface we are in danger of further screen essentialism’.[^01-Chap1_35] Indeed
 he further remarks, ‘computational tools assist by providing mediation
 and advising and providing structure for a world full of data, real-time
 streams and complex calculations required from its citizens. This
 computational assistance or monitoring is backgrounded and often hidden
-from us.’[^36] Marianne van den Boomen also rejects the screen-centric
+from us.’[^01-Chap1_36] Marianne van den Boomen also rejects the screen-centric
 approach in her book on digital metaphors (particularly in studying
 GUI), although her point is applicable to any kind of computationally
 rooted imagery. She explains, ‘what you see, is what you get, which
 suggests that, that is all there is to get. The machinery gets reduced
 to the screen, or better, to the representations on the screen. The
-screen shows but also blinds.’[^37] It is in the interplay between
+screen shows but also blinds.’[^01-Chap1_37] It is in the interplay between
 screen and the underlying software and hardware that the New Aesthetic
 manifests itself, not just in its immediate appearance. Although much of
 the final aesthetic~~s~~ of the digital image is a direct result of the
@@ -732,13 +732,13 @@ standard objects (physical – shipping containers or iPhones and digital
 post-Fordist economy in that their consumption transcends industrial
 modes of production in favor of individual contributive modes of
 participation. According to Fuller, standard objects are ‘ideally
-isolated systems’[^38] and separate entities within the universe and
+isolated systems’[^01-Chap1_38] and separate entities within the universe and
 Fuller, following Alfred Whitehead’s logic, argues that ‘such objects
 become crucial to the generation of media and communications networks
 and the organizations that handle them’ and then adds that the standard
 object ‘refers most easily to things that are mass-produced: cars,
 houses, the customizable ring of a telephone’ or standardized
-technologies i.e. packet switching, compression algorithms etc.[^39]
+technologies i.e. packet switching, compression algorithms etc.[^01-Chap1_39]
 Post-Fordist products are quite different in that they maintain a
 semblance of standardization while at the same time being eminently
 capable of being personalized; in fact, post-Fordist objects are sold to
@@ -760,7 +760,7 @@ standard objects for today’s society and culture founded on
 computational technologies is hardly arguable. James Stevens of Free
 Networks, cited by Fuller, states that ‘The information age has boiled
 down the magic of telecommunications into a set of modular components
-that any of us can adopt and explore.’[^40] Nevertheless, this magic is
+that any of us can adopt and explore.’[^01-Chap1_40] Nevertheless, this magic is
 not even that because it’s not trickery that’s under the control of a
 ‘magician’ as programmer but a seduction of the user through the user
 interface, a seduction the leads the user to erroneously believe they
@@ -775,7 +775,7 @@ error, it is often regarded as a small problem that can be either
 ignored as unimportant or quickly fixed with minimal effort, minimal
 knowledge or simply by resetting the device. {Fig. 5}
 
-![](img/Fig005.tiff) Fig. 5 Glitch Image of Newscaster
+![](img/Fig005.png) Fig. 5 Glitch Image of Newscaster
 
 New Aesthetic
 objects, as a visual sub-genre sufficiently distinct from standard
@@ -844,7 +844,7 @@ representation of ourselves in the world into a passive absorption of
 experience such that we would see thinking about the conditions of the
 formation of communicative objects as beyond our control. 
 
-![](img/Fig006.tiff) Fig. 6 Ferdinand Léger, *The City* (1919)
+![](img/Fig006.png) Fig. 6 Ferdinand Léger, *The City* (1919)
 
 It is only in
 the last ten years that Léger’s and Baudrillard’s vision of the world
@@ -863,7 +863,7 @@ The authors of *New
 Aesthetic, New Anxieties* write that ‘The New Aesthetic, in other words,
 brings these patterns to the surface, and in doing so articulates a
 movement towards uncovering the “unseen”, the little understood logic of
-computational society and the anxieties that this introduces.’[^41]
+computational society and the anxieties that this introduces.’[^01-Chap1_41]
 Often, it is artists who best capture the anxiety and the potential in
 the underlying conditions, and we look forward to discussing ways in
 which contemporary artists are both utilizing and responding to the New
@@ -886,7 +886,7 @@ on his blog (*stunlaw*) and was later developed in *Critical Theory and
 the Digital* (2014). Berry writes: ‘Computationality is therefore an
 ontotheology, which when read through Heideggerian categories can be
 understood as creating a new ontological “epoch” or a new historical
-constellation of intelligibility.’[^42] Computationality can be
+constellation of intelligibility.’[^01-Chap1_42] Computationality can be
 understood as a set of social and cultural practices rooted in digital
 technology. We can also consider it as an ontological description of the
 contemporary civilization which is deeply shaped by software and digital
@@ -900,7 +900,7 @@ considered as computationality.
 
 Why should we bother with yet another ‘post’ notion? Florian Cramer, one
 of the first proponents of the ‘postdigital’ clearly stated that this
-‘term sucks but is useful’.[^43] We are willing to agree with him on
+‘term sucks but is useful’.[^01-Chap1_43] We are willing to agree with him on
 that matter. In the following paragraphs we hope to prove that the
 postdigital approach is of vital importance for our endeavor to
 conceptualize the New Aesthetic. Additionally, the postdigital as
@@ -911,7 +911,7 @@ and ubiquitous computing. We agree with David M. Berry and Michael
 Dieter who write that in the last decade, ‘computation \[has become\]
 experimental, spatial and materialized in its implementation, embedded
 within the environment and embodied, part of the texture of life itself
-but also upon and even within the body’.[^44] Both the New Aesthetic and
+but also upon and even within the body’.[^01-Chap1_44] Both the New Aesthetic and
 the postdigital take into the spotlight unique characteristics and
 affordances of the latest computational technologies, instead of just
 putting them into the very same ‘digital basket’ where each and every
@@ -945,7 +945,7 @@ has left a profound imprint in many areas of our society and culture
 such that the ‘“post-digital” in its simplest sense describes the messy
 state of media, arts and design after their digitization (or at least
 the digitization of crucial aspects of the channels through which they
-are communicated)’.[^45] The postdigital is therefore interested in
+are communicated)’.[^01-Chap1_45] The postdigital is therefore interested in
 assessing these consequences by locating, conceptualizing and critically
 examining manifestations of the postdigital condition in society,
 culture, economy etc. Cramer compares the postdigital to other post-like
@@ -953,7 +953,7 @@ notions (post-punk, post-communism, post-feminism, post-apocalyptic
 etc.), emphasizing that the crucial difference between the initial
 appearance of the idea or movement and its post- version is that it ‘has
 progressed from a discrete breaking point to an ongoing condition – in
-Heideggerian terms, from Ereignis to Being’.[^46] This is one of the
+Heideggerian terms, from Ereignis to Being’.[^01-Chap1_46] This is one of the
 crucial points to be remembered when dealing with the postdigital. For
 us, both the New Aesthetic and the postdigital approach offer a unique
 paradigm that enables us to grasp and encapsulate various phenomena
@@ -974,7 +974,7 @@ non-computational physical environment and tools we can achieve our
 social, economic and cultural goals. He therefore suggests that
 proponents of the postdigital attitude should ‘dismiss the idea of
 digital processing as the sole universal all-purpose form of information
-processing.’[^47] This idea has been a dominating paradigm in popular
+processing.’[^01-Chap1_47] This idea has been a dominating paradigm in popular
 culture since the dawn of the personal computer, and later in the
 so-called mobile revolution which was introduced by the smartphone and
 broadband mobile internet access. What is really interesting, as we are
@@ -991,14 +991,14 @@ media. In those fields has been an ongoing transition to higher
 resolutions, better color palette, screen refresh rate that would make
 the medium even more transparent yet hyperreal. ‘The simplest definition
 of “post-digital” describes a media aesthetics which opposes such
-digital high-tech and high-fidelity cleanness.’[^48]
+digital high-tech and high-fidelity cleanness.’[^01-Chap1_48]
 
 The New Aesthetic, similarly to the postdigital, rejects such a
 fetishization of technological progress and the theoretical and
 interpretative approaches that come with it. Kim Cascone used the term
 for the first time in 2000 to describe how digitalization of the music
 production workflow has changed the very principles of this creative
-process.[^49] Similar<span id="The_postdigital_module"
+process.[^01-Chap1_49] Similar<span id="The_postdigital_module"
 class="anchor"></span>ly to the New Aesthetic a decade later, he focused
 on abnormalities, errors, and glitches in electronically produced music
 that were caused by specific commercial computational technologies
@@ -1009,7 +1009,7 @@ In the light of the above, it is hardly surprising that Cramer argues
 that the postdigital can be used to describe the condition of
 ‘disenchantment with digital information systems and media gadgets, or a
 period in which our fascination with these systems and gadgets has
-become historical’.[^50] The first version of his article was written
+become historical’.[^01-Chap1_50] The first version of his article was written
 only a few months after the Snowden revelations as part of a
 contribution to the Transmediale 2014 Festival. In this context the
 ‘disenchantment’ would address the ultimate end of the ‘free internet’
@@ -1027,7 +1027,7 @@ associated with the ‘disenchantment attitude’, comes with the revival of
 ‘old’ or better said mechanical or electrical media in the arts. Cramer
 writes that we observe a ‘renaissance of artists’ printmaking, handmade
 film labs, limited vinyl editions, the rebirth of the audio cassette,
-mechanical typewriters, analog cameras and analog synthesizers’.[^51]
+mechanical typewriters, analog cameras and analog synthesizers’.[^01-Chap1_51]
 This trend is particularly visible in art schools (at least in the
 Netherlands) where, according to Cramer, students prefer to work with
 non-digital tools and techniques, and digital communication design and
@@ -1068,162 +1068,134 @@ the fact that the computational is no longer the avant-garde of our
 civilization and as such is of minor importance to the general public.
 On the contrary, it rather proves that it has become the condition of
 existence of today’s reality and, for better or worse, has greatly
-permeated our everyday lives.
+permeated our everyday lives.  
 
-[^1]: David Fodel and Matt Jenkins (curators), ‘Exhibition announcement:
-    *The Emperor’s New Aesthetic*’, 9 September 2014, Rhizome,
-    http://rhizome.org/announce/events/60873/view/.
+[^01-Chap1_1]: David Fodel and Matt Jenkins (curators), ‘Exhibition announcement: *The Emperor’s New Aesthetic*’, 9 September 2014, Rhizome, [http://rhizome.org/announce/events/60873/view/](http://rhizome.org/announce/events/60873/view/).
 
-[^2]: Norges Bank, ‘Motifs for the New Banknote Series’ (Press Release),
-    7 October 2014,
-    http://www.norges-bank.no/en/Published/Press-releases/2014/Press-release-7-october-2014/.
+[^01-Chap1_2]: Norges Bank, ‘Motifs for the New Banknote Series’ (Press Release), 7 October 2014, [http://www.norges-bank.no/en/Published/Press-releases/2014/Press-release-7-october-2014/](http://www.norges-bank.no/en/Published/Press-releases/2014/Press-release-7-october-2014/).
 
-[^3]: The first entry on the New Aesthetic was published on Really
-    Interesting Group website,
-    http://www.riglondon.com/blog/2011/05/06/the-new-aesthetic/. Now the
-    New Aesthetic project is available on Tumblr,
-    http://new-aesthetic.tumblr.com.
+[^01-Chap1_3]: The first entry on the New Aesthetic was published on Really Interesting Group website, [http://www.riglondon.com/blog/2011/05/06/the-new-aesthetic/](http://www.riglondon.com/blog/2011/05/06/the-new-aesthetic/). Now the New Aesthetic project is available on Tumblr, [http://new-aesthetic.tumblr.com](http://new-aesthetic.tumblr.com).
 
-[^4]: SXSW Schedule 2012, ‘The New Aesthetic: Seeing Like Digital
-    Devices’, http://schedule.sxsw.com/2012/events/event\_IAP11102.
+[^01-Chap1_4]: SXSW Schedule 2012, ‘The New Aesthetic: Seeing Like Digital Devices’, [http://schedule.sxsw.com/2012/events/event\_IAP11102](http://schedule.sxsw.com/2012/events/event\_IAP11102).
 
-[^5]: Sterling, ‘An Essay on the New Aesthetic’.
+[^01-Chap1_5]: Sterling, ‘An Essay on the New Aesthetic’.
 
-[^6]: Adam Rothstein, ‘New Aesthetics – New Politics’, *POSZU blog*,
-    April 2012, <http://www.poszu.com/new-aesthetics-new-politics.html>.
+[^01-Chap1_6]: Adam Rothstein, ‘New Aesthetics – New Politics’, *POSZU blog*,
+April 2012, [http://www.poszu.com/new-aesthetics-new-politics.html](http://www.poszu.com/new-aesthetics-new-politics.html).
 
-[^7]: Madeline Ashby, ‘The New Aesthetics of the Male Gaze’**,**
-    *Madelineashby.com*, 2 April 2012, http://madelineashby.com/?p=1198.
+[^01-Chap1_7]: Madeline Ashby, ‘The New Aesthetics of the Male Gaze’, *Madelineashby.com*, 2 April 2012, [http://madelineashby.com/?p=1198](http://madelineashby.com/?p=1198).
 
-[^8]: Will Wiles, ‘The Machine Haze’, *Aeon*, 17 September 2012,
-    <https://aeon.co/essays/what-do-we-uncover-when-we-look-through-digital-eyes>.
+[^01-Chap1_8]: Will Wiles, ‘The Machine Haze’, *Aeon*, 17 September 2012,
+[https://aeon.co/essays/what-do-we-uncover-when-we-look-through-digital-eyes](https://aeon.co/essays/what-do-we-uncover-when-we-look-through-digital-eyes).
 
-[^9]: David M. Berry, ‘What Is the “New Aesthetic”?’, ‘Abduction
-    Aesthetic: Computationality and the New Aesthetic’, *Stunlaw blog*,
-    6 April 2012,
-    http://stunlaw.blogspot.com/2012/04/abduction-aesthetic-computationality.html.
+[^01-Chap1_9]: David M. Berry, ‘What Is the “New Aesthetic”?’, ‘Abduction Aesthetic: Computationality and the New Aesthetic’, *Stunlaw blog*, 6 April 2012, [http://stunlaw.blogspot.com/2012/04/abduction-aesthetic-computationality.html](http://stunlaw.blogspot.com/2012/04/abduction-aesthetic-computationality.html).
 
-[^10]: Sterling, ‘An Essay on the New Aesthetic’.
+[^01-Chap1_10]: Sterling, ‘An Essay on the New Aesthetic’.
 
-[^11]: The irony doesn’t escape us, we promise you.
+[^01-Chap1_11]: The irony doesn’t escape us, we promise you.
 
-[^12]: David M. Berry, et. al. *New Aesthetic, New Anxieties*,
+[^01-Chap1_12]: David M. Berry, et. al. *New Aesthetic, New Anxieties*,
     Rotterdam: V2 Institute of Unstable Media, 2012.
 
-[^13]: Berry, et. al. *New Aesthetic, New Anxieties,* p. 11.  
+[^01-Chap1_13]: Berry, et. al. *New Aesthetic, New Anxieties,* p. 11.  
 
-[^14]: Sterling, ‘An Essay on the New Aesthetic’.  
+[^01-Chap1_14]: Sterling, ‘An Essay on the New Aesthetic’.  
 
-[^15]: Rober Urquhart, ‘An Interview With James Bridle of the New Aesthetic’, *The Huffington Post,* 9 May 2012,
-    <http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html>.
+[^01-Chap1_15]: Rober Urquhart, ‘An Interview With James Bridle of the New Aesthetic’, *The Huffington Post,* 9 May 2012, [http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html](http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html).
 
-[^16]: J.J. Charlesworth, ‘We are the droids we’re looking for: the New Aesthetic and its friendly critics’, *JJ Charlesworth Blog*,7 May 2012, https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/.
+[^01-Chap1_16]: J.J. Charlesworth, ‘We are the droids we’re looking for: the New Aesthetic and its friendly critics’, *JJ Charlesworth Blog*,7 May 2012, [https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/](https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/).
 
-[^17]: Wim Westera, *The Digital Turn: How the Internet Transforms Our
-    Existence*, 2015 (2013),
-    <http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf>, p. 125.
+[^01-Chap1_17]: Wim Westera, *The Digital Turn: How the Internet Transforms Our
+Existence*, 2015 (2013), [http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf](http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf), p. 125.
 
-[^18]: David M. Berry, *Critical Theory and the Digital*, London:
+[^01-Chap1_18]: David M. Berry, *Critical Theory and the Digital*, London:
     Bloomsbury, 2014, p. 121.
 
-[^19]: Apple Inc., ‘iPhone 3G on Sale Tomorrow’ (Press release). 10
-    July, 2008,
-    http://www.apple.com/pr/library/2008/07/10iPhone-3G-on-Sale-Tomorrow.html.
+[^01-Chap1_19]: Apple Inc., ‘iPhone 3G on Sale Tomorrow’ (Press release). 10
+July, 2008, [http://www.apple.com/pr/library/2008/07/10iPhone-3G-on-Sale-Tomorrow.html](http://www.apple.com/pr/library/2008/07/10iPhone-3G-on-Sale-Tomorrow.html).
 
-[^20]: Sarah Perez, ‘iTunes App Store Now Has 1.2 Million Apps, Has Seen
-    75 Billion Downloads To Date’, *TechCrunch*, 2 June, 2014,
-    http://techcrunch.com/2014/06/02/itunes-app-store-now-has-1-2-million-apps-has-seen-75-billion-downloads-to-date/.
+[^01-Chap1_20]: Sarah Perez, ‘iTunes App Store Now Has 1.2 Million Apps, Has Seen
+75 Billion Downloads To Date’, *TechCrunch*, 2 June, 2014, [http://techcrunch.com/2014/06/02/itunes-app-store-now-has-1-2-million-apps-has-seen-75-billion-downloads-to-date/](http://techcrunch.com/2014/06/02/itunes-app-store-now-has-1-2-million-apps-has-seen-75-billion-downloads-to-date/).
 
-[^21]: The increasing size of the iPhone 6 Plus and the Samsung Galaxy
+[^01-Chap1_21]: The increasing size of the iPhone 6 Plus and the Samsung Galaxy
     phones notwithstanding, which mark a shift in design emphasis,
     upcoming products like the Apple Watch and wearable digital devices
     follow the trend of decreasing physical size.
 
-[^22]: Don’t revolutions have winners and losers? If so, the digital
+[^01-Chap1_22]: Don’t revolutions have winners and losers? If so, the digital
     clearly won.
 
-[^23]: Mel Alexenberg, *The Future of Art in a Postdigital Age: From
+[^01-Chap1_23]: Mel Alexenberg, *The Future of Art in a Postdigital Age: From
     Hellenistic to Hebraic Consciousness*, Bristol: Intellect Ltd, 2011,
     p. 35.
 
-[^24]: James Bridle, *The New Aesthetic blog*, Tumblr,
-    <http://new-aesthetic.tumblr.com/about>.
+[^01-Chap1_24]: James Bridle, *The New Aesthetic blog*, Tumblr,
+[http://new-aesthetic.tumblr.com/about](http://new-aesthetic.tumblr.com/about).
 
-[^25]: James Bridle, ‘Waving at the Machines’, Web Directions South
-    2011, Sydney, 11-14 October 2011,
-    <http://www.webdirections.org/resources/james-bridle-waving-at-the-machines/>.
+[^01-Chap1_25]: James Bridle, ‘Waving at the Machines’, Web Directions South 2011, Sydney, 11-14 October 2011, [http://www.webdirections.org/resources/james-bridle-waving-at-the-machines/](http://www.webdirections.org/resources/james-bridle-waving-at-the-machines/).
 
-[^26]: Vilém Flusser, *Towards a Philosophy of Photography*, London:
+[^01-Chap1_26]: Vilém Flusser, *Towards a Philosophy of Photography*, London:
     Reaktion Books Ltd, 2000, p. 195.
 
-[^27]: Flusser, *Towards a Philosophy of Photography*, p. 20.
+[^01-Chap1_27]: Flusser, *Towards a Philosophy of Photography*, p. 20.
 
-[^28]: Flusser, *Towards a Philosophy of Photography*, p. 75.
+[^01-Chap1_28]: Flusser, *Towards a Philosophy of Photography*, p. 75.
 
-[^29]: Palladio Humanities thinking with data,
-    http://hdlab.stanford.edu/projects/palladio/.
+[^01-Chap1_29]: Palladio Humanities thinking with data, [http://hdlab.stanford.edu/projects/palladio/](http://hdlab.stanford.edu/projects/palladio/).
 
-[^30]: Thomas Faith and Joseph Wicentowski, ‘Visualizing the History of
-    U.S. Foreign Relations: The State of TEI at
+[^01-Chap1_30]: Thomas Faith and Joseph Wicentowski, ‘Visualizing the History of U.S. Foreign Relations: The State of TEI at Foggy Bottom’, [http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf](http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf).
 
-    Foggy Bottom’,
-    http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf.
+[^01-Chap1_31]: TXTBKS, [https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html](https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html).
 
-[^31]: TXTBKS,
-    https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html.
-
-[^32]: Lev Manovich, *Software Takes Command*, London: Bloomsbury, 2013,
+[^01-Chap1_32]: Lev Manovich, *Software Takes Command*, London: Bloomsbury, 2013,
     p. 207.
 
-[^33]: Wikipedia contributors. ‘Multiplan’, *Wikipedia,* 31 August 2014,
-    https://en.wikipedia.org/wiki/Multiplan.
+[^01-Chap1_33]: Wikipedia contributors. ‘Multiplan’, *Wikipedia,* 31 August 2014 [https://en.wikipedia.org/wiki/Multiplan](https://en.wikipedia.org/wiki/Multiplan).
 
-[^34]: Lev Manovich, *The Language of New Media*, London: MIT Press,
+[^01-Chap1_34]: Lev Manovich, *The Language of New Media*, London: MIT Press,
     2002, p. 63.
 
-[^35]: David M. Berry, *Understanding Digital Humanities*, London:
+[^01-Chap1_35]: David M. Berry, *Understanding Digital Humanities*, London:
     Palgrave Macmillan, 2012, p. 10 and David M. Berry, *The Philosophy
     of Software Code and Mediation in a Digital Age*, London: Palgrave
     Macmillan, 2011, p. 36, 65, 137.
 
-[^36]: David M. Berry, *Critical Theory and the Digital*. p. 66.
+[^01-Chap1_36]: David M. Berry, *Critical Theory and the Digital*. p. 66.
 
-[^37]: Marianne van den Bommen, *Transcoding the Digital: How Metaphors
+[^01-Chap1_37]: Marianne van den Bommen, *Transcoding the Digital: How Metaphors
     Matter in New Media*, Amsterdam, Institute of Network Cultures,
     2014, p. 15.
 
-[^38]: Matthew Fuller, *Media Ecologies: Materialist Energies in Art and
+[^01-Chap1_38]: Matthew Fuller, *Media Ecologies: Materialist Energies in Art and
     Technoculture*, Cambridge: MIT Press, 2005, p. 93.
 
-[^39]: Fuller, *Media Ecologies*, p. 95
+[^01-Chap1_39]: Fuller, *Media Ecologies*, p. 95
 
-[^40]: Fuller, *Media Ecologies*, p. 105.
+[^01-Chap1_40]: Fuller, *Media Ecologies*, p. 105.
 
-[^41]: Berry, et. al., *New Aesthetic, New Anxieties,* p. 41.
+[^01-Chap1_41]: Berry, et. al., *New Aesthetic, New Anxieties,* p. 41.
 
-[^42]: David M. Berry, *The Philosophy of Software Code and Mediation in
+[^01-Chap1_42]: David M. Berry, *The Philosophy of Software Code and Mediation in
     a Digital Age*, London: Palgrave Macmillan, 2011, p. 27.
 
-[^43]: Florian Cramer, ‘What is ‘Post-digital’?’, *A Peer-reviewed
-    Journal about Post-digital Research* (2015), vol. 3, issue 1, p. 3.,
-    http://www.aprja.net/?p=1318.
+[^01-Chap1_43]: Florian Cramer, ‘What is “Post-digital”?’, *A Peer-reviewed Journal about Post-digital Research* (2015), vol. 3, issue 1, p. 3., [http://www.aprja.net/?p=1318](http://www.aprja.net/?p=1318).
 
-[^44]: David Berry and Michael Dieter (eds) *Postdigital Aesthetics:
+[^01-Chap1_44]: David Berry and Michael Dieter (eds) *Postdigital Aesthetics:
     Art, Computation and Design*, Basingstoke: Palgrave Macmillan, 2015,
     p. 3.
 
-[^45]: Cramer, ‘What is ‘Post-digital’?’, p. 10.
+[^01-Chap1_45]: Cramer, ‘What is “Post-digital”?’, p. 10.
 
-[^46]: Cramer, ‘What is ‘Post-digital’?’, p. 4.
+[^01-Chap1_46]: Cramer, ‘What is “Post-digital”?’, p. 4.
 
-[^47]: Cramer, ‘What is ‘Post-digital’?’, p. 7.
+[^01-Chap1_47]: Cramer, ‘What is “Post-digital”?’, p. 7.
 
-[^48]: Cramer, ‘What is ‘Post-digital’?’, p. 6.
+[^01-Chap1_48]: Cramer, ‘What is “Post-digital”?’, p. 6.
 
-[^49]: Kim Cascone ‘The Aesthetics of Failure: ‘Post- Digital’
-    Tendencies in Contemporary Computer Music’, *Computer Music Journal*
-    24, No. 4 (Winter 2000), pp. 12-18.
+[^01-Chap1_49]: Kim Cascone ‘The Aesthetics of Failure: ‘Post- Digital’ Tendencies in Contemporary Computer Music’, *Computer Music Journal* 24, No. 4 (Winter 2000), pp. 12-18.
 
-[^50]: Cramer, ‘What is ‘Post-digital’?’, p. 3.
+[^01-Chap1_50]: Cramer, ‘What is “Post-digital”?’, p. 3.
 
-[^51]: Cramer, ‘What is ‘Post-digital’?’, pp. 3-4.
+[^01-Chap1_51]: Cramer, ‘What is “Post-digital”?’, pp. 3-4.
+
+ <br></br> 

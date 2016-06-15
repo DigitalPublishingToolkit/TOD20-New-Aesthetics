@@ -40,11 +40,12 @@ the effect of the New Aesthetic. An illuminating example is Christian
 Ulrik Andersen’s and Søren Bro Pold’s treatment of Aram Bartholl’s
 *Dropping the Internet* (2014). {Fig. 43} 
 
-![](img/Fig043.tiff)   
-Fig. 43 Aram Bartholl, *Dropping theInternet* (2014)
+![](img/Fig043.png)   
+Fig. 43 Aram Bartholl, *Dropping the
+Internet* (2014)
 
 Borrowing uncritically from
-Bartholl’s own website,[^1] Andersen and Pold describe the photographic
+Bartholl’s own website,[^04-Chap4_1] Andersen and Pold describe the photographic
 triptych in terms of the security concerns and sense of crisis in the
 post-Snowden era, placing an emphasis on the work’s presentation of the
 ‘internet’ as inherently fragile. At the same time Andersen and Pold
@@ -56,7 +57,7 @@ engage in a little aesthetic analysis that seems to go quickly awry.
 > cardboard, candlelight and people acting according to strange
 > behavioral scripts: pointing to how the big utopias become banal and
 > mundane, including how they control sharing, communication and
-> perception.[^2]
+> perception.[^04-Chap4_2]
 
 In many ways, this is an illuminating analysis of the effect of the
 work, reading it as symbolic of the wrenching, almost existential
@@ -73,11 +74,12 @@ surviving nuclear war, but returning to Andersen’s and Pold’s
 description of the work it’s clear that other things are going on, and
 that Andersen and Pold may be ill-equipped to acknowledge them. Bartholl
 readily acknowledges his appropriation of Ai Weiwei’s famous work
-*Dropping a Han Dynasty Urn* (1995)[^3] {Fig. 44} but why don’t Andersen
+*Dropping a Han Dynasty Urn* (1995)[^04-Chap4_3] {Fig. 44} but why don’t Andersen
 and Pold mention it? 
 
-![](img/Fig044.tiff)   
-Fig. 44 Ai Wei Wei, *Dropping a HanDynasty Urn* (1995)
+![](img/Fig044.png)   
+Fig. 44 Ai Wei Wei, *Dropping a Han
+Dynasty Urn* (1995)
 
 Ai Weiwei’s work engages with China’s difficult
 relationship to the past, shattering any expectations of reverence for
@@ -138,14 +140,14 @@ writes in his *Meditationes*:
 > Since affects are more notable degrees of pain and pleasure, their
 > sensible representations are given in representing something to
 > oneself confusedly as good or bad, and thus they determine poetic
-> representations, and *to arouse affects is poetic*.[^4]
+> representations, and *to arouse affects is poetic*.[^04-Chap4_4]
 
 The effect of these affects is sensible cognition, not only as the
 physical embodiment of the presentation of ideas but as the aesthetic
 perfection of those ideas, an obvious driving force in apps like *Waze*.
 For Baumgarten: ‘The aim of aesthetics is the perfection of sensible
 cognition as such, that is, beauty, while its imperfection as such, that
-is, ugliness, is to be avoided.’[^5] Colin McQuillian describes
+is, ugliness, is to be avoided.’[^04-Chap4_5] Colin McQuillian describes
 Baumgarten’s position nicely.
 
 > When the objects of sensible cognition agree with one another, then
@@ -154,7 +156,7 @@ Baumgarten’s position nicely.
 > because we cannot represent the beauty of the objects of sensible
 > cognition and their order without signs. When the signs we use to
 > represent sensible perfection agree with one another, then sensible
-> cognition expresses itself eloquently, and it is beautiful.[^6]
+> cognition expresses itself eloquently, and it is beautiful.[^04-Chap4_6]
 
 What is interesting here is how appropriate this is when discussing New
 Aesthetic objects and, by extension, New Aesthetic art; Baumgarten’s
@@ -196,7 +198,7 @@ the museums looking at the objects themselves), and share the experience
 of art; 2) to provide a means to safeguard and protect history and
 cultural heritage; 3) to serve as a lab to allow for cross-disciplinary
 creative activities between curators, historians, artists, designers and
-educators.[^7] In all three cases, as much as it might seem like the
+educators.[^04-Chap4_7] In all three cases, as much as it might seem like the
 Google Art Project is an effort to extend the opportunities to
 appreciate art in museums, in its narrowing of the aesthetic experience,
 it is far more an opportunity to appreciate the art at a distance, the
@@ -212,10 +214,11 @@ very fabric of social structures, this just seems odd, a reification of
 the collecting impulse extended to the point that the physicality of
 objects disappears. This is not as absurd as it sounds, as evidenced in
 the artwork of João Enxuto and Erica Love and their ongoing art project
-*Anonymous Paintings* (2011-).[^8] {Fig. 45} 
+*Anonymous Paintings* (2011-).[^04-Chap4_8] {Fig. 45} 
 
-![](img/Fig045.tiff)   
-Fig. 45 João Enxuto, and Erica Love,*Anonymous Paintings* (2013)
+![](img/Fig045.png)   
+Fig. 45 João Enxuto, and Erica Love,
+*Anonymous Paintings* (2013)
 
 Given the obvious copyright
 issues involved with the Google Art Project, Enxuto and Love have been
@@ -228,7 +231,7 @@ and stunning effect:
 > path of Google’s omnipresent Street View camera where occlusion
 > denotes an identity and subjecthood. Our Anonymous Paintings use
 > abstraction as a code for autonomy and withdrawal from Google’s
-> comprehensive visual record.[^9]
+> comprehensive visual record.[^04-Chap4_9]
 
 Making the analogy between the paintings and the blurred images of human
 faces in Google Street View pushes this sense of a complex autonomy to
@@ -244,7 +247,7 @@ Gallery’s exhibition of Enxuto’s and Love’s work stating:
 > have returned to the world of objects, the *Anonymous Paintings* seem
 > to exist between an artwork as memory, and an assertion of the
 > indispensable nature of a tangible space, where meaning is derived
-> from a conscious encounter between subject and object.[^10]
+> from a conscious encounter between subject and object.[^04-Chap4_10]
 
 What left’s is nothing but the distortion of a work, perhaps almost an
 apocalyptic manifestation of Benjamin’s loss of aura. Or perhaps we’re
@@ -256,7 +259,7 @@ drives their manner of presentation. Is negotiating the conceptual space
 sufficiently valid as art or as the New Aesthetic? In our opinion,
 absolutely. Enxuto and Love point out that ‘Google is single-handedly
 redefining the public sphere of art spectatorship in much the same way
-that it is redefining the mapping of public space.’[^11] The
+that it is redefining the mapping of public space.’[^04-Chap4_11] The
 unquestionable positive artistic value notwithstanding, we only disagree
 on an aesthetic level with one thing in this statement, but we disagree
 with it strongly. For us, it’s not Google that is single-handedly
@@ -297,11 +300,12 @@ to be a painting in a very traditional sense and especially because of
 it’s subject matter, namely a reproduction of Raphael’s *The School of
 Athens* (1509-11), but we promise there’s a good reason. {Fig. 46}
 
-![](img/Fig046.tiff)   
-Fig. 46 Malcolm Morley, *School of Athens*(1972)
+![](img/Fig046.png)   
+Fig. 46 Malcolm Morley, *School of Athens*
+(1972)
 
 Raphael’s painting is a masterpiece of the Italian Renaissance, the
-‘perfect embodiment of the classical spirit of the Renaissance’[^12]
+‘perfect embodiment of the classical spirit of the Renaissance’[^04-Chap4_12]
 marking the dialectical relationship between Aristotle’s theories and
 the ideas of Plato. Malcolm Morley’s painting is a reproduction of
 photograph of Raphael’s painting; that second step is important – Morley
@@ -319,7 +323,7 @@ reproduction.
 > and Aristotle the skull is over here and the rest of the head here; I
 > said I lobotomised Greek philosophy. The wit comes from the
 > unconscious. As somebody put it to me, you make friends with your
-> unconscious life, as a collaborator.”[^13]
+> unconscious life, as a collaborator.”[^04-Chap4_13]
 
 It may be a simple point, but it bears repeating that Morley used a
 glitch in his reproduction of a photograph of Raphael’s painting in an
@@ -337,9 +341,9 @@ In a similar fashion, certain recent examples of infographic art also
 conceptually set the stage for New Aesthetic objects to have a genuine
 artistic existence and function. In 2014 graphic design artists and
 illustrators Tom Whalen and Kevin Tong held a joint exhibition at the
-Phone Booth Gallery in Long Beach, California.[^14] {Fig. 47}
+Phone Booth Gallery in Long Beach, California.[^04-Chap4_14] {Fig. 47}
 
-![](img/Fig047.tiff)   
+![](img/Fig047.png)   
 Fig. 47 Tom Whalen and Kevin Tong, *Spacesuit* (2014)
  
 The
@@ -355,7 +359,7 @@ indebted to an era in the history of graphic design in which high
 modernism’s impulses to guide and correct social development were
 themselves understood as fundamental design considerations, practices
 and aesthetic strategies; Whalen cites Jan Tschichold, Saul Bass and
-Milton Glaser as influences on his website[^15], figures who
+Milton Glaser as influences on his website[^04-Chap4_15], figures who
 unquestionably strove to use graphic design in a transformative fashion.
 A first response – or a second response, since the rich, lush colors and
 bold layout of Whalen’s and Tong’s work are the first aspects of their
@@ -440,14 +444,15 @@ operative. Nees’ work began at Siemens:
 > over a page of drawing paper. Nees recalls: “There it was, the great
 > temptation for me, for once not to represent something technical with
 > this machine but rather something ‘useless’ – geometrical
-> patterns.”[^16]
+> patterns.”[^04-Chap4_16]
 
 Nees’ work is innovative simply because of the new medium that he
 started using, but equally so because it was simple in its visual
 appearance. {Fig. 48} 
 
-![](img/Fig048.tiff)   
-Fig. 48 Georg Nees, Computer artproduced between 1965–1968
+![](img/Fig048.png)   
+Fig. 48 Georg Nees, Computer art
+produced between 1965–1968
 
 In part this is because of Nees’ development of
 generative design, wherein a set of parameters would be provided to the
@@ -467,7 +472,7 @@ well as different aesthetic strategies employed by performance and
 conceptual artists across the world in the 1960s. In this respect, Nees’
 work bears a strong resemblance to Karl Otto Götz, a German artist whose
 paintings were based on ‘“statistic-metric modulations” with grids
-filled with black and white rectangles’.[^17] Second, and much more
+filled with black and white rectangles’.[^04-Chap4_17] Second, and much more
 importantly for us, Nees’ generative design method sets into place an
 aesthetic decision, evaluative and judgmental in nature, regarding the
 output; given that the imagery was produced on a flatbed graphing
@@ -489,7 +494,7 @@ states:
 > After a short hesitation he replied: “Yes, of course, I can do this.
 > Under one condition: you must tell me how you draw.” – In the ensuing
 > irritation, Max Bense spontaneously coined the word “Artificial
-> Art”.[^18]
+> Art”.[^04-Chap4_18]
 
 This has two implications: Nees is obviously recognizing that an
 artist’s draughtsmanship could be reproduced through computer
@@ -511,7 +516,7 @@ Museum’s explanation for the limited content in Nees’ art:
 > pen or brush and is linked to a computer that controls its movements.
 > The computer would guide the pen or brush across the drawing surface,
 > or, alternatively, could move the paper underneath the pen, according
-> to instructions given by the computer program.[^19]
+> to instructions given by the computer program.[^04-Chap4_19]
 
 Writing about the computer ‘guiding’ the pen, brush or even the paper
 betrays a subtle, almost unspoken notion that the process was entirely
@@ -528,13 +533,14 @@ conferencing, a biography that would make him seem an unlikely candidate
 to the second computer artist except for the fact that his was the
 second exhibition of computer art, taking place in New York City just
 two months after Nees’ exhibition (though he claims, with some evidence,
-to have produced computer art as early as 1962).[^20] Whereas Nees’ work
+to have produced computer art as early as 1962).[^04-Chap4_20] Whereas Nees’ work
 seems to have been focused on the potential of the hardware, Noll’s work
 was always focused more narrowly on the aesthetic value of the output.
 {Fig. 49} 
 
-![](img/Fig049.tiff)   
-Fig. 49 Noll, A. Michael, *Vertical-Horizontal Number 3* (1964)
+![](img/Fig049.png)   
+Fig. 49 Noll, A. Michael, *Vertical-
+Horizontal Number 3* (1964)
 
 Consisting of images whose visual appeal is based on
 contrasting vertical and horizontal relationships or Gaussian-Quadratic
@@ -548,7 +554,7 @@ with Lines* by Piet Mondrian which was preferred by viewers over the
 actual paintings as well as mistakenly identified as a drawing by
 Mondrian himself. This resulted in Noll’s paper ‘Human or Machine: A
 Subjective Comparison of Piet Mondrian’s “Composition with Lines” and a
-Computer-Generated Picture’[^21] in which he described the methods used
+Computer-Generated Picture’[^04-Chap4_21] in which he described the methods used
 to produce the image as well as the psychological experiment gauging the
 responses of a hundred people, and in which he also asserted that the
 ‘randomness’ was determinative in the aesthetic response. In short,
@@ -563,8 +569,9 @@ Mondrian but at the same time it is far more conceptually assertive of
 the distinct nature and independence of computer art in relation to its
 inspiration. 
 
-![](img/Fig050.tiff)   
-Fig. 50 Frieder Nake, 13/9/65 Nr. 2(*"Hommage à Paul Klee”*) (1965)
+![](img/Fig050.png)   
+Fig. 50 Frieder Nake, 13/9/65 Nr. 2
+(*"Hommage à Paul Klee”*) (1965)
 
 Continuing to add further levels of complexity to his work,
 Nake has explored series of matrix multiplications as a means of
@@ -575,8 +582,8 @@ upfront about trying to find a shared communality amidst the explosion
 of different art forms in the 1960s; ‘it seems to me what they share is,
 starting with Marcel Duchamp, going beyond the confines of traditional
 art. Each one of these movements in some other way denied art as it was
-known’[^22] even if he stopped making art in the 1970s after writing an
-article titled ‘There Should Be No Computer-Art’[^23] for *Page*, the
+known’[^04-Chap4_22] even if he stopped making art in the 1970s after writing an
+article titled ‘There Should Be No Computer-Art’[^04-Chap4_23] for *Page*, the
 bulletin of the Computer Arts Society, and later accusing other computer
 artists of being technocratic Dadaists. Such a position places Nake
 firmly in the realm of the art world, unlike Nees and Noll who seem to
@@ -596,7 +603,7 @@ nicely:
 > thereby, generate unemployment, should not allow artists to close
 > their eyes and become silent servants of the ruling classes by
 > reconciling high technology with the masses of the poor and
-> suppressed.[^24]
+> suppressed.[^04-Chap4_24]
 
 Other artists have pioneered computer art in ways that set the stage for
 New Aesthetic objects. Hiroshi Kawano, who may have been the first
@@ -610,8 +617,9 @@ visual art – but influenced by Max Bense’s *Programmierung des Schönen*
 artificial intelligence to develop a position that sought increasing
 degrees of autonomy in computer art production. {Fig. 51} 
 
-![](img/Fig051.tiff)   
-Fig. 51 Hiroshi Kawano, *Design 3-1*, ColorMarkov Chain Pattern, 1964
+![](img/Fig051.png)   
+Fig. 51 Hiroshi Kawano, *Design 3-1*, Color
+Markov Chain Pattern, 1964
 
 While the
 result of this is that Kawano’s work often looked more like facsimiles
@@ -622,7 +630,7 @@ teach his computer to produce works of art by itself, and furthermore
 know about the digital computing behavior of his computer in detail. It
 is never a computer artist, but a computer itself that produces works of
 art; a computer artist only helps his computer acting as a
-programmer.’[^25] Clearly, for Kawano, the human imagination was still
+programmer.’[^04-Chap4_25] Clearly, for Kawano, the human imagination was still
 of primary importance as an originating point, but how long could this
 last when his programmatic abstraction would, inevitably, be susceptible
 to the internal consistency of the programming?
@@ -634,16 +642,16 @@ Chave’s collection as well as seeing work there by Matisse, Chagall,
 Picasso, Man Ray, Léger and many others, Hébert started programming in
 Fortran in 1959 and worked on some of the first Hewlett-Packard lab
 computers in the 1970s but he maintained an interest in producing
-art.[^26] Moving to California, Hébert became the founder of the
+art.[^04-Chap4_26] Moving to California, Hébert became the founder of the
 Algorists, a loose association of computer artists and pioneered the use
 of code to produce images in a range of materials beyond paper such as
 sand, water and as installations that would be proofed by algorithms. He
 explains: ‘The principle behind my work has always been pretty simple
 \[…\] It consists of putting together a process that creates
 instructions for a tool. It’s all computer-driven motion of a tool on a
-surface.’[^27] {Fig. 52} 
+surface.’[^04-Chap4_27] {Fig. 52} 
 
-![](img/Fig052.tiff)   
+![](img/Fig052.png)   
 Fig. 52 Jean-Pierre Hébert, computer art, 1970s
 
 What’s especially interesting from our
@@ -652,12 +660,12 @@ draw and always had a passion for drawings \[…\] the seventies, I have
 been working with the conviction that to gain power and beauty, drawing
 should become a pure mental activity, rather than a mere gestural skill.
 I have endeavored to make it so by banning the physical side of
-drawing.’[^28] In essence, Hébert is advocating a rational approach to
+drawing.’[^04-Chap4_28] In essence, Hébert is advocating a rational approach to
 drawing, a notion that algorithms in and of themselves are sufficiently
 aesthetically valid, especially if they function as mediators between
 natural origins and natural output as evidenced in his recent use of
 spirals as prevalent and, seemingly, independently and universally
-artistic;[^29] while Hébert may not be pushing for the eventual complete
+artistic;[^04-Chap4_29] while Hébert may not be pushing for the eventual complete
 expulsion of the physical artist, what he has established is that
 programming is potentially sufficient at a fundamental level at the cost
 of drawing as a practice based on direct observation or free
@@ -681,8 +689,12 @@ taken leading roles in pushing what could be done (often out of Bell
 Labs, when Klüver and Rauschenberg created E.A.T. (Experiments in Art)
 in 1967). {Fig 53} 
 
-![](img/Fig053.tiff)   
-Fig. 53 Robert Rauschenberg, Open Score(1966), with Frank Stella and MimiKanarek, performance at the E.A.T.(Experiments in Art and Technology)forum, Bell Laboratories, Murray Hill, NJ
+![](img/Fig053.png)   
+Fig. 53 Robert Rauschenberg, Open Score
+(1966), with Frank Stella and Mimi
+Kanarek, performance at the E.A.T.
+(Experiments in Art and Technology)
+forum, Bell Laboratories, Murray Hill, NJ
 
 The increasingly dominant presence of the digital,
 however, has started to become naturalized. Along with the digital means
@@ -701,16 +713,16 @@ here, particularly his position that
 > some said, – progress, as others thought. The threat and the progress
 > being the use of an extremely complicated, sophisticated, expensive
 > and rational machine in the arts, i.e. in one of the last refuges of
-> the irrational.[^30]
+> the irrational.[^04-Chap4_30]
 
 A representative set of these artists were included in the exhibition
 *Painting After Technology* at the Tate Modern in London in 2015, among
-them Christopher Wool, Albert Oehlens and Laura Owens.[^31] The
+them Christopher Wool, Albert Oehlens and Laura Owens.[^04-Chap4_31] The
 exhibition takes as its starting point a brief view into the effect of
 technology on the practice of painting, with the central premise that
 ‘rather than simply celebrating such technologies, however, the artists
 in this room are often interested in the errors, glitches and
-misregistrations that can result from them.’[^32] Wool’s *Untitled*
+misregistrations that can result from them.’[^04-Chap4_32] Wool’s *Untitled*
 (2009) is representative of his use of computer technology. Working with
 digital photographs of his own paintings, Wool rearranges them and then
 silkscreens the imagery onto the paper that is then fixed onto canvas.
@@ -718,7 +730,7 @@ Oehlens’ *Loa* (2007) {Fig. 54} quotes phrases and lyrics from Scooter,
 a German techno band, and is a good example of his own description of
 his practice as ‘post-non-representational’.
 
-![](img/Fig054.tiff)   
+![](img/Fig054.png)   
 Fig. 54 Albert Oehlen, *Loa* (2007)
  
 Owens’ *Untitled* (2012)
@@ -727,17 +739,17 @@ Owens’ *Untitled* (2012)
 canvas in a manner similar to the Photorealists but with a continual
 sense of deconstructing the very process of image making. 
 
-![](img/Fig055.tiff)   
+![](img/Fig055.png)   
 Fig. 55 Albert Oehlen, *Loa* (2007)
 
 Described by
 curator Mark Godfrey as a ‘selection of work \[reflecting\] one of the
-urgent conversations around painting today’[^33] the exhibition
+urgent conversations around painting today’[^04-Chap4_33] the exhibition
 certainly had a sense of urgency about it, albeit a laconic one, that
 suggested that the intersection between traditional media and digital
 technology is increasingly becoming an uneasy place. In many respects
 Godfrey’s curatorial choices, equally reflected in his Artforum article
-‘Statements of Intent’[^34] that serves as an external curatorial
+‘Statements of Intent’[^04-Chap4_34] that serves as an external curatorial
 statement for the Tate exhibition, complicates the matter further with
 its emphasis on abstract art. The artists included in the exhibition and
 discussed in the article are presented as clearly negotiating a position
@@ -776,18 +788,19 @@ is a presentation of artists whose work is unquestionably worth extended
 and serious consideration as a valuable or crucial layer in our
 concentric exploration towards our target.
 
-Kohei Nawa[^35] is a professor at Kyoto University of Art and Design,
+Kohei Nawa[^04-Chap4_35] is a professor at Kyoto University of Art and Design,
 and has been producing fascinating works that are manipulations of the
 intersection of material and digital means. Nawa’s first appearance in a
 specific New Aesthetic context emerged out of his association with the
-*Sandwich* space in Kyoto.[^36] *Polygon Double Deer \#2* (2011)[^37]
+*Sandwich* space in Kyoto.[^04-Chap4_36] *Polygon Double Deer \#2* (2011)[^04-Chap4_37]
 {Fig. 56} is a work that obviously draws on the growing translation of
 real world objects into polygonal forms for game design and digital
 simulations and was featured on Bridle’s blog, but other works by Nawa
 are even more fascinating and breath-taking. 
 
-![](img/Fig056.tiff)   
-Fig. 56 Kohei Nawa, *Polygon-Double-Deer #2* (2011)
+![](img/Fig056.png)   
+Fig. 56 Kohei Nawa, *Polygon-Double-
+Deer #2* (2011)
 
 For example, works in his
 *Pixcell* (2009-2011) series and his *Liquid* (2007-2011) pieces utilize
@@ -798,7 +811,7 @@ otherworldly figurative apparitions; and *Biota* (2013) and *Manifold*
 (2013) {Fig. 57} are massive representations in sculptural form of
 simulations of evolution, mysticism and gravity. 
 
-![](img/Fig057.tiff)   
+![](img/Fig057.png)   
 Fig. 57 Kohei Nawa, *Manifold* (2013)
 
 This primacy of the
@@ -813,7 +826,7 @@ direct the aesthetic experience as are the artistic choices, and it’s
 the system itself that begins to become aesthetically self-sustaining
 through Nawa’s aesthetic strategies.
 
-Matthew Plummer-Fernandez[^38] is a British-Columbian artist who has
+Matthew Plummer-Fernandez[^04-Chap4_38] is a British-Columbian artist who has
 also been mentioned in the context of the New Aesthetic. Like some of
 Nawa’s work, Plummer-Fernandez has been borrowing digital techniques to
 respond to conditions of the world, particularly the artificiality of
@@ -826,8 +839,9 @@ a result of the custom software Plummer-Fernandez has created for 3D
 printers, has been described as a liberator for future work entangled
 with the complexities of intellectual property law. 
 
-![](img/Fig058.tiff)   
-Fig. 58 Matthew Plummer-Fernandez,*sekuMoi Mecy No. 2* (2012)
+![](img/Fig058.png)   
+Fig. 58 Matthew Plummer-Fernandez,
+*sekuMoi Mecy No. 2* (2012)
 
 Stephen Fortune
 writes:
@@ -840,7 +854,7 @@ writes:
 > visual treat if it is loaded into any 3D editing software. If you’ve
 > got the decryption keys, you get to see the object’s true form. It’s
 > hiding in plain sight, thumbing its pixel-bled nose at the Mary
-> Whitehouses of physible culture.[^39]
+> Whitehouses of physible culture.[^04-Chap4_39]
 
 More than just an engagement with a character, this work tears into the
 notion of intellectual property, copyright and trademark law, suggesting
@@ -859,7 +873,7 @@ are broken in the digital age. Plummer-Fernandez notes:
 > Term Extension Act (known as the Mickey Mouse Protection Act). A
 > Disney insider also revealed that the design of Mickey is constantly
 > updated (such as the disappearance of the tail) to continually reset
-> the copyright timer.[^40]
+> the copyright timer.[^04-Chap4_40]
 
 Plummer-Fernandez’s point is an intriguing one – by noting that there’s
 a history or an evolution to the form of Mickey Mouse that
@@ -887,7 +901,7 @@ line with this, Bridle noted in his 2012 presentation at SWSX that:
 > between “the real” and “the digital”, the physical and the virtual,
 > the human and the machine. It should also be clear that this “look” is
 > a metaphor for understanding and communicating the experience of a
-> world in which the New Aesthetic is increasingly pervasive.[^41]
+> world in which the New Aesthetic is increasingly pervasive.[^04-Chap4_41]
 
 As interesting as this was, we find it problematic, excusably so in the
 context of the early history of the New Aesthetic but still problematic
@@ -912,15 +926,16 @@ style is often insufficient to determine the New Aesthetic nature of an
 object, particularly an artwork. A number of specific examples
 illustrate the point we’re trying to make.
 
-The work of Ferruccio Laviani,[^42] specifically his cabinet *Good
-Vibrations* (2013),[^43] {Fig. 59} has become a rather famous example of
+The work of Ferruccio Laviani,[^04-Chap4_42] specifically his cabinet *Good
+Vibrations* (2013),[^04-Chap4_43] {Fig. 59} has become a rather famous example of
 work that stylistically similar to what one might anticipate New
 Aesthetic objects would appear like, showing up in many print
 publications and exhibitions over the last few years, being a
 fascinating example of craft at the highest level. 
 
-![](img/Fig059.tiff)   
-Fig. 59 Feruccio Laviani, *Good Vibrations*(2012)
+![](img/Fig059.png)   
+Fig. 59 Feruccio Laviani, *Good Vibrations*
+(2012)
 
 At first glance, as
 every writer notes, it looks like a distorted photograph, an example of
@@ -946,7 +961,7 @@ the digital presence.
 
 This sense of finding a space between the real and the digital is
 present in an equally interesting fashion in the work of Matthieu
-Tremblin,[^44] a French street artist. Seemingly borrowing certain
+Tremblin,[^04-Chap4_44] a French street artist. Seemingly borrowing certain
 artistic strategies from a tradition of artists going back to Kurt
 Schwitters coupled with an acute sense of the functionality of the urban
 environment, Tremblin’s work can best be described as urban
@@ -958,9 +973,9 @@ redisplayed in a more congenial fashion; *Copying Van Gogh* (2013) and
 *Hakim* (2015) are re-appropriations of found graffiti tags that
 simultaneously question and assert the authenticity of street art. For
 our purposes, however, Tremblin’s most important work is *Watermark*
-(2013).[^45] {Fig. 60} 
+(2013).[^04-Chap4_45] {Fig. 60} 
 
-![](img/Fig060.tiff)   
+![](img/Fig060.png)   
 Fig. 60 Mathieu Tremblin, *Watermark* (2013)
 
 An initial observation sees the image appearing
@@ -976,7 +991,7 @@ a carefully planned execution that exemplifies what Tremblin refers to
 as ‘a certain dynamic using photography, graffiti and site-specific
 installation to end up with this attitude where we’re making forms of
 art in symbiosis with the context of its creation or diffusion, turning
-everyday life spaces in experimental art spaces’.[^46] Almost every
+everyday life spaces in experimental art spaces’.[^04-Chap4_46] Almost every
 artwork by Tremblin can be understood within the context of this
 statement, but *Watermark* is something more; as Tremblin noted, the
 work came out of his criticism of the city of Mons’ attempt to control
@@ -1015,15 +1030,16 @@ intricate rugs and other forms of fiber art. Ahmed’s work is a result of
 the relationship between the past, in a deeply rooted traditional sense
 that he notes as extending back to the ‘beginning of times’, and the
 present as an opportunity for poignant fractures and
-reconfigurations.[^47] Looking at Ahmed’s work it’s immediately obvious
+reconfigurations.[^04-Chap4_47] Looking at Ahmed’s work it’s immediately obvious
 why it’s relevant here: with work like *Ledge* (2011), *Oiling* (2012),
 *Liquid* (2014) and, especially, *Tradition in Pixel* (2010), {Fig. 61}
 the fields of liminality he explores between traditional carpet design
 and digital effects and patterns are evidently experimental ventures
 broaching normally opposing forms of art practices. 
 
-![](img/Fig061.tiff)   
-Fig. 61 Faig Ahmed, *Tradition in Pixel*(2010)
+![](img/Fig061.png)   
+Fig. 61 Faig Ahmed, *Tradition in Pixel*
+(2010)
 
 Much of Ahmed’s
 carpets are woven in a traditional fashion, but the alterations that
@@ -1043,7 +1059,7 @@ Ahmed’s own statements back this up:
 > research and as I communicate with it, I create art. My carpets,
 > installations and embroideries are the result of this interplay. It is
 > fascinating to observe the process of such an easy transformation of
-> such ancient and stable objects.[^48]
+> such ancient and stable objects.[^04-Chap4_48]
 
 It is Ahmed’s assertion of the ease of the transformation that’s just as
 intriguing as the objects themselves. Why is it easy? Not just because
@@ -1064,7 +1080,7 @@ writes:
 > Eastern culture is very rich visually. I cover it all in minimalistic
 > forms, destroying the stereotypes of the tradition and creating new
 > modern boundaries. A man can widen the borders and change them but no
-> one has ever dare to break our spirit.[^49]
+> one has ever dare to break our spirit.[^04-Chap4_49]
 
 Understanding the carpet as a symbol of invincible tradition, Ahmed’s
 pixelating reinforces its digital transformation as an alteration,
@@ -1087,16 +1103,18 @@ level. One of the best examples of this is the use of glitch effects in
 the photography of Sabato Visconti, a Brazilian born artist trained and
 working in the United States. According to Visconti’s website it was a
 defective memory card that prompted his experimentation with glitch
-photography in 2011.[^50] Visconti’s art puts him at the forefront of
+photography in 2011.[^04-Chap4_50] Visconti’s art puts him at the forefront of
 glitch photography; using deliberately executed errors which Visconti
 refers to as ‘breaking the image’, he tries to strike a balance between
 a complete collapse of the image into digital errors and
 incomprehensible artifacts and straight photography, ‘trying to find
 this really fine balance where something doesn’t break fully, but breaks
-just to the point that you can see it breaking’.[^51] {Fig. 62}
+just to the point that you can see it breaking’.[^04-Chap4_51] {Fig. 62}
 
-![](img/Fig062.tiff)   
-Fig. 62 Sabato Visconti, *Peeper (11thIteration)* (2014), from the *Little Monsters*series
+![](img/Fig062.png)   
+Fig. 62 Sabato Visconti, *Peeper (11th
+Iteration)* (2014), from the *Little Monsters*
+series
 
 More
 than just nostalgia for 8-bit graphics, Visconti’s art clearly takes the
@@ -1105,11 +1123,12 @@ point of surrealism, a connection that is evident in the control that he
 tries to maintain over the final product. In fact, it’s clear that there
 is a thread of art historical referentiality, particularly with certain
 images that show a strong influence from other artists like René
-Magritte[^52] and André Kertész, even if art history permeates only at
+Magritte[^04-Chap4_52] and André Kertész, even if art history permeates only at
 the most superficial level. {Fig. 63} 
 
-![](img/Fig063.tiff)   
-Fig. 63 Sabato Visconti, *Untitled* (2011),from the *Images Adrift* series
+![](img/Fig063.png)   
+Fig. 63 Sabato Visconti, *Untitled* (2011),
+from the *Images Adrift* series
 
 For Visconti, an awareness of the
 code that drives image manipulation programs is what sets his
@@ -1124,7 +1143,7 @@ parameters.
 > almost like a super warped-out VHS effect, you’re going to want to use
 > an audio program for that \[…\] It’s definitely more satisfying
 > sometimes when you get down and dirty with the code and kind of just
-> finesse something out.[^53]
+> finesse something out.[^04-Chap4_53]
 
 The balance that Visconti is trying to strike here is clearly twofold:
 on the one hand his efforts are directed towards producing an image that
@@ -1147,14 +1166,14 @@ What’s amazing about Visconti work is the variety of techniques he uses:
 > characters in the final image. He’s embraced cachemashing, and
 > distorted photos by converting them to vectors then databending the
 > file. The point being: There are plenty of ways to glitch a
-> photo.[^54]
+> photo.[^04-Chap4_54]
 
 At the same time, what brings Visconti’s work back into the realm of
 normal art production is the virtuosity with which he uses the digital
 tools he’s familiarized himself with most. In the end, the result is
 that ‘glitch photography transcends the idea of simply altering
 something and becomes a medium in its own right, replete with a digital
-toolbox of tricks and best practices’.[^55] Clearly there’s a concern on
+toolbox of tricks and best practices’.[^04-Chap4_55] Clearly there’s a concern on
 Visconti’s part to produce the best possible image, the most successful
 example of art, and to that end he’s quite upfront about continuing to
 have control over the final images.
@@ -1166,9 +1185,9 @@ have control over the final images.
 > labor intensive as any other art form. Glitching is the careful
 > simulation of malfunction. It’s an absurd scheme that requires some
 > finesse, because some glitches will break a file beyond recognition
-> and other glitches will have no effect at all.[^56]
+> and other glitches will have no effect at all.[^04-Chap4_56]
 
-Visconti uses Pixel-Drifter,[^57] a program written by Dmitriy
+Visconti uses Pixel-Drifter,[^04-Chap4_57] a program written by Dmitriy
 Krotevich, in much of his work. Pixel-Drifter works by taking the
 ‘power’ of each pixel, gauged by its luminosity and screen position, and
 putting it into conflict with its neighboring pixels in parameters set
@@ -1182,7 +1201,7 @@ Aesthetic. As noted by Margaret Rhodes:
 > hiccups can distort an image. Depending on who you asked, glitch art
 > only qualified as glitch art if the aesthetic cracks happened by
 > accident. Then the medium evolved, and some digital artists began to
-> force those errors by editing code and manipulating pixels.[^58]
+> force those errors by editing code and manipulating pixels.[^04-Chap4_58]
 
 It is here that we draw a distinction between art informed by the New
 Aesthetic as product and actual New Aesthetic art objects as artistic
@@ -1196,8 +1215,9 @@ essay ‘The Work of Art in the Age of Mechanical Reproduction’, Geiger’s
 series of manipulated photographs *Sur-Fake* (2015) seems to be a
 flag-bearer for the impending apocalypse. {Fig. 64} 
 
-![](img/Fig064.tiff)   
-Fig. 64 Antoine Geiger, from the *Sur-Face*project (2014)
+![](img/Fig064.png)   
+Fig. 64 Antoine Geiger, from the *Sur-Face*
+project (2014)
 
 Benjamin’s words –
 ‘Mankind, which in Homer’s time was an object of contemplation for the
@@ -1206,8 +1226,9 @@ such a degree that it can experience its own destruction as aesthetic
 pleasure of the first order’ – bear out in Geiger’s images of people
 willingly sucked into the screens of their smartphone. {Fig. 65} 
 
-![](img/Fig065.tiff)   
-Fig. 65 Antoine Geiger, from the *Sur-Fake*project (2014)
+![](img/Fig065.png)   
+Fig. 65 Antoine Geiger, from the *Sur-Fake*
+project (2014)
 
 Geiger
 notes about the project that it’s a continuation of *Sur-Face* (2014),
@@ -1215,10 +1236,10 @@ wherein his images of people with their head covered by mirrors evoked a
 need for privacy in our ever-present state of facial recognition, but
 what makes *Sur-Fake* even more interesting is the apparent willingness
 of the participants to relinquish their identities to their
-technological mediators.[^59] Geiger writes: ‘What interests me in this
+technological mediators.[^04-Chap4_59] Geiger writes: ‘What interests me in this
 texture of sucked faces, is that the over-exposure gradually allows a
 very organic dimension, as well as digital, to render something quite
-disturbing.’[^60]
+disturbing.’[^04-Chap4_60]
 
 Ralf Brueck’s work bears some resemblance to that of Geiger, but there
 are crucial differences that only come out through a closer inspection.
@@ -1242,7 +1263,7 @@ manipulations; images such as *Golden Cage* (2011) and *Twin Peaks*
 aspects drawn out to set a dynamic visual contrast that redirects the
 viewer back to the production and manipulation or editing methods. 
 
-![](img/Fig066.tiff)   
+![](img/Fig066.png)   
 Fig. 66 Ralf Brueck, *Twin Peaks* (2011)
 
 Often
@@ -1257,8 +1278,9 @@ sweet home* (2014) {Fig. 67} and *Shopping with grandma Elisabeth*
 presence of the viewer, an obfuscation built into the necessary
 cooperative aesthetic engagement. 
 
-![](img/Fig067.tiff)   
-Fig. 67 Ralf Brueck, *Home sweet home*(2014)
+![](img/Fig067.png)   
+Fig. 67 Ralf Brueck, *Home sweet home*
+(2014)
 
 Like in so many instances of
 postdigital analysis, there are often strange interpretations of
@@ -1271,39 +1293,41 @@ series thus:
 > Distorted shapes and glitches disrupt otherwise normal landscapes,
 > making it easy to imagine paranormal activity or a good old-fashioned
 > beaming up. In his series Dekonstruktion and Distortion, Brueck brings
-> the unnatural closer to home.[^61]
+> the unnatural closer to home.[^04-Chap4_61]
 
 We’re not sure where the aliens are – Brueck notes that there’s been
 almost a constant tendency to look at this work in a science fiction
-context[^62] – but the disjunctive relationship between the familiar and
+context[^04-Chap4_62] – but the disjunctive relationship between the familiar and
 the otherworldly presses our aesthetic sensibilities into a
 consideration of the medium. Brueck works with a 4x5 analog camera and
 is self-taught in the use of digital manipulation software. He notes:
 ‘One of the ideas behind my work is to manipulate the DNA of the
 picture, to let it mutate. Every detail you see originates only from the
-one sole photo.’[^63] From this, we would suppose that, despite the
+one sole photo.’[^04-Chap4_63] From this, we would suppose that, despite the
 initial analog origins, the presence of digital manipulation is almost
 teleological, a position substantiated by Amani Olu’s and Jon
 Feinstein’s curated photography website, which states: ‘Ralf Brueck
 manipulations of images are not geared towards pointing out that
 contemporary digital photography is deficient in its representation of
-reality but argues that a photograph constitutes its own reality.’[^64]
+reality but argues that a photograph constitutes its own reality.’[^04-Chap4_64]
 
 The use of distortions by digital manipulation software has often been
 noted as a readily identifiable manifestation of the influence of the
 New Aesthetic, if not an example in its own right. Artists like Mishka
-Henner have produced work like *Dutch Landscapes* (2011)[^65] {Fig. 68}
+Henner have produced work like *Dutch Landscapes* (2011)[^04-Chap4_65] {Fig. 68}
 that explore the concessions that Google makes to government censorship
 and its ‘need’ for secrecy, and Helmut Smits’ *Dead Pixel in Google
-Earth* (2008-10)[^66] {Fig. 69} borrows from Land Art techniques to
+Earth* (2008-10)[^04-Chap4_66] {Fig. 69} borrows from Land Art techniques to
 aesthetically contrast our expectations and experiences in the
 digitizing of our landscapes. 
 
-![](img/Fig068.tiff)   
-Fig. 68 Mishka Henner, *De Peel PatriotMissile Site*, Dutch Landscapes (2011)
+![](img/Fig068.png)   
+Fig. 68 Mishka Henner, *De Peel Patriot
+Missile Site*, Dutch Landscapes (2011)
 
-![](img/Fig069.tiff)   
-Fig. 69 Helmut Smits, *Dead Pixel inGoogle Earth* (2008–2010)
+![](img/Fig069.png)   
+Fig. 69 Helmut Smits, *Dead Pixel in
+Google Earth* (2008–2010)
 
 Similar to the work of Visconti and Geiger
 is that of Kim Asendorf, though the similarities are set off by the
@@ -1311,14 +1335,15 @@ different directions these artists have taken. Asendorf is one of the
 first digital artists to start using pixel sorting, a technique wherein
 pixels in an image are sorted along certain parameters, and Asendorf’s
 release of his own programming code for pixel sorting quickly sparked a
-wide range of emulators and imitators.[^67] With images like those in
-the series *Mountain Tour* (2010)[^68] {Fig. 70} and an example of his
-work processing source code,[^69] Asendorf is clearly subverting the
+wide range of emulators and imitators.[^04-Chap4_67] With images like those in
+the series *Mountain Tour* (2010)[^04-Chap4_68] {Fig. 70} and an example of his
+work processing source code,[^04-Chap4_69] Asendorf is clearly subverting the
 conventions of landscape while at the same articulating divergent
 aesthetic parameters. 
 
-![](img/Fig070.tiff)   
-Fig. 70 Kim Asendorf, from the *MountainTour* series (2010)
+![](img/Fig070.png)   
+Fig. 70 Kim Asendorf, from the *Mountain
+Tour* series (2010)
 
 More than just glitch art, Asendorf’s artistic
 efforts explore the assumptions users make when employing digital tools
@@ -1333,10 +1358,11 @@ the New Aesthetic but is not fully participating in its attitude. {Fig.
 71} Installed at *The Power of Things* exhibition at the DEAF (Dutch
 Electronic Art Festival) in 2012, *Sandbox* is an elaborate skillful
 recreation of a desert environment, with a diorama enclosing only sand
-and wind.[^70] 
+and wind.[^04-Chap4_70] 
 
-![](img/Fig071.tiff)   
-Fig. 71 Erwin Driessens and MariaVerstappen, *Sandbox* (2009)
+![](img/Fig071.png)   
+Fig. 71 Erwin Driessens and Maria
+Verstappen, *Sandbox* (2009)
 
 Looking at the imitation of natural forces as they are
 mimicked inside of the diorama, a viewer might be inclined to think of
@@ -1346,7 +1372,7 @@ far more than that; V2, the ‘Institute for Unstable Media’ describes the
 team of artists as producing ‘e-volved’ imagery based on scientific
 principles, resulting in an exploration of ‘the possibilities that
 physical, chemical and computer algorithms offer for the development of
-image-generating processes’.[^71] What differentiates the work by
+image-generating processes’.[^04-Chap4_71] What differentiates the work by
 Driessens & Verstappen from a being merely a display of scientific
 principles is the governing, systematic structure of control digitally
 implemented in their work; as they note about their own work:
@@ -1360,21 +1386,22 @@ implemented in their work; as they note about their own work:
 > self-organising processes in our natural surroundings: the complex
 > dynamics of all kinds of physical processes and the
 > genetic-evolutionary system of organic life that continuously creates
-> new and original forms.[^72]
+> new and original forms.[^04-Chap4_72]
 
 The emphasis on natural growth puts their work very close to being New
 Aesthetic, but at the same time we’re not so certain about the
 naturalness in that there’s little apparent autonomy to the programming.
 The series of images *E-volved Cultures* (2005-2011) {Fig. 72} and
-*Formulae E-volver* (2015)[^73] get even closer – perhaps genuinely
+*Formulae E-volver* (2015)[^04-Chap4_73] get even closer – perhaps genuinely
 closer to the New Aesthetic than anything we’ve discussed so far – but
 their dependency on complex mathematical formulas, with the
 predetermined pathways of visual development that maintain a viable
 structure imposed on the objects by the artists, puts them more in
 parallel (in an updated manner) to the work of 1960s computer artists.
 
-![](img/Fig072.tiff)   
-Fig. 72 Erwin Driessens and MariaVerstappen, *E-volved Cultures* (2005-11)
+![](img/Fig072.png)   
+Fig. 72 Erwin Driessens and Maria
+Verstappen, *E-volved Cultures* (2005-11)
 
 A final consideration in this section appears in two different examples
 and involves an approach that is more installation-oriented: *Project
@@ -1384,8 +1411,9 @@ Blinkenlights* {Fig. 73} was a project executed by the German Chaos
 Computer Club, whose members can rightfully be described as hackers in
 the broadest sense. 
 
-![](img/Fig073.tiff)   
-Fig. 73 Chaos Computer Club, *ProjectBlinkenlights* (2001–2002)
+![](img/Fig073.png)   
+Fig. 73 Chaos Computer Club, *Project
+Blinkenlights* (2001–2002)
 
 It started on September 11th 2001 at the Haus des
 Lehrers in Alexanderplatz, Berlin, and lasted until February 23rd 2002.
@@ -1405,8 +1433,9 @@ of the lack of failure in the project’s display. Ryoji Ikeda’s
 *supersymmetry* {Fig. 74} is a project of a very different nature from
 *Project Blinkenlights*, but certain similarities do exist. 
 
-![](img/Fig074.tiff)   
-Fig. 74 Ryoji Ikeda, *supersymmetry* (2014),Studio A
+![](img/Fig074.png)   
+Fig. 74 Ryoji Ikeda, *supersymmetry* (2014),
+Studio A
 
 Taking as
 its starting point the theory of particle physics that attempts to
@@ -1415,15 +1444,16 @@ relativity, Ikeda’s installation, atop the Brewer Street Car Park in
 London, as part of a series supported by The Vinyl Factory, was a
 disorienting experience divided into two sections and that is ‘an
 artistic vision of the reality of nature through an immersive and
-sensory experience to the visitors’.[^74] In the first section of
+sensory experience to the visitors’.[^04-Chap4_74] In the first section of
 *supersymmetry*, large numbers of balls roll across moving platforms
 that are sometimes illuminated by strobe lighting and scanned *in situ*;
 in the second section, the data produced by the balls is projected onto
 forty computer screens, with correlations and divergences in the data
 that is mapped and analyzed emphasized visually. {Fig. 75} 
 
-![](img/Fig075.tiff)   
-Fig. 75 Ryoji Ikeda, *supersymmetry* (2014),Studio B
+![](img/Fig075.png)   
+Fig. 75 Ryoji Ikeda, *supersymmetry* (2014),
+Studio B
 
 In an
 unjustifiably dismissive review, Jonathan Jones provided some a clear
@@ -1439,7 +1469,7 @@ starting point to understanding Ikeda’s intentions:
 > the language of science too well, either, but I do know one thing: it
 > is concerned with the wonder of nature. There is a depressing lack of
 > wonder in this technically sophisticated but intellectually and
-> emotionally empty art.[^75]
+> emotionally empty art.[^04-Chap4_75]
 
 <span id="Chapter_3a_New_Aesthetics_Art_"
 class="anchor"></span>Regardless of Jones’ inability to see the wonder,
@@ -1484,249 +1514,253 @@ fashion. It’s when these and other examples of art, immersive and all
 encompassing, affect us that the categorical conditions of existence of
 New Aesthetic art are revealed.
 
-[^1]: Aram Bartholl, ‘Dropping the Internet’, *Datenform*, 2014,
-    http://datenform.de/dropping-the-internet-eng.html.
+[^04-Chap4_1]: Aram Bartholl, ‘Dropping the Internet’, *Datenform*, 2014,
+    <http://datenform.de/dropping-the-internet-eng.html>.
 
-[^2]: Christian Ulrik Andersen and Søren Bro Pold, ‘Aesthetics of the
+[^04-Chap4_2]: Christian Ulrik Andersen and Søren Bro Pold, ‘Aesthetics of the
     Banal – “New Aesthetics” in an Era of Diverted Digital Revolutions’,
     in David M. Berry and Michael Dieter (eds) *Postdigital Aesthetics:
     Art, Computation and Design*, New York: Palgrave MacMillan, 2015, p.
     286.
 
-[^3]: Aram Bartholl, ‘Dropping the Internet’.
+[^04-Chap4_3]: Aram Bartholl, ‘Dropping the Internet’.
 
-[^4]: Alexander Baumgarten, Paetzold, Heinz (ed.) *Meditationes
+[^04-Chap4_4]: Alexander Baumgarten, Paetzold, Heinz (ed.) *Meditationes
     philosophicae de nonnullis ad poema pertinentibus/Philosophische
     Betrachtungen über einige Bedingungen des Gedichtes*, Hamburg: Felix
     Meiner Verlag, 1983. p. 24
 
-[^5]: Alexander Baumgarten, Aesthetica/Ästhetik, Dagmar Mirbach (ed), 2
+[^04-Chap4_5]: Alexander Baumgarten, Aesthetica/Ästhetik, Dagmar Mirbach (ed), 2
     vols.,Hamburg: Felix Meiner Verlag, 2007. (*Aesthetica*, §14)
 
-[^6]: J. Colin McQuillian, “Baumgarten on Sensible Perfection”
+[^04-Chap4_6]: J. Colin McQuillian, “Baumgarten on Sensible Perfection”
     *Philosophica*, 44, Lisboa, 2014, pp. 53-54.
 
-[^7]: Google Cultural Institute,
-    https://www.google.com/culturalinstitute/about/.
+[^04-Chap4_7]: Google Cultural Institute,
+    <https://www.google.com/culturalinstitute/about/>.
 
-[^8]: João Enxuto and Erica Love, ‘Anonymous Paintings (2011-)’,
+[^04-Chap4_8]: João Enxuto and Erica Love, ‘Anonymous Paintings (2011-)’,
     *theoriginalcopy.net*, 2011,
-    http://www.sept6.info/anonymous-paintings/.
+    <http://www.sept6.info/anonymous-paintings/>.
 
-[^9]: Enxuto and Love, ‘Anonymous Paintings (2011-)’.
+[^04-Chap4_9]: Enxuto and Love, ‘Anonymous Paintings (2011-)’.
 
-[^10]: ‘Enxuto & Love, Anonymous Paintings’, (Press Release), Carriage
+[^04-Chap4_10]: ‘Enxuto & Love, Anonymous Paintings’, (Press Release), Carriage
     Trade Gallery, October 2013,
-    http://www.carriagetrade.org/article82,82.
+    <http://www.carriagetrade.org/article82,82>.
 
-[^11]: Peter Brook, ‘See Some Art While You Can – Google Will Eventually
+[^04-Chap4_11]: Peter Brook, ‘See Some Art While You Can – Google Will Eventually
     Replace Museums’, *Wired.com*, September 2013,
-    http://www.wired.com/2013/09/see-some-art-whir-you-can-google-will-eventually-replace-museums/.
+    <http://www.wired.com/2013/09/see-some-art-whir-you-can-google-will-eventually-replace-museums/>.
 
-[^12]: So much so that Scott wrote that without realizing he was using
+[^04-Chap4_12]: So much so that Scott wrote that without realizing he was using
     the same exact phrase quote on the Wikipedia article about the
-    painting (https://en.wikipedia.org/wiki/The\_School\_of\_Athens),
+    painting <https://en.wikipedia.org/wiki/The\_School\_of\_Athens>,
     which quotes Janson’s *History of Art: The Western Tradition*. Which
     itself is a quotation from various other sources.
 
-[^13]: Andrew Lambirth, ‘Welcome home, Malcolm Morley’, *The Spectator*,
+[^04-Chap4_13]: Andrew Lambirth, ‘Welcome home, Malcolm Morley’, *The Spectator*,
     26 October 2013,
-    http://new.spectator.co.uk/2013/10/malcolm-morley-the-last-wild-man-of-modern-art/.
+    <http://new.spectator.co.uk/2013/10/malcolm-morley-the-last-wild-man-of-modern-art/>.
 
-[^14]: Ben Marks, ‘Art in the Infographic Age’, 22 August 2014, *Boing Boing*, http://boingboing.net/2014/08/22/art-in-the-infographic-age.html.
+[^04-Chap4_14]: Ben Marks, ‘Art in the Infographic Age’, 22 August 2014, *Boing Boing*, <http://boingboing.net/2014/08/22/art-in-the-infographic-age.html>.
 
-[^15]: Strong Stuff, Tom Whalen Illustrations-Design,
-    http://www.strongstuff.net/about-flatiron/.
+[^04-Chap4_15]: Strong Stuff, Tom Whalen Illustrations-Design,
+    <http://www.strongstuff.net/about-flatiron/>.
 
-[^16]: ZKM Exhibitions, August 2006, ‘Georg Nees – The Great Temptation:
+[^04-Chap4_16]: ZKM Exhibitions, August 2006, ‘Georg Nees – The Great Temptation:
     Early generative computer graphics’, *ZKM*,
-    http://on1.zkm.de/zkm/stories/storyReader\$5255.
+    <http://on1.zkm.de/zkm/stories/storyReader\$5255>.
 
-[^17]: Thomas Dreher, ‘Computer Graphics’, *History of Computer Art*,
+[^04-Chap4_17]: Thomas Dreher, ‘Computer Graphics’, *History of Computer Art*,
     September 2013,
-    http://iasl.uni-muenchen.de/links/GCA-III.2e.html\#Computergrafik*.*
+    <http://iasl.uni-muenchen.de/links/GCA-III.2e.html\#Computergrafik>.
 
-[^18]: compArt database Digital Art (daDA), ‘Georg Nees:
-    Computergrafik’, http://dada.compart-bremen.de/item/exhibition/164.
+[^04-Chap4_18]: compArt database Digital Art (daDA), ‘Georg Nees:
+    Computergrafik’, <http://dada.compart-bremen.de/item/exhibition/164>.
 
-[^19]: Victoria & Albert Museum, ‘A History of Computer Art’,
-    http://www.vam.ac.uk/content/articles/a/computer-art-history/.
+[^04-Chap4_19]: Victoria & Albert Museum, ‘A History of Computer Art’,
+    <http://www.vam.ac.uk/content/articles/a/computer-art-history/>.
 
-[^20]: A. Michael Noll, http://noll.uscannenberg.org/.
+[^04-Chap4_20]: A. Michael Noll, <http://noll.uscannenberg.org/>.
 
-[^21]: A. Michael Noll, ‘Human or Machine: A Subjective Comparison of
+[^04-Chap4_21]: A. Michael Noll, ‘Human or Machine: A Subjective Comparison of
     Piet Mondrian’s ‘Composition with Lines’ and a Computer–Generated
     Picture,’ *The Psychological Record*, Vol. 16. No. 1, January 1966,
     pp. 1-10.
 
-[^22]: DAM Berlin, ‘Artist’s Statement: Frieder Nake in conversation
+[^04-Chap4_22]: DAM Berlin, ‘Artist’s Statement: Frieder Nake in conversation
     with Wolf Lieser at the DAM GALLERY Berlin, November 2010’, November
     2010,
-    http://dam.org/artists/phase-one/frieder-nake/artist-s-statement.
+    <http://dam.org/artists/phase-one/frieder-nake/artist-s-statement>.
 
-[^23]: *Page* No. 18, October 1971, pp. 1-2. Reprinted in Arie Altena,
+[^04-Chap4_23]: *Page* No. 18, October 1971, pp. 1-2. Reprinted in Arie Altena,
     Lucas van der Velden (eds) *The anthology of computer art*,
     Amsterdam: Sonic Acts 2006, pp. 59-60.
 
-[^24]: Wikipedia contributors. ‘Frieder Nake’, 26 February 2016,
+[^04-Chap4_24]: Wikipedia contributors. ‘Frieder Nake’, 26 February 2016,
     <https://en.wikipedia.org/w/index.php?title=Frieder_Nake&oldid=688732078>.
 
-[^25]: compArt database Digital Art (daDA), ‘Hiroshi Kawano’,
-    http://dada.compart-bremen.de/item/agent/234.
+[^04-Chap4_25]: compArt database Digital Art (daDA), ‘Hiroshi Kawano’,
+    <http://dada.compart-bremen.de/item/agent/234>.
 
-[^26]: Index for jean-pierre hébert, ‘Biography’,
-    http://jeanpierrehebert.com/docs/bio1209.pdf*.*
+[^04-Chap4_26]: Index for jean-pierre hébert, ‘Biography’,
+    <http://jeanpierrehebert.com/docs/bio1209.pdf>.
 
-[^27]: compArt database Digital Art (daDA), Jean-Pierre Hébert’,
-    http://dada.compart-bremen.de/item/agent/549.
+[^04-Chap4_27]: compArt database Digital Art (daDA), Jean-Pierre Hébert’,
+    <http://dada.compart-bremen.de/item/agent/549>.
 
-[^28]: ‘The Work of Jean-Pierre Hébert’, *Juxtapoz*, May 22 2015,
-    http://www.juxtapoz.com/current/the-work-of-jean-pierre-hebert.
+[^04-Chap4_28]: ‘The Work of Jean-Pierre Hébert’, *Juxtapoz*, May 22 2015,
+    <http://www.juxtapoz.com/current/the-work-of-jean-pierre-hebert>.
 
-[^29]: Thoma Foundation, ‘There Are Spirals Everywhere,’ Says Computer
+[^04-Chap4_29]: Thoma Foundation, ‘There Are Spirals Everywhere,’ Says Computer
     Artist Jean-Pierre Hébert’, (Press release), July 25 2015,
-    http://thomafoundation.org/there-are-spirals-everywhere-says-computer-artist-jean-pierre-hebert/.
+    <http://thomafoundation.org/there-are-spirals-everywhere-says-computer-artist-jean-pierre-hebert/>.
 
-[^30]: *Page* No. 18, October 1971, pp. 1-2. Reprinted in Arie Altena,
+[^04-Chap4_30]: *Page* No. 18, October 1971, pp. 1-2. Reprinted in Arie Altena,
     Lucas van der Velden (eds) *The Anthology of Computer Art*, pp.
     59-60.
 
-[^31]: Tate, ‘Painting After Technology’, March, 2015,
-    http://www.tate.org.uk/whats-on/tate-modern/display/painting-after-technology.
+[^04-Chap4_31]: Tate, ‘Painting After Technology’, March, 2015,
+    <http://www.tate.org.uk/whats-on/tate-modern/display/painting-after-technology>.
 
-[^32]: Tate, ‘Painting After Technology’.
+[^04-Chap4_32]: Tate, ‘Painting After Technology’.
 
-[^33]: Tate, ‘Painting After Technology’.
+[^04-Chap4_33]: Tate, ‘Painting After Technology’.
 
-[^34]: Mark Godfrey, ‘Statements of Intent: Mark Godfrey on the Art of
+[^04-Chap4_34]: Mark Godfrey, ‘Statements of Intent: Mark Godfrey on the Art of
     Jacqueline Humphries, Laura Owens, Amy Sillman, and Charline von
     Heyl’, *Artforum*, April 2014,
-    http://owenslaura.com/wp-content/uploads/2014/11/LO\_2014\_Apr\_Artforum\_small.pdf.
+    <http://owenslaura.com/wp-content/uploads/2014/11/LO\_2014\_Apr\_Artforum\_small.pdf>.
 
-[^35]: Kohei Nawa, <http://kohei-nawa.net/>.
+[^04-Chap4_35]: Kohei Nawa, <http://kohei-nawa.net/>.
 
-[^36]: Sandwich: Creative Platform for Contemporary Art,
-    http://sandwich-cpca.net/.
+[^04-Chap4_36]: Sandwich: Creative Platform for Contemporary Art,
+    <http://sandwich-cpca.net/.
 
-[^37]: artnet, ‘Kohei Nawa, SCAI The Bathhouse’,
-    http://www.artnet.com/artists/kohei-nawa/polygon-double-deer-2-a-iODzN9ohK0\_WbjhUoeM5OQ2.
+[^04-Chap4_37]: artnet, ‘Kohei Nawa, SCAI The Bathhouse’,
+    <http://www.artnet.com/artists/kohei-nawa/polygon-double-deer-2-a-iODzN9ohK0\_WbjhUoeM5OQ2>.
 
-[^38]: Matthew Plummer-Fernandez, http://www.plummerfernandez.com.
+[^04-Chap4_38]: Matthew Plummer-Fernandez, <http://www.plummerfernandez.com>.
 
-[^39]: Stephen Fortune, ‘Disarming Corruptor will encrypt your 3D
+[^04-Chap4_39]: Stephen Fortune, ‘Disarming Corruptor will encrypt your 3D
     creations’, *Dazed*, 2014,
-    http://www.dazeddigital.com/artsandculture/article/18019/1/disarming-corruptor-will-encrypt-your-3d-creations.
+    <http://www.dazeddigital.com/artsandculture/article/18019/1/disarming-corruptor-will-encrypt-your-3d-creations>.
 
-[^40]: Plummer-Fernandez, ‘sekuMoi-Mecy’,
-    http://www.plummerfernandez.com.
+[^04-Chap4_40]: Plummer-Fernandez, ‘sekuMoi-Mecy’,
+    <http://www.plummerfernandez.com>.
 
-[^41]: James Bridle, ‘Report from Austin, Texas, on the New Aesthetic
+[^04-Chap4_41]: James Bridle, ‘Report from Austin, Texas, on the New Aesthetic
     panel at SXSW’, *booktwo.org*, March 15 2012,
-    http://booktwo.org/notebook/sxaesthetic/.
+    <http://booktwo.org/notebook/sxaesthetic/>.
 
-[^42]: Studio Laviani APFL, http://www.laviani.com/.
+[^04-Chap4_42]: Studio Laviani APFL, <http://www.laviani.com/>.
 
-[^43]: Studio Laviani APFL,
-    http://www.laviani.com/\#!good-vibrations/cq2s.
+[^04-Chap4_43]: Studio Laviani APFL,
+    <http://www.laviani.com/\#!good-vibrations/cq2s>.
 
-[^44]: Matthieu Tremblin, Demo De Tous Les Jours,
-    http://demodetouslesjours.free.fr/.
+[^04-Chap4_44]: Matthieu Tremblin, Demo De Tous Les Jours,
+    <http://demodetouslesjours.free.fr/>.
 
-[^45]: Matthieu Tremblin, Demo De Tous Les Jours,
-    http://demodetouslesjours.free.fr/watermark/.
+[^04-Chap4_45]: Matthieu Tremblin, Demo De Tous Les Jours,
+    <http://demodetouslesjours.free.fr/watermark/>.
 
-[^46]: Mark Byrnes, ‘This Is Not a Watermark: Meet French Street Artist
+[^04-Chap4_46]: Mark Byrnes, ‘This Is Not a Watermark: Meet French Street Artist
     Mathieu Tremblin’, *The Atlantic, Citylab*, 15 July 2013,
-    http://www.citylab.com/design/2013/07/not-watermark-meet-french-street-artist-mathieu-tremblin/6083/.
+    <http://www.citylab.com/design/2013/07/not-watermark-meet-french-street-artist-mathieu-tremblin/6083/>.
 
-[^47]: Faig Ahmed, http://www.faigahmed.com/about/info/.
+[^04-Chap4_47]: Faig Ahmed, <http://www.faigahmed.com/about/info/>.
 
-[^48]: Faig Ahmed, http://www.faigahmed.com/about/info/.
+[^04-Chap4_48]: Faig Ahmed, <http://www.faigahmed.com/about/info/>.
 
-[^49]: Faig Ahmed, *artworks catalog*,
-    http://www.faigahmed.com/site/assets/files/1017/faig\_ahmed\_artworks\_catalogue.pdf.
+[^04-Chap4_49]: Faig Ahmed, *artworks catalog*,
+    <http://www.faigahmed.com/site/assets/files/1017/faig\_ahmed\_artworks\_catalogue.pdf>.
 
-[^50]: Sabato Visconti, http://www.sabatobox.com/about.
+[^04-Chap4_50]: Sabato Visconti, <http://www.sabatobox.com/about>.
 
-[^51]: Douglas Bierend, ‘Breaking Things On Purpose, Glitch Art’s
+[^04-Chap4_51]: Douglas Bierend, ‘Breaking Things On Purpose, Glitch Art’s
     Pixel-mixing Algorithms’, *Medium.com*, 26 August 2014,
-    https://medium.com/re-form/breaking-things-on-purpose-14f413bdf2ce\#.sdbpsxsmt.
+    <https://medium.com/re-form/breaking-things-on-purpose-14f413bdf2ce\#.sdbpsxsmt>.
 
-[^52]: Liz Stinson, ‘Wonderfully Twisted Photos from a Glitch Art Guru’,
+[^04-Chap4_52]: Liz Stinson, ‘Wonderfully Twisted Photos from a Glitch Art Guru’,
     *Wired.com*, 10 September 2014,
-    http://www.wired.com/2014/10/wonderfully-twisted-photos-glitch-art-guru/\#slide-8.
+    <http://www.wired.com/2014/10/wonderfully-twisted-photos-glitch-art-guru/\#slide-8>.
 
-[^53]: Bierend, ‘Breaking Things On Purpose, Glitch Art’s Pixel-mixing
+[^04-Chap4_53]: Bierend, ‘Breaking Things On Purpose, Glitch Art’s Pixel-mixing
     Algorithms’.
 
-[^54]: Liz Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
+[^04-Chap4_54]: Liz Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
 
-[^55]: Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
+[^04-Chap4_55]: Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
 
-[^56]: Lital Khaikin, ‘The Radical Capacity of Glitch Art: Expression
+[^04-Chap4_56]: Lital Khaikin, ‘The Radical Capacity of Glitch Art: Expression
     through an Aesthetic Rooted in Error’, *REDEFINE*, 5 February 2014,
-    http://www.redefinemag.com/2014/glitch-art-expression-through-an-aesthetic-rooted-in-error/.
+    <http://www.redefinemag.com/2014/glitch-art-expression-through-an-aesthetic-rooted-in-error/>.
 
-[^57]: Dmitriy Krotevich, *Pixel-Drifter*,
-    http://pixeldrifter.tumblr.com/.
+[^04-Chap4_57]: Dmitriy Krotevich, *Pixel-Drifter*,
+    <http://pixeldrifter.tumblr.com/>.
 
-[^58]: Margaret Rhodes ,’This Glitch Art is Made of Pixels Powered by
+[^04-Chap4_58]: Margaret Rhodes ,’This Glitch Art is Made of Pixels Powered by
     Their Own AI’, *Wired.com*, 7 August 2014,
-    http://www.wired.com/2014/08/this-glitch-art-is-made-of-pixels-powered-by-their-own-ai.
+    <http://www.wired.com/2014/08/this-glitch-art-is-made-of-pixels-powered-by-their-own-ai>.
 
-[^59]: Kate Sierzputowski, ‘The Attention-Sucking Power of Digital
+[^04-Chap4_59]: Kate Sierzputowski, ‘The Attention-Sucking Power of Digital
     Technology Displayed Through Photography by Antoine Geiger’,
     *Colossal*, 11 November 2015,
-    http://www.thisiscolossal.com/2015/11/cellphone-attention-antoine-geiger/?src=footer.
+    <http://www.thisiscolossal.com/2015/11/cellphone-attention-antoine-geiger/?src=footer>.
 
-[^60]: Antoine Geiger, *Sur-Fake*,
-    http://files.cargocollective.com/440813/SUR-FAKE--translated-.pdf.
+[^04-Chap4_60]: Antoine Geiger, *Sur-Fake*,
+    <http://files.cargocollective.com/440813/SUR-FAKE--translated-.pdf>.
 
-[^61]: Alyssa Coppelman, ‘Distorted Photos Show the Alien Side of
+[^04-Chap4_61]: Alyssa Coppelman, ‘Distorted Photos Show the Alien Side of
     Suburban Life’, *Wired.com*, 1 March 2015,
-    http://www.wired.com/2015/03/ralf-brueck-distortion/.
+    <http://www.wired.com/2015/03/ralf-brueck-distortion/>.
 
-[^62]: Michael Corbin, ‘Ralf Brueck: Surreal Distortion’, *ArtBookGuy*,
-    http://artbookguy.com/ralf-brueck-surreal-distortion\_433.html.
+[^04-Chap4_62]: Michael Corbin, ‘Ralf Brueck: Surreal Distortion’, *ArtBookGuy*,
+    <http://artbookguy.com/ralf-brueck-surreal-distortion\_433.html>.
 
-[^63]: Alyssa Coppelman, ‘Distorted Photos Show the Alien Side of
+[^04-Chap4_63]: Alyssa Coppelman, ‘Distorted Photos Show the Alien Side of
     Suburban Life’.
 
-[^64]: group show 42: *Occultisms* The Artists, Humble Arts Foundation,
-    http://hafny.org/group-show-42-occultisms-statements-and-bios/.
+[^04-Chap4_64]: group show 42: *Occultisms* The Artists, Humble Arts Foundation,
+    <http://hafny.org/group-show-42-occultisms-statements-and-bios/>.
 
-[^65]: Mishka Henner, ‘Dutch Landscapes’, *mishkahenner.com*, February
-    2011, http://mishkahenner.com/filter/works/Dutch-Landscapes.
+[^04-Chap4_65]: Mishka Henner, ‘Dutch Landscapes’, *mishkahenner.com*, February
+    2011, <http://mishkahenner.com/filter/works/Dutch-Landscapes>.
 
-[^66]: Helmut Smits, ‘Dead Pixel in Google Earth’, *helmutsmits.com*,
-    2010, http://helmutsmits.nl/work/dead-pixel-in-google-earth-2.
+[^04-Chap4_66]: Helmut Smits, ‘Dead Pixel in Google Earth’, *helmutsmits.com*,
+    2010, <http://helmutsmits.nl/work/dead-pixel-in-google-earth-2>.
 
-[^67]: Kim Assendorf, *Kim Assendorf Up and Running*,
-    http://kimasendorf.com/www/.
+[^04-Chap4_67]: Kim Assendorf, *Kim Assendorf Up and Running*,
+    <http://kimasendorf.com/www/>.
 
-[^68]: ‘Mountain Tour (2010) by Kim Asendorf ‘, *Prosthetic Knowledge
+[^04-Chap4_68]: ‘Mountain Tour (2010) by Kim Asendorf ‘, *Prosthetic Knowledge
     blog*, 25 August 2012,
-    http://prostheticknowledge.tumblr.com/post/30196185509/mountain-tour-2010-by-kim-asendorf-one-of-the.
+    <http://prostheticknowledge.tumblr.com/post/30196185509/mountain-tour-2010-by-kim-asendorf-one-of-the>.
 
-[^69]: Kim Asendorf, ‘Processing Source Code’, 5 October 2012,
+[^04-Chap4_69]: Kim Asendorf, ‘Processing Source Code’, 5 October 2012,
     *kimasendorf blog*,
-    http://kimasendorf.tumblr.com/post/32936480093/processing-source-code.
+    <http://kimasendorf.tumblr.com/post/32936480093/processing-source-code>.
 
-[^70]: Erwin Driessens & Maria Verstappen, ‘Sandbox’, 2009,
-    http://notnot.home.xs4all.nl/sandbox/sandbox.html.
+[^04-Chap4_70]: Erwin Driessens & Maria Verstappen, ‘Sandbox’, 2009,
+    <http://notnot.home.xs4all.nl/sandbox/sandbox.html>.
 
-[^71]: V2\_Institute for the Unstable Media, ‘Sandbox’,
-    http://v2.nl/archive/works/sandbox.
+[^04-Chap4_71]: V2\_Institute for the Unstable Media, ‘Sandbox’,
+    <http://v2.nl/archive/works/sandbox>.
 
-[^72]: Erwin Driessens & Maria Verstappen, ‘Bio’,
-    http://notnot.home.xs4all.nl/text/shortBio.html.
+[^04-Chap4_72]: Erwin Driessens & Maria Verstappen, ‘Bio’,
+    <http://notnot.home.xs4all.nl/text/shortBio.html>.
 
-[^73]: Erwin Driessens & Maria Verstappen, ‘E-volved Images’,
-    http://notnot.home.xs4all.nl/evolvedimages/evolvedimages.html.
+[^04-Chap4_73]: Erwin Driessens & Maria Verstappen, ‘E-volved Images’,
+    <http://notnot.home.xs4all.nl/evolvedimages/evolvedimages.html>.
 
-[^74]: Ryoji Ikeda, ‘supersymmetry’, *Ryoji Ikeda*, 2014,
-    http://www.ryojiikeda.com/project/supersymmetry/.
+[^04-Chap4_74]: Ryoji Ikeda, ‘supersymmetry’, *Ryoji Ikeda*, 2014,
+    <http://www.ryojiikeda.com/project/supersymmetry/>.
 
-[^75]: Jonathan Jones, ‘Should art respond to science? On this evidence,
+[^04-Chap4_75]: Jonathan Jones, ‘Should art respond to science? On this evidence,
     the answer is simple: no way’, *The Guardian*, 23 April 2015,
-    http://www.theguardian.com/artanddesign/jonathanjonesblog/2015/apr/23/art-respond-science-cern-ryoji-ikeda-supersymmetry.
+    <http://www.theguardian.com/artanddesign/jonathanjonesblog/2015/apr/23/art-respond-science-cern-ryoji-ikeda-supersymmetry>.  
+
+ <br></br> 
+ <br></br> 
+

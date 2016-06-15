@@ -61,14 +61,7 @@ artistic terms. Describing a set of artifacts that he believes
 represents a conflation of the digital and the real, Sterling has said
 of the New Aesthetic:
 
-> \[It\] is a native product of modern network culture. It’s from
-> London, but it was born digital, on the Internet. The New Aesthetic is
-> a “theory object” and a “shareable concept.” The New Aesthetic is
-> “collectively intelligent.” It’s diffuse, crowdsourcing, and made of
-> many small pieces loosely joined. It is rhizomatic, as the people at
-> Rhizome would likely tell you. It’s open-sourced, and
-> triumph-of-amateurs. It’s like its logo, a bright cluster of balloons
-> tied to some huge, dark and lethal weight.[^1]
+>  \[It\] is a native product of modern network culture. It’s from London, but it was born digital, on the Internet. The New Aesthetic is a “theory object” and a “shareable concept.” The New Aesthetic is “collectively intelligent.” It’s diffuse, crowdsourcing, and made of many small pieces loosely joined. It is rhizomatic, as the people at Rhizome would likely tell you. It’s open-sourced, and triumph-of-amateurs. It’s like its logo, a bright cluster of balloons tied to some huge, dark and lethal weight.[^00-Introduction_1]
 
 Sterling’s comment that New Aesthetic objects are rhizomatic is,
 unknowingly perhaps, derived from Gilles Deleuze’s and Félix Guattari’s
@@ -110,7 +103,7 @@ that need to be understood at an ontological level as a means of
 redefining what the world is; the New Aesthetic does more than identify
 a sufficiently distinct category of aesthetic products while challenging
 many of the normative conventions of aesthetics itself. ‘It posits an
-aesthetic turn \[…\] brought about itself through a “new nature”’[^2]
+aesthetic turn \[…\] brought about itself through a “new nature”’[^00-Introduction_2]
 and, in doing so, creates that new nature and a new holistic perspective
 for describing it. In a way, it signals a sense of
 hyper-contemporaneity.
@@ -240,16 +233,9 @@ behind the idea, we argue that in order to examine a fluxual social and
 cultural context of the digital age one has to take an equally
 unconventional and fluxual approach.
 
-[^1]: Bruce Sterling, ‘An Essay on the New Aesthetic’, *Wired.com*, 2
-    April 2012,
-    http://www.wired.com/2012/04/an-essay-on-the-new-aesthetic/.
+[^00-Introduction_1]: Bruce Sterling, ‘An Essay on the New Aesthetic’, *Wired.com*, 2
+April 2012, [http://www.wired.com/2012/04/an-essay-on-the-new-aesthetic/](http://www.wired.com/2012/04/an-essay-on-the-new-aesthetic/).
 
-[^2]: James Bridle, ‘‘Waving at the Machines’, Web Directions South
-    2011, 5 December 2011, Sydney, http://booktwo.org/notebook/waving-at-machines/.
-
-
-
-
-
-
-
+[^00-Introduction_2]: James Bridle, ‘Waving at the Machines’, Web Directions South 2011, 5 December 2011, Sydney, [http://booktwo.org/notebook/waving-at-machines/](http://booktwo.org/notebook/waving-at-machines/).  
+  
+    
