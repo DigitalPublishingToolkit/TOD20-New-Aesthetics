@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epub-id-1">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="epub-id-1">urn:isbn:978-94-92302-09-0</dc:identifier>
+    <dc:title id="epub-title-1"></dc:title>
+    <dc:date id="epub-date">2016-06</dc:date>
+    <dc:language>en-US</dc:language>
+    <dc:creator id="epub-creator-1">Scott Contreras-Koterbay, Łukasz Mirocha</dc:creator>
+    <dc:contributor id="epub-contributor-1">Miriam Rasch, Nadine Roestenburg</dc:contributor>
+    <dc:contributor id="epub-contributor-2">Katja van Stiphout, Léna Robin</dc:contributor>
+    <dc:subject>internet, web, net, institute of network cultures, digital, media, research, network, culture, Scott Contreras-Koterbay, Łukasz Mirocha, aesthetic, arts, postdigital, design, software, visual arts, society, objects, ecosystem, effects, glitch, products, artwork, artist, digital art, beauty
+</dc:subject>
+    <dc:description>
+    'The New Aesthetic and Art: Constellations of the Postdigital' is an interdisciplinary analysis focusing on new digital phenomena at the intersections of theory and contemporary art. Asserting the unique character of New Aesthetic objects, Contreras-Koterbay and Mirocha trace the origins of the New Aesthetic in visual arts, design, and software, find its presence resonating in various kinds of digital imagery, and track its agency in everyday effects of the intertwined physical world and the digital realm. Contreras-Koterbay and Mirocha bring to light an original perspective that identifies an autonomous quality in common digital objects and examples of art that are increasingly an important influence for today's culture and society.
+
+    Influenced by a diverse range of figures, ranging from Vilém Flusser, Arthur Schopenhauer, Immanuel Kant, David Berry, Lev Manovich, Olga Goriunova, Ernst Mayr, Bruce Sterling and, of course, James Bridle, 'The New Aesthetic and Art: Constellations of the Postdigital' doesn’t just propose a description of a new set of objects but radically asserts that New Aesthetic objects analogously function as organisms within a broader digital-physical ecosystems of things and agents.</dc:description>
+    <dc:publisher>Institute of Network Cultures</dc:publisher>
+    <dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
+    <meta name="cover" content="cover_jpg" />
+    <meta property="dcterms:modified">2016-06-28T09:34:32Z</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="style" href="stylesheet.css" media-type="text/css" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="cover_xhtml" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="title_page_xhtml" href="title_page.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch001_xhtml" href="ch001.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch002_xhtml" href="ch002.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch003_xhtml" href="ch003.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch004_xhtml" href="ch004.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch005_xhtml" href="ch005.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch006_xhtml" href="ch006.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch007_xhtml" href="ch007.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch008_xhtml" href="ch008.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch009_xhtml" href="ch009.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch010_xhtml" href="ch010.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch011_xhtml" href="ch011.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch012_xhtml" href="ch012.xhtml" media-type="application/xhtml+xml" />
+    <item properties="cover-image" id="cover_jpg" href="media/cover.jpg" media-type="image/jpeg" />
+    <item id="file116_png" href="media/file116.png" media-type="image/png" />
+    <item id="file115_png" href="media/file115.png" media-type="image/png" />
+    <item id="file114_png" href="media/file114.png" media-type="image/png" />
+    <item id="file113_png" href="media/file113.png" media-type="image/png" />
+    <item id="file112_png" href="media/file112.png" media-type="image/png" />
+    <item id="file111_png" href="media/file111.png" media-type="image/png" />
+    <item id="file110_png" href="media/file110.png" media-type="image/png" />
+    <item id="file109_png" href="media/file109.png" media-type="image/png" />
+    <item id="file108_png" href="media/file108.png" media-type="image/png" />
+    <item id="file107_png" href="media/file107.png" media-type="image/png" />
+    <item id="file106_png" href="media/file106.png" media-type="image/png" />
+    <item id="file105_png" href="media/file105.png" media-type="image/png" />
+    <item id="file104_png" href="media/file104.png" media-type="image/png" />
+    <item id="file103_png" href="media/file103.png" media-type="image/png" />
+    <item id="file102_png" href="media/file102.png" media-type="image/png" />
+    <item id="file101_png" href="media/file101.png" media-type="image/png" />
+    <item id="file100_png" href="media/file100.png" media-type="image/png" />
+    <item id="file99_png" href="media/file99.png" media-type="image/png" />
+    <item id="file98_png" href="media/file98.png" media-type="image/png" />
+    <item id="file97_png" href="media/file97.png" media-type="image/png" />
+    <item id="file96_png" href="media/file96.png" media-type="image/png" />
+    <item id="file95_png" href="media/file95.png" media-type="image/png" />
+    <item id="file94_png" href="media/file94.png" media-type="image/png" />
+    <item id="file93_png" href="media/file93.png" media-type="image/png" />
+    <item id="file92_png" href="media/file92.png" media-type="image/png" />
+    <item id="file91_png" href="media/file91.png" media-type="image/png" />
+    <item id="file90_png" href="media/file90.png" media-type="image/png" />
+    <item id="file89_png" href="media/file89.png" media-type="image/png" />
+    <item id="file88_png" href="media/file88.png" media-type="image/png" />
+    <item id="file87_png" href="media/file87.png" media-type="image/png" />
+    <item id="file86_png" href="media/file86.png" media-type="image/png" />
+    <item id="file85_png" href="media/file85.png" media-type="image/png" />
+    <item id="file84_png" href="media/file84.png" media-type="image/png" />
+    <item id="file83_png" href="media/file83.png" media-type="image/png" />
+    <item id="file82_png" href="media/file82.png" media-type="image/png" />
+    <item id="file81_png" href="media/file81.png" media-type="image/png" />
+    <item id="file80_png" href="media/file80.png" media-type="image/png" />
+    <item id="file79_png" href="media/file79.png" media-type="image/png" />
+    <item id="file78_png" href="media/file78.png" media-type="image/png" />
+    <item id="file77_png" href="media/file77.png" media-type="image/png" />
+    <item id="file76_png" href="media/file76.png" media-type="image/png" />
+    <item id="file75_png" href="media/file75.png" media-type="image/png" />
+    <item id="file74_png" href="media/file74.png" media-type="image/png" />
+    <item id="file73_png" href="media/file73.png" media-type="image/png" />
+    <item id="file72_png" href="media/file72.png" media-type="image/png" />
+    <item id="file71_png" href="media/file71.png" media-type="image/png" />
+    <item id="file70_png" href="media/file70.png" media-type="image/png" />
+    <item id="file69_png" href="media/file69.png" media-type="image/png" />
+    <item id="file68_png" href="media/file68.png" media-type="image/png" />
+    <item id="file67_png" href="media/file67.png" media-type="image/png" />
+    <item id="file66_png" href="media/file66.png" media-type="image/png" />
+    <item id="file65_png" href="media/file65.png" media-type="image/png" />
+    <item id="file64_png" href="media/file64.png" media-type="image/png" />
+    <item id="file63_png" href="media/file63.png" media-type="image/png" />
+    <item id="file62_png" href="media/file62.png" media-type="image/png" />
+    <item id="file61_png" href="media/file61.png" media-type="image/png" />
+    <item id="file60_png" href="media/file60.png" media-type="image/png" />
+    <item id="file59_png" href="media/file59.png" media-type="image/png" />
+    <item id="file58_png" href="media/file58.png" media-type="image/png" />
+    <item id="file57_png" href="media/file57.png" media-type="image/png" />
+    <item id="file56_png" href="media/file56.png" media-type="image/png" />
+    <item id="file55_png" href="media/file55.png" media-type="image/png" />
+    <item id="file54_png" href="media/file54.png" media-type="image/png" />
+    <item id="file53_png" href="media/file53.png" media-type="image/png" />
+    <item id="file52_png" href="media/file52.png" media-type="image/png" />
+    <item id="file51_png" href="media/file51.png" media-type="image/png" />
+    <item id="file50_png" href="media/file50.png" media-type="image/png" />
+    <item id="file49_png" href="media/file49.png" media-type="image/png" />
+    <item id="file48_png" href="media/file48.png" media-type="image/png" />
+    <item id="file47_png" href="media/file47.png" media-type="image/png" />
+    <item id="file46_png" href="media/file46.png" media-type="image/png" />
+    <item id="file45_png" href="media/file45.png" media-type="image/png" />
+    <item id="file44_png" href="media/file44.png" media-type="image/png" />
+    <item id="file43_png" href="media/file43.png" media-type="image/png" />
+    <item id="file42_png" href="media/file42.png" media-type="image/png" />
+    <item id="file41_png" href="media/file41.png" media-type="image/png" />
+    <item id="file40_png" href="media/file40.png" media-type="image/png" />
+    <item id="file39_png" href="media/file39.png" media-type="image/png" />
+    <item id="file38_png" href="media/file38.png" media-type="image/png" />
+    <item id="file37_png" href="media/file37.png" media-type="image/png" />
+    <item id="file36_png" href="media/file36.png" media-type="image/png" />
+    <item id="file35_png" href="media/file35.png" media-type="image/png" />
+    <item id="file34_png" href="media/file34.png" media-type="image/png" />
+    <item id="file33_png" href="media/file33.png" media-type="image/png" />
+    <item id="file32_png" href="media/file32.png" media-type="image/png" />
+    <item id="file31_png" href="media/file31.png" media-type="image/png" />
+    <item id="file30_png" href="media/file30.png" media-type="image/png" />
+    <item id="file29_png" href="media/file29.png" media-type="image/png" />
+    <item id="file28_png" href="media/file28.png" media-type="image/png" />
+    <item id="file27_png" href="media/file27.png" media-type="image/png" />
+    <item id="file26_png" href="media/file26.png" media-type="image/png" />
+    <item id="file25_png" href="media/file25.png" media-type="image/png" />
+    <item id="file24_png" href="media/file24.png" media-type="image/png" />
+    <item id="file23_png" href="media/file23.png" media-type="image/png" />
+    <item id="file22_png" href="media/file22.png" media-type="image/png" />
+    <item id="file21_png" href="media/file21.png" media-type="image/png" />
+    <item id="file20_png" href="media/file20.png" media-type="image/png" />
+    <item id="file19_png" href="media/file19.png" media-type="image/png" />
+    <item id="file18_png" href="media/file18.png" media-type="image/png" />
+    <item id="file17_png" href="media/file17.png" media-type="image/png" />
+    <item id="file16_png" href="media/file16.png" media-type="image/png" />
+    <item id="file15_png" href="media/file15.png" media-type="image/png" />
+    <item id="file14_png" href="media/file14.png" media-type="image/png" />
+    <item id="file13_png" href="media/file13.png" media-type="image/png" />
+    <item id="file12_png" href="media/file12.png" media-type="image/png" />
+    <item id="file11_png" href="media/file11.png" media-type="image/png" />
+    <item id="file10_png" href="media/file10.png" media-type="image/png" />
+    <item id="file9_png" href="media/file9.png" media-type="image/png" />
+    <item id="file8_png" href="media/file8.png" media-type="image/png" />
+    <item id="file7_png" href="media/file7.png" media-type="image/png" />
+    <item id="file6_png" href="media/file6.png" media-type="image/png" />
+    <item id="file5_png" href="media/file5.png" media-type="image/png" />
+    <item id="file4_png" href="media/file4.png" media-type="image/png" />
+    <item id="file3_png" href="media/file3.png" media-type="image/png" />
+    <item id="file2_png" href="media/file2.png" media-type="image/png" />
+    <item id="file1_png" href="media/file1.png" media-type="image/png" />
+    <item id="file0_png" href="media/file0.png" media-type="image/png" />
+    <item id="Copyright_2015_Steve_Matteson___GoogleFonts_md" href="Copyright 2015 Steve Matteson &amp; GoogleFonts.md" media-type="" />
+    <item id="open-sans-v13-latin-300_ttf" href="open-sans-v13-latin-300.ttf" media-type="application/x-font-truetype" />
+    <item id="open-sans-v13-latin-300_woff" href="open-sans-v13-latin-300.woff" media-type="application/x-font-woff" />
+    <item id="open-sans-v13-latin-300italic_ttf" href="open-sans-v13-latin-300italic.ttf" media-type="application/x-font-truetype" />
+    <item id="open-sans-v13-latin-300italic_woff" href="open-sans-v13-latin-300italic.woff" media-type="application/x-font-woff" />
+    <item id="open-sans-v13-latin-700_ttf" href="open-sans-v13-latin-700.ttf" media-type="application/x-font-truetype" />
+    <item id="open-sans-v13-latin-700_woff" href="open-sans-v13-latin-700.woff" media-type="application/x-font-woff" />
+    <item id="open-sans-v13-latin-700italic_ttf" href="open-sans-v13-latin-700italic.ttf" media-type="application/x-font-truetype" />
+    <item id="open-sans-v13-latin-700italic_woff" href="open-sans-v13-latin-700italic.woff" media-type="application/x-font-woff" />
+    <item id="OpenSans-Light_otf" href="OpenSans-Light.otf" media-type="application/vnd.ms-opentype" />
+    <item id="OpenSans-LightItalic_otf" href="OpenSans-LightItalic.otf" media-type="application/vnd.ms-opentype" />
+    <item id="OpenSans-Semibold_otf" href="OpenSans-Semibold.otf" media-type="application/vnd.ms-opentype" />
+    <item id="OpenSans-SemiboldItalic_otf" href="OpenSans-SemiboldItalic.otf" media-type="application/vnd.ms-opentype" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover_xhtml" />
+    <itemref idref="title_page_xhtml" linear="no" />
+    <itemref idref="ch001_xhtml" />
+    <itemref idref="ch002_xhtml" />
+    <itemref idref="ch003_xhtml" />
+    <itemref idref="ch004_xhtml" />
+    <itemref idref="ch005_xhtml" />
+    <itemref idref="ch006_xhtml" />
+    <itemref idref="ch007_xhtml" />
+    <itemref idref="ch008_xhtml" />
+    <itemref idref="ch009_xhtml" />
+    <itemref idref="ch010_xhtml" />
+    <itemref idref="ch011_xhtml" />
+    <itemref idref="ch012_xhtml" />
+  </spine>
+  <guide>
+    <reference type="toc" title="" href="nav.xhtml" />
+    <reference type="cover" title="Cover" href="cover.xhtml" />
+  </guide>
+</package>

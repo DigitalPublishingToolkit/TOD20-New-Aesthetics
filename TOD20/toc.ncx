@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:isbn:978-94-92302-09-0" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_jpg" />
+  </head>
+  <docTitle>
+    <text></text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Colophon</text>
+      </navLabel>
+      <content src="ch001.xhtml#colophon" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="ch002.xhtml#acknowledgements" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="ch003.xhtml#introduction" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>Chapter 1: The Case for the New Aesthetic</text>
+      </navLabel>
+      <content src="ch004.xhtml#chapter-1-the-case-for-the-new-aesthetic" />
+      <navPoint id="navPoint-5">
+        <navLabel>
+          <text>Real-Time Effects of the New Aesthetic</text>
+        </navLabel>
+        <content src="ch004.xhtml#real-time-effects-of-the-new-aesthetic" />
+      </navPoint>
+      <navPoint id="navPoint-6">
+        <navLabel>
+          <text>Abnormalities of the Digital, or Where the New Aesthetic Begins</text>
+        </navLabel>
+        <content src="ch004.xhtml#abnormalities-of-the-digital-or-where-the-new-aesthetic-begins" />
+      </navPoint>
+      <navPoint id="navPoint-7">
+        <navLabel>
+          <text>Constellations of the New Aesthetic</text>
+        </navLabel>
+        <content src="ch004.xhtml#constellations-of-the-new-aesthetic" />
+      </navPoint>
+      <navPoint id="navPoint-8">
+        <navLabel>
+          <text>The Postdigital Condition</text>
+        </navLabel>
+        <content src="ch004.xhtml#the-postdigital-condition" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>Chapter 2: Manifestations of the New Aesthetic</text>
+      </navLabel>
+      <content src="ch005.xhtml#chapter-2-manifestations-of-the-new-aesthetic" />
+      <navPoint id="navPoint-10">
+        <navLabel>
+          <text>Precursors of New Aesthetic Objects</text>
+        </navLabel>
+        <content src="ch005.xhtml#precursors-of-new-aesthetic-objects" />
+      </navPoint>
+      <navPoint id="navPoint-11">
+        <navLabel>
+          <text>New Aesthetic Products as Experiences</text>
+        </navLabel>
+        <content src="ch005.xhtml#new-aesthetic-products-as-experiences" />
+      </navPoint>
+      <navPoint id="navPoint-12">
+        <navLabel>
+          <text>New Aesthetic Objects as Products</text>
+        </navLabel>
+        <content src="ch005.xhtml#new-aesthetic-objects-as-products" />
+      </navPoint>
+      <navPoint id="navPoint-13">
+        <navLabel>
+          <text>The Effects of Instances of the New Aesthetic</text>
+        </navLabel>
+        <content src="ch005.xhtml#the-effects-of-instances-of-the-new-aesthetic" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>Chapter 3: Glitch Ontology and the New Aesthetic</text>
+      </navLabel>
+      <content src="ch006.xhtml#chapter-3-glitch-ontology-and-the-new-aesthetic" />
+      <navPoint id="navPoint-15">
+        <navLabel>
+          <text>The Glitch as an Unready-to-hand Condition</text>
+        </navLabel>
+        <content src="ch006.xhtml#the-glitch-as-an-unready-to-hand-condition" />
+      </navPoint>
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>Where Should we Look for Glitches?</text>
+        </navLabel>
+        <content src="ch006.xhtml#where-should-we-look-for-glitches" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>Chapter 4: Setting the Stage: the Precursors and Boundaries for a New Aesthetic Art</text>
+      </navLabel>
+      <content src="ch007.xhtml#chapter-4-setting-the-stage-the-precursors-and-boundaries-for-a-new-aesthetic-art" />
+      <navPoint id="navPoint-18">
+        <navLabel>
+          <text>Setting the Stage for New Aesthetic Art: Early Figures in the History of Digital Art</text>
+        </navLabel>
+        <content src="ch007.xhtml#setting-the-stage-for-new-aesthetic-art-early-figures-in-the-history-of-digital-art" />
+      </navPoint>
+      <navPoint id="navPoint-19">
+        <navLabel>
+          <text>Almost, but not Quite, New Aesthetic Artists and Artworks</text>
+        </navLabel>
+        <content src="ch007.xhtml#almost-but-not-quite-new-aesthetic-artists-and-artworks" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>Chapter 5: Letting Go: New Aesthetic Artists and the New Aesthetic Art that Works</text>
+      </navLabel>
+      <content src="ch008.xhtml#chapter-5-letting-go-new-aesthetic-artists-and-the-new-aesthetic-art-that-works" />
+      <navPoint id="navPoint-21">
+        <navLabel>
+          <text>The Individual Politicalization of New Aesthetic Art</text>
+        </navLabel>
+        <content src="ch008.xhtml#the-individual-politicalization-of-new-aesthetic-art" />
+      </navPoint>
+      <navPoint id="navPoint-22">
+        <navLabel>
+          <text>The Collective Politicalization of New Aesthetic Art</text>
+        </navLabel>
+        <content src="ch008.xhtml#the-collective-politicalization-of-new-aesthetic-art" />
+      </navPoint>
+      <navPoint id="navPoint-23">
+        <navLabel>
+          <text>Sociological Interactionist Impacts of New Aesthetic Art</text>
+        </navLabel>
+        <content src="ch008.xhtml#sociological-interactionist-impacts-of-new-aesthetic-art" />
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+          <text>An Unachievable Autonomy of the New Aesthetic Appreciation</text>
+        </navLabel>
+        <content src="ch008.xhtml#an-unachievable-autonomy-of-the-new-aesthetic-appreciation" />
+      </navPoint>
+      <navPoint id="navPoint-25">
+        <navLabel>
+          <text>Beyond the Theatricality of the New Aesthetic</text>
+        </navLabel>
+        <content src="ch008.xhtml#beyond-the-theatricality-of-the-new-aesthetic" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26">
+      <navLabel>
+        <text>Chapter 6: Teleology and the New Aesthetic</text>
+      </navLabel>
+      <content src="ch009.xhtml#chapter-6-teleology-and-the-new-aesthetic" />
+      <navPoint id="navPoint-27">
+        <navLabel>
+          <text>Schopenhauer and the New Aesthetic</text>
+        </navLabel>
+        <content src="ch009.xhtml#schopenhauer-and-the-new-aesthetic" />
+      </navPoint>
+      <navPoint id="navPoint-28">
+        <navLabel>
+          <text>Kant, the New Aesthetic, and Beauty</text>
+        </navLabel>
+        <content src="ch009.xhtml#kant-the-new-aesthetic-and-beauty" />
+      </navPoint>
+      <navPoint id="navPoint-29">
+        <navLabel>
+          <text>Kant, the New Aesthetic, and the Critique of Teleology</text>
+        </navLabel>
+        <content src="ch009.xhtml#kant-the-new-aesthetic-and-the-critique-of-teleology" />
+      </navPoint>
+      <navPoint id="navPoint-30">
+        <navLabel>
+          <text>Biological Evolution and Teleology</text>
+        </navLabel>
+        <content src="ch009.xhtml#biological-evolution-and-teleology" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31">
+      <navLabel>
+        <text>Conclusion</text>
+      </navLabel>
+      <content src="ch010.xhtml#conclusion" />
+    </navPoint>
+    <navPoint id="navPoint-32">
+      <navLabel>
+        <text>References</text>
+      </navLabel>
+      <content src="ch011.xhtml#references" />
+      <navPoint id="navPoint-33">
+        <navLabel>
+          <text>Images</text>
+        </navLabel>
+        <content src="ch011.xhtml#images" />
+      </navPoint>
+      <navPoint id="navPoint-34">
+        <navLabel>
+          <text>Texts</text>
+        </navLabel>
+        <content src="ch011.xhtml#texts" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-35">
+      <navLabel>
+        <text>Biographies</text>
+      </navLabel>
+      <content src="ch012.xhtml#biographies" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -34,6 +34,91 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
     
       
         
+# <span id="_Toc321914225" class="anchor"><span id="_Toc321914119" class="anchor"></span></span>Acknowledgements
+
+This book has been written by two authors who at first glance could not
+be more different, from different academic background, at a different
+moments of career development and from different generations. Scott is a
+full professor at East Tennessee State University, where he teaches art
+history in the Department of Art & Design and aesthetics in the
+Department of Philosophy & Humanities with a primary research focus in
+aesthetic ontology and Lacan. Łukasz is a an early-career researcher,
+enrolled as a PhD student in cultural studies at the University’s of
+Warsaw Faculty of ‘Artes Liberales’ while collaborating with the newly
+founded Digital Economy Lab (DELab) at the University of Warsaw. He also
+works as a journalist and consultant covering emerging digital
+technologies, digital society and culture.
+
+This book had its start at the International Congress of Aesthetics, a
+highly select and ambitious international conference devoted to
+aesthetics, art and media study, held in Kraków, Poland in the summer of
+2013. Assigned to speak on the same panel because we were presenting on
+the same topic – digital autonomy and the New Aesthetic – we quickly
+realized that we had many more overlapping academic interests. As a
+result of our first meeting on the first day of the conference we
+decided to take a more creative approach to our presentations, splitting
+them up so that each could address the areas we planned on covering in a
+logical sequence and inadvertently taking over the dynamic of the
+successful session. Since our time in Kraków, we have been exchanging
+ideas and quickly realized that publishing a co-authored book would be a
+perfect opportunity to collaboratively produce an introduction to New
+Aesthetics incorporating not only an approach ensconced in a broad
+theoretical of digital technology’s impact but also its impact on the
+contemporary art world.
+
+We would like to thank: the Institute of Network Cultures at the
+Amsterdam University of Applied Sciences for giving us the possibility
+to publish our work with them, and particularly Miriam Rasch and Nadine
+Roestenburg for taking great care of us throughout the writing, editing
+and publishing process; East Tennessee State University’s Office of
+Research & Sponsored Programs, Department of Art & Design and Honors
+College, all of whom provided specific financial support that made the
+project possible in its final stages; the Polish government, which
+financed Łukasz’ work from the budget for science of the Republic of
+Poland as a research project within the ‘Diamond Grant’ programme in
+2012-16; and the artists included herein, many of whom supplied
+information and images about their work and were incredibly gracious in
+their responses to our inquiries.
+
+For the last 4 years Łukasz has been a research director of a project
+funded by the Polish Ministry of Science and Higher Education. This
+early-career research grant allowed Łukasz to meet and share ideas with
+many distinguished scholars whose knowledge, insight and support were
+crucial for emergence of many ideas presented in the book. He is
+particularly grateful to the research community of the Digital
+Aesthetics Research Center / Participation Information Technologies
+Group at the University of Aarhus where he spent some time as a visiting
+researcher in 2014. He would like to also thank the research community
+of the Sussex Humanities Lab at the University of Sussex where he was a
+visiting Ph.D. student in 2015.
+
+Scott would like to thank his many friends and colleagues across many
+disciplines in his university and his family and friends. He especially
+thanks his wife and son Karlota and Anton for their love and support;
+the book would never have been finished as soon as it was if Karlota
+didn’t encourage him to go to Warsaw for a few days, and Anton appears
+in one of the images inside.
+
+Łukasz would like to express particular thanks to Christian Ulrik
+Andersen (Aarhus University), David M. Berry (University of Sussex),
+Piotr Celiński (Maria Curie-Skłodowska-University), Damien Charrieras
+(City University of Hong Kong), Lev Manovich (CUNY), Søren Bro Pold
+(Aarhus University), Krzysztof Rutkowski (University of Warsaw), Winnie
+Soon (Aarhus University) and Piotr Wilczek (University of Warsaw). You
+have always been kind and very supportive. Your ongoing encouragement
+pushed me to work even harder to develop my ideas.
+
+Scott Contreras-Koterbay  
+Łukasz Mirocha  
+Johnson City, TN, USA  
+Brighton, UK  
+Warsaw, Poland  
+2014-2016
+  
+   
+  
+    
+    
 #Introduction
 
 The increasing digitalization of our everyday lives has been marked by
@@ -97,7 +182,7 @@ artistic terms. Describing a set of artifacts that he believes
 represents a conflation of the digital and the real, Sterling has said
 of the New Aesthetic:
 
->  \[It\] is a native product of modern network culture. It’s from London, but it was born digital, on the Internet. The New Aesthetic is a “theory object” and a “shareable concept.” The New Aesthetic is “collectively intelligent.” It’s diffuse, crowdsourcing, and made of many small pieces loosely joined. It is rhizomatic, as the people at Rhizome would likely tell you. It’s open-sourced, and triumph-of-amateurs. It’s like its logo, a bright cluster of balloons tied to some huge, dark and lethal weight.[^book_book_book_book_book_book_book_book_book_book_book_00-Introduction_1]
+>  \[It\] is a native product of modern network culture. It’s from London, but it was born digital, on the Internet. The New Aesthetic is a “theory object” and a “shareable concept.” The New Aesthetic is “collectively intelligent.” It’s diffuse, crowdsourcing, and made of many small pieces loosely joined. It is rhizomatic, as the people at Rhizome would likely tell you. It’s open-sourced, and triumph-of-amateurs. It’s like its logo, a bright cluster of balloons tied to some huge, dark and lethal weight.[^book_book_book_book_book_book_book_book_book_book_00-Introduction_1]
 
 Sterling’s comment that New Aesthetic objects are rhizomatic is,
 unknowingly perhaps, derived from Gilles Deleuze’s and Félix Guattari’s
@@ -139,7 +224,7 @@ that need to be understood at an ontological level as a means of
 redefining what the world is; the New Aesthetic does more than identify
 a sufficiently distinct category of aesthetic products while challenging
 many of the normative conventions of aesthetics itself. ‘It posits an
-aesthetic turn \[…\] brought about itself through a “new nature”’[^book_book_book_book_book_book_book_book_book_book_book_00-Introduction_2]
+aesthetic turn \[…\] brought about itself through a “new nature”’[^book_book_book_book_book_book_book_book_book_book_00-Introduction_2]
 and, in doing so, creates that new nature and a new holistic perspective
 for describing it. In a way, it signals a sense of
 hyper-contemporaneity.
@@ -269,10 +354,10 @@ behind the idea, we argue that in order to examine a fluxual social and
 cultural context of the digital age one has to take an equally
 unconventional and fluxual approach.
 
-[^book_book_book_book_book_book_book_book_book_book_book_00-Introduction_1]: Bruce Sterling, ‘An Essay on the New Aesthetic’, *Wired.com*, 2
+[^book_book_book_book_book_book_book_book_book_book_00-Introduction_1]: Bruce Sterling, ‘An Essay on the New Aesthetic’, *Wired.com*, 2
 April 2012, [http://www.wired.com/2012/04/an-essay-on-the-new-aesthetic/](http://www.wired.com/2012/04/an-essay-on-the-new-aesthetic/).
 
-[^book_book_book_book_book_book_book_book_book_book_book_00-Introduction_2]: James Bridle, ‘Waving at the Machines’, Web Directions South 2011, 5 December 2011, Sydney, [http://booktwo.org/notebook/waving-at-machines/](http://booktwo.org/notebook/waving-at-machines/).  
+[^book_book_book_book_book_book_book_book_book_book_00-Introduction_2]: James Bridle, ‘Waving at the Machines’, Web Directions South 2011, 5 December 2011, Sydney, [http://booktwo.org/notebook/waving-at-machines/](http://booktwo.org/notebook/waving-at-machines/).  
   
     
 #Chapter 1: The Case for the New Aesthetic  
@@ -286,11 +371,11 @@ poke fun at the burgeoning institutionalization of “the new aesthetic”,
 “post-internet” and “new-media” art in general, while still
 acknowledging the potential for cultural, political, economic and
 aesthetic intervention inherent in control of access / protocols /
-networks.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_1] Obviously, we take issue with that premise. The New
+networks.’[^book_book_book_book_book_book_book_book_book_01-Chap1_1] Obviously, we take issue with that premise. The New
 Aesthetic, we believe, is a recent and important phenomenon, permeating
 much of everyday life as well as more rarified circles in academia and
 the art world; a perfect example of this is the proposed new designs of
-Norwegian banknotes that were revealed in October 2014[^book_book_book_book_book_book_book_book_book_book_01-Chap1_2] and which use
+Norwegian banknotes that were revealed in October 2014[^book_book_book_book_book_book_book_book_book_01-Chap1_2] and which use
 a broad arrangement of pixels in a manner supposedly ‘typically Nordic’
 in character but which, perhaps deceptively or unconsciously, could be
 more accurately described as driven by a digital aesthetic. {Fig. 1}
@@ -309,7 +394,7 @@ To make the case that the New Aesthetic is worth studying perhaps a
 little history is a good place to start with even though it’s only the
 most recent of histories. The New Aesthetic as a project was started by
 James Bridle, a London-based writer, publisher and artist, upon
-launching a new personal website in May 2011.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_3] The first significant
+launching a new personal website in May 2011.[^book_book_book_book_book_book_book_book_book_01-Chap1_3] The first significant
 public and off-internet discussion on the New Aesthetic was held in 2012
 at the SXSW conference, one of the most influential creative events in
 the world, attended by artists, curators, scholars and professional
@@ -328,7 +413,7 @@ description of the panel, Bridle stated:
 > layers of digital maps. In this session, the participants will give
 > examples of these effects, products and artworks, and discuss the ways
 > in which ways of seeing are increasingly transforming ways of making
-> and doing.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_4]
+> and doing.[^book_book_book_book_book_book_book_book_book_01-Chap1_4]
 
 In many ways Bridle’s description of the New Aesthetic is intentionally
 vague but, at the same time, it did more than just provide a series of
@@ -353,7 +438,7 @@ included ‘\[…\] Satellite views. Parametric architecture. Surveillance
 cameras. Digital image processing. Data-mashed video frames. Glitches
 and corruption artifacts. Voxelated 3D pixels in real-world geometries.
 Dazzle camou. Augments. Render ghosts. And, last and least, nostalgic
-retro 8bit graphics from the 1980s.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_5] Sterling’s description shows
+retro 8bit graphics from the 1980s.’[^book_book_book_book_book_book_book_book_book_01-Chap1_5] Sterling’s description shows
 that he was starting to catch on to the notion that there was this new
 thing, this new approach, this new attitude, that could be utilized in
 an extensive, horizontal and synchronic approach, taking into account
@@ -365,18 +450,18 @@ contemporary imagery as a vital element of the New Aesthetic’s fields of
 interest, in a way that contributed new insights into some of the
 discussions about the glitch that had been taking place in recent years.
 Some critics stressed the political consequences of increased
-human-technology interaction as seen by the New Aesthetic.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_6] Others
+human-technology interaction as seen by the New Aesthetic.[^book_book_book_book_book_book_book_book_book_01-Chap1_6] Others
 emphasized its social and gender-specific context e.g. the ‘politics of
-the gaze’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_7] problem (male vs. machine vs. human).[^book_book_book_book_book_book_book_book_book_book_01-Chap1_8] David M. Berry
+the gaze’[^book_book_book_book_book_book_book_book_book_01-Chap1_7] problem (male vs. machine vs. human).[^book_book_book_book_book_book_book_book_book_01-Chap1_8] David M. Berry
 valued the New Aesthetic for stimulating interest in the computational
 aspects of contemporary civilization and their political and cultural
 impact, but at the same time stressed the unconditional inclusiveness of
 the term that result in its vagueness in terms of the accuracy of
-description and information.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_9] On the other hand, Bruce Sterling
+description and information.[^book_book_book_book_book_book_book_book_book_01-Chap1_9] On the other hand, Bruce Sterling
 criticized its supporters for the anthropomorphisation of technological
 artifacts, arguing that their assertion that computers are praiseworthy
 because their effects are apparently analogous to conscious decisions is
-like praising the Freudian unconsciousness as an autonomous agent.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_10]
+like praising the Freudian unconsciousness as an autonomous agent.[^book_book_book_book_book_book_book_book_book_01-Chap1_10]
 
 Quickly, the New Aesthetic became a hot topic of conversation, and the
 term became commonplace at least among those interested in technology’s
@@ -388,7 +473,7 @@ What fascinates us about the New Aesthetic cannot be summarized neatly.
 It is a non-movement that can’t be easily defined but can be easily
 indicated. It’s really cool, in a way, that a thorough academic approach
 to the New Aesthetic has not emerged so far when so many new categories
-instantly become the subjects of a feverish academic onslaught.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_11] The
+instantly become the subjects of a feverish academic onslaught.[^book_book_book_book_book_book_book_book_book_01-Chap1_11] The
 New Aesthetic aims to cover so many contemporary social and cultural
 phenomena that any disciplinary approach would be too limited to analyze
 it as a whole. However, only a few weeks after the SXSW 2012 conference,
@@ -396,7 +481,7 @@ a seminar was organized in the Netherlands in order to elaborate a
 critical study of the New Aesthetic. As a result of a booksprint
 session, a freely available e-book called *New Aesthetics, New
 Anxieties* was written by six authors – new media scholars, artists,
-curators and writers.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_12] The authors focused on many aspects of the
+curators and writers.[^book_book_book_book_book_book_book_book_book_01-Chap1_12] The authors focused on many aspects of the
 non-movement emphasizing the misunderstandings and anxieties generated
 by many instances considered as examples of the New Aesthetic. The
 authors were also interested in the influence of network-based
@@ -404,7 +489,7 @@ initiatives as the New Aesthetic on their professional work. They
 ‘attempt to move beyond lazy thinking, positions of pious indifference
 or naive enthusiasm, and ask what the New Aesthetic might tell us about
 this juncture in which we find ourselves, as curators, critics, artists,
-theorists and creative workers’.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_13] Yet this remains, to date, the
+theorists and creative workers’.[^book_book_book_book_book_book_book_book_book_01-Chap1_13] Yet this remains, to date, the
 only sustained academic treatment of the subject.
 
 Perhaps what tempts us to think about the New Aesthetic is that it is an
@@ -438,7 +523,7 @@ What makes the New Aesthetic such a challenge is more than just the fact
 that it exists at all; Sterling wrote ‘It’s our fault for pretending
 otherwise, for fooling ourselves, for projecting our own qualities onto
 phenomena that we built, that are very interesting to us, but not at all
-like us.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_14] We’ve both created the New Aesthetic and become a
+like us.’[^book_book_book_book_book_book_book_book_book_01-Chap1_14] We’ve both created the New Aesthetic and become a
 recipient of its existence’s implication and, in the digital realm,
 therefore, to critically think about it means that it’s necessary to
 utilize it at times uncritically. The New Aesthetic covered so many
@@ -455,7 +540,7 @@ boundaries were of second importance:
 > One of the things about New Aesthetic was that it was very much
 > supposed to be not “post” anything else and not “pre” anything else,
 > it was an observation about something hopefully grander, of which
-> these are some current examples of.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_15]
+> these are some current examples of.[^book_book_book_book_book_book_book_book_book_01-Chap1_15]
 
 That is why Bridle chose a blog as a platform for sharing his ideas,
 instead of an academic journal or professional magazines, as the
@@ -476,7 +561,7 @@ it is an ‘ongoing research project’ – but then again, clearly, the
 commentators responded to his call. At the peak of the popularity of the
 New Aesthetic, Bridle was so overwhelmed by the interest that he even
 suspended the blog for some time, evidence of a growing awareness of its
-impact.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_16]
+impact.[^book_book_book_book_book_book_book_book_book_01-Chap1_16]
 
 The New Aesthetic is not without its limitations. It is hardly a firm
 academic theory or methodology.
@@ -523,7 +608,7 @@ presentation of the information; as Wim Westera writes:
 > is the outcome of a hidden processing chain containing numerous
 > calculations, transport, raw materials, mechanics, administrative
 > files, orders, and coordinative messages, many of which are carried by
-> digital media.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_17]
+> digital media.[^book_book_book_book_book_book_book_book_book_01-Chap1_17]
 
 Everything has become digitized and, thus, every set of information
 surrounding our lives has become digitally available. In this respect,
@@ -540,7 +625,7 @@ transmitting information, communicating and for sharing social life.
 Through these important functions the digital becomes a privileged site
 for social and political engagement and therefore it is increasingly
 important that we understand the digital and offer the possibility of a
-critical theory of the digital.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_18] While such a perspective is
+critical theory of the digital.’[^book_book_book_book_book_book_book_book_book_01-Chap1_18] While such a perspective is
 received unquestionably in all branches of cultural theory, nevertheless
 the shift of the digital from a functional tool to a ‘de facto medium of
 information’ is startling in its implications and cannot be taken for
@@ -554,7 +639,7 @@ feeds the evolutionary and organic growth of the digital in order for it
 to operate with even greater autonomy, independent of the rarified
 controls found in a computer science laboratory. Witnessing the growth
 of apps available for Apple iOS as just one example – what started with
-500 in 2008[^book_book_book_book_book_book_book_book_book_book_01-Chap1_19] has now reached 1,200,000 by mid-2014[^book_book_book_book_book_book_book_book_book_book_01-Chap1_20] – is like
+500 in 2008[^book_book_book_book_book_book_book_book_book_01-Chap1_19] has now reached 1,200,000 by mid-2014[^book_book_book_book_book_book_book_book_book_01-Chap1_20] – is like
 witnessing the exponential replication of viruses and bacteria. Over the
 course of several decades we have been increasingly relying on the
 computational in many domains of our activity at a civilizational level:
@@ -660,7 +745,7 @@ graphical user interfaces but are experienceable and self-determining
 phenomena in their own right, displayed on ultra-high definition
 displays and accessed and edited thanks to intuitive user interfaces;
 with the increasing processing power available in decreasing physical
-parameters[^book_book_book_book_book_book_book_book_book_book_01-Chap1_21] partnered with a graphic user interface that seemingly
+parameters[^book_book_book_book_book_book_book_book_book_01-Chap1_21] partnered with a graphic user interface that seemingly
 grasps our intentions spontaneously and predictively, conditions are
 being constructed whereby the output of the device assumes an
 unquestioned and teleologically natural state. The very computational
@@ -700,7 +785,7 @@ but what is increasingly clear is that these phenomena are synthetic in
 nature and effect, affecting and transforming in their use our
 perception of the world while simultaneously creating their own worlds.
 In short, we’ve entered a new form of experience best labeled
-‘postdigital’ as an indication that the digital revolution is over.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_22]
+‘postdigital’ as an indication that the digital revolution is over.[^book_book_book_book_book_book_book_book_book_01-Chap1_22]
 The world of raw data and technology, while being in front of us, is
 usually hidden underneath graphical user interfaces, smooth high-res
 images, seamless user experience and touch-screen Retina displays. The
@@ -719,7 +804,7 @@ interact and influence each other. Mel Alexenberg describes this as:
 > autoethnography and community narrative, and between web-enabled
 > peer-produced wikiart and artworks created with alternative media
 > through participation, interaction, and collaboration in which the
-> role of the artist is redefined.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_23]
+> role of the artist is redefined.[^book_book_book_book_book_book_book_book_book_01-Chap1_23]
 
 The key here is the betweenness, the notion of a mixed reality, the
 synthesis. Baudrillard was only partially correct: what governs our
@@ -770,7 +855,7 @@ wrote:
 > politics and people that co-produce them. The *New Aesthetic* is not a
 > movement, it is not a thing which can be done. It is a series of
 > artifacts of the heterogeneous network, which recognizes differences,
-> the gaps in our distant but overlapping realities.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_24]
+> the gaps in our distant but overlapping realities.[^book_book_book_book_book_book_book_book_book_01-Chap1_24]
 
 And, on another occasion:
 
@@ -780,7 +865,7 @@ And, on another occasion:
 > real world. It’s something that’s come out of digital. It’s come out
 > of a digital way of seeing, that represents things in this form. The
 > real world doesn’t, or at least didn’t, have a grain that looks like
-> this.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_25]
+> this.[^book_book_book_book_book_book_book_book_book_01-Chap1_25]
 
 In this sense, to analyze the New Aesthetic is to engage in a form of
 topological description from a new perspective and position, identifying
@@ -799,7 +884,7 @@ being (user) we can shed light on the condition of contemporary
 civilization which is founded on (mega)mass production and distribution
 of images, writing: ‘The invention of photography constitutes a break in
 history that can only be understood in comparison to that other
-historical break constituted by the invention of linear writing.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_26]
+historical break constituted by the invention of linear writing.’[^book_book_book_book_book_book_book_book_book_01-Chap1_26]
 In the process of being able to reproduce the appearance of reality, the
 status of such reproductions became portable, mobile, and transmittable;
 whereas descriptions of the world were once dependent on lengthy
@@ -819,7 +904,7 @@ assumed to be sufficient and self-sufficient to the task. He explained
 that, ‘nothing can resist the force of this current of technical images
 – there is no artistic, scientific or political activity which is not
 aimed at it, there is no everyday activity which does not aspire to be
-photographed, filmed, video-taped’.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_27] In essence, this shift marks a
+photographed, filmed, video-taped’.[^book_book_book_book_book_book_book_book_book_01-Chap1_27] In essence, this shift marks a
 relinquishment of the user of their freedom to the apparatus’ methods,
 creating a new topology of knowledge that had profound ontological and
 epistemic consequences because the user, even if they believe they are
@@ -834,7 +919,7 @@ writing:
 > \[…\] \[I\] will illustrate that the photographic universe can serve
 > as a model for post-industrial society as a whole and that a
 > philosophy of photography can be the starting point for any philosophy
-> engaging with the current and future existence of human beings.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_28]
+> engaging with the current and future existence of human beings.[^book_book_book_book_book_book_book_book_book_01-Chap1_28]
 
 In many respects, Flusser is arguing for two paths of philosophical
 effort: first, that philosophy should investigate how any epistemology
@@ -877,20 +962,20 @@ we interact with data today. One way is to look at projects such as the
 Palladio platform, developed by the Human+Design Research Lab at
 Stanford University, that takes on a justified faith that visual
 representation of data leads to insightful and critical new discoveries
-of the relations between various trends;[^book_book_book_book_book_book_book_book_book_book_01-Chap1_29] at the Text Encoding
+of the relations between various trends;[^book_book_book_book_book_book_book_book_book_01-Chap1_29] at the Text Encoding
 Initiative Conference in October 2014 at Northwestern University, Thomas
 Faith and Joseph Wicentowski, working for the Office of the Historian in
 the U.S. Department of State, presented ‘Visualizing the History of U.S.
 Foreign Relations: The State of TEI at Foggy Bottom’ – how they’ve used
 Palladio to visualize the encoded Foreign Relations of the United States
 series, a 150 year old, 500 volume document that is the official history
-of United States foreign policy.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_30] Another way is to consider the
+of United States foreign policy.[^book_book_book_book_book_book_book_book_book_01-Chap1_30] Another way is to consider the
 development of Ubiquitous Learning Materials as an effort to shift the
 educational process away from a linear instructor-centered model to an
 immersive, social model utilizing mobile devices in order to remove the
 stress of the classroom experience while preparing students for ‘real
 life’; a perfect instance of this is the Philippines Smart
-Communications’ project TXTBKS[^book_book_book_book_book_book_book_book_book_book_01-Chap1_31] {Fig. 4} that provides transcribed
+Communications’ project TXTBKS[^book_book_book_book_book_book_book_book_book_01-Chap1_31] {Fig. 4} that provides transcribed
 elementary school textbooks to children through discarded mobile phones.
 
 ![](img/Fig004.png) Fig. 4 Smart Philippines Textbooks
@@ -915,10 +1000,10 @@ different from normal digital objects. In most cases, digital products
 adhere to a simple presentation of information, often governed by the
 type of data being provided; by allowing a certain degree of
 simplification one could propose an equation: digital visual media =
-algorithms + data structure.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_32] An easy example of this is the typical
+algorithms + data structure.[^book_book_book_book_book_book_book_book_book_01-Chap1_32] An easy example of this is the typical
 Excel spreadsheet, which has its origins in a program called Multiplan,
 was code named ‘EP’ for ‘Electronic Paper’ and released in 1982 as a
-competitor for Lotus 1-2-3.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_33] Multiplan’s code name is revealing in
+competitor for Lotus 1-2-3.[^book_book_book_book_book_book_book_book_book_01-Chap1_33] Multiplan’s code name is revealing in
 that there was every intention of imitating and being visually analogous
 to an accounting ledger’s columns for ease of use. However, digital
 objects have shifted dramatically as contemporary digital images have
@@ -940,7 +1025,7 @@ studying only the layer closest to us – the digital image displayed or
 projected on the screen – we ignore the existence of hidden
 computational layers and their influence on the aesthetics of the
 images. The New Aesthetic reminds us that the computational layer of
-digital media is inextricably linked with the cultural layer.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_34]
+digital media is inextricably linked with the cultural layer.[^book_book_book_book_book_book_book_book_book_01-Chap1_34]
 
 In this light, the New Aesthetic encourages us to take a postdigital
 approach in studying computational-based visual media. This might lead
@@ -954,18 +1039,18 @@ screen-centric approach in image analysis as the privileged site for
 research – precisely because we do not want to limit ourselves to
 judgments of appearance or usability alone. Berry argues that ‘without
 an attentiveness to the layers of software beneath this surface
-interface we are in danger of further screen essentialism’.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_35] Indeed
+interface we are in danger of further screen essentialism’.[^book_book_book_book_book_book_book_book_book_01-Chap1_35] Indeed
 he further remarks, ‘computational tools assist by providing mediation
 and advising and providing structure for a world full of data, real-time
 streams and complex calculations required from its citizens. This
 computational assistance or monitoring is backgrounded and often hidden
-from us.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_36] Marianne van den Boomen also rejects the screen-centric
+from us.’[^book_book_book_book_book_book_book_book_book_01-Chap1_36] Marianne van den Boomen also rejects the screen-centric
 approach in her book on digital metaphors (particularly in studying
 GUI), although her point is applicable to any kind of computationally
 rooted imagery. She explains, ‘what you see, is what you get, which
 suggests that, that is all there is to get. The machinery gets reduced
 to the screen, or better, to the representations on the screen. The
-screen shows but also blinds.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_37] It is in the interplay between
+screen shows but also blinds.’[^book_book_book_book_book_book_book_book_book_01-Chap1_37] It is in the interplay between
 screen and the underlying software and hardware that the New Aesthetic
 manifests itself, not just in its immediate appearance. Although much of
 the final aesthetic~~s~~ of the digital image is a direct result of the
@@ -1009,13 +1094,13 @@ standard objects (physical – shipping containers or iPhones and digital
 post-Fordist economy in that their consumption transcends industrial
 modes of production in favor of individual contributive modes of
 participation. According to Fuller, standard objects are ‘ideally
-isolated systems’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_38] and separate entities within the universe and
+isolated systems’[^book_book_book_book_book_book_book_book_book_01-Chap1_38] and separate entities within the universe and
 Fuller, following Alfred Whitehead’s logic, argues that ‘such objects
 become crucial to the generation of media and communications networks
 and the organizations that handle them’ and then adds that the standard
 object ‘refers most easily to things that are mass-produced: cars,
 houses, the customizable ring of a telephone’ or standardized
-technologies i.e. packet switching, compression algorithms etc.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_39]
+technologies i.e. packet switching, compression algorithms etc.[^book_book_book_book_book_book_book_book_book_01-Chap1_39]
 Post-Fordist products are quite different in that they maintain a
 semblance of standardization while at the same time being eminently
 capable of being personalized; in fact, post-Fordist objects are sold to
@@ -1037,7 +1122,7 @@ standard objects for today’s society and culture founded on
 computational technologies is hardly arguable. James Stevens of Free
 Networks, cited by Fuller, states that ‘The information age has boiled
 down the magic of telecommunications into a set of modular components
-that any of us can adopt and explore.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_40] Nevertheless, this magic is
+that any of us can adopt and explore.’[^book_book_book_book_book_book_book_book_book_01-Chap1_40] Nevertheless, this magic is
 not even that because it’s not trickery that’s under the control of a
 ‘magician’ as programmer but a seduction of the user through the user
 interface, a seduction the leads the user to erroneously believe they
@@ -1140,7 +1225,7 @@ The authors of *New
 Aesthetic, New Anxieties* write that ‘The New Aesthetic, in other words,
 brings these patterns to the surface, and in doing so articulates a
 movement towards uncovering the “unseen”, the little understood logic of
-computational society and the anxieties that this introduces.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_41]
+computational society and the anxieties that this introduces.’[^book_book_book_book_book_book_book_book_book_01-Chap1_41]
 Often, it is artists who best capture the anxiety and the potential in
 the underlying conditions, and we look forward to discussing ways in
 which contemporary artists are both utilizing and responding to the New
@@ -1163,7 +1248,7 @@ on his blog (*stunlaw*) and was later developed in *Critical Theory and
 the Digital* (2014). Berry writes: ‘Computationality is therefore an
 ontotheology, which when read through Heideggerian categories can be
 understood as creating a new ontological “epoch” or a new historical
-constellation of intelligibility.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_42] Computationality can be
+constellation of intelligibility.’[^book_book_book_book_book_book_book_book_book_01-Chap1_42] Computationality can be
 understood as a set of social and cultural practices rooted in digital
 technology. We can also consider it as an ontological description of the
 contemporary civilization which is deeply shaped by software and digital
@@ -1177,7 +1262,7 @@ considered as computationality.
 
 Why should we bother with yet another ‘post’ notion? Florian Cramer, one
 of the first proponents of the ‘postdigital’ clearly stated that this
-‘term sucks but is useful’.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_43] We are willing to agree with him on
+‘term sucks but is useful’.[^book_book_book_book_book_book_book_book_book_01-Chap1_43] We are willing to agree with him on
 that matter. In the following paragraphs we hope to prove that the
 postdigital approach is of vital importance for our endeavor to
 conceptualize the New Aesthetic. Additionally, the postdigital as
@@ -1188,7 +1273,7 @@ and ubiquitous computing. We agree with David M. Berry and Michael
 Dieter who write that in the last decade, ‘computation \[has become\]
 experimental, spatial and materialized in its implementation, embedded
 within the environment and embodied, part of the texture of life itself
-but also upon and even within the body’.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_44] Both the New Aesthetic and
+but also upon and even within the body’.[^book_book_book_book_book_book_book_book_book_01-Chap1_44] Both the New Aesthetic and
 the postdigital take into the spotlight unique characteristics and
 affordances of the latest computational technologies, instead of just
 putting them into the very same ‘digital basket’ where each and every
@@ -1222,7 +1307,7 @@ has left a profound imprint in many areas of our society and culture
 such that the ‘“post-digital” in its simplest sense describes the messy
 state of media, arts and design after their digitization (or at least
 the digitization of crucial aspects of the channels through which they
-are communicated)’.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_45] The postdigital is therefore interested in
+are communicated)’.[^book_book_book_book_book_book_book_book_book_01-Chap1_45] The postdigital is therefore interested in
 assessing these consequences by locating, conceptualizing and critically
 examining manifestations of the postdigital condition in society,
 culture, economy etc. Cramer compares the postdigital to other post-like
@@ -1230,7 +1315,7 @@ notions (post-punk, post-communism, post-feminism, post-apocalyptic
 etc.), emphasizing that the crucial difference between the initial
 appearance of the idea or movement and its post- version is that it ‘has
 progressed from a discrete breaking point to an ongoing condition – in
-Heideggerian terms, from Ereignis to Being’.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_46] This is one of the
+Heideggerian terms, from Ereignis to Being’.[^book_book_book_book_book_book_book_book_book_01-Chap1_46] This is one of the
 crucial points to be remembered when dealing with the postdigital. For
 us, both the New Aesthetic and the postdigital approach offer a unique
 paradigm that enables us to grasp and encapsulate various phenomena
@@ -1251,7 +1336,7 @@ non-computational physical environment and tools we can achieve our
 social, economic and cultural goals. He therefore suggests that
 proponents of the postdigital attitude should ‘dismiss the idea of
 digital processing as the sole universal all-purpose form of information
-processing.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_47] This idea has been a dominating paradigm in popular
+processing.’[^book_book_book_book_book_book_book_book_book_01-Chap1_47] This idea has been a dominating paradigm in popular
 culture since the dawn of the personal computer, and later in the
 so-called mobile revolution which was introduced by the smartphone and
 broadband mobile internet access. What is really interesting, as we are
@@ -1268,14 +1353,14 @@ media. In those fields has been an ongoing transition to higher
 resolutions, better color palette, screen refresh rate that would make
 the medium even more transparent yet hyperreal. ‘The simplest definition
 of “post-digital” describes a media aesthetics which opposes such
-digital high-tech and high-fidelity cleanness.’[^book_book_book_book_book_book_book_book_book_book_01-Chap1_48]
+digital high-tech and high-fidelity cleanness.’[^book_book_book_book_book_book_book_book_book_01-Chap1_48]
 
 The New Aesthetic, similarly to the postdigital, rejects such a
 fetishization of technological progress and the theoretical and
 interpretative approaches that come with it. Kim Cascone used the term
 for the first time in 2000 to describe how digitalization of the music
 production workflow has changed the very principles of this creative
-process.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_49] Similar<span id="The_postdigital_module"
+process.[^book_book_book_book_book_book_book_book_book_01-Chap1_49] Similar<span id="The_postdigital_module"
 class="anchor"></span>ly to the New Aesthetic a decade later, he focused
 on abnormalities, errors, and glitches in electronically produced music
 that were caused by specific commercial computational technologies
@@ -1286,7 +1371,7 @@ In the light of the above, it is hardly surprising that Cramer argues
 that the postdigital can be used to describe the condition of
 ‘disenchantment with digital information systems and media gadgets, or a
 period in which our fascination with these systems and gadgets has
-become historical’.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_50] The first version of his article was written
+become historical’.[^book_book_book_book_book_book_book_book_book_01-Chap1_50] The first version of his article was written
 only a few months after the Snowden revelations as part of a
 contribution to the Transmediale 2014 Festival. In this context the
 ‘disenchantment’ would address the ultimate end of the ‘free internet’
@@ -1304,7 +1389,7 @@ associated with the ‘disenchantment attitude’, comes with the revival of
 ‘old’ or better said mechanical or electrical media in the arts. Cramer
 writes that we observe a ‘renaissance of artists’ printmaking, handmade
 film labs, limited vinyl editions, the rebirth of the audio cassette,
-mechanical typewriters, analog cameras and analog synthesizers’.[^book_book_book_book_book_book_book_book_book_book_01-Chap1_51]
+mechanical typewriters, analog cameras and analog synthesizers’.[^book_book_book_book_book_book_book_book_book_01-Chap1_51]
 This trend is particularly visible in art schools (at least in the
 Netherlands) where, according to Cramer, students prefer to work with
 non-digital tools and techniques, and digital communication design and
@@ -1347,133 +1432,133 @@ On the contrary, it rather proves that it has become the condition of
 existence of today’s reality and, for better or worse, has greatly
 permeated our everyday lives.  
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_1]: David Fodel and Matt Jenkins (curators), ‘Exhibition announcement: *The Emperor’s New Aesthetic*’, 9 September 2014, Rhizome, [http://rhizome.org/announce/events/60873/view/](http://rhizome.org/announce/events/60873/view/).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_1]: David Fodel and Matt Jenkins (curators), ‘Exhibition announcement: *The Emperor’s New Aesthetic*’, 9 September 2014, Rhizome, [http://rhizome.org/announce/events/60873/view/](http://rhizome.org/announce/events/60873/view/).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_2]: Norges Bank, ‘Motifs for the New Banknote Series’ (Press Release), 7 October 2014, [http://www.norges-bank.no/en/Published/Press-releases/2014/Press-release-7-october-2014/](http://www.norges-bank.no/en/Published/Press-releases/2014/Press-release-7-october-2014/).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_2]: Norges Bank, ‘Motifs for the New Banknote Series’ (Press Release), 7 October 2014, [http://www.norges-bank.no/en/Published/Press-releases/2014/Press-release-7-october-2014/](http://www.norges-bank.no/en/Published/Press-releases/2014/Press-release-7-october-2014/).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_3]: The first entry on the New Aesthetic was published on Really Interesting Group website, [http://www.riglondon.com/blog/2011/05/06/the-new-aesthetic/](http://www.riglondon.com/blog/2011/05/06/the-new-aesthetic/). Now the New Aesthetic project is available on Tumblr, [http://new-aesthetic.tumblr.com](http://new-aesthetic.tumblr.com).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_3]: The first entry on the New Aesthetic was published on Really Interesting Group website, [http://www.riglondon.com/blog/2011/05/06/the-new-aesthetic/](http://www.riglondon.com/blog/2011/05/06/the-new-aesthetic/). Now the New Aesthetic project is available on Tumblr, [http://new-aesthetic.tumblr.com](http://new-aesthetic.tumblr.com).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_4]: SXSW Schedule 2012, ‘The New Aesthetic: Seeing Like Digital Devices’, [http://schedule.sxsw.com/2012/events/event\_IAP11102](http://schedule.sxsw.com/2012/events/event\_IAP11102).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_4]: SXSW Schedule 2012, ‘The New Aesthetic: Seeing Like Digital Devices’, [http://schedule.sxsw.com/2012/events/event\_IAP11102](http://schedule.sxsw.com/2012/events/event\_IAP11102).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_5]: Sterling, ‘An Essay on the New Aesthetic’.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_5]: Sterling, ‘An Essay on the New Aesthetic’.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_6]: Adam Rothstein, ‘New Aesthetics – New Politics’, *POSZU blog*,
+[^book_book_book_book_book_book_book_book_book_01-Chap1_6]: Adam Rothstein, ‘New Aesthetics – New Politics’, *POSZU blog*,
 April 2012, [http://www.poszu.com/new-aesthetics-new-politics.html](http://www.poszu.com/new-aesthetics-new-politics.html).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_7]: Madeline Ashby, ‘The New Aesthetics of the Male Gaze’, *Madelineashby.com*, 2 April 2012, [http://madelineashby.com/?p=1198](http://madelineashby.com/?p=1198).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_7]: Madeline Ashby, ‘The New Aesthetics of the Male Gaze’, *Madelineashby.com*, 2 April 2012, [http://madelineashby.com/?p=1198](http://madelineashby.com/?p=1198).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_8]: Will Wiles, ‘The Machine Haze’, *Aeon*, 17 September 2012,
+[^book_book_book_book_book_book_book_book_book_01-Chap1_8]: Will Wiles, ‘The Machine Haze’, *Aeon*, 17 September 2012,
 [https://aeon.co/essays/what-do-we-uncover-when-we-look-through-digital-eyes](https://aeon.co/essays/what-do-we-uncover-when-we-look-through-digital-eyes).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_9]: David M. Berry, ‘What Is the “New Aesthetic”?’, ‘Abduction Aesthetic: Computationality and the New Aesthetic’, *Stunlaw blog*, 6 April 2012, [http://stunlaw.blogspot.com/2012/04/abduction-aesthetic-computationality.html](http://stunlaw.blogspot.com/2012/04/abduction-aesthetic-computationality.html).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_9]: David M. Berry, ‘What Is the “New Aesthetic”?’, ‘Abduction Aesthetic: Computationality and the New Aesthetic’, *Stunlaw blog*, 6 April 2012, [http://stunlaw.blogspot.com/2012/04/abduction-aesthetic-computationality.html](http://stunlaw.blogspot.com/2012/04/abduction-aesthetic-computationality.html).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_10]: Sterling, ‘An Essay on the New Aesthetic’.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_10]: Sterling, ‘An Essay on the New Aesthetic’.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_11]: The irony doesn’t escape us, we promise you.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_11]: The irony doesn’t escape us, we promise you.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_12]: David M. Berry, et. al. *New Aesthetic, New Anxieties*,
+[^book_book_book_book_book_book_book_book_book_01-Chap1_12]: David M. Berry, et. al. *New Aesthetic, New Anxieties*,
     Rotterdam: V2 Institute of Unstable Media, 2012.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_13]: Berry, et. al. *New Aesthetic, New Anxieties,* p. 11.  
+[^book_book_book_book_book_book_book_book_book_01-Chap1_13]: Berry, et. al. *New Aesthetic, New Anxieties,* p. 11.  
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_14]: Sterling, ‘An Essay on the New Aesthetic’.  
+[^book_book_book_book_book_book_book_book_book_01-Chap1_14]: Sterling, ‘An Essay on the New Aesthetic’.  
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_15]: Rober Urquhart, ‘An Interview With James Bridle of the New Aesthetic’, *The Huffington Post,* 9 May 2012, [http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html](http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_15]: Rober Urquhart, ‘An Interview With James Bridle of the New Aesthetic’, *The Huffington Post,* 9 May 2012, [http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html](http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_16]: J.J. Charlesworth, ‘We are the droids we’re looking for: the New Aesthetic and its friendly critics’, *JJ Charlesworth Blog*,7 May 2012, [https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/](https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_16]: J.J. Charlesworth, ‘We are the droids we’re looking for: the New Aesthetic and its friendly critics’, *JJ Charlesworth Blog*,7 May 2012, [https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/](https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_17]: Wim Westera, *The Digital Turn: How the Internet Transforms Our
+[^book_book_book_book_book_book_book_book_book_01-Chap1_17]: Wim Westera, *The Digital Turn: How the Internet Transforms Our
 Existence*, 2015 (2013), [http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf](http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf), p. 125.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_18]: David M. Berry, *Critical Theory and the Digital*, London:
+[^book_book_book_book_book_book_book_book_book_01-Chap1_18]: David M. Berry, *Critical Theory and the Digital*, London:
     Bloomsbury, 2014, p. 121.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_19]: Apple Inc., ‘iPhone 3G on Sale Tomorrow’ (Press release). 10
+[^book_book_book_book_book_book_book_book_book_01-Chap1_19]: Apple Inc., ‘iPhone 3G on Sale Tomorrow’ (Press release). 10
 July, 2008, [http://www.apple.com/pr/library/2008/07/10iPhone-3G-on-Sale-Tomorrow.html](http://www.apple.com/pr/library/2008/07/10iPhone-3G-on-Sale-Tomorrow.html).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_20]: Sarah Perez, ‘iTunes App Store Now Has 1.2 Million Apps, Has Seen
+[^book_book_book_book_book_book_book_book_book_01-Chap1_20]: Sarah Perez, ‘iTunes App Store Now Has 1.2 Million Apps, Has Seen
 75 Billion Downloads To Date’, *TechCrunch*, 2 June, 2014, [http://techcrunch.com/2014/06/02/itunes-app-store-now-has-1-2-million-apps-has-seen-75-billion-downloads-to-date/](http://techcrunch.com/2014/06/02/itunes-app-store-now-has-1-2-million-apps-has-seen-75-billion-downloads-to-date/).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_21]: The increasing size of the iPhone 6 Plus and the Samsung Galaxy
+[^book_book_book_book_book_book_book_book_book_01-Chap1_21]: The increasing size of the iPhone 6 Plus and the Samsung Galaxy
     phones notwithstanding, which mark a shift in design emphasis,
     upcoming products like the Apple Watch and wearable digital devices
     follow the trend of decreasing physical size.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_22]: Don’t revolutions have winners and losers? If so, the digital
+[^book_book_book_book_book_book_book_book_book_01-Chap1_22]: Don’t revolutions have winners and losers? If so, the digital
     clearly won.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_23]: Mel Alexenberg, *The Future of Art in a Postdigital Age: From
+[^book_book_book_book_book_book_book_book_book_01-Chap1_23]: Mel Alexenberg, *The Future of Art in a Postdigital Age: From
     Hellenistic to Hebraic Consciousness*, Bristol: Intellect Ltd, 2011,
     p. 35.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_24]: James Bridle, *The New Aesthetic blog*, Tumblr,
+[^book_book_book_book_book_book_book_book_book_01-Chap1_24]: James Bridle, *The New Aesthetic blog*, Tumblr,
 [http://new-aesthetic.tumblr.com/about](http://new-aesthetic.tumblr.com/about).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_25]: James Bridle, ‘Waving at the Machines’, Web Directions South 2011, Sydney, 11-14 October 2011, [http://www.webdirections.org/resources/james-bridle-waving-at-the-machines/](http://www.webdirections.org/resources/james-bridle-waving-at-the-machines/).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_25]: James Bridle, ‘Waving at the Machines’, Web Directions South 2011, Sydney, 11-14 October 2011, [http://www.webdirections.org/resources/james-bridle-waving-at-the-machines/](http://www.webdirections.org/resources/james-bridle-waving-at-the-machines/).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_26]: Vilém Flusser, *Towards a Philosophy of Photography*, London:
+[^book_book_book_book_book_book_book_book_book_01-Chap1_26]: Vilém Flusser, *Towards a Philosophy of Photography*, London:
     Reaktion Books Ltd, 2000, p. 195.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_27]: Flusser, *Towards a Philosophy of Photography*, p. 20.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_27]: Flusser, *Towards a Philosophy of Photography*, p. 20.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_28]: Flusser, *Towards a Philosophy of Photography*, p. 75.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_28]: Flusser, *Towards a Philosophy of Photography*, p. 75.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_29]: Palladio Humanities thinking with data, [http://hdlab.stanford.edu/projects/palladio/](http://hdlab.stanford.edu/projects/palladio/).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_29]: Palladio Humanities thinking with data, [http://hdlab.stanford.edu/projects/palladio/](http://hdlab.stanford.edu/projects/palladio/).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_30]: Thomas Faith and Joseph Wicentowski, ‘Visualizing the History of U.S. Foreign Relations: The State of TEI at Foggy Bottom’, [http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf](http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_30]: Thomas Faith and Joseph Wicentowski, ‘Visualizing the History of U.S. Foreign Relations: The State of TEI at Foggy Bottom’, [http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf](http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_31]: TXTBKS, [https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html](https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_31]: TXTBKS, [https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html](https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_32]: Lev Manovich, *Software Takes Command*, London: Bloomsbury, 2013,
+[^book_book_book_book_book_book_book_book_book_01-Chap1_32]: Lev Manovich, *Software Takes Command*, London: Bloomsbury, 2013,
     p. 207.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_33]: Wikipedia contributors. ‘Multiplan’, *Wikipedia,* 31 August 2014 [https://en.wikipedia.org/wiki/Multiplan](https://en.wikipedia.org/wiki/Multiplan).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_33]: Wikipedia contributors. ‘Multiplan’, *Wikipedia,* 31 August 2014 [https://en.wikipedia.org/wiki/Multiplan](https://en.wikipedia.org/wiki/Multiplan).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_34]: Lev Manovich, *The Language of New Media*, London: MIT Press,
+[^book_book_book_book_book_book_book_book_book_01-Chap1_34]: Lev Manovich, *The Language of New Media*, London: MIT Press,
     2002, p. 63.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_35]: David M. Berry, *Understanding Digital Humanities*, London:
+[^book_book_book_book_book_book_book_book_book_01-Chap1_35]: David M. Berry, *Understanding Digital Humanities*, London:
     Palgrave Macmillan, 2012, p. 10 and David M. Berry, *The Philosophy
     of Software Code and Mediation in a Digital Age*, London: Palgrave
     Macmillan, 2011, p. 36, 65, 137.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_36]: David M. Berry, *Critical Theory and the Digital*. p. 66.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_36]: David M. Berry, *Critical Theory and the Digital*. p. 66.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_37]: Marianne van den Bommen, *Transcoding the Digital: How Metaphors
+[^book_book_book_book_book_book_book_book_book_01-Chap1_37]: Marianne van den Bommen, *Transcoding the Digital: How Metaphors
     Matter in New Media*, Amsterdam, Institute of Network Cultures,
     2014, p. 15.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_38]: Matthew Fuller, *Media Ecologies: Materialist Energies in Art and
+[^book_book_book_book_book_book_book_book_book_01-Chap1_38]: Matthew Fuller, *Media Ecologies: Materialist Energies in Art and
     Technoculture*, Cambridge: MIT Press, 2005, p. 93.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_39]: Fuller, *Media Ecologies*, p. 95
+[^book_book_book_book_book_book_book_book_book_01-Chap1_39]: Fuller, *Media Ecologies*, p. 95
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_40]: Fuller, *Media Ecologies*, p. 105.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_40]: Fuller, *Media Ecologies*, p. 105.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_41]: Berry, et. al., *New Aesthetic, New Anxieties,* p. 41.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_41]: Berry, et. al., *New Aesthetic, New Anxieties,* p. 41.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_42]: David M. Berry, *The Philosophy of Software Code and Mediation in
+[^book_book_book_book_book_book_book_book_book_01-Chap1_42]: David M. Berry, *The Philosophy of Software Code and Mediation in
     a Digital Age*, London: Palgrave Macmillan, 2011, p. 27.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_43]: Florian Cramer, ‘What is “Post-digital”?’, *A Peer-reviewed Journal about Post-digital Research* (2015), vol. 3, issue 1, p. 3., [http://www.aprja.net/?p=1318](http://www.aprja.net/?p=1318).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_43]: Florian Cramer, ‘What is “Post-digital”?’, *A Peer-reviewed Journal about Post-digital Research* (2015), vol. 3, issue 1, p. 3., [http://www.aprja.net/?p=1318](http://www.aprja.net/?p=1318).
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_44]: David Berry and Michael Dieter (eds) *Postdigital Aesthetics:
+[^book_book_book_book_book_book_book_book_book_01-Chap1_44]: David Berry and Michael Dieter (eds) *Postdigital Aesthetics:
     Art, Computation and Design*, Basingstoke: Palgrave Macmillan, 2015,
     p. 3.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_45]: Cramer, ‘What is “Post-digital”?’, p. 10.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_45]: Cramer, ‘What is “Post-digital”?’, p. 10.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_46]: Cramer, ‘What is “Post-digital”?’, p. 4.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_46]: Cramer, ‘What is “Post-digital”?’, p. 4.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_47]: Cramer, ‘What is “Post-digital”?’, p. 7.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_47]: Cramer, ‘What is “Post-digital”?’, p. 7.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_48]: Cramer, ‘What is “Post-digital”?’, p. 6.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_48]: Cramer, ‘What is “Post-digital”?’, p. 6.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_49]: Kim Cascone ‘The Aesthetics of Failure: ‘Post- Digital’ Tendencies in Contemporary Computer Music’, *Computer Music Journal* 24, No. 4 (Winter 2000), pp. 12-18.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_49]: Kim Cascone ‘The Aesthetics of Failure: ‘Post- Digital’ Tendencies in Contemporary Computer Music’, *Computer Music Journal* 24, No. 4 (Winter 2000), pp. 12-18.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_50]: Cramer, ‘What is “Post-digital”?’, p. 3.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_50]: Cramer, ‘What is “Post-digital”?’, p. 3.
 
-[^book_book_book_book_book_book_book_book_book_book_01-Chap1_51]: Cramer, ‘What is “Post-digital”?’, pp. 3-4.
+[^book_book_book_book_book_book_book_book_book_01-Chap1_51]: Cramer, ‘What is “Post-digital”?’, pp. 3-4.
 
  <br></br> 
 
@@ -1572,7 +1657,7 @@ Bus*, created in 1995 to reproduce the eight-hour drive from Tucson,
 Arizona to Las Vegas, Nevada with unrelenting and excruciating boredom
 (you drive the bus in real time, with only the perfectly straight road
 as a vague distraction, and get one point for each successful run you
-make there and back) – may be one instance.[^book_book_book_book_book_book_book_book_book_02ok_1] {Fig. 8}  
+make there and back) – may be one instance.[^book_book_book_book_book_book_book_book_02ok_1] {Fig. 8}  
 
 <img src="img/Fig008.png"/><br />Fig. 8 <em>Desert Bus</em> (1995)  
 
@@ -1647,7 +1732,7 @@ identification.
 
 Facial recognition software has a long history,
 extending back into the 1960s with early work being done by of Woody
-Bledsoe, Helen Chan and Charles Bisson at Panoramic Research Inc.[^book_book_book_book_book_book_book_book_book_02ok_2]
+Bledsoe, Helen Chan and Charles Bisson at Panoramic Research Inc.[^book_book_book_book_book_book_book_book_02ok_2]
 Originally focused on artificial intelligence, their efforts at creating
 software based pattern recognition was quickly identified as having a
 multiplicity of purposes, including reading address labels as well as
@@ -1687,7 +1772,7 @@ forefront of our perception intertwined layers of algorithms and
 computation that contemporary society and culture is built on, further
 instances of New Aesthetic objects as experience can be identified at an
 increasing rate. Another example of a manifestation of a New Aesthetic
-object is ‘What colour is it?’.[^book_book_book_book_book_book_book_book_book_02ok_3] {Fig. 11} In many respects, this is
+object is ‘What colour is it?’.[^book_book_book_book_book_book_book_book_02ok_3] {Fig. 11} In many respects, this is
 merely a webpage displaying the user’s local time, an increasingly
 common type of application for Chrome and other browsers, but what
 becomes immediately apparent over a short time is the ever-shifting
@@ -1705,7 +1790,7 @@ nothing could be further from the truth; a solely numeric listing of
 HTML color codes tends towards dark greens and blues, so there’s less
 variation than might be anticipated. Created by Berlin based artist and
 designer James E. Murphy, it is part of a series of webpages and
-coding[^book_book_book_book_book_book_book_book_book_02ok_4] that challenge users’ preconceived notions of web
+coding[^book_book_book_book_book_book_book_book_02ok_4] that challenge users’ preconceived notions of web
 interactions. It’s difficult to think of ‘What colour is it?’ as an
 example of art per se (and we will return to Murphy’s work in the next
 chapter on examples of New Aesthetic art where other work seems more
@@ -1715,7 +1800,7 @@ digital coding is itself New Aesthetic in nature; it’s not the gimmick
 that makes it that but the increasing degree of autonomy and means of
 confounding the user’s experience.
 
-Chris Foley’s *Glitchtop*[^book_book_book_book_book_book_book_book_book_02ok_5] {Fig. 12} is a further example of the
+Chris Foley’s *Glitchtop*[^book_book_book_book_book_book_book_book_02ok_5] {Fig. 12} is a further example of the
 development of HTML coding producing a specifically New Aesthetic
 experience.   
 
@@ -1726,7 +1811,7 @@ management, including the innovative browser extension LightboxE for
 Chrome and Safari that allows users to view and manipulate images found
 on websites on their own terms without leaving the page. Glitchtop is
 quite different from other programming efforts by Foley, labeled as ‘an
-online art generator inspired by glitch art and pixel art’.[^book_book_book_book_book_book_book_book_book_02ok_6] Users
+online art generator inspired by glitch art and pixel art’.[^book_book_book_book_book_book_book_book_02ok_6] Users
 are invited to choose from a range of different sliding parameters –
 size, hue, saturation, lightness, repeat and speed – which are then used
 to generate an image of varying colored squares that alternate between
@@ -1802,7 +1887,7 @@ notes:
 > the logic of interactions isn’t clear to us, we’re left with what can
 > feel like pure absurdity. But these glitches in technology aren’t
 > always just random acts of incoherency; they’re often the product of a
-> breakdown of communication.[^book_book_book_book_book_book_book_book_book_02ok_7]  
+> breakdown of communication.[^book_book_book_book_book_book_book_book_02ok_7]  
 
 <img src="img/Fig015.png"/> Fig. 15 Agricultural Fields  
 
@@ -1824,7 +1909,7 @@ Sterling wrote:
 > Valorizing machine-generated imagery is like valorizing the
 > unconscious mind. Like Surrealist imagery, it is cool, weird,
 > provocative, suggestive, otherworldly, but it is also
-> impoverished.[^book_book_book_book_book_book_book_book_book_02ok_8]
+> impoverished.[^book_book_book_book_book_book_book_book_02ok_8]
 
 Clearly, though, while the image generated as a result of the glitch
 isn’t surreal (a word all too often synonymously used in place of
@@ -1856,7 +1941,7 @@ are, instead, the product of the visualization of data. {Fig. 16}
 These
 images in particular are interesting in that they represent population
 figures of the contiguous United States at varying levels as part of the
-Polymers JavaScript library[^book_book_book_book_book_book_book_book_book_02ok_9] that is designed to create interactive
+Polymers JavaScript library[^book_book_book_book_book_book_book_book_02ok_9] that is designed to create interactive
 maps for web browsers; giving each pixel the task of representing an
 area populated by 1000+ people, the programmers still felt the need to
 make the result more visual appealing, such that:
@@ -1864,7 +1949,7 @@ make the result more visual appealing, such that:
 > My team selected the old-school color scheme to maximize contrast
 > whilst maintaining some semblance of readability. According to them,
 > if it dredges up any repressed 8-bit feelings – like the urge to snipe
-> an Atari 2600 off Ebay – that’s not a bug. It’s a feature.[^book_book_book_book_book_book_book_book_book_02ok_10]
+> an Atari 2600 off Ebay – that’s not a bug. It’s a feature.[^book_book_book_book_book_book_book_book_02ok_10]
 
 Pixelization has seemingly acquired a value as a tool. Apps like
 Pixelate Tool {Fig. 17} are advertised as ‘a QUICK and HANDY tool for
@@ -1872,7 +1957,7 @@ adding pixelated blur to your photo in seconds’ with one reviewer’s
 comments being ‘I can get used to it not being super accurate but I hope
 it doesn’t get removed because as of now it’s the only simple tool that
 does what it does’ as if the accuracy of the pixelization is ironically
-important.[^book_book_book_book_book_book_book_book_book_02ok_11]   
+important.[^book_book_book_book_book_book_book_book_02ok_11]   
 
 <img src="img/Fig017.png"/><br />
 Fig. 17 Pixelate in the iTunes store  
@@ -1917,7 +2002,7 @@ hiding the military vehicle, such as the image of a Leopard 2 tank
 photographed outside of Munich, the effectiveness of such a visual
 scheme has been proven to be quite low, as evidenced by the quick
 retirement by the United States military of patterns there are entirely
-fractal or pixel based.[^book_book_book_book_book_book_book_book_book_02ok_12] {Fig. 22}   
+fractal or pixel based.[^book_book_book_book_book_book_book_book_02ok_12] {Fig. 22}   
 
 <img src="img/Fig022.png"/><br />
 Fig. 22 Leopard Tank  
@@ -1951,7 +2036,7 @@ billboard system, described thusly:
 > socialise in EC1. The newly digitised, iconic advertising architecture
 > in the centre of Silicon Roundabout has become synonymous with the EC1
 > area, providing unparalleled impact within the vibrant and creative
-> East London community.[^book_book_book_book_book_book_book_book_book_02ok_13] 
+> East London community.[^book_book_book_book_book_book_book_book_02ok_13] 
 
 Part of the Old Street EC1’s design was the display of Google and
 YouTube searches in the UK with predictably unruly and offensive
@@ -1982,8 +2067,8 @@ decisively act digitally. It’s at the boundaries of the unintended
 consequences that the New Aesthetic has emerged, where digital autonomy
 supersedes human intention and even social structures. Whether it’s an
 expired QR code on a bottle of Heinz ketchup going terribly wrong,
-resulting in a link to a pornography website,[^book_book_book_book_book_book_book_book_book_02ok_14] the use of selfies
-for live reporting[^book_book_book_book_book_book_book_book_book_02ok_15] or advertising for Facebook in Yemen,[^book_book_book_book_book_book_book_book_book_02ok_16] the
+resulting in a link to a pornography website,[^book_book_book_book_book_book_book_book_02ok_14] the use of selfies
+for live reporting[^book_book_book_book_book_book_book_book_02ok_15] or advertising for Facebook in Yemen,[^book_book_book_book_book_book_book_book_02ok_16] the
 presence of New Aesthetic digital objects has become so widespread that
 it’s no longer recognized but simply accepted, an indication that we’ve
 stopped thinking of the world as digitized and started thinking of the
@@ -2021,11 +2106,11 @@ chapter, though the status of some of this work as art is
 unquestionable.
 
 One of the most interesting manifestations of the New Aesthetic has been
-the work produced by the CAVI group based in Aarhus University.[^book_book_book_book_book_book_book_book_book_02ok_17]
+the work produced by the CAVI group based in Aarhus University.[^book_book_book_book_book_book_book_book_02ok_17]
 With recent contributions from members focused on digital aesthetics, a
 number of projects by CAVI have explored in great detail the interplay
 between digitally produced information and human interactivity. In 2006,
-the group installed the Dynamically Transparent Window[^book_book_book_book_book_book_book_book_book_02ok_18] {Fig. 24} in
+the group installed the Dynamically Transparent Window[^book_book_book_book_book_book_book_book_02ok_18] {Fig. 24} in
 the Salling department store in Aarhus; using data generated by tracking
 the people walking by, exploiting the computational materiality of our
 everyday activities, the large, glass storefront shifts from opaque to
@@ -2050,7 +2135,7 @@ undermines the display’s manifest purpose to hunt down future customers
 through the semblance of interactivity.
 
 In 2009, in collaboration with Digital Urban Living at Aarhus
-University, CAVI installed *Climate on the Wall*,[^book_book_book_book_book_book_book_book_book_02ok_19] another instance
+University, CAVI installed *Climate on the Wall*,[^book_book_book_book_book_book_book_book_02ok_19] another instance
 of a seemingly interactive display. {Fig. 25}  
 
 <img src="img/Fig025.png"/><br />
@@ -2119,7 +2204,7 @@ taken note of a dissatisfaction with the pervasive digitization of our
 world. Apparently, we’ve reached a stage where we want everyone to know
 where we are but no one actually knows where we are.
 
-The creation of the typeface ZXX[^book_book_book_book_book_book_book_book_book_02ok_20] also presents a really interesting
+The creation of the typeface ZXX[^book_book_book_book_book_book_book_book_02ok_20] also presents a really interesting
 instance of a New Aesthetic object in a manner similar to Cloak. {Fig.
 27}   
 
@@ -2128,7 +2213,7 @@ Fig. 27 Sang Mun <em>ZXX</em> Typeface (2013)
 
 Created specifically in response to the revelations of the American
 government’s spying program targeting American citizens, ZXX is a
-typeface that is unreadable by text scanning software.[^book_book_book_book_book_book_book_book_book_02ok_21] A first
+typeface that is unreadable by text scanning software.[^book_book_book_book_book_book_book_book_02ok_21] A first
 response to this might quickly conclude that ZXX is an absurd project –
 how much disruption can occur as a result of text scanning software that
 reads hard copies, when so much of the world’s information is digital
@@ -2146,8 +2231,8 @@ Aesthetic art, but it’s indicative of something much more. In his
 statement about the typeface on the website of the Walker Art Center,
 where Mun was an artist in residence, he quotes both Slavoj Žižek and
 Julian Assange. Žižek wrote: ‘We feel free because we lack the language
-to articulate our unfreedom.’[^book_book_book_book_book_book_book_book_book_02ok_22] Assange stated: ‘What does censorship
-reveal? It reveals fear.’[^book_book_book_book_book_book_book_book_book_02ok_23] What’s curious about these statements is
+to articulate our unfreedom.’[^book_book_book_book_book_book_book_book_02ok_22] Assange stated: ‘What does censorship
+reveal? It reveals fear.’[^book_book_book_book_book_book_book_book_02ok_23] What’s curious about these statements is
 how contradictory they are. Žižek’s indicates his position that a state
 of ignorance and muteness creates the illusion of freedom, while
 Assange’s implies that the very act of censorship creates the conditions
@@ -2180,7 +2265,7 @@ to intrude, Mun writes:
 > “homeland security” is only a small step into a totalitarian society.
 > This non-physical-yet-ideological violence is what allows us to lapse
 > into lethargic silence. But really, we shouldn’t be afraid to question
-> the authorities’ continual intrusions.[^book_book_book_book_book_book_book_book_book_02ok_24]
+> the authorities’ continual intrusions.[^book_book_book_book_book_book_book_book_02ok_24]
 
 This is a curious statement. Where’s the violence? In cyberspace,
 whatever that means today. How is our personal information stored in
@@ -2221,7 +2306,7 @@ organizing and sharing all this information with interested parties,
 from advertisers to common users. From the very beginning of the New
 Aesthetic, Google Maps aesthetics and its glitches were considered as
 key examples of the ‘new ways of seeing the world’ and ‘machine ways of
-seeing’.[^book_book_book_book_book_book_book_book_book_02ok_25] Google Maps (2005), and particularly Google Street View
+seeing’.[^book_book_book_book_book_book_book_book_02ok_25] Google Maps (2005), and particularly Google Street View
 (2007), which provides 360° panoramic street-level views of various
 locations, introduced a new worldwide cultural paradigm, a new
 aesthetics which encapsulates the way we can experience the world beyond
@@ -2245,7 +2330,7 @@ computational technologies by focusing on examples that preprogrammed,
 specific use cases cannot ‘process’ while at the same time redirecting
 our attention so that we fail to recognize those limitations. This seems
 especially troublesome with Google’s efforts to digitize as many works
-of art as possible. The Google Cultural Institute[^book_book_book_book_book_book_book_book_book_02ok_26] states that its
+of art as possible. The Google Cultural Institute[^book_book_book_book_book_book_book_book_02ok_26] states that its
 mission is to facilitate the discovery of artworks and collections from
 around the world by as broad an audience as possible. Our first thought
 would be to embrace this effort; it’s long been a truism that seeing art
@@ -2264,18 +2349,21 @@ subscribe to the idea that the value of artworks is necessarily lessened
 by their reproduction. Rather, what troubles us is the opportunity for
 error that inevitably creeps into such a large-scale effort as Google’s,
 highlighted and embodied in the images curated by Mario Santamaria in
-his Tumblr ‘The Camera in the Mirror’. {Fig. 28}   <img src="img/Fig028.png"/><br />
+his Tumblr ‘The Camera in the Mirror’. {Fig. 28}   
+
+<img src="img/Fig028.png"/><br />
 Fig. 28 Mario Santamaría, <em>Google Art Bots</em> (2014)  
+
 Jené Gutierrez writes
 about these images: ‘In some of the images, the cameras don
 silvery-white blankets – this effect, combined with our culture’s
 immersion in selfies, renders these cameras almost familiar and
 comfortable, but startling in its reflection of itself and selfie
 culture. These museums and galleries are, for the most part, emptied of
-people, the camera eerily alone in its self-documentation.’[^book_book_book_book_book_book_book_book_book_02ok_27] This
+people, the camera eerily alone in its self-documentation.’[^book_book_book_book_book_book_book_book_02ok_27] This
 statement is both strange and stranger still. The very notion of a
 robotic selfie reflects our tendency as human beings to anthropomorphize
-activity.[^book_book_book_book_book_book_book_book_book_02ok_28] Further, the idea that the cameras ‘don’ blankets and
+activity.[^book_book_book_book_book_book_book_book_02ok_28] Further, the idea that the cameras ‘don’ blankets and
 actively document themselves is obviously erroneous, in the simple fact
 that the robots never clothed themselves and are unintentionally
 documenting their presence and activities. But is Google Art a
@@ -2295,17 +2383,20 @@ demonstrate a capability of transforming our epistemic position into a
 position of weakness. This is evident in two recent projects that
 partake of New Aesthetic ideas while still resisting its transformations
 of our world: *Report a Problem* (2012) {Fig. 29} by Emilio
-Vavarella[^book_book_book_book_book_book_book_book_book_02ok_29] and the efforts of Eduardo Graells-Garrido at the
+Vavarella[^book_book_book_book_book_book_book_book_02ok_29] and the efforts of Eduardo Graells-Garrido at the
 Universitat Pompeu Fabra in Barcelona together with Mounia Lalmas and
 Daniel Quercia, ironically both at Yahoo Labs, to burst the so-called
-‘filter bubble’.[^book_book_book_book_book_book_book_book_book_02ok_30]   
+‘filter bubble’.[^book_book_book_book_book_book_book_book_02ok_30] 
+
 <img src="img/Fig029.png"/><br />
 Fig. 29 Emilio Vavarella, <em>Report a Problem</em> (2014)  
 *Report a Problem* {Fig. 30} is part of
 Vavarella’s ‘Google Trilogy’ as an ongoing effort to explore ‘the
-relationship between humans, power, and technological errors’.   
+relationship between humans, power, and technological errors’.
+
 <img src="img/Fig030.png"/><br />
 Fig. 30 Emilio Vavarella, <em>Report a Problem</em> (2014)  
+
 Presented
 as an art project in a number of galleries, it catalogs a series of
 images in which Google Maps has failed to accurately represent a
@@ -2357,10 +2448,11 @@ abstract to their paper presenting the project they write:
 > design reverts that effect. We also observed significant individual
 > differences linked to evaluation of recommendations. Our results
 > suggest that organic visualization may revert the negative effects of
-> providing potentially sensitive content.[^book_book_book_book_book_book_book_book_book_02ok_31]
+> providing potentially sensitive content.[^book_book_book_book_book_book_book_book_02ok_31]
 
 <img src="img/Fig031.png"/><br />
 Fig. 31 Eduardo Graells-Garrido, Mounia Lalmas and Daniel Quercia, <em>Data Portraits: Connecting People of Opposing Views</em>, ‘Bursting the Filter Bubble’ (2013)  
+
 This is a remarkably interesting New Aesthetic object not so much for
 the intended results but in that the visualization of contrasting
 opinions and the means of facilitating the introduction of opposing
@@ -2373,7 +2465,7 @@ users are receptive to new ideas. In a comment about the project in the
 *MIT Technology Review*, it’s noted that ‘There is good evidence that
 users can sometimes become so resistant to change than any form of
 redesign dramatically reduces the popularity of the service. Giving them
-a greater range of content could change that.’[^book_book_book_book_book_book_book_book_book_02ok_32] Or, as it is put it
+a greater range of content could change that.’[^book_book_book_book_book_book_book_book_02ok_32] Or, as it is put it
 another way, technology bursts the ‘filter bubble’. But let’s be careful
 here. Technology may be bursting the ‘filter bubble’ by easing the
 resistance that users have to different ideological perspectives, but
@@ -2386,15 +2478,17 @@ like Twitter. For example, recently a group on Facebook supporting the
 continued use of the Confederate flag in the United States was
 ‘hijacked’ by Virgil Texas, a self-described ‘internet user’ whose
 efforts at subversively undermining ethically questionable activity
-through humor are becoming well known.[^book_book_book_book_book_book_book_book_book_02ok_33] {Fig. 32}   
+through humor are becoming well known.[^book_book_book_book_book_book_book_book_02ok_33] {Fig. 32} 
+
 <img src="img/Fig032.png"/> Fig. 32 Virgil Texas, <em>LGBT Southerns for Michelle Obama</em> (2015)  
+
 For a brief period
 of time, Texas acquired full administrative control of the group,
 removed other users’ administrative privileges, and transformed the
 group into ‘LGBT Southerners for Michelle Obama’. In an interview, Texas
 noted ‘Everyone in Confederate Facebook seems to accept friend requests
 from strangers, which I guess can be chalked up to Southern
-hospitality.’[^book_book_book_book_book_book_book_book_book_02ok_34] From our perspective, as much as we applaud Texas’
+hospitality.’[^book_book_book_book_book_book_book_book_02ok_34] From our perspective, as much as we applaud Texas’
 efforts and thought they were a hysterically funny sabotage of a
 self-righteous group’s buffoonery, we disagree with this last remark;
 the willing acceptance of Texas’ requests for administrative control of
@@ -2413,8 +2507,8 @@ programming.
 Other instances of this become increasingly visible the more you know
 where to look. Again and again, the pervasiveness of the New Aesthetic
 has surprised us, especially when it affects political theory in a
-cross-pollinating fashion. Google’s recent Constitute project,[^book_book_book_book_book_book_book_book_book_02ok_35] in
-partnership with the Comparative Constitutions Project,[^book_book_book_book_book_book_book_book_book_02ok_36] has the
+cross-pollinating fashion. Google’s recent Constitute project,[^book_book_book_book_book_book_book_book_02ok_35] in
+partnership with the Comparative Constitutions Project,[^book_book_book_book_book_book_book_book_02ok_36] has the
 best of intentions – giving access to all of the constitutions of the
 world to everyone, so that people rewriting constitutions can reference
 others, search for key words and ideas, and pin specific areas of
@@ -2426,28 +2520,33 @@ often amidst social upheavals, will be reduced to Google searches rather
 than the product of any genuinely original effort (and its description
 as machine consumable, while understood in its normal context of
 database use and cross-referencing, gives us chills). This disconnect in
-New Aesthetic objects often prompts some opposition.[^book_book_book_book_book_book_book_book_book_02ok_37] Anna Jobin
+New Aesthetic objects often prompts some opposition.[^book_book_book_book_book_book_book_book_02ok_37] Anna Jobin
 importantly notes the inherent sexism of Google searches, with a
 particularly interesting contribution in the coining of the phrase
 ‘linguistic prosthesis,’ along with her co-author Frederic Kaplan, that
 identifies the fact that ‘the mediation by autocompletion algorithms
 acts in a particularly powerful way because it doesn’t correct us
-afterwards’[^book_book_book_book_book_book_book_book_book_02ok_38] and asks the absolutely perfect question of ‘Who is in
+afterwards’[^book_book_book_book_book_book_book_book_02ok_38] and asks the absolutely perfect question of ‘Who is in
 charge when algorithms are in charge?’ With the images produced for UN
-Women by Memac Ogilvy and Mather Dubai[^book_book_book_book_book_book_book_book_book_02ok_39] {Fig. 33} it’s clear that
+Women by Memac Ogilvy and Mather Dubai[^book_book_book_book_book_book_book_book_02ok_39] {Fig. 33} it’s clear that
 search results themselves are offensive. {Fig. 34}  
+
 <img src="img/Fig033.png"/><br />
 Fig. 33 Memac Ogilvy and Mather Dubai for UN Women (2015)  
+
 <img src="img/Fig034.png"/><br />
 Fig. 34 Memac Ogilvy and Mather Dubai for UN Women (2015)  
- It’s not just that
+
+It’s not just that
 the text shows search results that indicate misogynistic viewpoints,
 condemnable at a fundamental level, but just as important from the
 perspective of a critical engagement with the New Aesthetic it’s the
 fact that all human beings themselves are reducible to the products of
 search engines and autocompletion. {Fig. 35}   
+
 <img src="img/Fig035.png"/><br />
 Fig. 35 Memac Ogilvy and Mather Dubai for UN Women (2015)  
+
 Yet, even if those search
 results don’t appear in Google searches in the United States, the
 results themselves are still there; given the supposed democratic nature
@@ -2462,8 +2561,10 @@ the world and our experiences of it in a way that’s beyond our control.
 Representing this perfectly is an image from Bridle’s blog that shows
 the average appearance of every one of the 535 members of the United
 States’ Congress. {Fig. 36}  
+
 <img src="img/Fig036.png"/><br />
 Fig. 36 Average member of the United States Congress   
+
 A first reaction would be to see this as a
 humorous representation of the lack of genuine differences amongst
 American legislators, an unfocused image that is white, dressed in a
@@ -2528,7 +2629,7 @@ navigation app on our smartphone is a perfect example of this in the
 often documented instances of users relying on data rather than their
 own awareness of their surroundings; when someone drives onto a runway
 in the path of oncoming aircraft because Google Maps or Apple Maps told
-them to,[^book_book_book_book_book_book_book_book_book_02ok_40] they’ve done so less out of stupidity and more because
+them to,[^book_book_book_book_book_book_book_book_02ok_40] they’ve done so less out of stupidity and more because
 they believed what they were being told and because they assumed the
 information the app was providing was correct. In fact, the information
 as far as the app was aware of (and we do attribute a certain digital
@@ -2547,7 +2648,7 @@ Most of these software-based phenomena are just a ‘pull of a plug’ away
 from oblivion, never to be archived, never to be available again,
 absolutely temporary. From an aesthetics perspective, there has been a
 spectrum of responses. Hito Steyerl’s article ‘In Defense of the Poor
-Image’[^book_book_book_book_book_book_book_book_book_02ok_41] is an acceptance at an aesthetic level of a range of image
+Image’[^book_book_book_book_book_book_book_book_02ok_41] is an acceptance at an aesthetic level of a range of image
 quality, particularly poor quality images. Steyerl’s defense centers
 around the poor quality of images from pirated sources of cinema and
 video work, an inevitable consequence in the conversion process when
@@ -2562,7 +2663,7 @@ identifies as an inherent quality of imperfect cinema:
 > labor within class society. It merges art with life and science,
 > blurring the distinction between consumer and producer, audience and
 > author. It insists upon its own imperfection, is popular but not
-> consumerist, committed without becoming bureaucratic.[^book_book_book_book_book_book_book_book_book_02ok_42]
+> consumerist, committed without becoming bureaucratic.[^book_book_book_book_book_book_book_book_02ok_42]
 
 We find ourselves very much in alignment with Steyerl’s position; it has
 been one of the crucial catalysts of our own thought. At the same time,
@@ -2577,7 +2678,7 @@ article. Steyerl writes:
 > image, a preview, a thumbnail, an errant idea, an itinerant image
 > distributed for free, squeezed through slow digital connections,
 > compressed, reproduced, ripped, remixed, as well as copied and pasted
-> into other channels of distribution.[^book_book_book_book_book_book_book_book_book_02ok_43]
+> into other channels of distribution.[^book_book_book_book_book_book_book_book_02ok_43]
 
 The poor image, the glitchy and distorted image that is often the
 product of digital processing, is indeed an image in motion, though
@@ -2604,7 +2705,7 @@ A good example of New Aesthetic objects as evidence of a metaphysical
 shift is, again, Stephen von Worley’s efforts at an artistic
 visualization of data that have produced images of population data that
 have a visual flair to them. But in his posting ‘My God, It’s Full Of
-Blocks! Population Density Meets The Tile Space’[^book_book_book_book_book_book_book_book_book_02ok_44] we see something
+Blocks! Population Density Meets The Tile Space’[^book_book_book_book_book_book_book_book_02ok_44] we see something
 different. What he describes is a constant shifting of the means of
 presenting information which itself is prone to shifts, but the title of
 the posting is telling as an exclamatory passive response to the
@@ -2614,9 +2715,11 @@ underlying subtext in this shocked response that is equally a response
 to the potential future changes in the data. Another example is Yarin
 Gal’s efforts at a machine-learning based implementation of Photoshop’s
 ‘PatchMatch’ function to ‘extrapolate the scene of a painting to see
-what the full scenery might have looked like’.[^book_book_book_book_book_book_book_book_book_02ok_45] {Fig. 37}   
+what the full scenery might have looked like’.[^book_book_book_book_book_book_book_book_02ok_45] {Fig. 37}   
+
 <img src="img/Fig037.png"/><br />
 Fig. 37 Gal, Yarin, <em>Patchmatch</em>, ‘Starry Night’ (2014)  
+
 What Gal
 displays is a series of images by artists such as van Gogh, Monet,
 Picasso and Hokusai that have been digitally extended to ‘complete’ the
@@ -2636,20 +2739,24 @@ as the 2015 *As Long As Possible* project by Juha van Ingen in
 collaboration with Janne Särkelä, which consists of a GIF viewable only
 over a thousand years showing 48,140,288 frames changing every ten
 minutes, is an artistic work that is clearly unfeasible. {Fig. 38}   
+
 <img src="img/Fig038.png"/><br />
 Fig. 38 Juha van Ingen and Janne Särkelä, <em>As Long As Possible</em> (2015)  
+
 The
 New Aesthetic objects often appear to be permanent, but clearly are not.
 In the context of these manifestations, we wonder if it’s possible to
 resist the digitizing homogenization and increased acceptance of digital
 autonomy, to resist this shift in our metaphysics. The New Aesthetic
 objects that give us a sense of success are few, but products like Mint
-Digital Products *WhiteAlbum*,[^book_book_book_book_book_book_book_book_book_02ok_46] a recently developed app for iOS, is
+Digital Products *WhiteAlbum*,[^book_book_book_book_book_book_book_book_02ok_46] a recently developed app for iOS, is
 in many respects the perfect instance that alters our relationship with
 photographic objects and that, perhaps, is also a product of efforts
 resisting the New Aesthetic. {Fig. 39}   
+
 <img src="img/Fig039.png"/><br />
 Fig. 39 Mint Digital Projects, <em>Whitealbum</em> (2015)  
+
 Released in early 2015, and since
 discontinued, it was a photographic application for the iPhone that
 confoundingly did not provide visual feedback nor a digital file to the
@@ -2657,7 +2764,7 @@ photographer, making it impossible to correct, edit, save or share the
 results. *WhiteAlbum*, rather ponderously, mimicked the disposable
 camera by saving the photographs to a server until 24 shots have been
 produced, at which point the user was charged \$20 for those shots to be
-printed on high quality paper and to receive them by mail.[^book_book_book_book_book_book_book_book_book_02ok_47] It’s in
+printed on high quality paper and to receive them by mail.[^book_book_book_book_book_book_book_book_02ok_47] It’s in
 the return to the analog, in a return to the actual world, that the
 paradigmatic and metaphysical shift identifiable as the New Aesthetic
 loses its dominance. That being said, *WhiteAlbum* was also a little
@@ -2762,7 +2869,7 @@ presented to us – vertically, rather than horizontally – which shifts
 our critical perspective, even the basic level at which we understand
 visually presented information, from one that is naturally familiar to
 one that is artificially familiar. There has been some resistance to
-this and some lively debates; ‘Vertical Video Syndrome’[^book_book_book_book_book_book_book_book_book_02ok_48] is neither
+this and some lively debates; ‘Vertical Video Syndrome’[^book_book_book_book_book_book_book_book_02ok_48] is neither
 dangerous nor offensive per se, but it does indicate an unwillingness on
 the part of the content producer to account for our horizontal panoramic
 video, and as an example of the New Aesthetic it indicates an
@@ -2770,11 +2877,11 @@ unconscious concession to the software paradigm that is itself governed
 by limitations of the hardware. It’s more than just a sign of
 amateurism, it’s increasingly becoming the norm as authors like Farhad
 Manjoo argue: ‘They worry they are on the wrong side of history. The
-future of video, it turns out, just may be vertical.’[^book_book_book_book_book_book_book_book_book_02ok_49] Quoted in
+future of video, it turns out, just may be vertical.’[^book_book_book_book_book_book_book_book_02ok_49] Quoted in
 Manjoo’s article, Jon Steinberg, the chief executive of *The Daily
 Mail*’s North American operations, states: ‘We find the engagement much
 higher. Users are more satisfied, and there’s a higher completion rate
-on them.’[^book_book_book_book_book_book_book_book_book_02ok_50] B<span id="Chapter_2_Manifestations_of_Ne"
+on them.’[^book_book_book_book_book_book_book_book_02ok_50] B<span id="Chapter_2_Manifestations_of_Ne"
 class="anchor"></span>ut does Steinberg genuinely believe that there is
 actual engagement, which is highly unlikely, or is this merely
 indicative of an increased length of time watching the video and the web
@@ -2794,105 +2901,105 @@ defines contemporary society and culture then it’s increasingly evident
 that New Aesthetic experiences are becoming a dominant and driving force
 for that change.
 
-[^book_book_book_book_book_book_book_book_book_02ok_1]: Simon Parkin, ‘Desert Bus: The Very Worst Video Game Ever Created’, *The New Yorker*, 9 July 2013, [http://www.newyorker.com/tech/elements/desert-bus-the-very-worst-video-game-ever-created](http://www.newyorker.com/tech/elements/desert-bus-the-very-worst-video-game-ever-created).
+[^book_book_book_book_book_book_book_book_02ok_1]: Simon Parkin, ‘Desert Bus: The Very Worst Video Game Ever Created’, *The New Yorker*, 9 July 2013, [http://www.newyorker.com/tech/elements/desert-bus-the-very-worst-video-game-ever-created](http://www.newyorker.com/tech/elements/desert-bus-the-very-worst-video-game-ever-created).
 
-[^book_book_book_book_book_book_book_book_book_02ok_2]: Robert Boyer, James C. Browne and Jayadev Misra, ‘In Memoriam Woodrow W. Bledsoe’, Faculty Council, The University of Texas, Austin, 27 May 2014, <https://www.utexas.edu/faculty/council/1998-1999/memorials/Bledsoe/bledsoe.html>, adapted from ‘Woody Bledsoe: His Life and Legacy’, authored by Michael Ballantyne, Robert S Boyer and Larry Hines, *AI Magazine*, Volume 17, Number 1, Spring 1996, pp. 7-20.
+[^book_book_book_book_book_book_book_book_02ok_2]: Robert Boyer, James C. Browne and Jayadev Misra, ‘In Memoriam Woodrow W. Bledsoe’, Faculty Council, The University of Texas, Austin, 27 May 2014, <https://www.utexas.edu/faculty/council/1998-1999/memorials/Bledsoe/bledsoe.html>, adapted from ‘Woody Bledsoe: His Life and Legacy’, authored by Michael Ballantyne, Robert S Boyer and Larry Hines, *AI Magazine*, Volume 17, Number 1, Spring 1996, pp. 7-20.
 
-[^book_book_book_book_book_book_book_book_book_02ok_3]: What colour is it?, <http://whatcolourisit.scn9a.org/>.
+[^book_book_book_book_book_book_book_book_02ok_3]: What colour is it?, <http://whatcolourisit.scn9a.org/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_4]: J.E. Murphy, <http://jemurphy.org/>.
+[^book_book_book_book_book_book_book_book_02ok_4]: J.E. Murphy, <http://jemurphy.org/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_5]: Glitchtop, <http://chrisfoley.github.io/glitchtop/>.
+[^book_book_book_book_book_book_book_book_02ok_5]: Glitchtop, <http://chrisfoley.github.io/glitchtop/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_6]: Chris Foley, <http://www.cfoley.net/>.
+[^book_book_book_book_book_book_book_book_02ok_6]: Chris Foley, <http://www.cfoley.net/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_7]: Skyler Balbus, ‘What Glitch? Technology And The New Aesthetic’, *Hook & Loop*, 20 September 2013, <http://www.hookandloopnyc.com/author/skyler/>.
+[^book_book_book_book_book_book_book_book_02ok_7]: Skyler Balbus, ‘What Glitch? Technology And The New Aesthetic’, *Hook & Loop*, 20 September 2013, <http://www.hookandloopnyc.com/author/skyler/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_8]: Sterling, ‘An Essay on the New Aesthetic’.
+[^book_book_book_book_book_book_book_book_02ok_8]: Sterling, ‘An Essay on the New Aesthetic’.
 
-[^book_book_book_book_book_book_book_book_book_02ok_9]: Polymaps, <http://polymaps.org/>.
+[^book_book_book_book_book_book_book_book_02ok_9]: Polymaps, <http://polymaps.org/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_10]: Steven von Worley, ‘My God, It’s Full Of Blocks: Population Density Meets The Tile Space’, *Data Pointed*, 3 October, 2011, <http://www.datapointed.net/2011/10/us-population-density-and-google-maps-tiles/>.
+[^book_book_book_book_book_book_book_book_02ok_10]: Steven von Worley, ‘My God, It’s Full Of Blocks: Population Density Meets The Tile Space’, *Data Pointed*, 3 October, 2011, <http://www.datapointed.net/2011/10/us-population-density-and-google-maps-tiles/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_11]: ‘Pixelate Tool’, iTunes Store, September 2015, <https://itunes.apple.com/us/app/id442157795.>
+[^book_book_book_book_book_book_book_book_02ok_11]: ‘Pixelate Tool’, iTunes Store, September 2015, <https://itunes.apple.com/us/app/id442157795.>
 
-[^book_book_book_book_book_book_book_book_book_02ok_12]: Matthew Cox, ‘Army Unveils Design Changes for New Camo Uniform’, *Military.com*, 6 August 2014, <http://www.military.com/daily-news/2014/08/06/army-unveils-design-changes-for-new-camo-uniform.html?ESRC=todayinmil.sm>.
+[^book_book_book_book_book_book_book_book_02ok_12]: Matthew Cox, ‘Army Unveils Design Changes for New Camo Uniform’, *Military.com*, 6 August 2014, <http://www.military.com/daily-news/2014/08/06/army-unveils-design-changes-for-new-camo-uniform.html?ESRC=todayinmil.sm>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_13]: JCDecaux, ‘Old Street EC1’, September 2015, <http://www.jcdecaux.co.uk/roadside/roundabouts/old-street-ec1>.
+[^book_book_book_book_book_book_book_book_02ok_13]: JCDecaux, ‘Old Street EC1’, September 2015, <http://www.jcdecaux.co.uk/roadside/roundabouts/old-street-ec1>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_14]: Kashmira Gander, ‘Heinz forced to apologise after QR code on ketchup bottle linked to hardcore porn site’, *The Independent*, 17 June 2015, <http://www.independent.co.uk/life-style/food-and-drink/news/heinz-forced-to-apologise-after-qr-code-on-ketchup-bottle-linked-to-hardcore-porn-site-10327313.html>.
+[^book_book_book_book_book_book_book_book_02ok_14]: Kashmira Gander, ‘Heinz forced to apologise after QR code on ketchup bottle linked to hardcore porn site’, *The Independent*, 17 June 2015, <http://www.independent.co.uk/life-style/food-and-drink/news/heinz-forced-to-apologise-after-qr-code-on-ketchup-bottle-linked-to-hardcore-porn-site-10327313.html>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_15]: @Matt\_Macklin7, ‘The latest in live cross technology. Pic via Instagram’, Twitter Post, 28 October 2014, 7:54PM, <https://twitter.com/Matt\_Macklin7/status/527292438574952449/photo/1>.
+[^book_book_book_book_book_book_book_book_02ok_15]: @Matt\_Macklin7, ‘The latest in live cross technology. Pic via Instagram’, Twitter Post, 28 October 2014, 7:54PM, <https://twitter.com/Matt\_Macklin7/status/527292438574952449/photo/1>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_16]: Maciej Cegłowski, ‘Ta’izz’, *Idle Words blog*, 17 May 2015, <http://idlewords.com/2015/05/ta\_izz.htm>.
+[^book_book_book_book_book_book_book_book_02ok_16]: Maciej Cegłowski, ‘Ta’izz’, *Idle Words blog*, 17 May 2015, <http://idlewords.com/2015/05/ta\_izz.htm>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_17]: CAVI, <http://cavi.au.dk>.
+[^book_book_book_book_book_book_book_book_02ok_17]: CAVI, <http://cavi.au.dk>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_18]: Kim Halskov, Morten Lervig and Peter Dalsgaard, ‘The Dynamically Transparent Window’, 14 October 2014, *CAVI*, <http://cavi.au.dk/research-areas/the-dynamically-transparent-window/>.
+[^book_book_book_book_book_book_book_book_02ok_18]: Kim Halskov, Morten Lervig and Peter Dalsgaard, ‘The Dynamically Transparent Window’, 14 October 2014, *CAVI*, <http://cavi.au.dk/research-areas/the-dynamically-transparent-window/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_19]: Kim Halskov, Morten Lervig and Peter Dalsgaard, ‘Climate on the Wall’, *CAVI*, 14 October 2014, <http://cavi.au.dk/research-areas/climate-on-the-wall/>.
+[^book_book_book_book_book_book_book_book_02ok_19]: Kim Halskov, Morten Lervig and Peter Dalsgaard, ‘Climate on the Wall’, *CAVI*, 14 October 2014, <http://cavi.au.dk/research-areas/climate-on-the-wall/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_20]: Eric Limer, ‘A Typeface Designed To Thwart Spying Computers’, *Gizmodo.com*, 22 June 2013, <http://gizmodo.com/a-typeface-designed-to-thwart-sneaky-spying-computers-543341176>.
+[^book_book_book_book_book_book_book_book_02ok_20]: Eric Limer, ‘A Typeface Designed To Thwart Spying Computers’, *Gizmodo.com*, 22 June 2013, <http://gizmodo.com/a-typeface-designed-to-thwart-sneaky-spying-computers-543341176>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_21]: Sang Mun, ‘Making Democracy Legible: A Defiant Typeface’, *Walker Art Center blog*, 20 June 2013, <http://blogs.walkerart.org/design/2013/06/20/sang-mun-defiant-typeface-nsa-privacy/>.
+[^book_book_book_book_book_book_book_book_02ok_21]: Sang Mun, ‘Making Democracy Legible: A Defiant Typeface’, *Walker Art Center blog*, 20 June 2013, <http://blogs.walkerart.org/design/2013/06/20/sang-mun-defiant-typeface-nsa-privacy/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_22]: Slavoj Žižek, *Welcome to the Desert of the Real!: Five Essays on September 11 and Related Dates*, New York: Verso, 2002, p. 2.
+[^book_book_book_book_book_book_book_book_02ok_22]: Slavoj Žižek, *Welcome to the Desert of the Real!: Five Essays on September 11 and Related Dates*, New York: Verso, 2002, p. 2.
 
-[^book_book_book_book_book_book_book_book_book_02ok_23]: Make a DifferenSe, ‘What is Wikileaks? by founder Julian Assange’, 11 December 2010, YouTube video, Duration: 14:58, <https://youtu.be/DFE7d91vQf4>.
+[^book_book_book_book_book_book_book_book_02ok_23]: Make a DifferenSe, ‘What is Wikileaks? by founder Julian Assange’, 11 December 2010, YouTube video, Duration: 14:58, <https://youtu.be/DFE7d91vQf4>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_24]: Mun, ‘Making Democracy Legible: A Defiant Typeface’.
+[^book_book_book_book_book_book_book_book_02ok_24]: Mun, ‘Making Democracy Legible: A Defiant Typeface’.
 
-[^book_book_book_book_book_book_book_book_book_02ok_25]: James Bridle, ‘Waving at the Machines’.
+[^book_book_book_book_book_book_book_book_02ok_25]: James Bridle, ‘Waving at the Machines’.
 
-[^book_book_book_book_book_book_book_book_book_02ok_26]: Google Cultural Institute, <https://www.google.com/culturalinstitute/about/>.
+[^book_book_book_book_book_book_book_book_02ok_26]: Google Cultural Institute, <https://www.google.com/culturalinstitute/about/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_27]: Jené Gutierrez, ‘Google’s Robot Cameras Caught Taking Unintentional Selfies In Museums And Galleries’, *Beautiful/Decay*, 7 July 2014, <http://beautifuldecay.com/2014/07/07/googles-robot-cameras-caught-taking-unintentional-selfies-museums-galleries/>.
+[^book_book_book_book_book_book_book_book_02ok_27]: Jené Gutierrez, ‘Google’s Robot Cameras Caught Taking Unintentional Selfies In Museums And Galleries’, *Beautiful/Decay*, 7 July 2014, <http://beautifuldecay.com/2014/07/07/googles-robot-cameras-caught-taking-unintentional-selfies-museums-galleries/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_28]: Michael Silverberg, ‘Google’s Street View cameras are touring museums and taking weird selfies by accident’, *Quartz*, 3 July 2014, <http://qz.com/229852/googles-street-view-cameras-are-touring-museums-and-taking-weird-selfies-by-accident/>.
+[^book_book_book_book_book_book_book_book_02ok_28]: Michael Silverberg, ‘Google’s Street View cameras are touring museums and taking weird selfies by accident’, *Quartz*, 3 July 2014, <http://qz.com/229852/googles-street-view-cameras-are-touring-museums-and-taking-weird-selfies-by-accident/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_29]: Emilio Vavarella, ‘Report a Problem’, <http://emiliovavarella.com/archive/google-trilogy/report-a-problem/>.
+[^book_book_book_book_book_book_book_book_02ok_29]: Emilio Vavarella, ‘Report a Problem’, <http://emiliovavarella.com/archive/google-trilogy/report-a-problem/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_30]: KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the "Filter Bubble" that Protects Us from Opposing Views’, *MIT Technology Review*, 29 November 2013, <http://www.technologyreview.com/view/522111/how-to-burst-the-filter-bubble-that-protects-us-from-opposing-views/>.
+[^book_book_book_book_book_book_book_book_02ok_30]: KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the "Filter Bubble" that Protects Us from Opposing Views’, *MIT Technology Review*, 29 November 2013, <http://www.technologyreview.com/view/522111/how-to-burst-the-filter-bubble-that-protects-us-from-opposing-views/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_31]: Eduardo Graells-Garrido, Mounia Lalmas, and Daniele Quercia, ‘Data Portraits: Connecting People of Opposing Views’, Human-Computer Interaction (cs.HC); Social and Information Networks, Cornell University, 19 November 2013, <http://arxiv.org/abs/1311.4658>.
+[^book_book_book_book_book_book_book_book_02ok_31]: Eduardo Graells-Garrido, Mounia Lalmas, and Daniele Quercia, ‘Data Portraits: Connecting People of Opposing Views’, Human-Computer Interaction (cs.HC); Social and Information Networks, Cornell University, 19 November 2013, <http://arxiv.org/abs/1311.4658>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_32]: KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the "Filter Bubble" that Protects Us from Opposing Views’.
+[^book_book_book_book_book_book_book_book_02ok_32]: KentuckyFC, Emerging Technology from the arXiv, ‘How to Burst the "Filter Bubble" that Protects Us from Opposing Views’.
 
-[^book_book_book_book_book_book_book_book_book_02ok_33]: Ben Mathis-Lilley, ‘Hacked Confederate Facebook Group Becomes Tribute to LGBT Rights, Obama, Judaism’, *Slate.com*, 29 July 2015, <http://www.slate.com/blogs/the\_slatest/2015/07/29/confederate\_flag\_pride\_facebook\_group\_hijacked\_michelle\_obama\_and\_multi.html>.
+[^book_book_book_book_book_book_book_book_02ok_33]: Ben Mathis-Lilley, ‘Hacked Confederate Facebook Group Becomes Tribute to LGBT Rights, Obama, Judaism’, *Slate.com*, 29 July 2015, <http://www.slate.com/blogs/the\_slatest/2015/07/29/confederate\_flag\_pride\_facebook\_group\_hijacked\_michelle\_obama\_and\_multi.html>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_34]: Virgil Texas, ‘How I Infiltrated a White Pride Facebook Group and Turned It into “LGBT Southerners for Michelle Obama”’, *Vice.com*, 3 August 2015, <http://www.vice.com/read/virgil-texas-white-power-facebook-group-troll>.
+[^book_book_book_book_book_book_book_book_02ok_34]: Virgil Texas, ‘How I Infiltrated a White Pride Facebook Group and Turned It into “LGBT Southerners for Michelle Obama”’, *Vice.com*, 3 August 2015, <http://www.vice.com/read/virgil-texas-white-power-facebook-group-troll>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_35]: James Bridle, ‘Google launches “Constitute,” a new tool for designing governments | The Verge’, *The New Aesthetic Tumblr blog*, 25 September 2013, <http://new-aesthetic.tumblr.com/post/62244541600/google-launches-constitute-a-new-tool-for>.
+[^book_book_book_book_book_book_book_book_02ok_35]: James Bridle, ‘Google launches “Constitute,” a new tool for designing governments | The Verge’, *The New Aesthetic Tumblr blog*, 25 September 2013, <http://new-aesthetic.tumblr.com/post/62244541600/google-launches-constitute-a-new-tool-for>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_36]: Comparative Constitutions Project, <http://comparativeconstitutionsproject.org/>.
+[^book_book_book_book_book_book_book_book_02ok_36]: Comparative Constitutions Project, <http://comparativeconstitutionsproject.org/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_37]: Randall Patrick Munroe, ‘Questions’, *xkcd.com*, 26 August 2013, <http://xkcd.com/1256/>.
+[^book_book_book_book_book_book_book_book_02ok_37]: Randall Patrick Munroe, ‘Questions’, *xkcd.com*, 26 August 2013, <http://xkcd.com/1256/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_38]: Anna Jobin, ‘Google’s autocompletion: algorithms, stereotypes and accountability’, *Sociostrategy blog*, 22 October 2013, <http://sociostrategy.com/2013/googles-autocompletion-algorithms-stereotypes-accountability/>.
+[^book_book_book_book_book_book_book_book_02ok_38]: Anna Jobin, ‘Google’s autocompletion: algorithms, stereotypes and accountability’, *Sociostrategy blog*, 22 October 2013, <http://sociostrategy.com/2013/googles-autocompletion-algorithms-stereotypes-accountability/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_39]: *UN Women*, ‘UN Women ad series reveals widespread sexism ‘, 21 October 2013, <http://www.unwomen.org/en/news/stories/2013/10/women-should-ads>.
+[^book_book_book_book_book_book_book_book_02ok_39]: *UN Women*, ‘UN Women ad series reveals widespread sexism ‘, 21 October 2013, <http://www.unwomen.org/en/news/stories/2013/10/women-should-ads>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_40]: Leo Kelion, ‘Apple Maps flaw results in drivers crossing airport runway’, *BBC News*, 25 September 2013, <http://www.bbc.com/news/technology-24246646>.
+[^book_book_book_book_book_book_book_book_02ok_40]: Leo Kelion, ‘Apple Maps flaw results in drivers crossing airport runway’, *BBC News*, 25 September 2013, <http://www.bbc.com/news/technology-24246646>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_41]: Hito Steyerl, ‘In Defense of the Poor Image’, *e-flux*, November 2009, <http://www.e-flux.com/journal/in-defense-of-the-poor-image/>.
+[^book_book_book_book_book_book_book_book_02ok_41]: Hito Steyerl, ‘In Defense of the Poor Image’, *e-flux*, November 2009, <http://www.e-flux.com/journal/in-defense-of-the-poor-image/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_42]: Steyerl, ‘In Defense of the Poor Image’.
+[^book_book_book_book_book_book_book_book_02ok_42]: Steyerl, ‘In Defense of the Poor Image’.
 
-[^book_book_book_book_book_book_book_book_book_02ok_43]: Steyerl, ‘In Defense of the Poor Image’.
+[^book_book_book_book_book_book_book_book_02ok_43]: Steyerl, ‘In Defense of the Poor Image’.
 
-[^book_book_book_book_book_book_book_book_book_02ok_44]: Stephen von Worley, ‘My God, It’s Full Of Blocks! Population Density Meets The Tile Space’.
+[^book_book_book_book_book_book_book_book_02ok_44]: Stephen von Worley, ‘My God, It’s Full Of Blocks! Population Density Meets The Tile Space’.
 
-[^book_book_book_book_book_book_book_book_book_02ok_45]: Yarin Gal, *Extrapolated Art*, <http://extrapolated-art.com/>.
+[^book_book_book_book_book_book_book_book_02ok_45]: Yarin Gal, *Extrapolated Art*, <http://extrapolated-art.com/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_46]: WhiteAlbum, <https://whitealbumapp.com/>.
+[^book_book_book_book_book_book_book_book_02ok_46]: WhiteAlbum, <https://whitealbumapp.com/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_47]: Kyle Vanhemert, ‘App Turns Your iPhone Into a Crappy Disposable Camera (And That’s a Good Thing)’, *Wired.com*, 1 January 2015, <http://www.wired.com/2015/01/app-turns-iphone-crappy-disposable-camera-thats-good-thing/>.
+[^book_book_book_book_book_book_book_book_02ok_47]: Kyle Vanhemert, ‘App Turns Your iPhone Into a Crappy Disposable Camera (And That’s a Good Thing)’, *Wired.com*, 1 January 2015, <http://www.wired.com/2015/01/app-turns-iphone-crappy-disposable-camera-thats-good-thing/>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_48]: Glove and Boots, ‘Vertical Video Syndrome - A PSA’, YouTube video, 2:58, 5 June 2012, <https://youtu.be/Bt9zSfinwFA>.
+[^book_book_book_book_book_book_book_book_02ok_48]: Glove and Boots, ‘Vertical Video Syndrome - A PSA’, YouTube video, 2:58, 5 June 2012, <https://youtu.be/Bt9zSfinwFA>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_49]: Farhad Manjoo, ‘Vertical Video on the Small Screen? Not a Crime’, *The New York Times*, 12 August 2015, <http://www.nytimes.com/2015/08/13/technology/personaltech/vertical-video-on-the-small-screen-not-a-crime.html?\_r=0>.
+[^book_book_book_book_book_book_book_book_02ok_49]: Farhad Manjoo, ‘Vertical Video on the Small Screen? Not a Crime’, *The New York Times*, 12 August 2015, <http://www.nytimes.com/2015/08/13/technology/personaltech/vertical-video-on-the-small-screen-not-a-crime.html?\_r=0>.
 
-[^book_book_book_book_book_book_book_book_book_02ok_50]: Ibid.
+[^book_book_book_book_book_book_book_book_02ok_50]: Ibid.
   
 # <span id="_Toc321914097" class="anchor"><span id="_Toc321914203" class="anchor"></span></span>Chapter 3: Glitch Ontology and the New Aesthetic 
 
@@ -2924,11 +3031,11 @@ Goriunova and Alexei Shulgin write that
 > machine. A glitch appears as a defect (a voltage-change or signal of
 > the wrong duration – a change of input) in an electrical circuit.
 > Thus, a glitch is a short-term deviation from a correct value and as
-> such the term can also describe hardware malfunctions.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_1]
+> such the term can also describe hardware malfunctions.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_1]
 
 From the aesthetic perspective glitches can be ‘claimed to be a
 manifestation of genuine software aesthetics’ as they reveal the
-computational nature of the digital image.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_2] There is even a sense
+computational nature of the digital image.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_2] There is even a sense
 that the glitch is a challenge to the moral or ethical status of the
 digital object’s use, in that it manifests an incorrect value
 contradicting the user’s expectations. Glitch aesthetics has been
@@ -2946,7 +3053,7 @@ the software’s influence on the aesthetics of digital image:
 > Just as digital technologies and software mediate our experience and
 > engagement with the world, often invisibly, so the “digital” and
 > “software” is itself mediated and made visible through the
-> representational forms of pixelation and glitch.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_3]
+> representational forms of pixelation and glitch.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_3]
 
 In this sense, glitches are more than just a manifestation of a coding
 error or the result of inputted data from the user; they are both an
@@ -2967,7 +3074,7 @@ gives examples of such situations:
 > announce an encounter with media. When it shows itself, the spell is
 > broken. In retrospect, immediacy turns out to be a matter of unnoticed
 > and concealed mediation, revealing itself now in the split into a
-> faltering medium and a stammering message.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_4]
+> faltering medium and a stammering message.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_4]
 
 In focusing on the appearances of glitches and miscalculations in New
 Aesthetic objects, we believe that at least part of its nature is
@@ -2985,7 +3092,7 @@ checked for overflow, and memory is managed automatically.’
 
 On the aesthetic level they seem to address the approach taken by many
 proponents of the New Aesthetic. For Matt Jones the New Aesthetic
-encourages us to ‘see the grain of computation’[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_5] in everyday
+encourages us to ‘see the grain of computation’[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_5] in everyday
 interaction not only with the digital but with the physical world as
 well. The ‘grain of computation’ would be these specific aesthetic
 patterns associated with the digital that are becoming visible through
@@ -2996,10 +3103,10 @@ resolution, seamless user interfaces and ubiquitous systems that Peter
 Knapp names the ‘era of noise canceling’, the New Aesthetic
 manifestations, and particularly glitches, unveil the limitations of the
 computational through something that Kim Cascone calls the ‘aesthetics
-of failure’.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_6]
+of failure’.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_6]
 
 Both glitch studies and the New Aesthetic seem to share the spirit of a
-‘critical trans-media aesthetics’[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_7] as understood by Rosa Menkman, the
+‘critical trans-media aesthetics’[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_7] as understood by Rosa Menkman, the
 author of the *Glitch Art Manifesto* (2010) and the *Glitch Momentum*
 (2011).
 
@@ -3008,7 +3115,7 @@ author of the *Glitch Art Manifesto* (2010) and the *Glitch Momentum*
 > aesthetics critique the medium (genre, interface and expectations)
 > \[…\] They challenge its inherent politics and the established
 > template of creative practice while producing a theory of
-> reflection.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_8]
+> reflection.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_8]
 
 Menkman suggests that glitch aesthetics offer more than just interesting
 and attractive visual experiences. They give us a new perspective on
@@ -3030,7 +3137,7 @@ with glitches digital media seem universally equivalent. All digital
 objects are susceptible to unwanted, sudden errors that lead to visual
 glitches. The reason for this is the fact that the very conditions for
 glitch aesthetics are structured by core properties of computer-based
-media enumerated by Lev Manovich in his *The Language of New Media.*[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_9]
+media enumerated by Lev Manovich in his *The Language of New Media.*[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_9]
 Manovich argues that all digital media share some common properties,
 which are deeply rooted in their numerical nature. Consequently, all
 digital images are discrete since they are broken and then displayed as
@@ -3092,7 +3199,7 @@ glitches and errors.
 > constraints, technologies make it easier to do some things, rather
 > than others, and either easier or more difficult to communicate
 > certain messages. Errors can help reveal these hidden constraints and
-> the power that technology imposes. [^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_10]
+> the power that technology imposes. [^book_book_book_book_book_book_book_03-Chap3_03-Chap3_10]
 
 In other words, Hill argues that glitches do reveal the boundaries of
 the digital sandbox that a user usually plays in while being enchanted
@@ -3100,7 +3207,7 @@ by supposed limitless creative possibilities and perfect visual
 representations that come with user-oriented software and systems.
 ‘Through noise, through anomalies, we are able to decipher a range of
 crucial issues concerning politics, aesthetics and cultural processes of
-media.’[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_11] Parikka goes even further, saying that a critical
+media.’[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_11] Parikka goes even further, saying that a critical
 examination of anomalies and noise in digital media can be a starting
 point for a more broad analysis of the impact of the computational on
 society and culture. Parikka seems to follow an important line of
@@ -3121,7 +3228,7 @@ a particular organization of digital spaces:
 > software’s inner structure, whether it is a mechanism of data
 > compression or HTML code. Although a glitch does not reveal the true
 > functionality of the computer, it shows the ghostly conventionality of
-> the forms by which digital spaces are organized.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_12]
+> the forms by which digital spaces are organized.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_12]
 
 Goriunova and Schulgin understand glitches and errors as unique
 epistemic micro-states that offer a chance to critically assess the
@@ -3134,7 +3241,7 @@ layered structure of the computational, but also make clear the
 limitations of the programmability of the digital. Mark Nunes and
 Benjamin Mako follow a similar logic, emphasizing the importance of
 opening the computational ‘black boxes’ for making possible a critical
-analysis of HCI.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_13] The scholars claim that errors that provide clear
+analysis of HCI.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_13] The scholars claim that errors that provide clear
 views into black boxes provide a view into some of what we might be
 missing. However, they also emphasize that glitches may be of vital
 importance for making the users aware of the great formational power of
@@ -3143,7 +3250,7 @@ digital technologies.
 Given the growing dominance of this ideology of informatic control,
 error provides us with an important critical lens for understanding what
 it means to live within a network society. Error reveals not only a
-system’s failure, but also its operational logic.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_14] David M. Berry,
+system’s failure, but also its operational logic.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_14] David M. Berry,
 similarly to Goriunova and Schulgin, claims that glitches do introduce a
 specific phenomenological condition that enables a user to interact with
 the computational in a state of failure. Berry conceptualizes this
@@ -3156,12 +3263,12 @@ interaction.
 > slowing down at the level of the experience of the user. This is
 > suggestive of the possibility for a micro-phenomenology that could
 > fully explore the breaks in perception that the computer
-> generates.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_15]
+> generates.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_15]
 >
 > \[…\] just as digital technologies and software mediate our experience
 > and engagement with the world, often invisibly, so the “digital” and
 > “software” is itself mediated and made visible through the
-> representational forms of pixelation and glitch.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_16]
+> representational forms of pixelation and glitch.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_16]
 
 Berry emphasizes the importance of glitches for bringing to the
 forefront the layered nature of computational technologies. However
@@ -3182,11 +3289,11 @@ society and culture which will lead to ultimate synchronization with, or
 better, to subordination to the digital. This should be understood as an
 era when cultural and social practices are both rooted in and bound by
 digital technology – e.g. the various types of hardware, software,
-distributed networks or interaction paradigms.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_17] Lev Manovich in his
+distributed networks or interaction paradigms.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_17] Lev Manovich in his
 *Software Takes Command* argues that even now we rely on software and
 hardware to create, transform and distribute information to such an
 extent that our society should rather be characterized as software
-society.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_18]
+society.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_18]
 
 The media studies, digital art and critical theory scholars cited above
 are intrigued by the critical potential of glitch aesthetics. On the one
@@ -3204,7 +3311,7 @@ in new human-computer interaction paradigms and digital image aesthetic.
 This evolution has left an imprint on the way glitches manifest
 themselves in everyday interaction with digital media based on real-time
 and cloud-based computational technologies, ubiquitous computing and
-autonomous systems.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_19] Postdigital glitch studies should, similarly to
+autonomous systems.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_19] Postdigital glitch studies should, similarly to
 the New Aesthetic, critically challenge the mainstream technological
 narratives that were founded on the latest technological innovation,
 including the illusion of seamless interaction, automation and perfect
@@ -3287,7 +3394,7 @@ theory of ‘ontological levels of the computational’ advocated in
 > distinctly insubstantial and non-thing-like fashion. In doing so,
 > Heidegger illuminates the seemingly intangible but actually
 > fundamental phenomenological aspects of mediated things – those things
-> we commonly experience as “equipment”.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_20]
+> we commonly experience as “equipment”.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_20]
 
 Heidegger argues that things are actual things acquiring their proper
 ‘thingly character’ only when they are used for a particular purpose.
@@ -3296,16 +3403,16 @@ The thing is then available as ‘ready-to-hand’. However, its unique
 work, as we can’t grasp it only through its appearance. He explicitly
 states that ‘no matter how sharply we look at the “outward appearance”
 of Things in whatever form this takes, we cannot discover anything
-ready-to-hand’.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_21] The specific mode of being that belongs to the
-thing appears as a using of something for something.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_22] Heidegger’s
+ready-to-hand’.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_21] The specific mode of being that belongs to the
+thing appears as a using of something for something.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_22] Heidegger’s
 famous example of this logic is a hammer and a nail. The specific
 thingness (manipulability) of the hammer is unveiled through putting it
-to actual work – nailing the nail. [^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_23] The process of putting the
+to actual work – nailing the nail. [^book_book_book_book_book_book_book_03-Chap3_03-Chap3_23] The process of putting the
 things to actual work disclose them and their thingness to the user.
 David Gunkel and Paul A. Taylor argue that if we’d follow Heidegger’s
 line of reasoning we would conclude that ‘Readiness-to-hand is therefore
 not just a temporary attitude or viewpoint we adopt with regards to
-things. It acts to define the very being of things as things.’[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_24] The
+things. It acts to define the very being of things as things.’[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_24] The
 Readiness-to-hand defines things both ontologically and categorically.
 From the perspective of media and communication studies, the things
 should then be understood as intermediary means to and end or simply
@@ -3316,7 +3423,7 @@ and its thingness become transparent or unremarkable. The tool follows
 the logic of immediacy, being a mere mean to an end. ‘The paradox of the
 ready-to-hand is therefore the fact that in its most authentic form, it
 necessarily withdraws from direct view’, Gunkel and Taylor
-write.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_25]<span id="_Toc321914099" class="anchor"><span
+write.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_25]<span id="_Toc321914099" class="anchor"><span
 id="_Toc321914205" class="anchor"></span></span>The Glitch as
 Non-operative Modi
 
@@ -3328,12 +3435,12 @@ consumer-oriented computing, the visionaries of the computing age
 envisioned computers as tools that would serve as autonomous machines
 that would assist humans in storing, processing and accessing
 information. From an electromechanical device called Memex, described in
-‘As We May Think’ by Vannevar Bush,[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_26] through Sketchpad designed by
-Ivan E. Sutherland in 1963[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_27] and PARC User Interface (Xerox 8010 Star
+‘As We May Think’ by Vannevar Bush,[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_26] through Sketchpad designed by
+Ivan E. Sutherland in 1963[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_27] and PARC User Interface (Xerox 8010 Star
 Information System) from the early 1980s to various modifications of the
 personal computers from the 1990s: all have been designed with the
 principle to ‘augment the human intellect’, while being as transparent
-as possible.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_28] The logic of the immediacy of the computational has
+as possible.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_28] The logic of the immediacy of the computational has
 prevailed even more in the age of ubiquitous computing, cloud-based and
 multi-device ecosystems. Their ultimate readiness-to-hand is a necessary
 condition of their actual interoperability and versatility. They are
@@ -3347,12 +3454,12 @@ ready-to-hand may be met as something unusable, not properly adapted for
 the use we have decided upon. \[…\] we discover its unusability,
 however, not by looking at it and establishing its properties, but
 rather by the circumspection of the dealings in which we use
-it’.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_29]Gunkel and Taylor also emphasize the fact that the evolution
+it’.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_29]Gunkel and Taylor also emphasize the fact that the evolution
 from being ready-to-hand to present-to-hand of certain tools, takes
 place not in the user’s perception of a tool, but through putting it to
 actual use. ‘Something becomes present-at-hand when the thing in
 question fails to work, breaks down or interrupts the smooth functioning
-of what had been already handy and ready-to-hand.’[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_30] If we return to
+of what had been already handy and ready-to-hand.’[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_30] If we return to
 our broader understanding of the New Aesthetic, described as a
 theoretical approach that takes to the forefront of our perception the
 conditions of existence of the computational in the postdigital age
@@ -3375,7 +3482,7 @@ defective. The state of unreadiness-to-hand goes far beyond a mere
 problem of incalculability. Something – a tool, device, application – is
 *conspicuous* when it becomes unusable. Unusability means in this
 context a situation when a thing no longer serves the use for which it
-was initially designed.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_31] It is not just about breaking the seamless
+was initially designed.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_31] It is not just about breaking the seamless
 interaction and utility paradigm in partially working machines or
 software. The conspicuousness is a result of a complete failure of the
 computational, a situation in which a user is confronted with a broken
@@ -3383,7 +3490,7 @@ piece of hardware, or an application that fails to launch.A thing
 becomes *obtrusive* when it is missing. As Heidegger argues, the thing
 is then not ‘handy’ but is not ‘to hand’ at all. The more we need what
 is missing to perform a task, the more intensive it enters into the
-state of obtrusiveness.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_32] The problem of obtrusiveness occurs when
+state of obtrusiveness.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_32] The problem of obtrusiveness occurs when
 for example a certain media file cannot be opened or processed due to
 lack of a specific codec, or when a cloud-based application cannot
 access data which is stored on the remote server. The state of
@@ -3398,7 +3505,7 @@ variation of unreadiness-to-hand is the state of *obstinacy*. The
 and interrupts our activities. Anything which is un-ready-to-hand in
 this way is disturbing to us, and enables us to see the obstinacy of
 that with which we must concern ourselves first before we do anything
-else.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_33] If we were to study glitch in the light of obstinacy, we
+else.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_33] If we were to study glitch in the light of obstinacy, we
 could claim that a glitch is an unexpected deviation from the intended
 functioning of a computational system which prevents the user from
 completing the task (in a usual manner). However, the state of obstinacy
@@ -3427,7 +3534,7 @@ and the New Aesthetic.
 > computation as opposed to other technical forms (Berry 2011a). This is
 > the glitch that creates the conspicuousness that breaks the everyday
 > experience of things, and more importantly breaks the flow of things
-> being readily at hand.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_34]
+> being readily at hand.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_34]
 
 Following Heidegger’s analysis we could conclude that glitches which
 occur in contemporary computational systems can be characterized as
@@ -3460,7 +3567,7 @@ technological world into six different categories:
 > institutions, economies, culture, etc.)
 >
 > 6 Individuational: Stratification of embodied personality (the
-> psychology of actors, the user, etc.) [^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_35]
+> psychology of actors, the user, etc.) [^book_book_book_book_book_book_book_03-Chap3_03-Chap3_35]
 
 If we were to look again at the constellation of the various visual
 phenomena associated with the New Aesthetic – glitches in software and
@@ -3497,13 +3604,13 @@ encountered across ‘ontological levels of the computational’.
 Clement Valla, a New York-based artist, has critically analyzed glitches
 in Google Earth, which appear as distorted images of the earth’s surface
 i.e. drooping roads and bridges. His analysis resulted in the ‘Universal
-Texture’ artwork presented in 2012.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_36] According to Valla, Google uses
+Texture’ artwork presented in 2012.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_36] According to Valla, Google uses
 the Universal Texture mapping system which applies hybrid images, a
 patchwork of two-dimensional photographic data and three-dimensional
 topographic data extracted from a slew of sources, data-mined,
 pre-processed, blended and merged in real-time in order to create this
 particular god-like fluid planetary navigation system – Google
-Earth.[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_37] {Fig. 41} 
+Earth.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_37] {Fig. 41} 
 
 ![](img/Fig041.png)   
 Fig. 41 Clement Valla, *Postcards from Google Earth* (2010–)
@@ -3536,101 +3643,101 @@ ever-changing postdigital technologies is one of the few practices that
 enable us to critically reflect on the development of flux technologies
 of the postdigital age.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_1]: Olga Goriunova and Alexei Shulgin, ‘Glitch’, in Matthew Fuller
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_1]: Olga Goriunova and Alexei Shulgin, ‘Glitch’, in Matthew Fuller
     (ed.) *Software Studies: a Lexicon*, London: MIT Press, 2008, p.
     110.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_2]: Goriunova and Shulgin, ‘Glitch’.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_2]: Goriunova and Shulgin, ‘Glitch’.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_3]: Berry et al. *New Aesthetic, New Anxieties,* p. 43.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_3]: Berry et al. *New Aesthetic, New Anxieties,* p. 43.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_4]: van den Boomen, *Transcoding the Digital*, p. 65.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_4]: van den Boomen, *Transcoding the Digital*, p. 65.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_5]: Matt Jones,’Sensor-Vernacular’, *Berg London blog*, 13 May 2011
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_5]: Matt Jones,’Sensor-Vernacular’, *Berg London blog*, 13 May 2011
     2011, <http://berglondon.com/blog/2011/05/13/sensor-vernacular/>.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_6]: Kim Cascone, ‘The Aesthetics of Failure: Post-Digital Tendencies
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_6]: Kim Cascone, ‘The Aesthetics of Failure: Post-Digital Tendencies
     in Contemporary Computer Music’, *subsol*, 24 April 2004,
     <http://subsol.c3.hu/subsol\_2/contributors3/casconetext.html>.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_7]: Rosa Menkman, *Glitch Studies Manifesto*, *Sunshine in My Throat*,
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_7]: Rosa Menkman, *Glitch Studies Manifesto*, *Sunshine in My Throat*,
     2009/2010, p. 8, 9, 11.
     <http://rosa-menkman.blogspot.com/2010/02/glitch-studies-manifesto.html>.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_8]: Menkman, *Glitch Studies Manifesto*, p. 8.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_8]: Menkman, *Glitch Studies Manifesto*, p. 8.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_9]: Manovich, *The Language of New Media*, pp. 246-250.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_9]: Manovich, *The Language of New Media*, pp. 246-250.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_10]: Benjamin Mako Hill, ‘Revealing Errors’ in Mark Nunes (ed.) *Error
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_10]: Benjamin Mako Hill, ‘Revealing Errors’ in Mark Nunes (ed.) *Error
     Glitch, Noise, and Jam in New Media Cultures,* New York and London:
     Continuum, 2011, p. 29.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_11]: Jussi Parikka, *What is Media Archaeology?*, Cambridge: Polity,
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_11]: Jussi Parikka, *What is Media Archaeology?*, Cambridge: Polity,
     2012, p. 110.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_12]: Goriunova and Schulgin, ‘Glitch’, p. 114. (110-1119).
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_12]: Goriunova and Schulgin, ‘Glitch’, p. 114. (110-1119).
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_13]: Mako Hill, ‘Revealing Errors’, p. 39.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_13]: Mako Hill, ‘Revealing Errors’, p. 39.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_14]: Mark Nunes (ed.) *Error Glitch, Noise, and Jam in New Media
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_14]: Mark Nunes (ed.) *Error Glitch, Noise, and Jam in New Media
     Cultures*, New York and London: Continuum, 2011, p. 3.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_15]: Berry, *Critical Theory and the Digital*, p. 99.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_15]: Berry, *Critical Theory and the Digital*, p. 99.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_16]: Berry, *Critical Theory and the Digital*, p. 159.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_16]: Berry, *Critical Theory and the Digital*, p. 159.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_17]: Berry, *Philosophy of Software Code and Mediation in a Digital
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_17]: Berry, *Philosophy of Software Code and Mediation in a Digital
     Age*, p. 27.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_18]: Manovich, *Software Takes Command*, p. 147.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_18]: Manovich, *Software Takes Command*, p. 147.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_19]: Berry, *Critical Theory and the Digital*, p. 38.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_19]: Berry, *Critical Theory and the Digital*, p. 38.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_20]: David Gunkel and Paul A. Taylor, *Heidegger and the Media,*
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_20]: David Gunkel and Paul A. Taylor, *Heidegger and the Media,*
     Cambridge: Polity, 2014, p. 98.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_21]: Martin Heidegger, *Being and Time*, trans. John Macquarrie &
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_21]: Martin Heidegger, *Being and Time*, trans. John Macquarrie &
     Edward Robinson, Oxford: Basil Blackwell, 1962, p. 98.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_22]: Heidegger, *Being and Time*, p. 100.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_22]: Heidegger, *Being and Time*, p. 100.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_23]: Heidegger, *Being and Time*, p. 98.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_23]: Heidegger, *Being and Time*, p. 98.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_24]: Gunkel and Taylor, *Heidegger and the Media*, p. 103.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_24]: Gunkel and Taylor, *Heidegger and the Media*, p. 103.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_25]: Gunkel and Taylor, *Heidegger and the Media*, p. 104.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_25]: Gunkel and Taylor, *Heidegger and the Media*, p. 104.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_26]: Vannevar Bush, ‘As We May Think’, in Noah Wardrip-Fruin and Nick
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_26]: Vannevar Bush, ‘As We May Think’, in Noah Wardrip-Fruin and Nick
     Montfort (eds) *The New Media Reader*, Cambridge/London: MIT Press,
     2003, pp. 44-46.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_27]: Evan E. Sutherland, ‘Sketchpad: A Man-Machine Graphical
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_27]: Evan E. Sutherland, ‘Sketchpad: A Man-Machine Graphical
     Communication System’, in Noah Wardrip-Fruin and Nick Montfort (eds)
     *The New Media Reader*, Cambridge/London: MIT Press, 2003, pp.
     109-126.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_28]: Douglas Engelbart, ‘A Research Center for Augmenting Human
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_28]: Douglas Engelbart, ‘A Research Center for Augmenting Human
     Intellect’, in Noah Wardrip-Fruin and Nick Montfort (eds) *The New
     Media Reader*, Cambridge/London: MIT Press, 2003, pp. 233-246.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_29]: Heidegger, *Being and Time,* p. 102.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_29]: Heidegger, *Being and Time,* p. 102.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_30]: Gunkel and Taylor, *Heidegger and the Media*, p. 106.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_30]: Gunkel and Taylor, *Heidegger and the Media*, p. 106.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_31]: Heidegger, *Being and Time*, p. 102.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_31]: Heidegger, *Being and Time*, p. 102.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_32]: Heidegger, *Being and Time*, p. 103.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_32]: Heidegger, *Being and Time*, p. 103.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_33]: Heidegger, *Being and Time*, p. 103.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_33]: Heidegger, *Being and Time*, p. 103.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_34]: Berry, *Critical Theory and the Digital*, p. 99.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_34]: Berry, *Critical Theory and the Digital*, p. 99.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_35]: Berry, *Critical Theory and the Digital*, p. 58.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_35]: Berry, *Critical Theory and the Digital*, p. 58.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_36]: Clement Valla, ‘The Universal Texture’, *Clement Valla*,
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_36]: Clement Valla, ‘The Universal Texture’, *Clement Valla*,
     <http://clementvalla.com/work/the-universal-texture-recreated-46423-50n-1202628-59w/>.
 
-[^book_book_book_book_book_book_book_book_03-Chap3_03-Chap3_37]: Clement Valla, ‘The Universal Texture’.
+[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_37]: Clement Valla, ‘The Universal Texture’.
 
  <br></br> 
  <br></br> 
@@ -3683,7 +3790,7 @@ Fig. 43 Aram Bartholl, *Dropping the
 Internet* (2014)
 
 Borrowing uncritically from
-Bartholl’s own website,[^book_book_book_book_book_book_book_04-Chap4_1] Andersen and Pold describe the photographic
+Bartholl’s own website,[^book_book_book_book_book_book_04-Chap4_1] Andersen and Pold describe the photographic
 triptych in terms of the security concerns and sense of crisis in the
 post-Snowden era, placing an emphasis on the work’s presentation of the
 ‘internet’ as inherently fragile. At the same time Andersen and Pold
@@ -3695,7 +3802,7 @@ engage in a little aesthetic analysis that seems to go quickly awry.
 > cardboard, candlelight and people acting according to strange
 > behavioral scripts: pointing to how the big utopias become banal and
 > mundane, including how they control sharing, communication and
-> perception.[^book_book_book_book_book_book_book_04-Chap4_2]
+> perception.[^book_book_book_book_book_book_04-Chap4_2]
 
 In many ways, this is an illuminating analysis of the effect of the
 work, reading it as symbolic of the wrenching, almost existential
@@ -3712,7 +3819,7 @@ surviving nuclear war, but returning to Andersen’s and Pold’s
 description of the work it’s clear that other things are going on, and
 that Andersen and Pold may be ill-equipped to acknowledge them. Bartholl
 readily acknowledges his appropriation of Ai Weiwei’s famous work
-*Dropping a Han Dynasty Urn* (1995)[^book_book_book_book_book_book_book_04-Chap4_3] {Fig. 44} but why don’t Andersen
+*Dropping a Han Dynasty Urn* (1995)[^book_book_book_book_book_book_04-Chap4_3] {Fig. 44} but why don’t Andersen
 and Pold mention it? 
 
 ![](img/Fig044.png)   
@@ -3778,14 +3885,14 @@ writes in his *Meditationes*:
 > Since affects are more notable degrees of pain and pleasure, their
 > sensible representations are given in representing something to
 > oneself confusedly as good or bad, and thus they determine poetic
-> representations, and *to arouse affects is poetic*.[^book_book_book_book_book_book_book_04-Chap4_4]
+> representations, and *to arouse affects is poetic*.[^book_book_book_book_book_book_04-Chap4_4]
 
 The effect of these affects is sensible cognition, not only as the
 physical embodiment of the presentation of ideas but as the aesthetic
 perfection of those ideas, an obvious driving force in apps like *Waze*.
 For Baumgarten: ‘The aim of aesthetics is the perfection of sensible
 cognition as such, that is, beauty, while its imperfection as such, that
-is, ugliness, is to be avoided.’[^book_book_book_book_book_book_book_04-Chap4_5] Colin McQuillian describes
+is, ugliness, is to be avoided.’[^book_book_book_book_book_book_04-Chap4_5] Colin McQuillian describes
 Baumgarten’s position nicely.
 
 > When the objects of sensible cognition agree with one another, then
@@ -3794,7 +3901,7 @@ Baumgarten’s position nicely.
 > because we cannot represent the beauty of the objects of sensible
 > cognition and their order without signs. When the signs we use to
 > represent sensible perfection agree with one another, then sensible
-> cognition expresses itself eloquently, and it is beautiful.[^book_book_book_book_book_book_book_04-Chap4_6]
+> cognition expresses itself eloquently, and it is beautiful.[^book_book_book_book_book_book_04-Chap4_6]
 
 What is interesting here is how appropriate this is when discussing New
 Aesthetic objects and, by extension, New Aesthetic art; Baumgarten’s
@@ -3836,7 +3943,7 @@ the museums looking at the objects themselves), and share the experience
 of art; 2) to provide a means to safeguard and protect history and
 cultural heritage; 3) to serve as a lab to allow for cross-disciplinary
 creative activities between curators, historians, artists, designers and
-educators.[^book_book_book_book_book_book_book_04-Chap4_7] In all three cases, as much as it might seem like the
+educators.[^book_book_book_book_book_book_04-Chap4_7] In all three cases, as much as it might seem like the
 Google Art Project is an effort to extend the opportunities to
 appreciate art in museums, in its narrowing of the aesthetic experience,
 it is far more an opportunity to appreciate the art at a distance, the
@@ -3852,7 +3959,7 @@ very fabric of social structures, this just seems odd, a reification of
 the collecting impulse extended to the point that the physicality of
 objects disappears. This is not as absurd as it sounds, as evidenced in
 the artwork of João Enxuto and Erica Love and their ongoing art project
-*Anonymous Paintings* (2011-).[^book_book_book_book_book_book_book_04-Chap4_8] {Fig. 45} 
+*Anonymous Paintings* (2011-).[^book_book_book_book_book_book_04-Chap4_8] {Fig. 45} 
 
 ![](img/Fig045.png)   
 Fig. 45 João Enxuto, and Erica Love,
@@ -3869,7 +3976,7 @@ and stunning effect:
 > path of Google’s omnipresent Street View camera where occlusion
 > denotes an identity and subjecthood. Our Anonymous Paintings use
 > abstraction as a code for autonomy and withdrawal from Google’s
-> comprehensive visual record.[^book_book_book_book_book_book_book_04-Chap4_9]
+> comprehensive visual record.[^book_book_book_book_book_book_04-Chap4_9]
 
 Making the analogy between the paintings and the blurred images of human
 faces in Google Street View pushes this sense of a complex autonomy to
@@ -3885,7 +3992,7 @@ Gallery’s exhibition of Enxuto’s and Love’s work stating:
 > have returned to the world of objects, the *Anonymous Paintings* seem
 > to exist between an artwork as memory, and an assertion of the
 > indispensable nature of a tangible space, where meaning is derived
-> from a conscious encounter between subject and object.[^book_book_book_book_book_book_book_04-Chap4_10]
+> from a conscious encounter between subject and object.[^book_book_book_book_book_book_04-Chap4_10]
 
 What left’s is nothing but the distortion of a work, perhaps almost an
 apocalyptic manifestation of Benjamin’s loss of aura. Or perhaps we’re
@@ -3897,7 +4004,7 @@ drives their manner of presentation. Is negotiating the conceptual space
 sufficiently valid as art or as the New Aesthetic? In our opinion,
 absolutely. Enxuto and Love point out that ‘Google is single-handedly
 redefining the public sphere of art spectatorship in much the same way
-that it is redefining the mapping of public space.’[^book_book_book_book_book_book_book_04-Chap4_11] The
+that it is redefining the mapping of public space.’[^book_book_book_book_book_book_04-Chap4_11] The
 unquestionable positive artistic value notwithstanding, we only disagree
 on an aesthetic level with one thing in this statement, but we disagree
 with it strongly. For us, it’s not Google that is single-handedly
@@ -3943,7 +4050,7 @@ Fig. 46 Malcolm Morley, *School of Athens*
 (1972)
 
 Raphael’s painting is a masterpiece of the Italian Renaissance, the
-‘perfect embodiment of the classical spirit of the Renaissance’[^book_book_book_book_book_book_book_04-Chap4_12]
+‘perfect embodiment of the classical spirit of the Renaissance’[^book_book_book_book_book_book_04-Chap4_12]
 marking the dialectical relationship between Aristotle’s theories and
 the ideas of Plato. Malcolm Morley’s painting is a reproduction of
 photograph of Raphael’s painting; that second step is important – Morley
@@ -3961,7 +4068,7 @@ reproduction.
 > and Aristotle the skull is over here and the rest of the head here; I
 > said I lobotomised Greek philosophy. The wit comes from the
 > unconscious. As somebody put it to me, you make friends with your
-> unconscious life, as a collaborator.”[^book_book_book_book_book_book_book_04-Chap4_13]
+> unconscious life, as a collaborator.”[^book_book_book_book_book_book_04-Chap4_13]
 
 It may be a simple point, but it bears repeating that Morley used a
 glitch in his reproduction of a photograph of Raphael’s painting in an
@@ -3979,7 +4086,7 @@ In a similar fashion, certain recent examples of infographic art also
 conceptually set the stage for New Aesthetic objects to have a genuine
 artistic existence and function. In 2014 graphic design artists and
 illustrators Tom Whalen and Kevin Tong held a joint exhibition at the
-Phone Booth Gallery in Long Beach, California.[^book_book_book_book_book_book_book_04-Chap4_14] {Fig. 47}
+Phone Booth Gallery in Long Beach, California.[^book_book_book_book_book_book_04-Chap4_14] {Fig. 47}
 
 ![](img/Fig047.png)   
 Fig. 47 Tom Whalen and Kevin Tong, *Spacesuit* (2014)
@@ -3997,7 +4104,7 @@ indebted to an era in the history of graphic design in which high
 modernism’s impulses to guide and correct social development were
 themselves understood as fundamental design considerations, practices
 and aesthetic strategies; Whalen cites Jan Tschichold, Saul Bass and
-Milton Glaser as influences on his website[^book_book_book_book_book_book_book_04-Chap4_15], figures who
+Milton Glaser as influences on his website[^book_book_book_book_book_book_04-Chap4_15], figures who
 unquestionably strove to use graphic design in a transformative fashion.
 A first response – or a second response, since the rich, lush colors and
 bold layout of Whalen’s and Tong’s work are the first aspects of their
@@ -4082,7 +4189,7 @@ operative. Nees’ work began at Siemens:
 > over a page of drawing paper. Nees recalls: “There it was, the great
 > temptation for me, for once not to represent something technical with
 > this machine but rather something ‘useless’ – geometrical
-> patterns.”[^book_book_book_book_book_book_book_04-Chap4_16]
+> patterns.”[^book_book_book_book_book_book_04-Chap4_16]
 
 Nees’ work is innovative simply because of the new medium that he
 started using, but equally so because it was simple in its visual
@@ -4110,7 +4217,7 @@ well as different aesthetic strategies employed by performance and
 conceptual artists across the world in the 1960s. In this respect, Nees’
 work bears a strong resemblance to Karl Otto Götz, a German artist whose
 paintings were based on ‘“statistic-metric modulations” with grids
-filled with black and white rectangles’.[^book_book_book_book_book_book_book_04-Chap4_17] Second, and much more
+filled with black and white rectangles’.[^book_book_book_book_book_book_04-Chap4_17] Second, and much more
 importantly for us, Nees’ generative design method sets into place an
 aesthetic decision, evaluative and judgmental in nature, regarding the
 output; given that the imagery was produced on a flatbed graphing
@@ -4132,7 +4239,7 @@ states:
 > After a short hesitation he replied: “Yes, of course, I can do this.
 > Under one condition: you must tell me how you draw.” – In the ensuing
 > irritation, Max Bense spontaneously coined the word “Artificial
-> Art”.[^book_book_book_book_book_book_book_04-Chap4_18]
+> Art”.[^book_book_book_book_book_book_04-Chap4_18]
 
 This has two implications: Nees is obviously recognizing that an
 artist’s draughtsmanship could be reproduced through computer
@@ -4154,7 +4261,7 @@ Museum’s explanation for the limited content in Nees’ art:
 > pen or brush and is linked to a computer that controls its movements.
 > The computer would guide the pen or brush across the drawing surface,
 > or, alternatively, could move the paper underneath the pen, according
-> to instructions given by the computer program.[^book_book_book_book_book_book_book_04-Chap4_19]
+> to instructions given by the computer program.[^book_book_book_book_book_book_04-Chap4_19]
 
 Writing about the computer ‘guiding’ the pen, brush or even the paper
 betrays a subtle, almost unspoken notion that the process was entirely
@@ -4171,7 +4278,7 @@ conferencing, a biography that would make him seem an unlikely candidate
 to the second computer artist except for the fact that his was the
 second exhibition of computer art, taking place in New York City just
 two months after Nees’ exhibition (though he claims, with some evidence,
-to have produced computer art as early as 1962).[^book_book_book_book_book_book_book_04-Chap4_20] Whereas Nees’ work
+to have produced computer art as early as 1962).[^book_book_book_book_book_book_04-Chap4_20] Whereas Nees’ work
 seems to have been focused on the potential of the hardware, Noll’s work
 was always focused more narrowly on the aesthetic value of the output.
 {Fig. 49} 
@@ -4192,7 +4299,7 @@ with Lines* by Piet Mondrian which was preferred by viewers over the
 actual paintings as well as mistakenly identified as a drawing by
 Mondrian himself. This resulted in Noll’s paper ‘Human or Machine: A
 Subjective Comparison of Piet Mondrian’s “Composition with Lines” and a
-Computer-Generated Picture’[^book_book_book_book_book_book_book_04-Chap4_21] in which he described the methods used
+Computer-Generated Picture’[^book_book_book_book_book_book_04-Chap4_21] in which he described the methods used
 to produce the image as well as the psychological experiment gauging the
 responses of a hundred people, and in which he also asserted that the
 ‘randomness’ was determinative in the aesthetic response. In short,
@@ -4220,8 +4327,8 @@ upfront about trying to find a shared communality amidst the explosion
 of different art forms in the 1960s; ‘it seems to me what they share is,
 starting with Marcel Duchamp, going beyond the confines of traditional
 art. Each one of these movements in some other way denied art as it was
-known’[^book_book_book_book_book_book_book_04-Chap4_22] even if he stopped making art in the 1970s after writing an
-article titled ‘There Should Be No Computer-Art’[^book_book_book_book_book_book_book_04-Chap4_23] for *Page*, the
+known’[^book_book_book_book_book_book_04-Chap4_22] even if he stopped making art in the 1970s after writing an
+article titled ‘There Should Be No Computer-Art’[^book_book_book_book_book_book_04-Chap4_23] for *Page*, the
 bulletin of the Computer Arts Society, and later accusing other computer
 artists of being technocratic Dadaists. Such a position places Nake
 firmly in the realm of the art world, unlike Nees and Noll who seem to
@@ -4241,7 +4348,7 @@ nicely:
 > thereby, generate unemployment, should not allow artists to close
 > their eyes and become silent servants of the ruling classes by
 > reconciling high technology with the masses of the poor and
-> suppressed.[^book_book_book_book_book_book_book_04-Chap4_24]
+> suppressed.[^book_book_book_book_book_book_04-Chap4_24]
 
 Other artists have pioneered computer art in ways that set the stage for
 New Aesthetic objects. Hiroshi Kawano, who may have been the first
@@ -4268,7 +4375,7 @@ teach his computer to produce works of art by itself, and furthermore
 know about the digital computing behavior of his computer in detail. It
 is never a computer artist, but a computer itself that produces works of
 art; a computer artist only helps his computer acting as a
-programmer.’[^book_book_book_book_book_book_book_04-Chap4_25] Clearly, for Kawano, the human imagination was still
+programmer.’[^book_book_book_book_book_book_04-Chap4_25] Clearly, for Kawano, the human imagination was still
 of primary importance as an originating point, but how long could this
 last when his programmatic abstraction would, inevitably, be susceptible
 to the internal consistency of the programming?
@@ -4280,14 +4387,14 @@ Chave’s collection as well as seeing work there by Matisse, Chagall,
 Picasso, Man Ray, Léger and many others, Hébert started programming in
 Fortran in 1959 and worked on some of the first Hewlett-Packard lab
 computers in the 1970s but he maintained an interest in producing
-art.[^book_book_book_book_book_book_book_04-Chap4_26] Moving to California, Hébert became the founder of the
+art.[^book_book_book_book_book_book_04-Chap4_26] Moving to California, Hébert became the founder of the
 Algorists, a loose association of computer artists and pioneered the use
 of code to produce images in a range of materials beyond paper such as
 sand, water and as installations that would be proofed by algorithms. He
 explains: ‘The principle behind my work has always been pretty simple
 \[…\] It consists of putting together a process that creates
 instructions for a tool. It’s all computer-driven motion of a tool on a
-surface.’[^book_book_book_book_book_book_book_04-Chap4_27] {Fig. 52} 
+surface.’[^book_book_book_book_book_book_04-Chap4_27] {Fig. 52} 
 
 ![](img/Fig052.png)   
 Fig. 52 Jean-Pierre Hébert, computer art, 1970s
@@ -4298,12 +4405,12 @@ draw and always had a passion for drawings \[…\] the seventies, I have
 been working with the conviction that to gain power and beauty, drawing
 should become a pure mental activity, rather than a mere gestural skill.
 I have endeavored to make it so by banning the physical side of
-drawing.’[^book_book_book_book_book_book_book_04-Chap4_28] In essence, Hébert is advocating a rational approach to
+drawing.’[^book_book_book_book_book_book_04-Chap4_28] In essence, Hébert is advocating a rational approach to
 drawing, a notion that algorithms in and of themselves are sufficiently
 aesthetically valid, especially if they function as mediators between
 natural origins and natural output as evidenced in his recent use of
 spirals as prevalent and, seemingly, independently and universally
-artistic;[^book_book_book_book_book_book_book_04-Chap4_29] while Hébert may not be pushing for the eventual complete
+artistic;[^book_book_book_book_book_book_04-Chap4_29] while Hébert may not be pushing for the eventual complete
 expulsion of the physical artist, what he has established is that
 programming is potentially sufficient at a fundamental level at the cost
 of drawing as a practice based on direct observation or free
@@ -4351,16 +4458,16 @@ here, particularly his position that
 > some said, – progress, as others thought. The threat and the progress
 > being the use of an extremely complicated, sophisticated, expensive
 > and rational machine in the arts, i.e. in one of the last refuges of
-> the irrational.[^book_book_book_book_book_book_book_04-Chap4_30]
+> the irrational.[^book_book_book_book_book_book_04-Chap4_30]
 
 A representative set of these artists were included in the exhibition
 *Painting After Technology* at the Tate Modern in London in 2015, among
-them Christopher Wool, Albert Oehlens and Laura Owens.[^book_book_book_book_book_book_book_04-Chap4_31] The
+them Christopher Wool, Albert Oehlens and Laura Owens.[^book_book_book_book_book_book_04-Chap4_31] The
 exhibition takes as its starting point a brief view into the effect of
 technology on the practice of painting, with the central premise that
 ‘rather than simply celebrating such technologies, however, the artists
 in this room are often interested in the errors, glitches and
-misregistrations that can result from them.’[^book_book_book_book_book_book_book_04-Chap4_32] Wool’s *Untitled*
+misregistrations that can result from them.’[^book_book_book_book_book_book_04-Chap4_32] Wool’s *Untitled*
 (2009) is representative of his use of computer technology. Working with
 digital photographs of his own paintings, Wool rearranges them and then
 silkscreens the imagery onto the paper that is then fixed onto canvas.
@@ -4382,12 +4489,12 @@ Fig. 55 Albert Oehlen, *Loa* (2007)
 
 Described by
 curator Mark Godfrey as a ‘selection of work \[reflecting\] one of the
-urgent conversations around painting today’[^book_book_book_book_book_book_book_04-Chap4_33] the exhibition
+urgent conversations around painting today’[^book_book_book_book_book_book_04-Chap4_33] the exhibition
 certainly had a sense of urgency about it, albeit a laconic one, that
 suggested that the intersection between traditional media and digital
 technology is increasingly becoming an uneasy place. In many respects
 Godfrey’s curatorial choices, equally reflected in his Artforum article
-‘Statements of Intent’[^book_book_book_book_book_book_book_04-Chap4_34] that serves as an external curatorial
+‘Statements of Intent’[^book_book_book_book_book_book_04-Chap4_34] that serves as an external curatorial
 statement for the Tate exhibition, complicates the matter further with
 its emphasis on abstract art. The artists included in the exhibition and
 discussed in the article are presented as clearly negotiating a position
@@ -4426,11 +4533,11 @@ is a presentation of artists whose work is unquestionably worth extended
 and serious consideration as a valuable or crucial layer in our
 concentric exploration towards our target.
 
-Kohei Nawa[^book_book_book_book_book_book_book_04-Chap4_35] is a professor at Kyoto University of Art and Design,
+Kohei Nawa[^book_book_book_book_book_book_04-Chap4_35] is a professor at Kyoto University of Art and Design,
 and has been producing fascinating works that are manipulations of the
 intersection of material and digital means. Nawa’s first appearance in a
 specific New Aesthetic context emerged out of his association with the
-*Sandwich* space in Kyoto.[^book_book_book_book_book_book_book_04-Chap4_36] *Polygon Double Deer \#2* (2011)[^book_book_book_book_book_book_book_04-Chap4_37]
+*Sandwich* space in Kyoto.[^book_book_book_book_book_book_04-Chap4_36] *Polygon Double Deer \#2* (2011)[^book_book_book_book_book_book_04-Chap4_37]
 {Fig. 56} is a work that obviously draws on the growing translation of
 real world objects into polygonal forms for game design and digital
 simulations and was featured on Bridle’s blog, but other works by Nawa
@@ -4464,7 +4571,7 @@ direct the aesthetic experience as are the artistic choices, and it’s
 the system itself that begins to become aesthetically self-sustaining
 through Nawa’s aesthetic strategies.
 
-Matthew Plummer-Fernandez[^book_book_book_book_book_book_book_04-Chap4_38] is a British-Columbian artist who has
+Matthew Plummer-Fernandez[^book_book_book_book_book_book_04-Chap4_38] is a British-Columbian artist who has
 also been mentioned in the context of the New Aesthetic. Like some of
 Nawa’s work, Plummer-Fernandez has been borrowing digital techniques to
 respond to conditions of the world, particularly the artificiality of
@@ -4492,7 +4599,7 @@ writes:
 > visual treat if it is loaded into any 3D editing software. If you’ve
 > got the decryption keys, you get to see the object’s true form. It’s
 > hiding in plain sight, thumbing its pixel-bled nose at the Mary
-> Whitehouses of physible culture.[^book_book_book_book_book_book_book_04-Chap4_39]
+> Whitehouses of physible culture.[^book_book_book_book_book_book_04-Chap4_39]
 
 More than just an engagement with a character, this work tears into the
 notion of intellectual property, copyright and trademark law, suggesting
@@ -4511,7 +4618,7 @@ are broken in the digital age. Plummer-Fernandez notes:
 > Term Extension Act (known as the Mickey Mouse Protection Act). A
 > Disney insider also revealed that the design of Mickey is constantly
 > updated (such as the disappearance of the tail) to continually reset
-> the copyright timer.[^book_book_book_book_book_book_book_04-Chap4_40]
+> the copyright timer.[^book_book_book_book_book_book_04-Chap4_40]
 
 Plummer-Fernandez’s point is an intriguing one – by noting that there’s
 a history or an evolution to the form of Mickey Mouse that
@@ -4539,7 +4646,7 @@ line with this, Bridle noted in his 2012 presentation at SWSX that:
 > between “the real” and “the digital”, the physical and the virtual,
 > the human and the machine. It should also be clear that this “look” is
 > a metaphor for understanding and communicating the experience of a
-> world in which the New Aesthetic is increasingly pervasive.[^book_book_book_book_book_book_book_04-Chap4_41]
+> world in which the New Aesthetic is increasingly pervasive.[^book_book_book_book_book_book_04-Chap4_41]
 
 As interesting as this was, we find it problematic, excusably so in the
 context of the early history of the New Aesthetic but still problematic
@@ -4564,8 +4671,8 @@ style is often insufficient to determine the New Aesthetic nature of an
 object, particularly an artwork. A number of specific examples
 illustrate the point we’re trying to make.
 
-The work of Ferruccio Laviani,[^book_book_book_book_book_book_book_04-Chap4_42] specifically his cabinet *Good
-Vibrations* (2013),[^book_book_book_book_book_book_book_04-Chap4_43] {Fig. 59} has become a rather famous example of
+The work of Ferruccio Laviani,[^book_book_book_book_book_book_04-Chap4_42] specifically his cabinet *Good
+Vibrations* (2013),[^book_book_book_book_book_book_04-Chap4_43] {Fig. 59} has become a rather famous example of
 work that stylistically similar to what one might anticipate New
 Aesthetic objects would appear like, showing up in many print
 publications and exhibitions over the last few years, being a
@@ -4599,7 +4706,7 @@ the digital presence.
 
 This sense of finding a space between the real and the digital is
 present in an equally interesting fashion in the work of Matthieu
-Tremblin,[^book_book_book_book_book_book_book_04-Chap4_44] a French street artist. Seemingly borrowing certain
+Tremblin,[^book_book_book_book_book_book_04-Chap4_44] a French street artist. Seemingly borrowing certain
 artistic strategies from a tradition of artists going back to Kurt
 Schwitters coupled with an acute sense of the functionality of the urban
 environment, Tremblin’s work can best be described as urban
@@ -4611,7 +4718,7 @@ redisplayed in a more congenial fashion; *Copying Van Gogh* (2013) and
 *Hakim* (2015) are re-appropriations of found graffiti tags that
 simultaneously question and assert the authenticity of street art. For
 our purposes, however, Tremblin’s most important work is *Watermark*
-(2013).[^book_book_book_book_book_book_book_04-Chap4_45] {Fig. 60} 
+(2013).[^book_book_book_book_book_book_04-Chap4_45] {Fig. 60} 
 
 ![](img/Fig060.png)   
 Fig. 60 Mathieu Tremblin, *Watermark* (2013)
@@ -4629,7 +4736,7 @@ a carefully planned execution that exemplifies what Tremblin refers to
 as ‘a certain dynamic using photography, graffiti and site-specific
 installation to end up with this attitude where we’re making forms of
 art in symbiosis with the context of its creation or diffusion, turning
-everyday life spaces in experimental art spaces’.[^book_book_book_book_book_book_book_04-Chap4_46] Almost every
+everyday life spaces in experimental art spaces’.[^book_book_book_book_book_book_04-Chap4_46] Almost every
 artwork by Tremblin can be understood within the context of this
 statement, but *Watermark* is something more; as Tremblin noted, the
 work came out of his criticism of the city of Mons’ attempt to control
@@ -4668,7 +4775,7 @@ intricate rugs and other forms of fiber art. Ahmed’s work is a result of
 the relationship between the past, in a deeply rooted traditional sense
 that he notes as extending back to the ‘beginning of times’, and the
 present as an opportunity for poignant fractures and
-reconfigurations.[^book_book_book_book_book_book_book_04-Chap4_47] Looking at Ahmed’s work it’s immediately obvious
+reconfigurations.[^book_book_book_book_book_book_04-Chap4_47] Looking at Ahmed’s work it’s immediately obvious
 why it’s relevant here: with work like *Ledge* (2011), *Oiling* (2012),
 *Liquid* (2014) and, especially, *Tradition in Pixel* (2010), {Fig. 61}
 the fields of liminality he explores between traditional carpet design
@@ -4697,7 +4804,7 @@ Ahmed’s own statements back this up:
 > research and as I communicate with it, I create art. My carpets,
 > installations and embroideries are the result of this interplay. It is
 > fascinating to observe the process of such an easy transformation of
-> such ancient and stable objects.[^book_book_book_book_book_book_book_04-Chap4_48]
+> such ancient and stable objects.[^book_book_book_book_book_book_04-Chap4_48]
 
 It is Ahmed’s assertion of the ease of the transformation that’s just as
 intriguing as the objects themselves. Why is it easy? Not just because
@@ -4718,7 +4825,7 @@ writes:
 > Eastern culture is very rich visually. I cover it all in minimalistic
 > forms, destroying the stereotypes of the tradition and creating new
 > modern boundaries. A man can widen the borders and change them but no
-> one has ever dare to break our spirit.[^book_book_book_book_book_book_book_04-Chap4_49]
+> one has ever dare to break our spirit.[^book_book_book_book_book_book_04-Chap4_49]
 
 Understanding the carpet as a symbol of invincible tradition, Ahmed’s
 pixelating reinforces its digital transformation as an alteration,
@@ -4741,13 +4848,13 @@ level. One of the best examples of this is the use of glitch effects in
 the photography of Sabato Visconti, a Brazilian born artist trained and
 working in the United States. According to Visconti’s website it was a
 defective memory card that prompted his experimentation with glitch
-photography in 2011.[^book_book_book_book_book_book_book_04-Chap4_50] Visconti’s art puts him at the forefront of
+photography in 2011.[^book_book_book_book_book_book_04-Chap4_50] Visconti’s art puts him at the forefront of
 glitch photography; using deliberately executed errors which Visconti
 refers to as ‘breaking the image’, he tries to strike a balance between
 a complete collapse of the image into digital errors and
 incomprehensible artifacts and straight photography, ‘trying to find
 this really fine balance where something doesn’t break fully, but breaks
-just to the point that you can see it breaking’.[^book_book_book_book_book_book_book_04-Chap4_51] {Fig. 62}
+just to the point that you can see it breaking’.[^book_book_book_book_book_book_04-Chap4_51] {Fig. 62}
 
 ![](img/Fig062.png)   
 Fig. 62 Sabato Visconti, *Peeper (11th
@@ -4761,7 +4868,7 @@ point of surrealism, a connection that is evident in the control that he
 tries to maintain over the final product. In fact, it’s clear that there
 is a thread of art historical referentiality, particularly with certain
 images that show a strong influence from other artists like René
-Magritte[^book_book_book_book_book_book_book_04-Chap4_52] and André Kertész, even if art history permeates only at
+Magritte[^book_book_book_book_book_book_04-Chap4_52] and André Kertész, even if art history permeates only at
 the most superficial level. {Fig. 63} 
 
 ![](img/Fig063.png)   
@@ -4781,7 +4888,7 @@ parameters.
 > almost like a super warped-out VHS effect, you’re going to want to use
 > an audio program for that \[…\] It’s definitely more satisfying
 > sometimes when you get down and dirty with the code and kind of just
-> finesse something out.[^book_book_book_book_book_book_book_04-Chap4_53]
+> finesse something out.[^book_book_book_book_book_book_04-Chap4_53]
 
 The balance that Visconti is trying to strike here is clearly twofold:
 on the one hand his efforts are directed towards producing an image that
@@ -4804,14 +4911,14 @@ What’s amazing about Visconti work is the variety of techniques he uses:
 > characters in the final image. He’s embraced cachemashing, and
 > distorted photos by converting them to vectors then databending the
 > file. The point being: There are plenty of ways to glitch a
-> photo.[^book_book_book_book_book_book_book_04-Chap4_54]
+> photo.[^book_book_book_book_book_book_04-Chap4_54]
 
 At the same time, what brings Visconti’s work back into the realm of
 normal art production is the virtuosity with which he uses the digital
 tools he’s familiarized himself with most. In the end, the result is
 that ‘glitch photography transcends the idea of simply altering
 something and becomes a medium in its own right, replete with a digital
-toolbox of tricks and best practices’.[^book_book_book_book_book_book_book_04-Chap4_55] Clearly there’s a concern on
+toolbox of tricks and best practices’.[^book_book_book_book_book_book_04-Chap4_55] Clearly there’s a concern on
 Visconti’s part to produce the best possible image, the most successful
 example of art, and to that end he’s quite upfront about continuing to
 have control over the final images.
@@ -4823,9 +4930,9 @@ have control over the final images.
 > labor intensive as any other art form. Glitching is the careful
 > simulation of malfunction. It’s an absurd scheme that requires some
 > finesse, because some glitches will break a file beyond recognition
-> and other glitches will have no effect at all.[^book_book_book_book_book_book_book_04-Chap4_56]
+> and other glitches will have no effect at all.[^book_book_book_book_book_book_04-Chap4_56]
 
-Visconti uses Pixel-Drifter,[^book_book_book_book_book_book_book_04-Chap4_57] a program written by Dmitriy
+Visconti uses Pixel-Drifter,[^book_book_book_book_book_book_04-Chap4_57] a program written by Dmitriy
 Krotevich, in much of his work. Pixel-Drifter works by taking the
 ‘power’ of each pixel, gauged by its luminosity and screen position, and
 putting it into conflict with its neighboring pixels in parameters set
@@ -4839,7 +4946,7 @@ Aesthetic. As noted by Margaret Rhodes:
 > hiccups can distort an image. Depending on who you asked, glitch art
 > only qualified as glitch art if the aesthetic cracks happened by
 > accident. Then the medium evolved, and some digital artists began to
-> force those errors by editing code and manipulating pixels.[^book_book_book_book_book_book_book_04-Chap4_58]
+> force those errors by editing code and manipulating pixels.[^book_book_book_book_book_book_04-Chap4_58]
 
 It is here that we draw a distinction between art informed by the New
 Aesthetic as product and actual New Aesthetic art objects as artistic
@@ -4874,10 +4981,10 @@ wherein his images of people with their head covered by mirrors evoked a
 need for privacy in our ever-present state of facial recognition, but
 what makes *Sur-Fake* even more interesting is the apparent willingness
 of the participants to relinquish their identities to their
-technological mediators.[^book_book_book_book_book_book_book_04-Chap4_59] Geiger writes: ‘What interests me in this
+technological mediators.[^book_book_book_book_book_book_04-Chap4_59] Geiger writes: ‘What interests me in this
 texture of sucked faces, is that the over-exposure gradually allows a
 very organic dimension, as well as digital, to render something quite
-disturbing.’[^book_book_book_book_book_book_book_04-Chap4_60]
+disturbing.’[^book_book_book_book_book_book_04-Chap4_60]
 
 Ralf Brueck’s work bears some resemblance to that of Geiger, but there
 are crucial differences that only come out through a closer inspection.
@@ -4931,31 +5038,31 @@ series thus:
 > Distorted shapes and glitches disrupt otherwise normal landscapes,
 > making it easy to imagine paranormal activity or a good old-fashioned
 > beaming up. In his series Dekonstruktion and Distortion, Brueck brings
-> the unnatural closer to home.[^book_book_book_book_book_book_book_04-Chap4_61]
+> the unnatural closer to home.[^book_book_book_book_book_book_04-Chap4_61]
 
 We’re not sure where the aliens are – Brueck notes that there’s been
 almost a constant tendency to look at this work in a science fiction
-context[^book_book_book_book_book_book_book_04-Chap4_62] – but the disjunctive relationship between the familiar and
+context[^book_book_book_book_book_book_04-Chap4_62] – but the disjunctive relationship between the familiar and
 the otherworldly presses our aesthetic sensibilities into a
 consideration of the medium. Brueck works with a 4x5 analog camera and
 is self-taught in the use of digital manipulation software. He notes:
 ‘One of the ideas behind my work is to manipulate the DNA of the
 picture, to let it mutate. Every detail you see originates only from the
-one sole photo.’[^book_book_book_book_book_book_book_04-Chap4_63] From this, we would suppose that, despite the
+one sole photo.’[^book_book_book_book_book_book_04-Chap4_63] From this, we would suppose that, despite the
 initial analog origins, the presence of digital manipulation is almost
 teleological, a position substantiated by Amani Olu’s and Jon
 Feinstein’s curated photography website, which states: ‘Ralf Brueck
 manipulations of images are not geared towards pointing out that
 contemporary digital photography is deficient in its representation of
-reality but argues that a photograph constitutes its own reality.’[^book_book_book_book_book_book_book_04-Chap4_64]
+reality but argues that a photograph constitutes its own reality.’[^book_book_book_book_book_book_04-Chap4_64]
 
 The use of distortions by digital manipulation software has often been
 noted as a readily identifiable manifestation of the influence of the
 New Aesthetic, if not an example in its own right. Artists like Mishka
-Henner have produced work like *Dutch Landscapes* (2011)[^book_book_book_book_book_book_book_04-Chap4_65] {Fig. 68}
+Henner have produced work like *Dutch Landscapes* (2011)[^book_book_book_book_book_book_04-Chap4_65] {Fig. 68}
 that explore the concessions that Google makes to government censorship
 and its ‘need’ for secrecy, and Helmut Smits’ *Dead Pixel in Google
-Earth* (2008-10)[^book_book_book_book_book_book_book_04-Chap4_66] {Fig. 69} borrows from Land Art techniques to
+Earth* (2008-10)[^book_book_book_book_book_book_04-Chap4_66] {Fig. 69} borrows from Land Art techniques to
 aesthetically contrast our expectations and experiences in the
 digitizing of our landscapes. 
 
@@ -4973,9 +5080,9 @@ different directions these artists have taken. Asendorf is one of the
 first digital artists to start using pixel sorting, a technique wherein
 pixels in an image are sorted along certain parameters, and Asendorf’s
 release of his own programming code for pixel sorting quickly sparked a
-wide range of emulators and imitators.[^book_book_book_book_book_book_book_04-Chap4_67] With images like those in
-the series *Mountain Tour* (2010)[^book_book_book_book_book_book_book_04-Chap4_68] {Fig. 70} and an example of his
-work processing source code,[^book_book_book_book_book_book_book_04-Chap4_69] Asendorf is clearly subverting the
+wide range of emulators and imitators.[^book_book_book_book_book_book_04-Chap4_67] With images like those in
+the series *Mountain Tour* (2010)[^book_book_book_book_book_book_04-Chap4_68] {Fig. 70} and an example of his
+work processing source code,[^book_book_book_book_book_book_04-Chap4_69] Asendorf is clearly subverting the
 conventions of landscape while at the same articulating divergent
 aesthetic parameters. 
 
@@ -4996,7 +5103,7 @@ the New Aesthetic but is not fully participating in its attitude. {Fig.
 71} Installed at *The Power of Things* exhibition at the DEAF (Dutch
 Electronic Art Festival) in 2012, *Sandbox* is an elaborate skillful
 recreation of a desert environment, with a diorama enclosing only sand
-and wind.[^book_book_book_book_book_book_book_04-Chap4_70] 
+and wind.[^book_book_book_book_book_book_04-Chap4_70] 
 
 ![](img/Fig071.png)   
 Fig. 71 Erwin Driessens and Maria
@@ -5010,7 +5117,7 @@ far more than that; V2, the ‘Institute for Unstable Media’ describes the
 team of artists as producing ‘e-volved’ imagery based on scientific
 principles, resulting in an exploration of ‘the possibilities that
 physical, chemical and computer algorithms offer for the development of
-image-generating processes’.[^book_book_book_book_book_book_book_04-Chap4_71] What differentiates the work by
+image-generating processes’.[^book_book_book_book_book_book_04-Chap4_71] What differentiates the work by
 Driessens & Verstappen from a being merely a display of scientific
 principles is the governing, systematic structure of control digitally
 implemented in their work; as they note about their own work:
@@ -5024,13 +5131,13 @@ implemented in their work; as they note about their own work:
 > self-organising processes in our natural surroundings: the complex
 > dynamics of all kinds of physical processes and the
 > genetic-evolutionary system of organic life that continuously creates
-> new and original forms.[^book_book_book_book_book_book_book_04-Chap4_72]
+> new and original forms.[^book_book_book_book_book_book_04-Chap4_72]
 
 The emphasis on natural growth puts their work very close to being New
 Aesthetic, but at the same time we’re not so certain about the
 naturalness in that there’s little apparent autonomy to the programming.
 The series of images *E-volved Cultures* (2005-2011) {Fig. 72} and
-*Formulae E-volver* (2015)[^book_book_book_book_book_book_book_04-Chap4_73] get even closer – perhaps genuinely
+*Formulae E-volver* (2015)[^book_book_book_book_book_book_04-Chap4_73] get even closer – perhaps genuinely
 closer to the New Aesthetic than anything we’ve discussed so far – but
 their dependency on complex mathematical formulas, with the
 predetermined pathways of visual development that maintain a viable
@@ -5082,7 +5189,7 @@ relativity, Ikeda’s installation, atop the Brewer Street Car Park in
 London, as part of a series supported by The Vinyl Factory, was a
 disorienting experience divided into two sections and that is ‘an
 artistic vision of the reality of nature through an immersive and
-sensory experience to the visitors’.[^book_book_book_book_book_book_book_04-Chap4_74] In the first section of
+sensory experience to the visitors’.[^book_book_book_book_book_book_04-Chap4_74] In the first section of
 *supersymmetry*, large numbers of balls roll across moving platforms
 that are sometimes illuminated by strobe lighting and scanned *in situ*;
 in the second section, the data produced by the balls is projected onto
@@ -5107,7 +5214,7 @@ starting point to understanding Ikeda’s intentions:
 > the language of science too well, either, but I do know one thing: it
 > is concerned with the wonder of nature. There is a depressing lack of
 > wonder in this technically sophisticated but intellectually and
-> emotionally empty art.[^book_book_book_book_book_book_book_04-Chap4_75]
+> emotionally empty art.[^book_book_book_book_book_book_04-Chap4_75]
 
 <span id="Chapter_3a_New_Aesthetics_Art_"
 class="anchor"></span>Regardless of Jones’ inability to see the wonder,
@@ -5152,250 +5259,250 @@ fashion. It’s when these and other examples of art, immersive and all
 encompassing, affect us that the categorical conditions of existence of
 New Aesthetic art are revealed.
 
-[^book_book_book_book_book_book_book_04-Chap4_1]: Aram Bartholl, ‘Dropping the Internet’, *Datenform*, 2014,
+[^book_book_book_book_book_book_04-Chap4_1]: Aram Bartholl, ‘Dropping the Internet’, *Datenform*, 2014,
     <http://datenform.de/dropping-the-internet-eng.html>.
 
-[^book_book_book_book_book_book_book_04-Chap4_2]: Christian Ulrik Andersen and Søren Bro Pold, ‘Aesthetics of the
+[^book_book_book_book_book_book_04-Chap4_2]: Christian Ulrik Andersen and Søren Bro Pold, ‘Aesthetics of the
     Banal – “New Aesthetics” in an Era of Diverted Digital Revolutions’,
     in David M. Berry and Michael Dieter (eds) *Postdigital Aesthetics:
     Art, Computation and Design*, New York: Palgrave MacMillan, 2015, p.
     286.
 
-[^book_book_book_book_book_book_book_04-Chap4_3]: Aram Bartholl, ‘Dropping the Internet’.
+[^book_book_book_book_book_book_04-Chap4_3]: Aram Bartholl, ‘Dropping the Internet’.
 
-[^book_book_book_book_book_book_book_04-Chap4_4]: Alexander Baumgarten, Paetzold, Heinz (ed.) *Meditationes
+[^book_book_book_book_book_book_04-Chap4_4]: Alexander Baumgarten, Paetzold, Heinz (ed.) *Meditationes
     philosophicae de nonnullis ad poema pertinentibus/Philosophische
     Betrachtungen über einige Bedingungen des Gedichtes*, Hamburg: Felix
     Meiner Verlag, 1983. p. 24
 
-[^book_book_book_book_book_book_book_04-Chap4_5]: Alexander Baumgarten, Aesthetica/Ästhetik, Dagmar Mirbach (ed), 2
+[^book_book_book_book_book_book_04-Chap4_5]: Alexander Baumgarten, Aesthetica/Ästhetik, Dagmar Mirbach (ed), 2
     vols.,Hamburg: Felix Meiner Verlag, 2007. (*Aesthetica*, §14)
 
-[^book_book_book_book_book_book_book_04-Chap4_6]: J. Colin McQuillian, “Baumgarten on Sensible Perfection”
+[^book_book_book_book_book_book_04-Chap4_6]: J. Colin McQuillian, “Baumgarten on Sensible Perfection”
     *Philosophica*, 44, Lisboa, 2014, pp. 53-54.
 
-[^book_book_book_book_book_book_book_04-Chap4_7]: Google Cultural Institute,
+[^book_book_book_book_book_book_04-Chap4_7]: Google Cultural Institute,
     <https://www.google.com/culturalinstitute/about/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_8]: João Enxuto and Erica Love, ‘Anonymous Paintings (2011-)’,
+[^book_book_book_book_book_book_04-Chap4_8]: João Enxuto and Erica Love, ‘Anonymous Paintings (2011-)’,
     *theoriginalcopy.net*, 2011,
     <http://www.sept6.info/anonymous-paintings/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_9]: Enxuto and Love, ‘Anonymous Paintings (2011-)’.
+[^book_book_book_book_book_book_04-Chap4_9]: Enxuto and Love, ‘Anonymous Paintings (2011-)’.
 
-[^book_book_book_book_book_book_book_04-Chap4_10]: ‘Enxuto & Love, Anonymous Paintings’, (Press Release), Carriage
+[^book_book_book_book_book_book_04-Chap4_10]: ‘Enxuto & Love, Anonymous Paintings’, (Press Release), Carriage
     Trade Gallery, October 2013,
     <http://www.carriagetrade.org/article82,82>.
 
-[^book_book_book_book_book_book_book_04-Chap4_11]: Peter Brook, ‘See Some Art While You Can – Google Will Eventually
+[^book_book_book_book_book_book_04-Chap4_11]: Peter Brook, ‘See Some Art While You Can – Google Will Eventually
     Replace Museums’, *Wired.com*, September 2013,
     <http://www.wired.com/2013/09/see-some-art-whir-you-can-google-will-eventually-replace-museums/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_12]: So much so that Scott wrote that without realizing he was using
+[^book_book_book_book_book_book_04-Chap4_12]: So much so that Scott wrote that without realizing he was using
     the same exact phrase quote on the Wikipedia article about the
     painting <https://en.wikipedia.org/wiki/The\_School\_of\_Athens>,
     which quotes Janson’s *History of Art: The Western Tradition*. Which
     itself is a quotation from various other sources.
 
-[^book_book_book_book_book_book_book_04-Chap4_13]: Andrew Lambirth, ‘Welcome home, Malcolm Morley’, *The Spectator*,
+[^book_book_book_book_book_book_04-Chap4_13]: Andrew Lambirth, ‘Welcome home, Malcolm Morley’, *The Spectator*,
     26 October 2013,
     <http://new.spectator.co.uk/2013/10/malcolm-morley-the-last-wild-man-of-modern-art/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_14]: Ben Marks, ‘Art in the Infographic Age’, 22 August 2014, *Boing Boing*, <http://boingboing.net/2014/08/22/art-in-the-infographic-age.html>.
+[^book_book_book_book_book_book_04-Chap4_14]: Ben Marks, ‘Art in the Infographic Age’, 22 August 2014, *Boing Boing*, <http://boingboing.net/2014/08/22/art-in-the-infographic-age.html>.
 
-[^book_book_book_book_book_book_book_04-Chap4_15]: Strong Stuff, Tom Whalen Illustrations-Design,
+[^book_book_book_book_book_book_04-Chap4_15]: Strong Stuff, Tom Whalen Illustrations-Design,
     <http://www.strongstuff.net/about-flatiron/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_16]: ZKM Exhibitions, August 2006, ‘Georg Nees – The Great Temptation:
+[^book_book_book_book_book_book_04-Chap4_16]: ZKM Exhibitions, August 2006, ‘Georg Nees – The Great Temptation:
     Early generative computer graphics’, *ZKM*,
     <http://on1.zkm.de/zkm/stories/storyReader\$5255>.
 
-[^book_book_book_book_book_book_book_04-Chap4_17]: Thomas Dreher, ‘Computer Graphics’, *History of Computer Art*,
+[^book_book_book_book_book_book_04-Chap4_17]: Thomas Dreher, ‘Computer Graphics’, *History of Computer Art*,
     September 2013,
     <http://iasl.uni-muenchen.de/links/GCA-III.2e.html\#Computergrafik>.
 
-[^book_book_book_book_book_book_book_04-Chap4_18]: compArt database Digital Art (daDA), ‘Georg Nees:
+[^book_book_book_book_book_book_04-Chap4_18]: compArt database Digital Art (daDA), ‘Georg Nees:
     Computergrafik’, <http://dada.compart-bremen.de/item/exhibition/164>.
 
-[^book_book_book_book_book_book_book_04-Chap4_19]: Victoria & Albert Museum, ‘A History of Computer Art’,
+[^book_book_book_book_book_book_04-Chap4_19]: Victoria & Albert Museum, ‘A History of Computer Art’,
     <http://www.vam.ac.uk/content/articles/a/computer-art-history/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_20]: A. Michael Noll, <http://noll.uscannenberg.org/>.
+[^book_book_book_book_book_book_04-Chap4_20]: A. Michael Noll, <http://noll.uscannenberg.org/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_21]: A. Michael Noll, ‘Human or Machine: A Subjective Comparison of
+[^book_book_book_book_book_book_04-Chap4_21]: A. Michael Noll, ‘Human or Machine: A Subjective Comparison of
     Piet Mondrian’s ‘Composition with Lines’ and a Computer–Generated
     Picture,’ *The Psychological Record*, Vol. 16. No. 1, January 1966,
     pp. 1-10.
 
-[^book_book_book_book_book_book_book_04-Chap4_22]: DAM Berlin, ‘Artist’s Statement: Frieder Nake in conversation
+[^book_book_book_book_book_book_04-Chap4_22]: DAM Berlin, ‘Artist’s Statement: Frieder Nake in conversation
     with Wolf Lieser at the DAM GALLERY Berlin, November 2010’, November
     2010,
     <http://dam.org/artists/phase-one/frieder-nake/artist-s-statement>.
 
-[^book_book_book_book_book_book_book_04-Chap4_23]: *Page* No. 18, October 1971, pp. 1-2. Reprinted in Arie Altena,
+[^book_book_book_book_book_book_04-Chap4_23]: *Page* No. 18, October 1971, pp. 1-2. Reprinted in Arie Altena,
     Lucas van der Velden (eds) *The anthology of computer art*,
     Amsterdam: Sonic Acts 2006, pp. 59-60.
 
-[^book_book_book_book_book_book_book_04-Chap4_24]: Wikipedia contributors. ‘Frieder Nake’, 26 February 2016,
+[^book_book_book_book_book_book_04-Chap4_24]: Wikipedia contributors. ‘Frieder Nake’, 26 February 2016,
     <https://en.wikipedia.org/w/index.php?title=Frieder_Nake&oldid=688732078>.
 
-[^book_book_book_book_book_book_book_04-Chap4_25]: compArt database Digital Art (daDA), ‘Hiroshi Kawano’,
+[^book_book_book_book_book_book_04-Chap4_25]: compArt database Digital Art (daDA), ‘Hiroshi Kawano’,
     <http://dada.compart-bremen.de/item/agent/234>.
 
-[^book_book_book_book_book_book_book_04-Chap4_26]: Index for jean-pierre hébert, ‘Biography’,
+[^book_book_book_book_book_book_04-Chap4_26]: Index for jean-pierre hébert, ‘Biography’,
     <http://jeanpierrehebert.com/docs/bio1209.pdf>.
 
-[^book_book_book_book_book_book_book_04-Chap4_27]: compArt database Digital Art (daDA), Jean-Pierre Hébert’,
+[^book_book_book_book_book_book_04-Chap4_27]: compArt database Digital Art (daDA), Jean-Pierre Hébert’,
     <http://dada.compart-bremen.de/item/agent/549>.
 
-[^book_book_book_book_book_book_book_04-Chap4_28]: ‘The Work of Jean-Pierre Hébert’, *Juxtapoz*, May 22 2015,
+[^book_book_book_book_book_book_04-Chap4_28]: ‘The Work of Jean-Pierre Hébert’, *Juxtapoz*, May 22 2015,
     <http://www.juxtapoz.com/current/the-work-of-jean-pierre-hebert>.
 
-[^book_book_book_book_book_book_book_04-Chap4_29]: Thoma Foundation, ‘There Are Spirals Everywhere,’ Says Computer
+[^book_book_book_book_book_book_04-Chap4_29]: Thoma Foundation, ‘There Are Spirals Everywhere,’ Says Computer
     Artist Jean-Pierre Hébert’, (Press release), July 25 2015,
     <http://thomafoundation.org/there-are-spirals-everywhere-says-computer-artist-jean-pierre-hebert/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_30]: *Page* No. 18, October 1971, pp. 1-2. Reprinted in Arie Altena,
+[^book_book_book_book_book_book_04-Chap4_30]: *Page* No. 18, October 1971, pp. 1-2. Reprinted in Arie Altena,
     Lucas van der Velden (eds) *The Anthology of Computer Art*, pp.
     59-60.
 
-[^book_book_book_book_book_book_book_04-Chap4_31]: Tate, ‘Painting After Technology’, March, 2015,
+[^book_book_book_book_book_book_04-Chap4_31]: Tate, ‘Painting After Technology’, March, 2015,
     <http://www.tate.org.uk/whats-on/tate-modern/display/painting-after-technology>.
 
-[^book_book_book_book_book_book_book_04-Chap4_32]: Tate, ‘Painting After Technology’.
+[^book_book_book_book_book_book_04-Chap4_32]: Tate, ‘Painting After Technology’.
 
-[^book_book_book_book_book_book_book_04-Chap4_33]: Tate, ‘Painting After Technology’.
+[^book_book_book_book_book_book_04-Chap4_33]: Tate, ‘Painting After Technology’.
 
-[^book_book_book_book_book_book_book_04-Chap4_34]: Mark Godfrey, ‘Statements of Intent: Mark Godfrey on the Art of
+[^book_book_book_book_book_book_04-Chap4_34]: Mark Godfrey, ‘Statements of Intent: Mark Godfrey on the Art of
     Jacqueline Humphries, Laura Owens, Amy Sillman, and Charline von
     Heyl’, *Artforum*, April 2014,
     <http://owenslaura.com/wp-content/uploads/2014/11/LO\_2014\_Apr\_Artforum\_small.pdf>.
 
-[^book_book_book_book_book_book_book_04-Chap4_35]: Kohei Nawa, <http://kohei-nawa.net/>.
+[^book_book_book_book_book_book_04-Chap4_35]: Kohei Nawa, <http://kohei-nawa.net/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_36]: Sandwich: Creative Platform for Contemporary Art,
+[^book_book_book_book_book_book_04-Chap4_36]: Sandwich: Creative Platform for Contemporary Art,
     <http://sandwich-cpca.net/.
 
-[^book_book_book_book_book_book_book_04-Chap4_37]: artnet, ‘Kohei Nawa, SCAI The Bathhouse’,
+[^book_book_book_book_book_book_04-Chap4_37]: artnet, ‘Kohei Nawa, SCAI The Bathhouse’,
     <http://www.artnet.com/artists/kohei-nawa/polygon-double-deer-2-a-iODzN9ohK0\_WbjhUoeM5OQ2>.
 
-[^book_book_book_book_book_book_book_04-Chap4_38]: Matthew Plummer-Fernandez, <http://www.plummerfernandez.com>.
+[^book_book_book_book_book_book_04-Chap4_38]: Matthew Plummer-Fernandez, <http://www.plummerfernandez.com>.
 
-[^book_book_book_book_book_book_book_04-Chap4_39]: Stephen Fortune, ‘Disarming Corruptor will encrypt your 3D
+[^book_book_book_book_book_book_04-Chap4_39]: Stephen Fortune, ‘Disarming Corruptor will encrypt your 3D
     creations’, *Dazed*, 2014,
     <http://www.dazeddigital.com/artsandculture/article/18019/1/disarming-corruptor-will-encrypt-your-3d-creations>.
 
-[^book_book_book_book_book_book_book_04-Chap4_40]: Plummer-Fernandez, ‘sekuMoi-Mecy’,
+[^book_book_book_book_book_book_04-Chap4_40]: Plummer-Fernandez, ‘sekuMoi-Mecy’,
     <http://www.plummerfernandez.com>.
 
-[^book_book_book_book_book_book_book_04-Chap4_41]: James Bridle, ‘Report from Austin, Texas, on the New Aesthetic
+[^book_book_book_book_book_book_04-Chap4_41]: James Bridle, ‘Report from Austin, Texas, on the New Aesthetic
     panel at SXSW’, *booktwo.org*, March 15 2012,
     <http://booktwo.org/notebook/sxaesthetic/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_42]: Studio Laviani APFL, <http://www.laviani.com/>.
+[^book_book_book_book_book_book_04-Chap4_42]: Studio Laviani APFL, <http://www.laviani.com/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_43]: Studio Laviani APFL,
+[^book_book_book_book_book_book_04-Chap4_43]: Studio Laviani APFL,
     <http://www.laviani.com/\#!good-vibrations/cq2s>.
 
-[^book_book_book_book_book_book_book_04-Chap4_44]: Matthieu Tremblin, Demo De Tous Les Jours,
+[^book_book_book_book_book_book_04-Chap4_44]: Matthieu Tremblin, Demo De Tous Les Jours,
     <http://demodetouslesjours.free.fr/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_45]: Matthieu Tremblin, Demo De Tous Les Jours,
+[^book_book_book_book_book_book_04-Chap4_45]: Matthieu Tremblin, Demo De Tous Les Jours,
     <http://demodetouslesjours.free.fr/watermark/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_46]: Mark Byrnes, ‘This Is Not a Watermark: Meet French Street Artist
+[^book_book_book_book_book_book_04-Chap4_46]: Mark Byrnes, ‘This Is Not a Watermark: Meet French Street Artist
     Mathieu Tremblin’, *The Atlantic, Citylab*, 15 July 2013,
     <http://www.citylab.com/design/2013/07/not-watermark-meet-french-street-artist-mathieu-tremblin/6083/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_47]: Faig Ahmed, <http://www.faigahmed.com/about/info/>.
+[^book_book_book_book_book_book_04-Chap4_47]: Faig Ahmed, <http://www.faigahmed.com/about/info/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_48]: Faig Ahmed, <http://www.faigahmed.com/about/info/>.
+[^book_book_book_book_book_book_04-Chap4_48]: Faig Ahmed, <http://www.faigahmed.com/about/info/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_49]: Faig Ahmed, *artworks catalog*,
+[^book_book_book_book_book_book_04-Chap4_49]: Faig Ahmed, *artworks catalog*,
     <http://www.faigahmed.com/site/assets/files/1017/faig\_ahmed\_artworks\_catalogue.pdf>.
 
-[^book_book_book_book_book_book_book_04-Chap4_50]: Sabato Visconti, <http://www.sabatobox.com/about>.
+[^book_book_book_book_book_book_04-Chap4_50]: Sabato Visconti, <http://www.sabatobox.com/about>.
 
-[^book_book_book_book_book_book_book_04-Chap4_51]: Douglas Bierend, ‘Breaking Things On Purpose, Glitch Art’s
+[^book_book_book_book_book_book_04-Chap4_51]: Douglas Bierend, ‘Breaking Things On Purpose, Glitch Art’s
     Pixel-mixing Algorithms’, *Medium.com*, 26 August 2014,
     <https://medium.com/re-form/breaking-things-on-purpose-14f413bdf2ce\#.sdbpsxsmt>.
 
-[^book_book_book_book_book_book_book_04-Chap4_52]: Liz Stinson, ‘Wonderfully Twisted Photos from a Glitch Art Guru’,
+[^book_book_book_book_book_book_04-Chap4_52]: Liz Stinson, ‘Wonderfully Twisted Photos from a Glitch Art Guru’,
     *Wired.com*, 10 September 2014,
     <http://www.wired.com/2014/10/wonderfully-twisted-photos-glitch-art-guru/\#slide-8>.
 
-[^book_book_book_book_book_book_book_04-Chap4_53]: Bierend, ‘Breaking Things On Purpose, Glitch Art’s Pixel-mixing
+[^book_book_book_book_book_book_04-Chap4_53]: Bierend, ‘Breaking Things On Purpose, Glitch Art’s Pixel-mixing
     Algorithms’.
 
-[^book_book_book_book_book_book_book_04-Chap4_54]: Liz Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
+[^book_book_book_book_book_book_04-Chap4_54]: Liz Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
 
-[^book_book_book_book_book_book_book_04-Chap4_55]: Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
+[^book_book_book_book_book_book_04-Chap4_55]: Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
 
-[^book_book_book_book_book_book_book_04-Chap4_56]: Lital Khaikin, ‘The Radical Capacity of Glitch Art: Expression
+[^book_book_book_book_book_book_04-Chap4_56]: Lital Khaikin, ‘The Radical Capacity of Glitch Art: Expression
     through an Aesthetic Rooted in Error’, *REDEFINE*, 5 February 2014,
     <http://www.redefinemag.com/2014/glitch-art-expression-through-an-aesthetic-rooted-in-error/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_57]: Dmitriy Krotevich, *Pixel-Drifter*,
+[^book_book_book_book_book_book_04-Chap4_57]: Dmitriy Krotevich, *Pixel-Drifter*,
     <http://pixeldrifter.tumblr.com/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_58]: Margaret Rhodes ,’This Glitch Art is Made of Pixels Powered by
+[^book_book_book_book_book_book_04-Chap4_58]: Margaret Rhodes ,’This Glitch Art is Made of Pixels Powered by
     Their Own AI’, *Wired.com*, 7 August 2014,
     <http://www.wired.com/2014/08/this-glitch-art-is-made-of-pixels-powered-by-their-own-ai>.
 
-[^book_book_book_book_book_book_book_04-Chap4_59]: Kate Sierzputowski, ‘The Attention-Sucking Power of Digital
+[^book_book_book_book_book_book_04-Chap4_59]: Kate Sierzputowski, ‘The Attention-Sucking Power of Digital
     Technology Displayed Through Photography by Antoine Geiger’,
     *Colossal*, 11 November 2015,
     <http://www.thisiscolossal.com/2015/11/cellphone-attention-antoine-geiger/?src=footer>.
 
-[^book_book_book_book_book_book_book_04-Chap4_60]: Antoine Geiger, *Sur-Fake*,
+[^book_book_book_book_book_book_04-Chap4_60]: Antoine Geiger, *Sur-Fake*,
     <http://files.cargocollective.com/440813/SUR-FAKE--translated-.pdf>.
 
-[^book_book_book_book_book_book_book_04-Chap4_61]: Alyssa Coppelman, ‘Distorted Photos Show the Alien Side of
+[^book_book_book_book_book_book_04-Chap4_61]: Alyssa Coppelman, ‘Distorted Photos Show the Alien Side of
     Suburban Life’, *Wired.com*, 1 March 2015,
     <http://www.wired.com/2015/03/ralf-brueck-distortion/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_62]: Michael Corbin, ‘Ralf Brueck: Surreal Distortion’, *ArtBookGuy*,
+[^book_book_book_book_book_book_04-Chap4_62]: Michael Corbin, ‘Ralf Brueck: Surreal Distortion’, *ArtBookGuy*,
     <http://artbookguy.com/ralf-brueck-surreal-distortion\_433.html>.
 
-[^book_book_book_book_book_book_book_04-Chap4_63]: Alyssa Coppelman, ‘Distorted Photos Show the Alien Side of
+[^book_book_book_book_book_book_04-Chap4_63]: Alyssa Coppelman, ‘Distorted Photos Show the Alien Side of
     Suburban Life’.
 
-[^book_book_book_book_book_book_book_04-Chap4_64]: group show 42: *Occultisms* The Artists, Humble Arts Foundation,
+[^book_book_book_book_book_book_04-Chap4_64]: group show 42: *Occultisms* The Artists, Humble Arts Foundation,
     <http://hafny.org/group-show-42-occultisms-statements-and-bios/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_65]: Mishka Henner, ‘Dutch Landscapes’, *mishkahenner.com*, February
+[^book_book_book_book_book_book_04-Chap4_65]: Mishka Henner, ‘Dutch Landscapes’, *mishkahenner.com*, February
     2011, <http://mishkahenner.com/filter/works/Dutch-Landscapes>.
 
-[^book_book_book_book_book_book_book_04-Chap4_66]: Helmut Smits, ‘Dead Pixel in Google Earth’, *helmutsmits.com*,
+[^book_book_book_book_book_book_04-Chap4_66]: Helmut Smits, ‘Dead Pixel in Google Earth’, *helmutsmits.com*,
     2010, <http://helmutsmits.nl/work/dead-pixel-in-google-earth-2>.
 
-[^book_book_book_book_book_book_book_04-Chap4_67]: Kim Assendorf, *Kim Assendorf Up and Running*,
+[^book_book_book_book_book_book_04-Chap4_67]: Kim Assendorf, *Kim Assendorf Up and Running*,
     <http://kimasendorf.com/www/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_68]: ‘Mountain Tour (2010) by Kim Asendorf ‘, *Prosthetic Knowledge
+[^book_book_book_book_book_book_04-Chap4_68]: ‘Mountain Tour (2010) by Kim Asendorf ‘, *Prosthetic Knowledge
     blog*, 25 August 2012,
     <http://prostheticknowledge.tumblr.com/post/30196185509/mountain-tour-2010-by-kim-asendorf-one-of-the>.
 
-[^book_book_book_book_book_book_book_04-Chap4_69]: Kim Asendorf, ‘Processing Source Code’, 5 October 2012,
+[^book_book_book_book_book_book_04-Chap4_69]: Kim Asendorf, ‘Processing Source Code’, 5 October 2012,
     *kimasendorf blog*,
     <http://kimasendorf.tumblr.com/post/32936480093/processing-source-code>.
 
-[^book_book_book_book_book_book_book_04-Chap4_70]: Erwin Driessens & Maria Verstappen, ‘Sandbox’, 2009,
+[^book_book_book_book_book_book_04-Chap4_70]: Erwin Driessens & Maria Verstappen, ‘Sandbox’, 2009,
     <http://notnot.home.xs4all.nl/sandbox/sandbox.html>.
 
-[^book_book_book_book_book_book_book_04-Chap4_71]: V2\_Institute for the Unstable Media, ‘Sandbox’,
+[^book_book_book_book_book_book_04-Chap4_71]: V2\_Institute for the Unstable Media, ‘Sandbox’,
     <http://v2.nl/archive/works/sandbox>.
 
-[^book_book_book_book_book_book_book_04-Chap4_72]: Erwin Driessens & Maria Verstappen, ‘Bio’,
+[^book_book_book_book_book_book_04-Chap4_72]: Erwin Driessens & Maria Verstappen, ‘Bio’,
     <http://notnot.home.xs4all.nl/text/shortBio.html>.
 
-[^book_book_book_book_book_book_book_04-Chap4_73]: Erwin Driessens & Maria Verstappen, ‘E-volved Images’,
+[^book_book_book_book_book_book_04-Chap4_73]: Erwin Driessens & Maria Verstappen, ‘E-volved Images’,
     <http://notnot.home.xs4all.nl/evolvedimages/evolvedimages.html>.
 
-[^book_book_book_book_book_book_book_04-Chap4_74]: Ryoji Ikeda, ‘supersymmetry’, *Ryoji Ikeda*, 2014,
+[^book_book_book_book_book_book_04-Chap4_74]: Ryoji Ikeda, ‘supersymmetry’, *Ryoji Ikeda*, 2014,
     <http://www.ryojiikeda.com/project/supersymmetry/>.
 
-[^book_book_book_book_book_book_book_04-Chap4_75]: Jonathan Jones, ‘Should art respond to science? On this evidence,
+[^book_book_book_book_book_book_04-Chap4_75]: Jonathan Jones, ‘Should art respond to science? On this evidence,
     the answer is simple: no way’, *The Guardian*, 23 April 2015,
     <http://www.theguardian.com/artanddesign/jonathanjonesblog/2015/apr/23/art-respond-science-cern-ryoji-ikeda-supersymmetry>.  
 
@@ -5408,7 +5515,7 @@ New Aesthetic art are revealed.
 Although Walter Benjamin had posited a loss of aura in the reproduction
 of physical objects in almost apocalyptic terms, couched in his further
 analysis of the rise of fascism, and Arthur Danto posited the death of
-art[^book_book_book_book_book_book_05-Chap5_1] on the basis of art’s capacity to indistinguishably reproduce
+art[^book_book_book_book_book_05-Chap5_1] on the basis of art’s capacity to indistinguishably reproduce
 real objects in a way that parallels Benajmin’s decrying of modernist
 transformations of art almost to a level of apotheosis (though in a
 manner later disavowed but still retaining a certain feel of
@@ -5466,11 +5573,11 @@ closing patterns emerge in this site-specific work, but the grid remains
 in such a fashion that each tile takes on the approximate appearance of
 a pixel as if the entire work is a massively expanded close-up of a
 digital image that is no longer available at a resolvable level. Yet,
-this isn’t quite correct; as noted in articles,[^book_book_book_book_book_book_05-Chap5_2] the artist’s
-website[^book_book_book_book_book_book_05-Chap5_3] and the curatorial statement of the Neuberger Museum where
-it’s installed,[^book_book_book_book_book_book_05-Chap5_4] Lou’s work has increasingly shifted such that ‘I
+this isn’t quite correct; as noted in articles,[^book_book_book_book_book_05-Chap5_2] the artist’s
+website[^book_book_book_book_book_05-Chap5_3] and the curatorial statement of the Neuberger Museum where
+it’s installed,[^book_book_book_book_book_05-Chap5_4] Lou’s work has increasingly shifted such that ‘I
 became really interested in seeing what would happen if I took away
-subject matter and just had it be about process’.[^book_book_book_book_book_book_05-Chap5_5] For a number of
+subject matter and just had it be about process’.[^book_book_book_book_book_05-Chap5_5] For a number of
 years Lou lived part of the time in the KwaZulu-Natal province in South
 Africa where she employed a team of local Zulu women to help produce the
 work; in this case, and in related work, it is precisely the physical
@@ -5500,7 +5607,7 @@ teleologically:
 > likely or presumptive consequence (causal, logical, or conventional)
 > of it that is implicated in the state's origin or etiology. Such
 > consequences often, if not always, take the form of ends, goals, or
-> goods.[^book_book_book_book_book_book_05-Chap5_6]
+> goods.[^book_book_book_book_book_05-Chap5_6]
 
 The important thing that we add to Garrett’s description is the sense of
 autonomy, of independence, to the object; it’s not just that there’s an
@@ -5541,7 +5648,7 @@ works that are part of the ‘Flexible Pixels’ project. Grosser writes:
 > looks at what happens when you change these universally agreed upon
 > standards. More broadly, I’m interested in how the construction of
 > digital images alters our perceptions of reality. Does
-> computer-mediated vision change how we see without computers?[^book_book_book_book_book_book_05-Chap5_7]
+> computer-mediated vision change how we see without computers?[^book_book_book_book_book_05-Chap5_7]
 
 Grosser’s *Variable Mirror* (2009), {Fig. 77} one of the works that are
 part of this series, shows how changes can take place in the standard
@@ -5585,7 +5692,7 @@ into the real and achieves in its presentation a state that Manovich
 refers to as hybridity, where ‘software simulation substitutes a variety
 of distinct materials and the tools used to inscribe information (i.e.,
 make marks) on these materials with a new hybrid medium defined by a
-common data structure’.[^book_book_book_book_book_book_05-Chap5_8]
+common data structure’.[^book_book_book_book_book_05-Chap5_8]
 
 *Variable Mirror*, and the other examples of work from the ‘Flexible
 Pixels’ project, is an interactive work, during which the pixels used to
@@ -5643,7 +5750,7 @@ effects in the visual arts but seeing them across a variety of different
 arts that have fallen outside of the scope of typical studies of art
 historical investigation. The creative projects of a team of artists
 working in dance and theatre, the Adrien M/Claire B Company, directed by
-Adrien Mondot and Claire Bardainne in Lyon, France[^book_book_book_book_book_book_05-Chap5_9], is one of the
+Adrien Mondot and Claire Bardainne in Lyon, France[^book_book_book_book_book_05-Chap5_9], is one of the
 best examples of its presence across artistic disciplines. Since 2004,
 the company has been producing work that ranges across various artistic
 disciplines, but it would be fair to say that there’s always been a
@@ -5659,11 +5766,11 @@ intentions:
 > They place the human body at the heart of technological and artistic
 > challenges and adapt today’s technological tools to create a timeless
 > poetry through a visual language based on playing and enjoyment, which
-> breeds imagination.[^book_book_book_book_book_book_05-Chap5_10]
+> breeds imagination.[^book_book_book_book_book_05-Chap5_10]
 
 Different examples of their work reflect this exploration of the
 conjunction of the human presence and digital constructions in an
-imaginative fashion. *Convergence 1.0* (2005)[^book_book_book_book_book_book_05-Chap5_11] is a notable early
+imaginative fashion. *Convergence 1.0* (2005)[^book_book_book_book_book_05-Chap5_11] is a notable early
 work, in which a juggler uses virtual balls and interacts with
 phantasmal figures in ways that seemingly undercut physical laws of time
 and space. It is an exploration of the human presence of the performer
@@ -5688,7 +5795,7 @@ and a relativistic geography, which the artists describe as follows:
 > imaginary fields are to be explored.
 >
 > A pathway, as if traversing, revisiting nature; a coincidence between
-> geometry and the organic: between real and virtual.[^book_book_book_book_book_book_05-Chap5_12]
+> geometry and the organic: between real and virtual.[^book_book_book_book_book_05-Chap5_12]
 
 ![](img/Fig078.png)   
 Fig. 78 Adrien M / Claire B Company,
@@ -5713,14 +5820,14 @@ mouvement de l’air* (2015)
 With *Hakanaï*, which
 means fleeting, ephemeral or transient in Japanese, the ‘performance’s
 outcome is the revelation of a digital installation to its
-audience’[^book_book_book_book_book_book_05-Chap5_13] as the software responds to sounds generated by the
+audience’[^book_book_book_book_book_05-Chap5_13] as the software responds to sounds generated by the
 dancer as she moves through the space and responds to imagery digitally
 projected around her by the software. In *Le mouvement de l’air*, three
 dancers move through an immersive environment of projected images; an
 important element of this performance is the physical space which is
 shaped responsively by the software. The designers hope this will be
 understood as more than just a ‘technical achievement, what matters is
-the attempt at creating a motion dreamscape by way of images’.[^book_book_book_book_book_book_05-Chap5_14] This
+the attempt at creating a motion dreamscape by way of images’.[^book_book_book_book_book_05-Chap5_14] This
 sense of digital presence in a cooperative, responsive partnership makes
 both *Hakanaï* and *Le mouvement de l’air* particularly strong
 candidates as examples of New Aesthetic art. *Hakanaï* is, according to
@@ -5737,7 +5844,7 @@ fashion that is never rehearsed nor previously animated.
 > precise writing of motions and generative behaviors. Thus, the images
 > are never pre-recorded for a rigid show on an imposed rhythm: on the
 > contrary, they breathe and move with the dancers and organize a new
-> space for them to explore.[^book_book_book_book_book_book_05-Chap5_15]
+> space for them to explore.[^book_book_book_book_book_05-Chap5_15]
 
 It’s this notion of a ‘living light’ that breaks the company’s
 performances out of the normal modes of theater or performance art and
@@ -5785,7 +5892,7 @@ from Lev Manovich, who writes:
 > not have any development, thematically, formally, or otherwise that
 > would organize their elements into a sequence. Instead, they are
 > collections of individual items, with every item possessing the same
-> significance as any other.[^book_book_book_book_book_book_05-Chap5_16]
+> significance as any other.[^book_book_book_book_book_05-Chap5_16]
 
 This is a remarkably interesting thing to state. Manovich is strongly
 asserting that interactivity is increasingly unavailable, that most
@@ -5819,26 +5926,26 @@ lives.
 A number of New Aesthetic artistic responses explore this situation and
 we want to highlight three of them: the work of Adam Harvey, Zach Blas
 and the collective Metahaven. Symptomatic of this response to the agency
-of interactivity is the work of Adam Harvey.[^book_book_book_book_book_book_05-Chap5_17] Harvey’s art has
+of interactivity is the work of Adam Harvey.[^book_book_book_book_book_05-Chap5_17] Harvey’s art has
 become well known for being at the forefront of the artistic exploration
 of security and privacy issues, in particular focusing on the imbalance
 and power asymmetries between surveillance technology and basic human
 rights. Three recent projects starkly project Harvey’s clear
 understanding of the insidiousness of surveillance technology and its
-negative effects: *CV Dazzle* (2010),[^book_book_book_book_book_book_05-Chap5_18] *Stealth Wear* (2013) and the
-*Privacy Gift Shop* (2013)[^book_book_book_book_book_book_05-Chap5_19] that was on display in the New Museum,
+negative effects: *CV Dazzle* (2010),[^book_book_book_book_book_05-Chap5_18] *Stealth Wear* (2013) and the
+*Privacy Gift Shop* (2013)[^book_book_book_book_book_05-Chap5_19] that was on display in the New Museum,
 New York City, in 2016. *CV Dazzle* {Fig. 81} is our primary focus, as
 it’s clear that the other two projects share their origins and concerns
 with it; inspired by the camouflage patterns used by British and
 American navy ships during WWI that were based on modernist art styles
-of geometric patterns,[^book_book_book_book_book_book_05-Chap5_20] *CV Dazzle* similarly is an effort to
+of geometric patterns,[^book_book_book_book_book_05-Chap5_20] *CV Dazzle* similarly is an effort to
 obscure or defeat pattern and facial recognition algorithms used by
 security services across many levels of contemporary society from
 national government organizations to local shopping malls; moreover it
-is a conceptual reaction to OpenCV,[^book_book_book_book_book_book_05-Chap5_21] an open sourced software used
+is a conceptual reaction to OpenCV,[^book_book_book_book_book_05-Chap5_21] an open sourced software used
 for facial recognition, and a clear response to the Janus program’s
 efforts to utilize social media to improve facial recognition with
-algorithmically driven databases.[^book_book_book_book_book_book_05-Chap5_22] 
+algorithmically driven databases.[^book_book_book_book_book_05-Chap5_22] 
 
 ![](img/Fig081.png)   
 Fig. 81 Adam Harvey, *CV Dazzle* (2010)
@@ -5855,7 +5962,7 @@ concerns, with Metahaven recently noting:
 > person’s capacity to evade surveillance is determined by their
 > position in a feudal matric of technological and institutional
 > dependencies. Almost all antidotes to this patronizing system of
-> global surveillance go under shades of black.[^book_book_book_book_book_book_05-Chap5_23]
+> global surveillance go under shades of black.[^book_book_book_book_book_05-Chap5_23]
 
 *CV Dazzle* is one of those exemptions, an almost aggressive artistic
 response to governments’ efforts at creating a self-justifying program
@@ -5883,14 +5990,14 @@ people the ‘dazzled’ individual now hides in plain sight.
 This last point is where *CV Dazzle* enters the realm of the New
 Aesthetic as art, as noted in the curious remark in *dis* magazine that
 ‘CV Dazzle is an unobvious style of camouflage because its eye-catching
-patterns and colors draw attention instead of hiding from it’[^book_book_book_book_book_book_05-Chap5_24] along
+patterns and colors draw attention instead of hiding from it’[^book_book_book_book_book_05-Chap5_24] along
 with the paraphrased instructions, borrowing from Harvey’s own website,
 that enhancing makeup should be avoided, the nosebridge should be
 obscured, the area around the eyes needs to appear altered and, perhaps
 most importantly, ‘Remain inconspicuous \[…\] For camouflage to
 function, it must not be perceived as a mask or disguise. NB: Wearing
 masks or disguises can be illegal in some cities, including here in
-NYC.’[^book_book_book_book_book_book_05-Chap5_25] What’s curious about these instructions revolves around the
+NYC.’[^book_book_book_book_book_05-Chap5_25] What’s curious about these instructions revolves around the
 contrasting characterization of these strategies to both remain
 unobvious and to not demand attention, which is almost an impossibility.
 To put it another way, it’s clear that there’s a difficult balance
@@ -5902,7 +6009,7 @@ Tech’ that notes that *CV Dazzle* ‘combines hipster fashion aesthetics
 with hardcore reverse engineering of face detection software. The goal:
 to give individuals a low-cost and visually stimulating means to prevent
 their likenesses from being detected and cataloged by face-recognition
-monitors.’[^book_book_book_book_book_book_05-Chap5_26] *CV Dazzle* is dependent on a heightened awareness of
+monitors.’[^book_book_book_book_book_05-Chap5_26] *CV Dazzle* is dependent on a heightened awareness of
 being observed with a desire or need to avoid being observed precisely
 by being almost excessively observable, an attitude based entirely on a
 heightened awareness that digital surveillance is far more threatening
@@ -5912,7 +6019,7 @@ evident in the work from the series *Stealth Wear* {Fig. 82} that is
 described thus: ‘Collectively, Stealth Wear is a vision for fashion that
 addresses the rise of surveillance, the power of those who surveil, and
 the growing need to exert control over what we are slowly losing, our
-privacy.’[^book_book_book_book_book_book_05-Chap5_27] 
+privacy.’[^book_book_book_book_book_05-Chap5_27] 
 
 ![](img/Fig082.png)   
 Fig. 82 Adam Harvey, *Stealth Wear* (2013)
@@ -5924,7 +6031,7 @@ precisely the conditions they seek to counter that define the validity
 of its efforts, but it’s also precisely the impossible success of these
 efforts that define their artistic value. As the description of the
 Janus program notes: ‘Data volume now becomes an integral part of the
-solution instead of an oppressive burden.’[^book_book_book_book_book_book_05-Chap5_28] It’s as if the volume of
+solution instead of an oppressive burden.’[^book_book_book_book_book_05-Chap5_28] It’s as if the volume of
 data has taken on a life of its own, self-determinatively driving
 initiatives in an autonomous fashion, with *CV Dazzle* reflecting an
 unconscious concession on the part of its participants that their
@@ -5954,8 +6061,8 @@ transparency against the continual demands of social and cultural
 structures to account for oneself, Zach Blas’ work addresses many of the
 same issues as Harvey’s. For one, it also addresses the complex issues
 of facial recognition as an intrusion into privacy rights, but his
-*Facial Weaponization Suite* (2013)[^book_book_book_book_book_book_05-Chap5_29] {Fig. 83} takes a different and
-more intriguing artistic strategy.[^book_book_book_book_book_book_05-Chap5_30] 
+*Facial Weaponization Suite* (2013)[^book_book_book_book_book_05-Chap5_29] {Fig. 83} takes a different and
+more intriguing artistic strategy.[^book_book_book_book_book_05-Chap5_30] 
 
 ![](img/Fig083.png)   
 Fig. 83 Zach Blas, *Facial Weaponization
@@ -5975,7 +6082,7 @@ Blas asks:
 > originally designed to prevent Hudson Valley tenant farmers from
 > dressing in disguise and rioting over debt and eviction? Why does
 > facelessness fuel the state of New York to surreptitiously construct
-> incentives for protestors to willingly agree to biometric scans?[^book_book_book_book_book_book_05-Chap5_31]
+> incentives for protestors to willingly agree to biometric scans?[^book_book_book_book_book_05-Chap5_31]
 
 The answer to that question seems obvious – there isn’t much difference
 between the aims of 19th century rioters and the Wall Street protestors,
@@ -5993,8 +6100,8 @@ For Blas ‘the
 face becomes a site of ever increasing control and governance’ and his
 *Facial Weaponization Suite* is specifically a means of arming
 individuals against those efforts at control in a manner similar to
-Berry’s articulation of ‘obfuscated code’[^book_book_book_book_book_book_05-Chap5_32] resulting in ‘data
-exhaustion’.[^book_book_book_book_book_book_05-Chap5_33] At the same time, *Facial Weaponization Suite* is more
+Berry’s articulation of ‘obfuscated code’[^book_book_book_book_book_05-Chap5_32] resulting in ‘data
+exhaustion’.[^book_book_book_book_book_05-Chap5_33] At the same time, *Facial Weaponization Suite* is more
 than just an experiment but is an elegantly aggressive artistic response
 to a crucial issue of our contemporary world, like Hito Steyerl notes:
 
@@ -6007,7 +6114,7 @@ to a crucial issue of our contemporary world, like Hito Steyerl notes:
 > possibly much more fun too! Fuck military technology. Fuck
 > infrastructure. Fuck drones. Fuck protocol ‘til it hums with pleasure.
 > Throw in glitter and some shiny sensors. And after a few million
-> years, there might be a smashing progeny![^book_book_book_book_book_book_05-Chap5_34]
+> years, there might be a smashing progeny![^book_book_book_book_book_05-Chap5_34]
 
 In response to Shoshana Amielle Magnet’s argument that biometric
 recognition is a failure because human identity cannot be reduced to a
@@ -6017,7 +6124,7 @@ community workshops that deny facial recognition software
 algorithmically applicable data. While functioning as masks, the objects
 of the *Suite* ‘are weapons of defacement, modes of escaping the
 recognition-control of the face, a queer illegibility that disallows
-easy calculations and categorizations of the face’.[^book_book_book_book_book_book_05-Chap5_35] This makes them
+easy calculations and categorizations of the face’.[^book_book_book_book_book_05-Chap5_35] This makes them
 dramatically different from Harvey’s work (though both are equivalent
 aesthetically, in our opinion), not simply because Blas’ work consists
 of actual objects rather than aesthetic strategies of concealment but
@@ -6038,7 +6145,7 @@ appearance that is unmistakably one of denying the value of
 identification even to the point of denying social reciprocity through
 defacement. As Blas names them: ‘interfaces in other modalities that are
 not readable to those that aim to control but rather communicates to all
-those that strive to liberate’.[^book_book_book_book_book_book_05-Chap5_36] In short, Blas’ *Suite* is an
+those that strive to liberate’.[^book_book_book_book_book_05-Chap5_36] In short, Blas’ *Suite* is an
 artistic acknowledgement, through rejection, of the existence of the New
 Aesthetic as a pervasive influence in our lives; it is a rejection of
 digital modalities as agents that had found their conceptual reification
@@ -6048,17 +6155,17 @@ the police but out of its ever changing nature as an institution.
 
 ## <span id="_Toc321914212" class="anchor"><span id="_Toc321914106" class="anchor"></span></span>The Collective Politicalization of New Aesthetic Art
 
-In a way with which we completely agree, the collective Metahaven[^book_book_book_book_book_book_05-Chap5_37]
+In a way with which we completely agree, the collective Metahaven[^book_book_book_book_book_05-Chap5_37]
 has been described as ‘one of the most theoretically informed,
 strategically adept and articulate groups of thinkers operating in
-graphic design’.[^book_book_book_book_book_book_05-Chap5_38] As noted by Sarah Hromack in *Frieze* magazine,
+graphic design’.[^book_book_book_book_book_05-Chap5_38] As noted by Sarah Hromack in *Frieze* magazine,
 Metahaven’s work can be identified as a response to the specific
 conditions generated by the introduction of web 2.0 around the turn of
 the millennium, and it’s worthwhile summarizing her position. For
 Hromack, a major shift starting taking place in the internet in the
 1990s – described in two important essays: Michael Rock’s 1996 ‘The
-Designer as Author’[^book_book_book_book_book_book_05-Chap5_39] and Ellen Lupton’s 1998 ‘The Designer as
-Producer’[^book_book_book_book_book_book_05-Chap5_40] and related to Walter Benjamins’ 1934 essay ‘The Author
+Designer as Author’[^book_book_book_book_book_05-Chap5_39] and Ellen Lupton’s 1998 ‘The Designer as
+Producer’[^book_book_book_book_book_05-Chap5_40] and related to Walter Benjamins’ 1934 essay ‘The Author
 is Producer’ – that signals not only an increasing level of
 interactivity through the internet as a medium but also an increasingly
 fraught level of a politicized driven denial of the central and
@@ -6069,7 +6176,7 @@ authoritative voice of the author. Hromack writes:
 > dystopia of double meanings and commercial and political dealings.
 > Ingrained psychological dependencies have developed out of brightly
 > blinking “user friendly” experiences, monitored by businesses and
-> government agencies.[^book_book_book_book_book_book_05-Chap5_41]
+> government agencies.[^book_book_book_book_book_05-Chap5_41]
 
 She traces this fallout as a direct catalyst for the formation of
 Metahaven. Metahaven has been described insufficiently as an
@@ -6096,7 +6203,7 @@ about which one Amazon customer wrote:
 > practical advice or useful analysis about branding and corporate
 > identity useful to a branding designer – for example how to deal with
 > the internet and social media, what good form and harmony in
-> application is and so on.[^book_book_book_book_book_book_05-Chap5_42]
+> application is and so on.[^book_book_book_book_book_05-Chap5_42]
 
 In a way, this review is absolutely telling: the book is bizarre, it
 does break many of the assumed rules of good design, it eschews
@@ -6109,7 +6216,7 @@ artists’ complicity in the increasingly overwhelming nature of the
 digital in the world, and are neatly encapsulated in a statement from
 the trailer for their film project *The Sprawl* (2015): {Fig. 85} ‘We
 were very likely spreading fictitious information ourselves, but
-couldn’t help it.’[^book_book_book_book_book_book_05-Chap5_43]
+couldn’t help it.’[^book_book_book_book_book_05-Chap5_43]
  
 ![](img/Fig085.png)   
 Fig. 85 Metahaven, *The Sprawl* (2015)
@@ -6127,7 +6234,7 @@ from the internet’s own means of manipulation, with the aim ‘to explore
 how fantasy and propaganda have now gained prominence over transparency
 and accountability \[…\] The relationship between social media and
 geopolitics is not just about liberal democracy anymore but about the
-fashion of spectral totalitarianism.’[^book_book_book_book_book_book_05-Chap5_44] Through a changing membership
+fashion of spectral totalitarianism.’[^book_book_book_book_book_05-Chap5_44] Through a changing membership
 and a constant shift in the forms of production, the group has taken on
 ephemera-like visual objects of corporate identity, webpage design, GUI
 forms, barcodes and URL addresses in a manner which appears
@@ -6150,7 +6257,7 @@ scarves and t-shirts sold as part of the *Dark Store* (2012)
 installation in the Artists Space at the Berlin Contemporary Art Fair
 were both collectable luxury items and being covered in camouflage and
 the Wikileaks logo were simultaneously protests against government
-privacy intrusions.[^book_book_book_book_book_book_05-Chap5_45] Metahaven’s recent book *Black Transparency:
+privacy intrusions.[^book_book_book_book_book_05-Chap5_45] Metahaven’s recent book *Black Transparency:
 The Right to Know in the Age of Mass Surveillance *(Sternberg Press,
 2015) raises similar issues while equally being a confounding text that
 is far from a traditional book but that functions as a reading
@@ -6166,7 +6273,7 @@ strategies:
 > propagandistic means. *Black Transparency* swallows its own tail in
 > pursuit of its subject, following the un-coiling and re-coiling of
 > ideology and information at the hands of whistleblowers and
-> organizations.[^book_book_book_book_book_book_05-Chap5_46]
+> organizations.[^book_book_book_book_book_05-Chap5_46]
 
 It’s as if Metahaven is proposing that the only effective counter to the
 complete erosion of our private lives, our individuality and the means
@@ -6174,14 +6281,14 @@ of our own self-determinativeness is to set up a reified antithesis in
 the Hegelian sense, opposing the dominance of the digital world as a
 thesis. In line with Marshall McLuhan’s idea of a ‘counter-environment’
 in his 1967 essay ‘The Invisible Environment: The Future of an
-Erosion’,[^book_book_book_book_book_book_05-Chap5_47] Metahaven’s *Facestate* (2011) is a complicated
+Erosion’,[^book_book_book_book_book_05-Chap5_47] Metahaven’s *Facestate* (2011) is a complicated
 installation at the Walker Art Center consisting of various objects
 apparently produced as examples of graphic design in line with the
 corporate identity of Facebook but clearly opposed to its aims. ‘We are
 interested in the ways in which Facebook and government, Facebook and
 employers, Facebook and friends, Facebook and enemies constitute a power
 arrangement, and the way in which this constellation might influence
-politics, currency, and the social contract.’[^book_book_book_book_book_book_05-Chap5_48]
+politics, currency, and the social contract.’[^book_book_book_book_book_05-Chap5_48]
 
 Metahaven’s concerns for the totalitarian effect of increasingly
 autonomous digital objects of control is shared worldwide, though most
@@ -6190,7 +6297,7 @@ approach on a multiplicity of levels, and their targeting of Facebook is
 emblematic of the concerns of many other artists. It’s been pointed out
 that their work ‘questions the purpose and value of design in a neurotic
 and treacherous era of geopolitical instability, economic recession,
-environmental crisis, cultural and moral confusion’[^book_book_book_book_book_book_05-Chap5_49] but just as
+environmental crisis, cultural and moral confusion’[^book_book_book_book_book_05-Chap5_49] but just as
 importantly their work questions the value of our existence as end
 users, bringing up the notion that we are nothing but components of the
 technology that give it a functioning life rather than individuals able
@@ -6223,10 +6330,10 @@ of that experience governing the use-experience, then the shift from a
 non-digitized world to a digitized world is even more abrupt. This has
 resulted in some interesting effects. Very recently the Telecom
 Regulatory Authority of India forbid zero-rating mobile internet plans
-because they violated net-neutrality,[^book_book_book_book_book_book_05-Chap5_50] thereby denying Mark
+because they violated net-neutrality,[^book_book_book_book_book_05-Chap5_50] thereby denying Mark
 Zuckerberg’s plan to provide free internet through mobile phones across
 India through a Facebook portal called ‘Free Basics’, after having
-prompted protests[^book_book_book_book_book_book_05-Chap5_51] and an organized campaign.[^book_book_book_book_book_book_05-Chap5_52] What’s strange,
+prompted protests[^book_book_book_book_book_05-Chap5_51] and an organized campaign.[^book_book_book_book_book_05-Chap5_52] What’s strange,
 however, is that the debate isn’t quite settled; while many in India and
 elsewhere oppose Zuckerberg’s plan because it violates net neutrality,
 the very idea of net neutrality may no longer exist in part because the
@@ -6250,8 +6357,8 @@ attitude that is confined to a Western setting? Even the briefest of
 consideration of these questions would correct the tendencies to be
 absorbed with just one location, and a recent article in *The Guardian*
 sent us looking at African art and the presence of the New Aesthetic in
-a politicized social context.[^book_book_book_book_book_book_05-Chap5_53] A prime instance of this is Urban
-FabLab’s project African Fabbers,[^book_book_book_book_book_book_05-Chap5_54] an effort to bring together
+a politicized social context.[^book_book_book_book_book_05-Chap5_53] A prime instance of this is Urban
+FabLab’s project African Fabbers,[^book_book_book_book_book_05-Chap5_54] an effort to bring together
 European and African maker communities with an emphasis on open source
 software and alternative approaches to 3D printing. Run in two sessions
 – in Marrakesh (2014) and Dakar (2014), both associated with art fair
@@ -6260,7 +6367,7 @@ creative clusters from different continents and backgrounds to meet up
 and share knowledge, to investigate the interaction between African
 material systems and computer aided manufacturing technologies, to
 create ecological prototypes through an advanced craftsmanship approach
-for sustainable living’.[^book_book_book_book_book_book_05-Chap5_55] Two interesting elements of the African
+for sustainable living’.[^book_book_book_book_book_05-Chap5_55] Two interesting elements of the African
 Fabbers projects are noteworthy: first, there’s an emphasis on the
 collaboration between levels of technology, with the implication being
 that older forms must necessarily be paired with newer, digital forms
@@ -6271,16 +6378,16 @@ intentions this is still a form of cultural colonialism driven by
 technology. The Venn diagram on the main page for African Fabbers shows
 it as the intersection between local technologies, digital fabrication
 and computation design but the imbalance is plainly evident. How to
-counter this? The Afropixel[^book_book_book_book_book_book_05-Chap5_56] festival at Ker Thiossäne, Dakar
+counter this? The Afropixel[^book_book_book_book_book_05-Chap5_56] festival at Ker Thiossäne, Dakar
 certainly represents one effort. Begun in different forms in 2002, with
 the first official Afropixel event taking place in 2008, it’s based on
 the idea that ‘Technology doesn’t prevent tradition from existing, it’s
-the encounter between the two that is interesting’[^book_book_book_book_book_book_05-Chap5_57] but at the same
+the encounter between the two that is interesting’[^book_book_book_book_book_05-Chap5_57] but at the same
 time it exhibits all of the hallmarks of New Aesthetic art with
 assertions like ‘Any designer will tell you that a pixel is the smallest
 element of a picture; a dot on a page. On its own, a pixel doesn’t give
 much away. But when it joins other pixels it forms a whole, contributes
-to a mass, and gives meaning to whatever it is it represents’[^book_book_book_book_book_book_05-Chap5_58] on
+to a mass, and gives meaning to whatever it is it represents’[^book_book_book_book_book_05-Chap5_58] on
 the website of its sponsor Moleskine, who provided all of the
 participants with Evernote ready notebooks in 2014.
 
@@ -6304,12 +6411,12 @@ more informed by an urban sensibility; originally from Nigeria and now
 working in London, Ikhide’s collages mix the old and the new but in a
 way that’s strikingly more contemporary, evidenced especially in his
 collaboration with the photographer Seye Isikalu on the project *Don’t
-Police My Masculinity* (2015)[^book_book_book_book_book_book_05-Chap5_59] that incorporates the beautiful
+Police My Masculinity* (2015)[^book_book_book_book_book_05-Chap5_59] that incorporates the beautiful
 phrase ‘Love Yourself As Much As Kanye Loves Kanye’ by asserting: ‘In a
 world where Hyper-masculinity is unfailingly sold to us on a daily
 basis, “Don’t Police My Masculinity” playfully explores ideas of
 self-love, self-acceptance & general care-freeness of the Black Male in
-particular. Happy valentine’s day people! love yourselves first!’[^book_book_book_book_book_book_05-Chap5_60]
+particular. Happy valentine’s day people! love yourselves first!’[^book_book_book_book_book_05-Chap5_60]
 {Fig. 87}
 
 ![](img/Fig087.png)   
@@ -6318,20 +6425,20 @@ Much as Kanye Loves Kanye*, (2015)
 
 ## <span id="_Toc321914213" class="anchor"><span id="_Toc321914107" class="anchor"></span></span>Sociological Interactionist Impacts of New Aesthetic Art
 
-The German artist Aram Bartholl[^book_book_book_book_book_book_05-Chap5_61] has been one of the major figures
+The German artist Aram Bartholl[^book_book_book_book_book_05-Chap5_61] has been one of the major figures
 to emerge within the context of the New Aesthetic. Educated at the
 Berlin University of the Arts with an engineering degree in
 architecture, Bartholl first came to notice with his project *Bits on
-Location* (2001)[^book_book_book_book_book_book_05-Chap5_62] which investigated the possibilities involved in
+Location* (2001)[^book_book_book_book_book_05-Chap5_62] which investigated the possibilities involved in
 the spatial repositioning of information sources, by attempting ‘to
 connect, through a series of examples, the digital content from
-locationless global data networks to physical space’[^book_book_book_book_book_book_05-Chap5_63] and signaling
+locationless global data networks to physical space’[^book_book_book_book_book_05-Chap5_63] and signaling
 a primary concern Bartholl’s work has had ever since; much of his work
 exaggerates the tensions that exist between specified and despecified
 localization and articulates the continuous functions of contrasts and
 overlays between digital realities and the normal world. Two projects
 have introduced Bartholl’s work into the broader art world: *Maps*
-(2006-10)[^book_book_book_book_book_book_05-Chap5_64] and *Dead Drops* (2010-12).[^book_book_book_book_book_book_05-Chap5_65] *Maps* {Fig. 88} has
+(2006-10)[^book_book_book_book_book_05-Chap5_64] and *Dead Drops* (2010-12).[^book_book_book_book_book_05-Chap5_65] *Maps* {Fig. 88} has
 been a series of large scale sculptural reproductions of Google map pins
 used in a digital context to mark out highlighted locations and search
 results; Bartholl has created a series of life-sized versions of these
@@ -6354,7 +6461,7 @@ Fig. 89 Aram Bartholl, *Map* (2013)
 
 While
 ‘Google’s maps have revolutionized how we interact with the world, how
-we perceive space and even how we navigate through it’[^book_book_book_book_book_book_05-Chap5_66] Bartholl’s
+we perceive space and even how we navigate through it’[^book_book_book_book_book_05-Chap5_66] Bartholl’s
 work questions the revolution itself by reversing the supposed
 continuousness of the relationship between the pin and the actual
 location, causing a heightened sense of a discontinuous relationship
@@ -6369,7 +6476,7 @@ has taken this even further, as described by Bartholl:
 > drop is installed empty except a readme.txt file explaining the
 > project. “Dead Drops” is open to participation. If you want to install
 > a dead drop in your city/neighborhood follow the “how to” instructions
-> and submit the location and pictures.[^book_book_book_book_book_book_05-Chap5_67]
+> and submit the location and pictures.[^book_book_book_book_book_05-Chap5_67]
 
 ![](img/Fig090.png)   
 Fig. 90 Aram Bartholl, *Dead Drops* (2010)
@@ -6386,11 +6493,11 @@ the USB drives are always public; borrowing a term from an information
 sharing method used by spies, Bartholl’s project has become a set of
 sites that are either remarkably banal or dangerous, as in the case of
 one Cologne instance where plans for bombs were discovered on the USB
-drive,[^book_book_book_book_book_book_05-Chap5_68] but their artistic intent is still clear. More than just
+drive,[^book_book_book_book_book_05-Chap5_68] but their artistic intent is still clear. More than just
 creating a community, though it has certainly done that with thousands
 of dead drops appearing worldwide, it embodies an artistic opportunity
 to share and communicate information, ‘a unique space for uncensored
-public conversation into the physical structure of the city’[^book_book_book_book_book_book_05-Chap5_69]
+public conversation into the physical structure of the city’[^book_book_book_book_book_05-Chap5_69]
 counter to any digital network’s reach.
 
 Bartholl’s career has consistently been an exploration of the way the
@@ -6399,14 +6506,14 @@ verged on an almost ridiculous level of fandom and opportunism. In 2009,
 while having coffee, Bartholl spied a Google Streetview car driving
 outside and proceeded to chase it down the street; almost a year later
 he appeared in a series of images on Google Streetview, which were
-subsequently appropriated as *15 Seconds of Fame* (2010).[^book_book_book_book_book_book_05-Chap5_70] {Fig. 91}
+subsequently appropriated as *15 Seconds of Fame* (2010).[^book_book_book_book_book_05-Chap5_70] {Fig. 91}
 
 ![](img/Fig091.png)   
 Fig. 91 Aram Bartholl, *15 Seconds of Fame*
 (2009–2010)
 
 Creating a further level of critical depth to his work, Bartholl’s *Full
-Screen* (2014)[^book_book_book_book_book_book_05-Chap5_71] {Fig. 92} was a curated project with a number of
+Screen* (2014)[^book_book_book_book_book_05-Chap5_71] {Fig. 92} was a curated project with a number of
 well-known artists contributing works that were displayed on Samsung
 Galaxy Gear smartwatches. 
 
@@ -6417,7 +6524,7 @@ Viewers were invited to wear the art and
 interact with it in a limited fashion, driving the questions that
 Bartholl has been examining in his art even further. In an interview
 Bartholl asks ‘The underlying question is, in what ways we can represent
-digital art?’[^book_book_book_book_book_book_05-Chap5_72] and his answer is a direct rejection of the
+digital art?’[^book_book_book_book_book_05-Chap5_72] and his answer is a direct rejection of the
 continuing relevance of the screen as a medium. It’s not just that over
 the course of the last fifty years the digital world has shrunk to the
 size of a watch and the interface has transitioned from room-sized
@@ -6435,7 +6542,7 @@ capacity, and emphasizing that point with the reduplication of imagery
 from small screens to a huge LED screen, nevertheless Bartholl points
 out that ‘There will be screens where you don’t have the rectangle
 anymore. It’s hard to tell, and it’s going to take quite a while, but
-the next paradigm shift is going to happen soon.’[^book_book_book_book_book_book_05-Chap5_73] We are so used to
+the next paradigm shift is going to happen soon.’[^book_book_book_book_book_05-Chap5_73] We are so used to
 the idea of ‘seeing’ the internet through screens, but once haptic
 interfaces, voice commands and gestural forms of interaction were
 introduced the point of contact shifts from a specific referential
@@ -6466,7 +6573,7 @@ personal presence of the artist conveyed ‘by the idea that you cannot
 address a social issue productively without first understanding your own
 part in it \[…\] \[and she is\] wary of sentimentality and false
 objectivity, she acknowledges herself as part of the picture, eager “to
-make my position transparent” and truthfully complex’.[^book_book_book_book_book_book_05-Chap5_74] Second,
+make my position transparent” and truthfully complex’.[^book_book_book_book_book_05-Chap5_74] Second,
 Steyerl is intensely interested in the increasingly interdependent and
 interwoven nature of social media, social, political and culture
 changes, the increasingly uncontrollable nature of the virtual exchange
@@ -6489,7 +6596,7 @@ warfare, circling around the death of Steyerl’s friend Andrea Wolf who
 had been killed in Kurdistan as a revolutionary fighter in the PKK
 (Kurdistan Workers’ Party); and *Guards* (2012), {Fig. 95} using
 interviews with art museums guards to show how they’ve been trained in
-military tactics to secure the collections their attending to.[^book_book_book_book_book_book_05-Chap5_75]
+military tactics to secure the collections their attending to.[^book_book_book_book_book_05-Chap5_75]
 
 ![](img/Fig093.png)   
 Fig. 93 Hito Steyerl, *Adorno’s Grey* (2012)
@@ -6540,7 +6647,7 @@ about which one critic writes:
 > actions. And still, this final “proof” of an image contaminated lays
 > bare not only the fact that cinema is itself composed of necessary
 > illusions, but that these sensuous special effects can hold and
-> distract our attentive gazes from actually seeing.[^book_book_book_book_book_book_05-Chap5_76]
+> distract our attentive gazes from actually seeing.[^book_book_book_book_book_05-Chap5_76]
 
 It’s that last point that’s so crucial: the fragmentation of recorded
 actions, the inherently deceptive but powerful nature of images that can
@@ -6557,7 +6664,7 @@ of artistic form. This, and not the deliberate injection of objective
 moments or social content, defines art’s relations to society. The
 aesthetic tensions manifesting themselves in works of art express the
 essence of reality in and through their emancipation from the factual
-façade of exteriority.’[^book_book_book_book_book_book_05-Chap5_77] The only difference in this case is that
+façade of exteriority.’[^book_book_book_book_book_05-Chap5_77] The only difference in this case is that
 the immanence of the digital as autonomous phenomenon has replaced the
 artistic in its common form with an accelerated form of an emancipation
 of digital, not just escaping the restrictions of artistic creativity
@@ -6595,7 +6702,7 @@ clear set of motivations. Leora Morinis very astutely points out:
 > War is invisible. Capital is invisible.” To be sure, Steyerl’s works
 > do measure the world as an image, but in her treatment, it’s these
 > “most important things” that are rendered visible. It’s a pretty
-> powerful picture.[^book_book_book_book_book_book_05-Chap5_78]
+> powerful picture.[^book_book_book_book_book_05-Chap5_78]
 
 Why would you want to not be seen? Maybe because you don’t want to be
 killed by a drone, a weapon of war that is focused on those photo
@@ -6641,14 +6748,14 @@ antique processes in various formats. In 2014, Bettwieser came across a
 set of undeveloped film rolls dating back to WWII. With a lot of effort,
 experimentation and an awareness of the difficulty involved and the
 potential for failure, Bettwieser set out to develop these rolls and
-print the images.[^book_book_book_book_book_book_05-Chap5_79] The results of Bettwieser’s efforts were
+print the images.[^book_book_book_book_book_05-Chap5_79] The results of Bettwieser’s efforts were
 incredibly interesting; as he acknowledges in a number of places, the
 original photographer clearly had an eye for composition and was focused
 on producing images that were personally meaningful, all the while also
 producing images that are of obvious historical significance. The
 discovery led Bettwieser to take on a growing collection of undeveloped
 film rolls and process them as successfully as he could, and to post the
-results on *The Rescued Film Project*,[^book_book_book_book_book_book_05-Chap5_80] a Tumblr blog set up to
+results on *The Rescued Film Project*,[^book_book_book_book_book_05-Chap5_80] a Tumblr blog set up to
 share the images which has often generated more information than
 Bettwieser anticipated. Though many of the rolls he’s collected have
 been damaged beyond repair, Bettwieser has still diligently attempted to
@@ -6671,18 +6778,18 @@ Project* (2014–)
 
 Six images, drawn from
 the same role of film and connected by similar people and setting, are
-covered randomly in glitch effects and distortions.[^book_book_book_book_book_book_05-Chap5_81] Bettwieser is
+covered randomly in glitch effects and distortions.[^book_book_book_book_book_05-Chap5_81] Bettwieser is
 quoted by the author Attila Nagy as noting:
 
 > Thanks to a mysterious software bug that occurred while scanning these
 > joyful family photos, probably from the 80s, strange colorful shapes
 > swarmed the peaceful scenes, harmonizing with the color palette of the
 > original negatives. The results are stunning. I personally almost feel
-> like Neo from Matrix, when he starts to see the code.[^book_book_book_book_book_book_05-Chap5_82]
+> like Neo from Matrix, when he starts to see the code.[^book_book_book_book_book_05-Chap5_82]
 
 One comment asks: ‘Is this real life?’ Perhaps it would be more
 productive to ask whether this constitutes a genuine aesthetic
-experience. Nagy notes: ‘this might be the fabric of our world’.[^book_book_book_book_book_book_05-Chap5_83]
+experience. Nagy notes: ‘this might be the fabric of our world’.[^book_book_book_book_book_05-Chap5_83]
 
 The fact that Bettwieser has left this images on his blog – a natural
 response, to be sure – indicates that these images have a power beyond
@@ -6790,7 +6897,7 @@ return to computer art to consider some different issues. By the early
 1970s, the Institute for Contemporary Art in London had held an exhibit
 of computer art called *Cybernetic Serendipity*, the Computer Arts
 Society was founded, and Katherine Nash and Richard Williams had
-published *Computer Program for Artists: ART 1*.[^book_book_book_book_book_book_05-Chap5_84] During this time
+published *Computer Program for Artists: ART 1*.[^book_book_book_book_book_05-Chap5_84] During this time
 the phrase algorithmic art started being used to describe artworks
 created entirely through algorithms written by artists, though most of
 those artists were computer programmers first who had taken an interest
@@ -6813,7 +6920,7 @@ recognition of video art, describes the increasing acknowledgement thus:
 > experience), aesthetic issues (video’s relationship to mass media such
 > as television and untraditional modes of artistic discourse), and
 > financial concerns (how to sell or keep something that is
-> unrepeatable).[^book_book_book_book_book_book_05-Chap5_85]
+> unrepeatable).[^book_book_book_book_book_05-Chap5_85]
 
 Until the 1990s, computer art was, at best, on the periphery of the art
 world, but the foundations for its acceptance and for a genuine New
@@ -6859,7 +6966,7 @@ recording:
 > dealing with an exploratory field, all attempts at a historical
 > perspective or firm evaluation were out of place. The exhibition and
 > this record, therefore, are essentially a reportage of current trends
-> and developments in programmed and stochastic music.[^book_book_book_book_book_book_05-Chap5_86] 
+> and developments in programmed and stochastic music.[^book_book_book_book_book_05-Chap5_86] 
 
 In short, one of the curious things about computer art is that it’s
 rarely art produced by a computer; it’s not merely that the technology
@@ -6881,7 +6988,7 @@ slipperiness of the New Aesthetic can be summarized neatly with a quote
 from the Indian artist Gopakumar R. P.’s work *Linguistic River* (2015):
 ‘I believe the work of art should change the existing visual,
 intellectual and aesthetical sense and experiment with finding new
-visual phenomena.’[^book_book_book_book_book_book_05-Chap5_87] The fact is that a number of visual artists
+visual phenomena.’[^book_book_book_book_book_05-Chap5_87] The fact is that a number of visual artists
 working without computers were beginning to produce work that
 established the foundations for a New Aesthetic art, and two important
 figures illustrate the tendency that many contemporary artists have
@@ -6956,7 +7063,7 @@ culture, with a clear conclusion that technologically-dependent objects
 have an alien life all to themselves, an interpretative position
 reinforced with a statement by Michael Landy, co-curator of a major
 exhibition of Tinguely’s work at the Tate Liverpool in 2009, that
-*Homage to New York* ‘committed suicide’,[^book_book_book_book_book_book_05-Chap5_88] an act only a living
+*Homage to New York* ‘committed suicide’,[^book_book_book_book_book_05-Chap5_88] an act only a living
 creature with a sense of self-awareness could do.
 
 The aesthetic strategies and their results as employed by both Paik and
@@ -6979,7 +7086,7 @@ Cologne, Baecker’s work has been the subject of a growing interest and
 focus as representative of a new generation of computer artists and many
 examples of his art show a sustained and insightful exploration of New
 Aesthetic issues. *Re-Active Platform* (2010-12) is a very good starting
-point; installed in a series of museums with a team of assistants,[^book_book_book_book_book_book_05-Chap5_89]
+point; installed in a series of museums with a team of assistants,[^book_book_book_book_book_05-Chap5_89]
 Baecker created a system of reactions between different
 computationally-drive sets of hardware and software which were also
 dependent on various environmental inputs as wide-ranging as motion and
@@ -6991,7 +7098,7 @@ mentioned, Baecker’s work exhibits an awareness of the presence of the
 digital functioning as an autonomous agent. Work like *Nowhere* (2004) –
 in which a ‘landscape’ based on users search movements on www.metager.de
 is sculptured on a milling machine – give a physical manifestation to
-the ‘geography’ of the internet.[^book_book_book_book_book_book_05-Chap5_90] *Rechnender Raum (Computing
+the ‘geography’ of the internet.[^book_book_book_book_book_05-Chap5_90] *Rechnender Raum (Computing
 Space)* (2007), {Fig. 102} an installation consisting of sticks, strings
 and plumb weights, exists as a fully-functioning, logic and exact
 network, with a reversal of the normal arrangements of output display
@@ -7012,7 +7119,7 @@ autonomous machine consisting of 99 solenoids circled around three
 rubber bands that respond to the surrounding electromagnetic fields of
 their neighbors as well as the changing pulling forces detected in order
 to conserve its own position, with the result being something akin to a
-homeostat that ‘tries to establish a hyper stable equilibrium’.[^book_book_book_book_book_book_05-Chap5_91] 
+homeostat that ‘tries to establish a hyper stable equilibrium’.[^book_book_book_book_book_05-Chap5_91] 
 
 ![](img/Fig103.png)   
 Fig. 103 Ralf Baecker, *The Conversation
@@ -7023,8 +7130,8 @@ each case, Baecker is creating a system in which the system itself is
 responding on its own terms, creating an aesthetic configuration under
 its own power which is, fascinatingly, teleologically driven in an
 irrational fashion. Two pieces, though, need specific focus, as the best
-of Baecker’s New Aesthetic art: *Crystal Set* (2011)[^book_book_book_book_book_book_05-Chap5_92] and
-*Irrational Computing* (2011-12).[^book_book_book_book_book_book_05-Chap5_93]
+of Baecker’s New Aesthetic art: *Crystal Set* (2011)[^book_book_book_book_book_05-Chap5_92] and
+*Irrational Computing* (2011-12).[^book_book_book_book_book_05-Chap5_93]
 
 *Crystal Set* {Fig. 104} takes as its basic premise the materiality of
 computational devices; the metonym ‘Silicon Valley’ is more than just a
@@ -7045,9 +7152,9 @@ the logical structure of the crystal which then
 > analysis of current flow, resistance and response times in the
 > specimen. By doing this it is inspecting its behavior in a closed
 > feedback loop. As a result it generates raw and untamed signals
-> visible and audible to the observer.[^book_book_book_book_book_book_05-Chap5_94]
+> visible and audible to the observer.[^book_book_book_book_book_05-Chap5_94]
 
-Bringing to mind, as Baecker himself alluded to in an interview,[^book_book_book_book_book_book_05-Chap5_95]
+Bringing to mind, as Baecker himself alluded to in an interview,[^book_book_book_book_book_05-Chap5_95]
 the raw crystal sets used in early commercial radios, *Crystal Set* is
 quite crude in appearance but sophisticated in execution and effect;
 more than just manifesting a sense of life, this work takes on a literal
@@ -7077,7 +7184,7 @@ Seiffarth, that:
 > the aesthetics of the materials from which has developed a global
 > digital network. “Irrational Computing” is not supposed to “function”
 > – its aim is to search for the poetic elements on the border between
-> “accuracy” and “chaos”.[^book_book_book_book_book_book_05-Chap5_96]
+> “accuracy” and “chaos”.[^book_book_book_book_book_05-Chap5_96]
 
 Taken as a body of work – which is how Baecker sometimes refers to many
 of his artworks – the Irrational Computing objects are an exploration of
@@ -7092,7 +7199,7 @@ over the duration and experience of the objects’ existence as apparent
 living-objects, based on the idea, as Baecker himself notes, of
 mathematician, physicist and inventor John von Neumann’s definition of
 artificial life, that ‘life is a process which can be abstracted away
-from any particular medium’.[^book_book_book_book_book_book_05-Chap5_97] For us, Baecker’s art is a challenge
+from any particular medium’.[^book_book_book_book_book_05-Chap5_97] For us, Baecker’s art is a challenge
 to the anthropocentric notion of artistic agency and aesthetic effect
 precisely because its program quickly escapes the originator’s
 supervision, and it is New Aesthetic in that the conditions whereby the
@@ -7112,7 +7219,7 @@ in opposition to modernist tenets, such that:
 > interaction explicitly calls attention to itself. The interface
 > engages the user in a kind of game. The user is asked to devote
 > significant emotional, perceptual and cognitive resources to the very
-> act of operating the device.[^book_book_book_book_book_book_05-Chap5_98]
+> act of operating the device.[^book_book_book_book_book_05-Chap5_98]
 
 In essence, the increasing levels of interaction demand a similar
 attentiveness to the type employed in a theatrical experience, wherein a
@@ -7125,13 +7232,13 @@ artificial increasingly becomes naturalized. This transition within the
 event is evident in the work of James E. Murphy, an artist from Northern
 Ireland working in Berlin and part of a growing number of artists whose
 work is primarily presented online in the programming languages of the
-internet.[^book_book_book_book_book_book_05-Chap5_99] Murphy’s work has covered territory similar to many other
+internet.[^book_book_book_book_book_05-Chap5_99] Murphy’s work has covered territory similar to many other
 artists, including a few already discussed in this chapter, with work
-like *Relative Anonymity* (2012)[^book_book_book_book_book_book_05-Chap5_100] presenting an avoidance of
+like *Relative Anonymity* (2012)[^book_book_book_book_book_05-Chap5_100] presenting an avoidance of
 government security structures’ use of facial recognition through the
 use of stochastic noise and visuals, but three pieces in particular
 capture the released energy that defines Murphy’s work specifically.
-*The Politics of Creation* (2013)[^book_book_book_book_book_book_05-Chap5_101] {Fig. 106} is a theatrical
+*The Politics of Creation* (2013)[^book_book_book_book_book_05-Chap5_101] {Fig. 106} is a theatrical
 production that utilizes an aleatoric music and lighting system based on
 algorithmic formulae to create unique compositions for every
 performance; what’s interesting is not just the inclusion of chance in a
@@ -7144,7 +7251,7 @@ of causality as information about velocity, acceleration and positioning
 of dancers are fed back into the system affecting the very music they
 are dancing to \[…\] \[that\] links the dancers and the system in a
 “dance” of their own \[…\] as the piece progresses towards its
-finale’.[^book_book_book_book_book_book_05-Chap5_102] 
+finale’.[^book_book_book_book_book_05-Chap5_102] 
 
 ![](img/Fig106.png)   
 Fig. 106 James E. Murphy, *The Politics of
@@ -7164,9 +7271,9 @@ of Creation*:
 > associated with knowing that the next series of notes or rhythmic
 > pattern and ultimately how the choreography responds to it, will never
 > be heard or seen again tends to expand the perception of “now”
-> creating a mild hypnosis or meditative state.[^book_book_book_book_book_book_05-Chap5_103]
+> creating a mild hypnosis or meditative state.[^book_book_book_book_book_05-Chap5_103]
 
-*Found* (2014)[^book_book_book_book_book_book_05-Chap5_104] {Fig. 107} and the previously discussed *What
+*Found* (2014)[^book_book_book_book_book_05-Chap5_104] {Fig. 107} and the previously discussed *What
 Colour Is It?* (2014) are quite different. 
 
 ![](img/Fig107.png)   
@@ -7194,7 +7301,7 @@ its appearance. Manovich’s observation that cognitive resources become
 increasingly utilized really seems to capture Murphy’s art, although
 Murphy’s art seems to have created a digital event horizon in a way that
 replicates the division between actors and audiences in Manovich’s
-notion of ‘interaction as theater’.[^book_book_book_book_book_book_05-Chap5_105] At the same time, the
+notion of ‘interaction as theater’.[^book_book_book_book_book_05-Chap5_105] At the same time, the
 increasing use of cognitive resources in the aesthetic experience
 contraindicates an engaged and personal aesthetic experience, and
 Murphy’s work heightens our awareness of this process in a very valuable
@@ -7213,7 +7320,7 @@ same type of responses one normally has to art. *Selfiecity* (2014),
 {Fig. 108} and its second manifestation *Selfiecity London* (2015), was
 an artistic project exploring data visualization through an analysis of
 3200 Instagram selfie photos taken in Bangkok, Berlin, New York, Sao
-Paulo and Moscow[^book_book_book_book_book_book_05-Chap5_106] with London added as a sixth city later.[^book_book_book_book_book_book_05-Chap5_107]
+Paulo and Moscow[^book_book_book_book_book_05-Chap5_106] with London added as a sixth city later.[^book_book_book_book_book_05-Chap5_107]
 
 ![](img/Fig108.png)   
 Fig. 108 Lev Manovich, et. al., *Selfiecity*
@@ -7239,7 +7346,7 @@ rather than simply as a marker of their presence or participation. Is
 *Selfiecity* art? The project itself engages with that question by
 including three essays analyzing the selfies as a social phenomenon and
 handling critical theory’s ability to analyze the selfie as a
-manifestation of our zeitgeist,[^book_book_book_book_book_book_05-Chap5_108] but in a traditional sense it’s
+manifestation of our zeitgeist,[^book_book_book_book_book_05-Chap5_108] but in a traditional sense it’s
 very hard to think about *Selfiecity* as ‘art’ not only because of the
 productive methodology involved, including the obvious contributions
 from a vast array of individuals, but also because of the sense that
@@ -7272,7 +7379,7 @@ of the art. Zach Sokol writes:
 > selfies that share certain characteristics), and allows visitors to
 > explore the entire photo collection, filtering the information into
 > several formats that could reveal patterns or trends that ripple
-> throughout selfie culture.[^book_book_book_book_book_book_05-Chap5_109]
+> throughout selfie culture.[^book_book_book_book_book_05-Chap5_109]
 
 While Sokol’s enthusiasm for the project is appreciated, it’s clear that
 he’s seeing *Selfiecity* only as a project whose forms are determined by
@@ -7286,7 +7393,7 @@ important aesthetic engagement for the viewer lies not in *Selfiecity*’s
 website, for instance, but in its autonomous aesthetic.
 
 Equally important and interesting is Manovich’s *On Broadway*
-(2014-2016).[^book_book_book_book_book_book_05-Chap5_110] {Fig. 109} 
+(2014-2016).[^book_book_book_book_book_05-Chap5_110] {Fig. 109} 
 
 ![](img/Fig109.png)   
 Fig. 109 Lev Manovich, et. al., *On
@@ -7300,7 +7407,7 @@ upon the rich history of modern representations of cities’ identities,
 ranging from Pissaro’s series of paintings of the Boulevard Montmartre
 to *Spider-Man* comics and, especially, Edward Ruscha’s seminal *Every
 Building on the Sunset Strip* (1966), {Fig. 110} Lev Manovich and his
-team[^book_book_book_book_book_book_05-Chap5_111] created a visual representation of a broad spectrum of data
+team[^book_book_book_book_book_05-Chap5_111] created a visual representation of a broad spectrum of data
 sources in real time and averaged over extended periods of time in order
 to provide a portrait of Broadway’s important role in the life of New
 York City. 
@@ -7319,7 +7426,7 @@ city. This last point is crucial, and it’s what ties *On Broadway*
 together with its artistic predecessors: what emerges out of the
 experience of this art installation is a sense of the life of Broadway,
 a sense that, as one write puts it, ‘NYC is a city that does sleep, a
-bit’.[^book_book_book_book_book_book_05-Chap5_112] At the same time, *On Broadway* is curiously similar to
+bit’.[^book_book_book_book_book_05-Chap5_112] At the same time, *On Broadway* is curiously similar to
 *Selfiecity* in its dependence on big data for its raw information and
 its aesthetic appeal. To compare it to Ruscha’s work is illuminating:
 whereas Ruscha’s images of the building on Sunset Strip is just as much
@@ -7345,7 +7452,7 @@ existence of the data itself. Manovich notes:
 > our unique interface (available as the online app and in large
 > multi-touch screen installed at New York Public Library as part of
 > “The Public Eye” exhibition), you can see all data at once, or zoom
-> and follow Broadway block by block.[^book_book_book_book_book_book_05-Chap5_113]
+> and follow Broadway block by block.[^book_book_book_book_book_05-Chap5_113]
 
 While Manovich notes that the intention is to produce a visually rich
 and interactive experience, the emphasis and the end result is clearly
@@ -7356,7 +7463,7 @@ simply because its origins lie less in the creativity of the artists but
 in the driving force behind the New Aesthetic. John Brownlee makes an
 interesting point when he notes that ‘*On Broadway* is the latest in a
 series of experiments to leverage computers, the web, and massive data
-to represent our cities in new ways.’[^book_book_book_book_book_book_05-Chap5_114] Leveraging the data, the
+to represent our cities in new ways.’[^book_book_book_book_book_05-Chap5_114] Leveraging the data, the
 software and the hardware means pushing them to act, to create the
 aesthetic experience, in ways that only they are capable of doing; *On
 Broadway* is, in our opinion, a fascinating and beautiful example of
@@ -7369,7 +7476,7 @@ central tenant of our position a point nicely articulated by Manovich,
 writing about *Selfiecity*: ‘New image-making and image-sharing
 technologies demand radically new ways of interpretation and analysis in
 what we might think of as a postdigital age, and *Selfiecity* is an
-attempt to explore and map these new representational forms.’[^book_book_book_book_book_book_05-Chap5_115]
+attempt to explore and map these new representational forms.’[^book_book_book_book_book_05-Chap5_115]
 Manovich is absolutely correct; New Aesthetic art and what it represents
 is about more than just appearing to be digital or postdigital but
 represents an entirely new way of interpreting and analyzing images, one
@@ -7404,7 +7511,7 @@ evolved intelligence, can also evolve, Grosser built
 > someone or something else making sound in its presence, the machine,
 > like many artists, listens to itself. But when it does hear others, it
 > changes what it does just as we subtly (or not so subtly) are
-> influenced by what others tell us.[^book_book_book_book_book_book_05-Chap5_116]
+> influenced by what others tell us.[^book_book_book_book_book_05-Chap5_116]
 
 *Interactive Robotic Painting Machine* is a programmed art-producing
 machine which at first seems to be part of a long tradition of similar
@@ -7425,7 +7532,7 @@ writes on his website:
 > by the system or does it become lost within? In other words, is this
 > machine alive, with agency as yet another piece of the technium, or is
 > it our own anthropomorphization of the system that makes us think
-> about it in these ways?[^book_book_book_book_book_book_05-Chap5_117]
+> about it in these ways?[^book_book_book_book_book_05-Chap5_117]
 
 What makes this piece fit into the category of New Aesthetic art is that
 uncertainty, particularly as it pertains to the question of
@@ -7437,7 +7544,7 @@ metaphorically human traits when what might really be happening is that
 those traits exist in a non-metaphorical fashion in the object’s digital
 basis. Far more interesting is *Computers Watching Movies* (2014),
 perhaps one of the most important and compelling examples of New
-Aesthetic art we’ve seen.[^book_book_book_book_book_book_05-Chap5_118] {Fig. 112} 
+Aesthetic art we’ve seen.[^book_book_book_book_book_05-Chap5_118] {Fig. 112} 
 
 ![](img/Fig112.png)   
 Fig. 112 Ben Grosser, *Computers Watching
@@ -7461,9 +7568,9 @@ the VIDA Awards for Art and Artificial Life in 2014, Grosser’s
 *Computers Watching Movies* is more than just machine vision but is also
 the embodiment of a new evaluative aesthetic paradigm; it’s not merely
 that this artwork gives us some insight into the changing nature of
-cinema itself[^book_book_book_book_book_book_05-Chap5_119], it answers Grosser’s question ‘Will a system
+cinema itself[^book_book_book_book_book_05-Chap5_119], it answers Grosser’s question ‘Will a system
 without our sense of narrative watch the same thing? I’m left wondering
-why I and the computer see things so differently.’[^book_book_book_book_book_book_05-Chap5_120] The real issue
+why I and the computer see things so differently.’[^book_book_book_book_book_05-Chap5_120] The real issue
 isn’t why the human and the machine are seeing things differently. The
 underlying assumptions are that there’s some conflation between the
 human and the digital responses; however, not only is there no
@@ -7480,10 +7587,10 @@ of Kant’s system that requires a subjective reflection. It’s clear that
 this work puts forward a vision of the future in which even something as
 aesthetic judgment, once assumed not only to be a privileged and
 exclusive form of human activity, transitions into the digital in a
-manner that seems to be a more effective implementation.[^book_book_book_book_book_book_05-Chap5_121]
+manner that seems to be a more effective implementation.[^book_book_book_book_book_05-Chap5_121]
 
 In a way this is similar to Matthew Rothenberg’s project *Unindexed*
-(2015).[^book_book_book_book_book_book_05-Chap5_122] {Fig. 113} 
+(2015).[^book_book_book_book_book_05-Chap5_122] {Fig. 113} 
 
 ![](img/Fig113.png)   
 Fig. 113 Matthew Rothenberg, *Unindexed*
@@ -7491,9 +7598,9 @@ Fig. 113 Matthew Rothenberg, *Unindexed*
 
 Rothenberg has worked in the tech industry in a
 number of prominent roles, but recently started creating his own art
-projects such as *Emojitracker* (2013),[^book_book_book_book_book_book_05-Chap5_123] which tracks all emoji
+projects such as *Emojitracker* (2013),[^book_book_book_book_book_05-Chap5_123] which tracks all emoji
 usage worldwide in a dynamic graphic format, and *Swipe Left*
-(2014),[^book_book_book_book_book_book_05-Chap5_124] which conflated the dating app Tinder’s usage with drone
+(2014),[^book_book_book_book_book_05-Chap5_124] which conflated the dating app Tinder’s usage with drone
 strikes through incorporated images of kills by drone missiles.
 *Unindexed* (2015), however, is a masterpiece in its own right, one
 directly akin to Yves Klein’s conceptual artwork *Zone of Immaterial
@@ -7520,7 +7627,7 @@ with the project was to create a sense of unease with the participants –
 if they liked it, they could and should share it with others, so that
 the conversation on the site could grow \[…\] But by doing so they were
 potentially contributing to its demise via indexing, as the more the URL
-was out there, the faster Google would find it.’[^book_book_book_book_book_book_05-Chap5_125]
+was out there, the faster Google would find it.’[^book_book_book_book_book_05-Chap5_125]
 
 In a way, *Unindexed* forces us to confront a peculiar conundrum because
 of its permanent and ephemeral nature when faced with certain
@@ -7544,7 +7651,7 @@ posted on his Tumblr feed that ‘heavy use of algorithms is bad for you.
 That is, it is if you wish to consider yourself a computational creative
 capable of coming up with interesting work \[…\] You cannot lay claim to
 “owning” any given algorithm (or hardware configuration), unless you
-have added significant extra value to it.’[^book_book_book_book_book_book_05-Chap5_126] In his Tumblr essay
+have added significant extra value to it.’[^book_book_book_book_book_05-Chap5_126] In his Tumblr essay
 from 2012, Watz writes about how coding itself should be regarded as an
 art form in that code exists as an entity in its own right similar to
 the traditional objects of artistic production. But what this really
@@ -7553,7 +7660,7 @@ means to produce specific outcomes, typically through generative logic
 or data processing. But in the process they leave their distinct
 footprints on the result \[…\] “speaking” through algorithms, your
 thought patterns and modes of expression are shaped by their
-syntax.’[^book_book_book_book_book_book_05-Chap5_127] We’re at the stage where what’s really interesting about
+syntax.’[^book_book_book_book_book_05-Chap5_127] We’re at the stage where what’s really interesting about
 this is how this indicates that there are new boundaries; while the
 algorithms created by Watz are themselves dependent on more fundamental
 algorithms, meaning that his own creations are flavored by the
@@ -7569,7 +7676,7 @@ at the intersection of art, politics and technology. Ralf Baecker,
 Matthew Plummer-Fernandez, Quayola and Kirsten Stolle are some of the
 important figures already shown there, and Bridle’s inclusion signaled a
 clear commitment to art aligned with the ideas and effects of the New
-Aesthetic. Bridle’s exhibition ‘The Glomar Response’ (2015)[^book_book_book_book_book_book_05-Chap5_128]
+Aesthetic. Bridle’s exhibition ‘The Glomar Response’ (2015)[^book_book_book_book_book_05-Chap5_128]
 references a curious piece of CIA history, when the *Glomar Explorer*
 was designed to salvage a sunken Soviet submarine in the 1970s, with
 subsequent requests by the press for information being met with the
@@ -7607,7 +7714,7 @@ In an interview, Bridle noted: ‘For me this thing about the
 attempt to see though machine eyes is that it’s actually an attempt to
 see through aggregates of human eyes and intention, because actually
 what you’re seeing is the previously hidden intentions of the people
-that built these systems.’[^book_book_book_book_book_book_05-Chap5_129] Wha<span
+that built these systems.’[^book_book_book_book_book_05-Chap5_129] Wha<span
 id="Chapter_3b_New_Aesthetic_Art_C" class="anchor"></span>t makes this
 such an interesting statement is that *The Glomar Response* seems to be
 exactly the opposite of this statement, a denial of Bridle’s own
@@ -7633,362 +7740,362 @@ a glimpse of a future wherein our intentions, our decisions and our
 actions are increasingly out of our hands as they are guided by the
 digitalization of the world.
 
-[^book_book_book_book_book_book_05-Chap5_1]: A witty and intelligent summary of this can be found in Tiernan
+[^book_book_book_book_book_05-Chap5_1]: A witty and intelligent summary of this can be found in Tiernan
     Morgan and Lauren Purje, ‘An Illustrated Guide to Arthur Danto’s
     “The End of Art”’, *Hyperallergic*, 31 March 2015,
     <http://hyperallergic.com/191329/an-illustrated-guide-to-arthur-dantos-the-end-of-art/>.
 
-[^book_book_book_book_book_book_05-Chap5_2]: Susan Hodara, ‘Liza Lou’s Handmade Sea of Sparkling Glass’, *The
+[^book_book_book_book_book_05-Chap5_2]: Susan Hodara, ‘Liza Lou’s Handmade Sea of Sparkling Glass’, *The
     New York Times*, 2 January 2016, <http://nyti.ms/1OBekoq>.
 
-[^book_book_book_book_book_book_05-Chap5_3]: *Liza Lou*, <http://lizalou.com/>.
+[^book_book_book_book_book_05-Chap5_3]: *Liza Lou*, <http://lizalou.com/>.
 
-[^book_book_book_book_book_book_05-Chap5_4]: Helaine Posner, Chief Curator, ‘Liza Lou: Color Field and Solid
+[^book_book_book_book_book_05-Chap5_4]: Helaine Posner, Chief Curator, ‘Liza Lou: Color Field and Solid
     Grey November 8, 2015 – February 21, 2016’, *Neuberger Museum of
     Ar*t,
     <https://www.neuberger.org/exhibitions/current/view1/314.html?width=660&height=500>.
 
-[^book_book_book_book_book_book_05-Chap5_5]: Susan Hodara, ‘Liza Lou’s Handmade Sea of Sparkling Glass’.
+[^book_book_book_book_book_05-Chap5_5]: Susan Hodara, ‘Liza Lou’s Handmade Sea of Sparkling Glass’.
 
-[^book_book_book_book_book_book_05-Chap5_6]: Don Garrett, “Teleology in Spinoza and Early Modern Rationalism”
+[^book_book_book_book_book_05-Chap5_6]: Don Garrett, “Teleology in Spinoza and Early Modern Rationalism”
     in Gennaro, Rocco and Huenemann, Charles (eds), *New Essays on the
     Rationalists*, New York : Oxford University Press. 1999, p. 310.
 
-[^book_book_book_book_book_book_05-Chap5_7]: Benjamin Grosser, ‘Flexible Pixels’, 2009-11, *Benjamin Grosser*,
+[^book_book_book_book_book_05-Chap5_7]: Benjamin Grosser, ‘Flexible Pixels’, 2009-11, *Benjamin Grosser*,
     <http://bengrosser.com/projects/flexible-pixels/>.
 
-[^book_book_book_book_book_book_05-Chap5_8]: Manovich, *Software Takes Command*, p. 203.
+[^book_book_book_book_book_05-Chap5_8]: Manovich, *Software Takes Command*, p. 203.
 
-[^book_book_book_book_book_book_05-Chap5_9]: Adrien Mondot and Claire Bardainne, *Adrien M / Claire B*,
+[^book_book_book_book_book_05-Chap5_9]: Adrien Mondot and Claire Bardainne, *Adrien M / Claire B*,
     <http://www.am-cb.net/>.
 
-[^book_book_book_book_book_book_05-Chap5_10]: *Adrien M / Claire B*.
+[^book_book_book_book_book_05-Chap5_10]: *Adrien M / Claire B*.
 
-[^book_book_book_book_book_book_05-Chap5_11]: Adrien Mondot and Claire Bardainne, ‘Convergence 1.0’, 2005,
+[^book_book_book_book_book_05-Chap5_11]: Adrien Mondot and Claire Bardainne, ‘Convergence 1.0’, 2005,
     *Adrien M / Claire B*,
     <http://www.am-cb.net/projets/convergence-1-0/>.
 
-[^book_book_book_book_book_book_05-Chap5_12]: Adrien Mondot and Claire Bardainne, ‘XYZT, Les paysages
+[^book_book_book_book_book_05-Chap5_12]: Adrien Mondot and Claire Bardainne, ‘XYZT, Les paysages
     abstraits’, 2011, *Adrien M / Claire B*,
     <http://www.am-cb.net/projets/xyzt/>.
 
-[^book_book_book_book_book_book_05-Chap5_13]: Adrien Mondot and Claire Bardainne, ‘Hakanaï’, 2013, *Adrien M /
+[^book_book_book_book_book_05-Chap5_13]: Adrien Mondot and Claire Bardainne, ‘Hakanaï’, 2013, *Adrien M /
     Claire B*, <http://www.am-cb.net/projets/hakanai/>.
 
-[^book_book_book_book_book_book_05-Chap5_14]: Adrien Mondot and Claire Bardainne, ‘Le mouvement de l’air’,
+[^book_book_book_book_book_05-Chap5_14]: Adrien Mondot and Claire Bardainne, ‘Le mouvement de l’air’,
     2015, *Adrien M / Claire B*, <http://www.am-cb.net/projets/air/>.
 
-[^book_book_book_book_book_book_05-Chap5_15]: Christopher Jobson, ‘The Movement of Air: A New Dance Performance
+[^book_book_book_book_book_05-Chap5_15]: Christopher Jobson, ‘The Movement of Air: A New Dance Performance
     Incorporating Interactive Digital Projection from Adrien M & Claire
     B’, 11 November 2015, *This is Colossal*,
     <http://www.thisiscolossal.com/2015/11/movement-of-air-dance/>.
 
-[^book_book_book_book_book_book_05-Chap5_16]: Manovich, *The Language of New Media,* p. 218.
+[^book_book_book_book_book_05-Chap5_16]: Manovich, *The Language of New Media,* p. 218.
 
-[^book_book_book_book_book_book_05-Chap5_17]: Adam Harvey, *Adam Harvey Projects*, <http://ahprojects.com/>.
+[^book_book_book_book_book_05-Chap5_17]: Adam Harvey, *Adam Harvey Projects*, <http://ahprojects.com/>.
 
-[^book_book_book_book_book_book_05-Chap5_18]: Adam Harvey, *CV Dazzle*, <https://cvdazzle.com/>.
+[^book_book_book_book_book_05-Chap5_18]: Adam Harvey, *CV Dazzle*, <https://cvdazzle.com/>.
 
-[^book_book_book_book_book_book_05-Chap5_19]: Adam Harvey, *Undisclosed*, <https://undisclosed.cc/>.
+[^book_book_book_book_book_05-Chap5_19]: Adam Harvey, *Undisclosed*, <https://undisclosed.cc/>.
 
-[^book_book_book_book_book_book_05-Chap5_20]: Which, we must point out, are generally regarded as entirely
+[^book_book_book_book_book_05-Chap5_20]: Which, we must point out, are generally regarded as entirely
     ineffective. Designed by the English artist Norman Wilkinson, it was
     intended less to hide and more to confuse the targeting technology
     of the day. Further, no evidence exists that it was inspired by
     Cubism except Picasso’s own claim. C.f. Wikipedia contributors,
     ‘Dazzle camouflage’.
 
-[^book_book_book_book_book_book_05-Chap5_21]: Eugene Kurutepe, ‘Face Recognition with OpenCV’, *objc.io*,
+[^book_book_book_book_book_05-Chap5_21]: Eugene Kurutepe, ‘Face Recognition with OpenCV’, *objc.io*,
     February 2015,
     <https://www.objc.io/issues/21-camera-and-photos/face-recognition-with-opencv/>.
 
-[^book_book_book_book_book_book_05-Chap5_22]: Terry Adams (project manager), ‘Janus’, Research Programs, Office
+[^book_book_book_book_book_05-Chap5_22]: Terry Adams (project manager), ‘Janus’, Research Programs, Office
     of the Director of National Intelligence,
     <http://www.iarpa.gov/index.php/research-programs/janus>.
 
-[^book_book_book_book_book_book_05-Chap5_23]: Metahaven (Daniël van der Velden and Vinca Kruk) *Black
+[^book_book_book_book_book_05-Chap5_23]: Metahaven (Daniël van der Velden and Vinca Kruk) *Black
     Transparency: The Right to Know in the Age of Mass Surveillance*,
     Berlin: Sternberg Press, 2015, p. 3.
 
-[^book_book_book_book_book_book_05-Chap5_24]: Adam Harvey, ‘How to Hide from Machines: The Perilous Glamour of
+[^book_book_book_book_book_05-Chap5_24]: Adam Harvey, ‘How to Hide from Machines: The Perilous Glamour of
     Life Under Surveillance’, *dis magazine*,
     <http://dismagazine.com/dystopia/evolved-lifestyles/8115/anti-surveillance-how-to-hide-from-machines/>.
 
-[^book_book_book_book_book_book_05-Chap5_25]: Harvey, ‘How to Hide from Machines’.
+[^book_book_book_book_book_05-Chap5_25]: Harvey, ‘How to Hide from Machines’.
 
-[^book_book_book_book_book_book_05-Chap5_26]: Dan Goodin, “Reverse-engineering artist busts face detection
+[^book_book_book_book_book_05-Chap5_26]: Dan Goodin, “Reverse-engineering artist busts face detection
     tech”, *The Register*, April, 2010,
     <http://www.theregister.co.uk/2010/04/22/face\_detection\_hacking/>.
 
-[^book_book_book_book_book_book_05-Chap5_27]: Adam Harvey Projects: Stealth Wear,
+[^book_book_book_book_book_05-Chap5_27]: Adam Harvey Projects: Stealth Wear,
     <https://ahprojects.com/projects/stealth-wear/>.
 
-[^book_book_book_book_book_book_05-Chap5_28]: Terry Adams (project manager), ‘Janus’.
+[^book_book_book_book_book_05-Chap5_28]: Terry Adams (project manager), ‘Janus’.
 
-[^book_book_book_book_book_book_05-Chap5_29]: Zach Blas, <https://www.flickr.com/photos/zachblas/>.
+[^book_book_book_book_book_05-Chap5_29]: Zach Blas, <https://www.flickr.com/photos/zachblas/>.
 
-[^book_book_book_book_book_book_05-Chap5_30]: Zach Blas, ‘Escaping the Face: Biometric Facial Recognition and
+[^book_book_book_book_book_05-Chap5_30]: Zach Blas, ‘Escaping the Face: Biometric Facial Recognition and
     the Facial Weaponization Suite’, *Journal of the New Media Caucus*,
     2013,
     <http://median.newmediacaucus.org/caa-conference-edition-2013/escaping-the-face-biometric-facial-recognition-and-the-facial-weaponization-suite/>.
 
-[^book_book_book_book_book_book_05-Chap5_31]: Zach Blas, ‘Escaping the Face’.
+[^book_book_book_book_book_05-Chap5_31]: Zach Blas, ‘Escaping the Face’.
 
-[^book_book_book_book_book_book_05-Chap5_32]: Berry, *Critical Theory and the Digital,* p. 192.
+[^book_book_book_book_book_05-Chap5_32]: Berry, *Critical Theory and the Digital,* p. 192.
 
-[^book_book_book_book_book_book_05-Chap5_33]: Berry, *Critical Theory and the Digital,* p. 209.
+[^book_book_book_book_book_05-Chap5_33]: Berry, *Critical Theory and the Digital,* p. 209.
 
-[^book_book_book_book_book_book_05-Chap5_34]: Hito Steyerl, ‘Zach Blas Future Great 2014’, *ArtReview*, March
+[^book_book_book_book_book_05-Chap5_34]: Hito Steyerl, ‘Zach Blas Future Great 2014’, *ArtReview*, March
     2014, <http://artreview.com/features/2014\_futuregreats\_zach\_blas/>.
 
-[^book_book_book_book_book_book_05-Chap5_35]: Blas, ‘Escaping the Face’.
+[^book_book_book_book_book_05-Chap5_35]: Blas, ‘Escaping the Face’.
 
-[^book_book_book_book_book_book_05-Chap5_36]: Blas, ‘Escaping the Face’.
+[^book_book_book_book_book_05-Chap5_36]: Blas, ‘Escaping the Face’.
 
-[^book_book_book_book_book_book_05-Chap5_37]: Metahaven, <http://www.metahaven.net/>.
+[^book_book_book_book_book_05-Chap5_37]: Metahaven, <http://www.metahaven.net/>.
 
-[^book_book_book_book_book_book_05-Chap5_38]: Rick Poynor, ‘Borderline: Metahaven makes visual proposals that
+[^book_book_book_book_book_05-Chap5_38]: Rick Poynor, ‘Borderline: Metahaven makes visual proposals that
     suggest a new role for graphic design in public life’, *Eye
     Magazine*, no. 71 vol. 18, 2009,
     <http://www.eyemagazine.com/feature/article/borderline>.
 
-[^book_book_book_book_book_book_05-Chap5_39]: Michael Rock,’The designer as author’, *Eye Magazine*, 1996,
+[^book_book_book_book_book_05-Chap5_39]: Michael Rock,’The designer as author’, *Eye Magazine*, 1996,
     <http://www.eyemagazine.com/feature/article/the-designer-as-author>.
 
-[^book_book_book_book_book_book_05-Chap5_40]: Ellen Lupton, ‘The Designer as Producer,’ *The Education of a
+[^book_book_book_book_book_05-Chap5_40]: Ellen Lupton, ‘The Designer as Producer,’ *The Education of a
     Graphic Designer*, (ed.) Steven Heller, New York: Allworth Press,
     1998, pp. 159-62,
     <http://elupton.com/2010/10/the-designer-as-producer/>.
 
-[^book_book_book_book_book_book_05-Chap5_41]: Sarah Hromack, ‘What is Metahaven?’, *frieze* magazine, issue
+[^book_book_book_book_book_05-Chap5_41]: Sarah Hromack, ‘What is Metahaven?’, *frieze* magazine, issue
     175, 2015, <http://www.frieze.com/issue/article/what-is-metahaven/>.
 
-[^book_book_book_book_book_book_05-Chap5_42]: Big\_Fisted\_BB, Amazon Customer Review, ‘Weird and
+[^book_book_book_book_book_05-Chap5_42]: Big\_Fisted\_BB, Amazon Customer Review, ‘Weird and
     disappointing’, January 6 2014,
     <http://www.amazon.com/Uncorporate-Identity-Daniel-van-Velden/dp/3037781696>.
 
-[^book_book_book_book_book_book_05-Chap5_43]: Metahaven, The Sprawl (Propaganda About Propaganda). ‘THE SPRAWL
+[^book_book_book_book_book_05-Chap5_43]: Metahaven, The Sprawl (Propaganda About Propaganda). ‘THE SPRAWL
     (PROPAGANDA ABOUT PROPAGANDA) – Official Trailer’. Filmed \[2015\].
     Youtube video, 2:58. Posted January 2016,
     <https://youtu.be/Bs7NFbE2NS8>.
 
-[^book_book_book_book_book_book_05-Chap5_44]: The Space Commission, ‘The Sprawl’, October, 2014,
+[^book_book_book_book_book_05-Chap5_44]: The Space Commission, ‘The Sprawl’, October, 2014,
     <http://www.lighthouse.org.uk/programme/the-space-commission-the-sprawl>.
 
-[^book_book_book_book_book_book_05-Chap5_45]: *Metahaven blog*,
+[^book_book_book_book_book_05-Chap5_45]: *Metahaven blog*,
     <http://mthvn.tumblr.com/post/13736369881/wikileaksscarf04>.
 
-[^book_book_book_book_book_book_05-Chap5_46]: Thom Bettridge, ‘Coup de Net: METAHAVEN’s “Black Transparency”’,
+[^book_book_book_book_book_05-Chap5_46]: Thom Bettridge, ‘Coup de Net: METAHAVEN’s “Black Transparency”’,
     *032c*, 20 November 2015,
     <http://032c.com/2015/coup-de-net-metahavens-black-transparency/>.
 
-[^book_book_book_book_book_book_05-Chap5_47]: Robert Wiesenberger, ‘METAHAVEN: Somewhere Near You, Soon’,
+[^book_book_book_book_book_05-Chap5_47]: Robert Wiesenberger, ‘METAHAVEN: Somewhere Near You, Soon’,
     *032c*, Summer 2014,
     <http://032c.com/2014/metahaven-somewhere-near-you-soon/>.
 
-[^book_book_book_book_book_book_05-Chap5_48]: Quoted in Andrea Hyde, ‘Metahaven’s *Facestate* Social Media and
+[^book_book_book_book_book_05-Chap5_48]: Quoted in Andrea Hyde, ‘Metahaven’s *Facestate* Social Media and
     the State’, *Walker*, 13 December 2011,
     <http://www.walkerart.org/magazine/2011/metahavens-facestate>.
 
-[^book_book_book_book_book_book_05-Chap5_49]: Alice Rawsthorn, ‘A Quest for Meaning in a Dystopian Era’, *The
+[^book_book_book_book_book_05-Chap5_49]: Alice Rawsthorn, ‘A Quest for Meaning in a Dystopian Era’, *The
     New York Times*, 16 May 2010, <http://nyti.ms/1LyRL8W>.
 
-[^book_book_book_book_book_book_05-Chap5_50]: Daniel van Boom,’Why India snubbed Facebook’s free Internet
+[^book_book_book_book_book_05-Chap5_50]: Daniel van Boom,’Why India snubbed Facebook’s free Internet
     offer’, *CNET*, 26 February 2016,
     <http://www.cnet.com/news/why-india-doesnt-want-free-basics/>.
 
-[^book_book_book_book_book_book_05-Chap5_51]: TNN, ‘Students, techies protest Facebook’s Free Basics’, *The
+[^book_book_book_book_book_05-Chap5_51]: TNN, ‘Students, techies protest Facebook’s Free Basics’, *The
     Times of India*, 3 January 2016,
     <http://timesofindia.indiatimes.com/city/bengaluru/Students-techies-protest-Facebooks-Free-Basics/articleshow/50424303.cms?utm\_source=twitter.com&utm\_medium=referral&utm\_campaign=TOIBangalore>.
 
-[^book_book_book_book_book_book_05-Chap5_52]: *Save The Internet*, <https://www.savetheinternet.in/>.
+[^book_book_book_book_book_05-Chap5_52]: *Save The Internet*, <https://www.savetheinternet.in/>.
 
-[^book_book_book_book_book_book_05-Chap5_53]: Contributions from the African Digital Art
+[^book_book_book_book_book_05-Chap5_53]: Contributions from the African Digital Art
     (http://africandigitalart.com/), ‘Africa Remix: The Artists
     Subverting Colonial Imagery’, *The Guardian*, 11 February 2015,
     <http://www.theguardian.com/world/2015/feb/11/africa-remix-artists-reinvent-colonial-imagery>.
 
-[^book_book_book_book_book_book_05-Chap5_54]: Urban FabLab, ‘African Fabbers Project’, 2016,
+[^book_book_book_book_book_05-Chap5_54]: Urban FabLab, ‘African Fabbers Project’, 2016,
     <http://www.urbanfablab.it/african-fabber/23-non-categorizzato/projects/53-african-fabbers.html>.
 
-[^book_book_book_book_book_book_05-Chap5_55]: Urban FabLab, ‘African Fabbers Project’.
+[^book_book_book_book_book_05-Chap5_55]: Urban FabLab, ‘African Fabbers Project’.
 
-[^book_book_book_book_book_book_05-Chap5_56]: Kër Thiossane, <http://www.ker-thiossane.org/>.
+[^book_book_book_book_book_05-Chap5_56]: Kër Thiossane, <http://www.ker-thiossane.org/>.
 
-[^book_book_book_book_book_book_05-Chap5_57]: Marion Louisgrand-Sylla, ‘Interview: The Story of Ker Thiossäne,
+[^book_book_book_book_book_05-Chap5_57]: Marion Louisgrand-Sylla, ‘Interview: The Story of Ker Thiossäne,
     Villa for Art and Multimedia’, 2010,
     <http://www.ker-thiossane.org/spip.php?article10>.
 
-[^book_book_book_book_book_book_05-Chap5_58]: Moleskine, ‘Afropixel: Using Evernote Notebooks to Spread
+[^book_book_book_book_book_05-Chap5_58]: Moleskine, ‘Afropixel: Using Evernote Notebooks to Spread
     Knowledge’, 2014, <http://www.moleskine.com/us/news/afropixel4>.
 
-[^book_book_book_book_book_book_05-Chap5_59]: Fashionably Male, ‘Don’t Police My Masculinity – Alexander Ikhide
+[^book_book_book_book_book_05-Chap5_59]: Fashionably Male, ‘Don’t Police My Masculinity – Alexander Ikhide
     by Seye Isikalu’, *Fashionably Male*, 14 February 2015,
     <http://fashionablymale.net/2015/02/14/dont-police-my-masculinity-alexander-ikhide-by-seye-isikalu/>.
 
-[^book_book_book_book_book_book_05-Chap5_60]: Fashionably Male, ‘Don’t Police My Masculinity’.
+[^book_book_book_book_book_05-Chap5_60]: Fashionably Male, ‘Don’t Police My Masculinity’.
 
-[^book_book_book_book_book_book_05-Chap5_61]: Aram Bartholl, <http://www.datenform.de/>.
+[^book_book_book_book_book_05-Chap5_61]: Aram Bartholl, <http://www.datenform.de/>.
 
-[^book_book_book_book_book_book_05-Chap5_62]: Aram Bartholl, ‘Bits on Location’, 2001,
+[^book_book_book_book_book_05-Chap5_62]: Aram Bartholl, ‘Bits on Location’, 2001,
     <http://datenamort.de/eng/indexe.html>.
 
-[^book_book_book_book_book_book_05-Chap5_63]: Régine Debatty, ‘Bits on Location’, *We Make Money Not Art blog*,
+[^book_book_book_book_book_05-Chap5_63]: Régine Debatty, ‘Bits on Location’, *We Make Money Not Art blog*,
     23 February 2005,
     <http://we-make-money-not-art.com/bits\_on\_locatio/>.
 
-[^book_book_book_book_book_book_05-Chap5_64]: Aram Bartholl, ‘Map’, 2014, <http://datenform.de/blog/tag/map/>.
+[^book_book_book_book_book_05-Chap5_64]: Aram Bartholl, ‘Map’, 2014, <http://datenform.de/blog/tag/map/>.
 
-[^book_book_book_book_book_book_05-Chap5_65]: Aram Bartholl, ‘Dead Drops: Un-cloud your files in cement! ‘Dead
+[^book_book_book_book_book_05-Chap5_65]: Aram Bartholl, ‘Dead Drops: Un-cloud your files in cement! ‘Dead
     Drops’ is an anonymous, offline, peer to peer file-sharing network
     in public space’, 2011, <http://deaddrops.com/>.
 
-[^book_book_book_book_book_book_05-Chap5_66]: Hilary Greenbaum, ‘Who Made Google’s Map Pin?’, *The New York
+[^book_book_book_book_book_05-Chap5_66]: Hilary Greenbaum, ‘Who Made Google’s Map Pin?’, *The New York
     Times Magazine*, 18 April 2011,
     <http://6thfloor.blogs.nytimes.com/2011/04/18/who-made-googles-map-pin/>.
 
-[^book_book_book_book_book_book_05-Chap5_67]: Aram Bartholl, ‘About Dead Drops’, *Dead Drops*.
+[^book_book_book_book_book_05-Chap5_67]: Aram Bartholl, ‘About Dead Drops’, *Dead Drops*.
 
-[^book_book_book_book_book_book_05-Chap5_68]: Carsten Rust and Philip Buchen, “Eingemauert in einer Fassade
+[^book_book_book_book_book_05-Chap5_68]: Carsten Rust and Philip Buchen, “Eingemauert in einer Fassade
     Bomben-Bauplan auf öffentlichem USB-Stick in der Kölner Südstadt”,
     *Express*, 23 February, 2015,
     <http://www.express.de/koeln/eingemauert-in-einer-fassade-bomben-bauplan-auf-oeffentlichem-usb-stick-in-der-koelner-suedstadt-2031168>.
 
-[^book_book_book_book_book_book_05-Chap5_69]: MOMA, ‘Dead Drops’, Museum of Modern Art Interactive Exhibitions,
+[^book_book_book_book_book_05-Chap5_69]: MOMA, ‘Dead Drops’, Museum of Modern Art Interactive Exhibitions,
     <http://www.moma.org/interactives/exhibitions/2011/talktome/objects/146365/>.
 
-[^book_book_book_book_book_book_05-Chap5_70]: Aram Bartholl, ‘Full Screen’, 2014,
+[^book_book_book_book_book_05-Chap5_70]: Aram Bartholl, ‘Full Screen’, 2014,
     <http://www.datenform.de/15-secs-of-fame-eng.html>.
 
-[^book_book_book_book_book_book_05-Chap5_71]: Artists in *Full Screen* included Vincent Broquaire, Jennifer
+[^book_book_book_book_book_05-Chap5_71]: Artists in *Full Screen* included Vincent Broquaire, Jennifer
     Chan, Petra Cortright, Constant Dullaart, Oliver Laric, Sara Ludy,
     Raquel Meyers, Evan Roth, Rafaël Rozendaal, Paul Souviron, Addie
     Wagenknecht, Ai Weiwei.
 
-[^book_book_book_book_book_book_05-Chap5_72]: Nadja Sayej, ‘Full Screen is a Group Show Dedicated to Digital
+[^book_book_book_book_book_05-Chap5_72]: Nadja Sayej, ‘Full Screen is a Group Show Dedicated to Digital
     Art You Can Wear on Your Wrist’, *The Creators Project*, 12 March
     2014,
     <http://thecreatorsproject.vice.com/blog/full-screen-is-a-group-show-devoted-to-digital-art-you-can-wear-on-your-wrist>.
 
-[^book_book_book_book_book_book_05-Chap5_73]: Sayej, ‘Full Screen is a Group Show Dedicated to Digital Art You
+[^book_book_book_book_book_05-Chap5_73]: Sayej, ‘Full Screen is a Group Show Dedicated to Digital Art You
     Can Wear on Your Wrist’.
 
-[^book_book_book_book_book_book_05-Chap5_74]: Maggie Gray, ‘Artist Profile: Hito Steyerl’, *this is tomorrow*,
+[^book_book_book_book_book_05-Chap5_74]: Maggie Gray, ‘Artist Profile: Hito Steyerl’, *this is tomorrow*,
     December 11, 2010,
     <http://thisistomorrow.info/articles/artist-profile-hito-steyerl>.
 
-[^book_book_book_book_book_book_05-Chap5_75]: e-flux, ‘Hito Steyerl’ (Press Release), 2012,
+[^book_book_book_book_book_05-Chap5_75]: e-flux, ‘Hito Steyerl’ (Press Release), 2012,
     <http://www.e-flux.com/announcements/hito-steyerl-at-e-flux/>.
 
-[^book_book_book_book_book_book_05-Chap5_76]: Adam Kleinman, ‘Hito Steyerl’s “Adorno’s Grey”’, *art-agenda*, 21
+[^book_book_book_book_book_05-Chap5_76]: Adam Kleinman, ‘Hito Steyerl’s “Adorno’s Grey”’, *art-agenda*, 21
     November 2012,
     [http://www.art-agenda.com/reviews/hito-steyerl’s-“adorno’s-grey”/](http://www.art-agenda.com/reviews/hito-steyerl's-).
 
-[^book_book_book_book_book_book_05-Chap5_77]: Theodor Adorno, *Aesthetic Theory*, London: Routledge & Kegan
+[^book_book_book_book_book_05-Chap5_77]: Theodor Adorno, *Aesthetic Theory*, London: Routledge & Kegan
     Paul, 1972, p. 8.
 
-[^book_book_book_book_book_book_05-Chap5_78]: Leora Morinis, ‘Hito Steyerl’s HOW NOT TO BE SEEN: A F\*\*king
+[^book_book_book_book_book_05-Chap5_78]: Leora Morinis, ‘Hito Steyerl’s HOW NOT TO BE SEEN: A F\*\*king
     Didactic Educational .MOV File’, *Inside/Out, A MoMA/MoMA PS1 Blog*,
     18 June 2014,
     <http://www.moma.org/explore/inside\_out/2014/06/18/hito-steyerls-how-not-to-be-seen-a-fucking-didactic-educational-mov-file>.
 
-[^book_book_book_book_book_book_05-Chap5_79]: Christopher Jobson, ‘The Rescued Film Project Discovers 31 Rolls
+[^book_book_book_book_book_05-Chap5_79]: Christopher Jobson, ‘The Rescued Film Project Discovers 31 Rolls
     of Undeveloped Film Shot by an Unknown WW2 Soldier’, *This Is
     Colossal*, 18 January 2015,
     <http://www.thisiscolossal.com/2015/01/31-rolls-of-ww2-film/>.
 
-[^book_book_book_book_book_book_05-Chap5_80]: *The Rescued Film Project*,
+[^book_book_book_book_book_05-Chap5_80]: *The Rescued Film Project*,
     <http://rescuedfilmproject.tumblr.com/>.
 
-[^book_book_book_book_book_book_05-Chap5_81]: Bettweisser, Levi, ‘Is this real life?’, *Rescued Film Project
+[^book_book_book_book_book_05-Chap5_81]: Bettweisser, Levi, ‘Is this real life?’, *Rescued Film Project
     blog*, 16 September 2015,
     <http://rescuedfilmproject.tumblr.com/post/129213965706/is-this-real-life>.
 
-[^book_book_book_book_book_book_05-Chap5_82]: Attila Nagy, ‘Fantastic Software Glitch Art Is Better Than the
+[^book_book_book_book_book_05-Chap5_82]: Attila Nagy, ‘Fantastic Software Glitch Art Is Better Than the
     Real World’, *Gizmodo*, 10 October 2015,
     <http://gizmodo.com/fantastic-software-glitch-art-is-better-than-the-real-w-1732141946>.
 
-[^book_book_book_book_book_book_05-Chap5_83]: Attila Nagy, ‘Fantastic Software Glitch Art Is Better Than the
+[^book_book_book_book_book_05-Chap5_83]: Attila Nagy, ‘Fantastic Software Glitch Art Is Better Than the
     Real World’.
 
-[^book_book_book_book_book_book_05-Chap5_84]: Katherine Nash and Richard H. Williams, ‘Computer Program for
+[^book_book_book_book_book_05-Chap5_84]: Katherine Nash and Richard H. Williams, ‘Computer Program for
     Artists: ART I’. *Leonardo, Pergamon Press (via JSTOR)* (The MIT
     Press 1970, 3 (4): pp. 439-442.
 
-[^book_book_book_book_book_book_05-Chap5_85]: Holly Rogers, ‘“Betwixt and Between” Worlds: Spatial and Temporal
+[^book_book_book_book_book_05-Chap5_85]: Holly Rogers, ‘“Betwixt and Between” Worlds: Spatial and Temporal
     Liminality in Video Art-Music’ in Richardson, John, et al. (eds),
     *The Oxford Handbook of New Audiovisual Aesthetics*, Oxford: Oxford
     University Press, 2013, p. 532.
 
-[^book_book_book_book_book_book_05-Chap5_86]: *Cybernetic Seredipity Archive*,
+[^book_book_book_book_book_05-Chap5_86]: *Cybernetic Seredipity Archive*,
     <http://cyberneticserendipity.net/>.
 
-[^book_book_book_book_book_book_05-Chap5_87]: R. Gopakumar, *Linguistic River*, 2012,
+[^book_book_book_book_book_05-Chap5_87]: R. Gopakumar, *Linguistic River*, 2012,
     <http://www.worldart.info/GopakumarR/LinguisticsRiver/default.aspx>.
 
-[^book_book_book_book_book_book_05-Chap5_88]: Michael Landy, ‘Home to Destruction’, *Tate Etc.*, Autumn 2009,
+[^book_book_book_book_book_05-Chap5_88]: Michael Landy, ‘Home to Destruction’, *Tate Etc.*, Autumn 2009,
     <http://www.tate.org.uk/context-comment/articles/homage-destruction>.
 
-[^book_book_book_book_book_book_05-Chap5_89]: glasmoog Cologne, 19 March to 14 April 2010; contemporary art
+[^book_book_book_book_book_05-Chap5_89]: glasmoog Cologne, 19 March to 14 April 2010; contemporary art
     ruhr (C.A.R.) Essen, 29 October to 31 October, 2010; and MOCA
     Studio, Taipei (Taiwan), 8 October to 20 November, 2011; assistants
     include Artur Holling, Karin Lingnau, Luis Negrón van Grieken, Ji
     Hyun Park, Susanna Schoenberg, <http://www.re-activeplatform.de/>.
 
-[^book_book_book_book_book_book_05-Chap5_90]: Ralf Baecker, ‘Nowhere’, *Ralf Baecker*,
+[^book_book_book_book_book_05-Chap5_90]: Ralf Baecker, ‘Nowhere’, *Ralf Baecker*,
     <http://www.rlfbckr.org/work/nowhere>.
 
-[^book_book_book_book_book_book_05-Chap5_91]: Ralf Baecker, ‘The Conversation, *Ralf Baecker*,
+[^book_book_book_book_book_05-Chap5_91]: Ralf Baecker, ‘The Conversation, *Ralf Baecker*,
     <http://www.rlfbckr.org/work/the\_conversation>.
 
-[^book_book_book_book_book_book_05-Chap5_92]: Ralf Baecker, ‘Crystal Set, *Ralf Baecker*,
+[^book_book_book_book_book_05-Chap5_92]: Ralf Baecker, ‘Crystal Set, *Ralf Baecker*,
     <http://www.rlfbckr.org/work/crystal\_set>.
 
-[^book_book_book_book_book_book_05-Chap5_93]: Ralf Baecker, ‘Irrational Computing’, *Ralf Baecker*,
+[^book_book_book_book_book_05-Chap5_93]: Ralf Baecker, ‘Irrational Computing’, *Ralf Baecker*,
     <http://www.rlfbckr.org/work/irrational\_computing>.
 
-[^book_book_book_book_book_book_05-Chap5_94]: Baecker, ‘Irrational Computing’.
+[^book_book_book_book_book_05-Chap5_94]: Baecker, ‘Irrational Computing’.
 
-[^book_book_book_book_book_book_05-Chap5_95]: Nadja Sayej, ‘An Artist Has Made A Primitive Computer Out Of
+[^book_book_book_book_book_05-Chap5_95]: Nadja Sayej, ‘An Artist Has Made A Primitive Computer Out Of
     Earth Crystals, And Little Else’ *the creators project*, April 2014,
     <http://thecreatorsproject.vice.com/en\_uk/blog/an-artist-has-made-a-primitive-computer-out-of-natural-crystals-and-little-else>.
 
-[^book_book_book_book_book_book_05-Chap5_96]: Ralf Baecker, ‘Irrational Computing’.
+[^book_book_book_book_book_05-Chap5_96]: Ralf Baecker, ‘Irrational Computing’.
 
-[^book_book_book_book_book_book_05-Chap5_97]: Pau Waelder, ‘Interview with Ralf Baecker’, *Telefonica
+[^book_book_book_book_book_05-Chap5_97]: Pau Waelder, ‘Interview with Ralf Baecker’, *Telefonica
     Fundación*, 16 April 2013,
     <https://vida.fundaciontelefonica.com/en/2013/04/16/interview-with-ralf-baecker/>.
 
-[^book_book_book_book_book_book_05-Chap5_98]: Lev Manovich, ‘Interaction as an aesthetic event’, *Receiver*,
+[^book_book_book_book_book_05-Chap5_98]: Lev Manovich, ‘Interaction as an aesthetic event’, *Receiver*,
     \#17, 2006,
     <http://dm.ncl.ac.uk/courseblog/files/2011/03/Manovich\_InteractionAsAestheticEvent.pdf>.
 
-[^book_book_book_book_book_book_05-Chap5_99]: James E. Murphy, <http://jemurphy.org/>.
+[^book_book_book_book_book_05-Chap5_99]: James E. Murphy, <http://jemurphy.org/>.
 
-[^book_book_book_book_book_book_05-Chap5_100]: James E. Murphy, ‘Relative Anonymity’, 2012,
+[^book_book_book_book_book_05-Chap5_100]: James E. Murphy, ‘Relative Anonymity’, 2012,
     <http://jemurphy.org/\#df>.
 
-[^book_book_book_book_book_book_05-Chap5_101]: James E. Murphy, ‘The Politics of Creation’, 2013,
+[^book_book_book_book_book_05-Chap5_101]: James E. Murphy, ‘The Politics of Creation’, 2013,
     <http://jemurphy.org/\#poc>.
 
-[^book_book_book_book_book_book_05-Chap5_102]: James E. Murphy, ‘The Politics of Creation’.
+[^book_book_book_book_book_05-Chap5_102]: James E. Murphy, ‘The Politics of Creation’.
 
-[^book_book_book_book_book_book_05-Chap5_103]: James E. Murphy, ‘The Politics of Creation’.
+[^book_book_book_book_book_05-Chap5_103]: James E. Murphy, ‘The Politics of Creation’.
 
-[^book_book_book_book_book_book_05-Chap5_104]: James E. Murphy, ‘Found’, 2014, <http://found.jemurphy.org/>.
+[^book_book_book_book_book_05-Chap5_104]: James E. Murphy, ‘Found’, 2014, <http://found.jemurphy.org/>.
 
-[^book_book_book_book_book_book_05-Chap5_105]: Lev Manovich, ‘Interaction as an aesthetic event’.
+[^book_book_book_book_book_05-Chap5_105]: Lev Manovich, ‘Interaction as an aesthetic event’.
 
-[^book_book_book_book_book_book_05-Chap5_106]: Lev Manovich, *Selfiecity*, 2014, <http://selfiecity.net/>.
+[^book_book_book_book_book_05-Chap5_106]: Lev Manovich, *Selfiecity*, 2014, <http://selfiecity.net/>.
 
-[^book_book_book_book_book_book_05-Chap5_107]: Lev Manovich, *Selfiecity*,
+[^book_book_book_book_book_05-Chap5_107]: Lev Manovich, *Selfiecity*,
     <http://manovich.net/index.php/exhibitions/selfiecity>. *Selfiecity*
     was led by Lev Manovich but credits a number of other participants
     as vital to the project, including Moritz Stefaner, Mehrdad Yazdani,
     Dominikus Baur, Daniel Goddemeyer, Alise Tifentale, Nadav Hochman
     and Jay Chow, see <http://selfiecity.net/\#credits>.
 
-[^book_book_book_book_book_book_05-Chap5_108]: Alise Tifentale, ‘The Selfie: Making Sense of the “Masturbation
+[^book_book_book_book_book_05-Chap5_108]: Alise Tifentale, ‘The Selfie: Making Sense of the “Masturbation
     of Self-Image” and the “Virtual Mini-Me”’, *Selfiecity*, 2014,
     <http://d25rsf93iwlmgu.cloudfront.net/downloads/Tifentale\_Alise\_Selfiecity.pdf>;
     Nadav Hochman, ‘Imagined Data Communities’, *Selfiecity*, 2014,
@@ -7997,49 +8104,49 @@ digitalization of the world.
     Selfiecity’, *Selfiecity*, 2014,
     <http://d25rsf93iwlmgu.cloudfront.net/downloads/Liz\_Losh\_BeyondBiometrics.pdf>.
 
-[^book_book_book_book_book_book_05-Chap5_109]: Zach Sokol, ‘SelfieCity Might Be The Ultimate Data-Driven
+[^book_book_book_book_book_05-Chap5_109]: Zach Sokol, ‘SelfieCity Might Be The Ultimate Data-Driven
     Exploration Of The Selfie’, *The Creators Project*, 19 February
     2014,
     <http://thecreatorsproject.vice.com/blog/selfiecity-might-be-the-ultimate-data-driven-exploration-of-the-selfie>.
 
-[^book_book_book_book_book_book_05-Chap5_110]: Lev Manovich, *On Broadway*, 2016, <http://on-broadway.nyc/>.
+[^book_book_book_book_book_05-Chap5_110]: Lev Manovich, *On Broadway*, 2016, <http://on-broadway.nyc/>.
 
-[^book_book_book_book_book_book_05-Chap5_111]: Including Daniel Goddemeyer (<http://danielgoddemeyer.com/>),
+[^book_book_book_book_book_05-Chap5_111]: Including Daniel Goddemeyer (<http://danielgoddemeyer.com/>),
     Moritz Stefaner (<http://truth-and-beauty.net/>) and Dominkus Baur
     (<http://do.minik.us/blog>).
 
-[^book_book_book_book_book_book_05-Chap5_112]: David Smith, ‘NYC is a city that does sleep, a bit’,
+[^book_book_book_book_book_05-Chap5_112]: David Smith, ‘NYC is a city that does sleep, a bit’,
     *Revolutions*, 20 March 2015,
     <http://blog.revolutionanalytics.com/2015/03/nyc-is-a-city-that-does-sleep-a-bit.html>.
 
-[^book_book_book_book_book_book_05-Chap5_113]: Lev Manovich, ‘*On Broadway*’.
+[^book_book_book_book_book_05-Chap5_113]: Lev Manovich, ‘*On Broadway*’.
 
-[^book_book_book_book_book_book_05-Chap5_114]: John Brownlee, ‘Massive Data Visualization Brings NYC’s Busiest
+[^book_book_book_book_book_05-Chap5_114]: John Brownlee, ‘Massive Data Visualization Brings NYC’s Busiest
     Street To Life’,
     <http://www.fastcodesign.com/3043091/infographic-of-the-day/massive-data-visualization-brings-nycs-busiest-street-to-life>.
 
-[^book_book_book_book_book_book_05-Chap5_115]: Alise Tifentale and Lev Manovich, ‘Selfiecity: Exploring
+[^book_book_book_book_book_05-Chap5_115]: Alise Tifentale and Lev Manovich, ‘Selfiecity: Exploring
     Photography and Self-Fashioning in Social Media’ in David M. Berry
     and Michael Dieter (eds) *Postdigital Aesthetics: Art, Computation
     and Design*, New York: Palgrave MacMillan, 2015, p. 120.
 
-[^book_book_book_book_book_book_05-Chap5_116]: Ben Grosser, ‘Interactive Robotic Painting Machine’, *Ben
+[^book_book_book_book_book_05-Chap5_116]: Ben Grosser, ‘Interactive Robotic Painting Machine’, *Ben
     Grosser*, 2011,
     <http://bengrosser.com/projects/interactive-robotic-painting-machine/>.
 
-[^book_book_book_book_book_book_05-Chap5_117]: Ben Grosser, ‘Interactive Robotic Painting Machine’.
+[^book_book_book_book_book_05-Chap5_117]: Ben Grosser, ‘Interactive Robotic Painting Machine’.
 
-[^book_book_book_book_book_book_05-Chap5_118]: Ben Grosser, ‘Computers Watching Movies’, 2014, *Ben Grosser*,
+[^book_book_book_book_book_05-Chap5_118]: Ben Grosser, ‘Computers Watching Movies’, 2014, *Ben Grosser*,
     <http://bengrosser.com/projects/computers-watching-movies/>.
 
-[^book_book_book_book_book_book_05-Chap5_119]: Kyle Vanhemert, ‘This Is What a Computer Sees When It Watches
+[^book_book_book_book_book_05-Chap5_119]: Kyle Vanhemert, ‘This Is What a Computer Sees When It Watches
     The Matrix’, *Wired.com*, January 2014,
     <http://www.wired.com/2014/01/computer-sees-watches-matrix/>.
 
-[^book_book_book_book_book_book_05-Chap5_120]: Vanhemert, ‘This Is What a Computer Sees When It Watches The
+[^book_book_book_book_book_05-Chap5_120]: Vanhemert, ‘This Is What a Computer Sees When It Watches The
     Matrix’.
 
-[^book_book_book_book_book_book_05-Chap5_121]: Though even more recent efforts are alarming, at best, as
+[^book_book_book_book_book_05-Chap5_121]: Though even more recent efforts are alarming, at best, as
     evidenced with Microsoft’s AI chatbot “Tay” quickly turning into a
     source of racist and sexist remarks; e.g. Sophie Kleeman, ‘Here Are
     the Microsoft Twitter Bot’s Craziest Racist Rants’, *Gizmodo*, 24
@@ -8049,30 +8156,30 @@ digitalization of the world.
     to Life, Bugs Out Again’, *Gizmodo*, 30 March 2016,
     <http://gizmodo.com/something-strange-is-happening-to-microsofts-twitter-bo-1767926273>.
 
-[^book_book_book_book_book_book_05-Chap5_122]: Matthew Rothenberg, *Matthew Rothenberg Selected Projects*,
+[^book_book_book_book_book_05-Chap5_122]: Matthew Rothenberg, *Matthew Rothenberg Selected Projects*,
     <http://portfolio.mroth.info/>.
 
-[^book_book_book_book_book_book_05-Chap5_123]: Matthew Rothenberg, *emojitracker: realtime use on twitter*,
+[^book_book_book_book_book_05-Chap5_123]: Matthew Rothenberg, *emojitracker: realtime use on twitter*,
     <http://www.emojitracker.com/>.
 
-[^book_book_book_book_book_book_05-Chap5_124]: Matthew Rothenberg, *Swipe Left: Dating Apps and Drone Strikes*,
+[^book_book_book_book_book_05-Chap5_124]: Matthew Rothenberg, *Swipe Left: Dating Apps and Drone Strikes*,
     2014, <https://medium.com/@mroth/swipe-left-dfa947df0355>.
 
-[^book_book_book_book_book_book_05-Chap5_125]: Adrianne Jeffries, ‘It Will Take Google 22 Days to Find You’,
+[^book_book_book_book_book_05-Chap5_125]: Adrianne Jeffries, ‘It Will Take Google 22 Days to Find You’,
     *Motherboard*, 2 March 2015,
     <http://motherboard.vice.com/read/it-will-take-google-22-days-to-find-you>.
 
-[^book_book_book_book_book_book_05-Chap5_126]: Quoted in *New Aesthetic, New Anxieties*, eds. Berry, van
+[^book_book_book_book_book_05-Chap5_126]: Quoted in *New Aesthetic, New Anxieties*, eds. Berry, van
     Dartel, Dieter, Kasprzak, Muller, O’Reilly, de Vicente, p. 12
 
-[^book_book_book_book_book_book_05-Chap5_127]: Berry, van Dartel, Dieter, Kasprzak, Muller, O’Reilly, de
+[^book_book_book_book_book_05-Chap5_127]: Berry, van Dartel, Dieter, Kasprzak, Muller, O’Reilly, de
     Vicente, *New Aesthetic, New Anxieties*, p. 13
 
-[^book_book_book_book_book_book_05-Chap5_128]: Luca Barbeni, ‘James Bridle, The Glomar Response’ (Press
+[^book_book_book_book_book_05-Chap5_128]: Luca Barbeni, ‘James Bridle, The Glomar Response’ (Press
     Release), 2015, *NOME*,
     <http://www.nomeproject.com/exhibitions/glomar-response>.
 
-[^book_book_book_book_book_book_05-Chap5_129]: Ben Murray, ‘Artist Q&A: James Bridle’, *The Space*, 2015,
+[^book_book_book_book_book_05-Chap5_129]: Ben Murray, ‘Artist Q&A: James Bridle’, *The Space*, 2015,
     <http://www.thespace.org/news/view/james-bridle-interview>.
     
 <br></br> 
@@ -8106,7 +8213,7 @@ the way we interact with them. Affecting more than just scientific
 research, this New Aesthetic effect extends to a dramatic diminishment
 of efforts to freely group and summate disparate cultural products or
 enact curatorial practices in an impassioned manner without the taint of
-a digitized horizon serving as a preordained end result.[^book_book_book_book_book_06-Chap6_1] In a way,
+a digitized horizon serving as a preordained end result.[^book_book_book_book_06-Chap6_1] In a way,
 valuation has been irrevocably altered.
 
 Recent years have produced an increased interest in the practice of
@@ -8142,7 +8249,7 @@ applications. Miya Tokumitsu notes:
 > world become a venue for curation? And how did curating, a highly
 > specialized line of museum work involving the care, accessioning, and
 > exhibition of artworks, come to mean, as cultural policy scholar
-> Amanda Coles puts it, “just picking stuff?”[^book_book_book_book_book_06-Chap6_2]
+> Amanda Coles puts it, “just picking stuff?”[^book_book_book_book_06-Chap6_2]
 
 Tokumitsu’s article is an interesting perspective on what has become a
 dominant part of our connected culture; providing lists of options to
@@ -8255,7 +8362,7 @@ Schopenhauer as a baseline for a digital taxonomy.
 
 The first time we began to think about Schopenhauer’s philosophy was in
 relationship to Dmitriy Krotevich’s image manipulation software
-PixelDrifter (2014).[^book_book_book_book_book_06-Chap6_3] In describing the effect of the software,
+PixelDrifter (2014).[^book_book_book_book_06-Chap6_3] In describing the effect of the software,
 Krotevich notes:
 
 > “By default, each pixel tries to find the ‘weakest’ pixel among its
@@ -8263,7 +8370,7 @@ Krotevich notes:
 > Also pixels with a higher ‘power’ value can do more ‘swaps.’” Put
 > differently, the pixels are imbued with enough intelligence to behave
 > autonomously, although Krotevich says, “an experienced user can
-> predict a result”.[^book_book_book_book_book_06-Chap6_4]
+> predict a result”.[^book_book_book_book_06-Chap6_4]
 
 The function of PixelDrifter is driven by pixels themselves, with the
 inherent strength of each one allowed to be a part of determining its
@@ -8289,7 +8396,7 @@ Krotevich notes:
 > pixels – it’s more like a scientific visualization/artificial
 > intelligence program that “breathes life” into pixels, making them
 > decide where to travel \[…\] It’s not quite Turing Test AI, but the
-> pixels do react like they’re autonomous creatures.[^book_book_book_book_book_06-Chap6_5]
+> pixels do react like they’re autonomous creatures.[^book_book_book_book_06-Chap6_5]
 
 Is Krotevich perhaps being a little too coy with his use of quotation
 marks? We think he might be. In so many respects, Krotevich seems to be
@@ -8304,7 +8411,7 @@ a complete difference between the phenomena of inorganic nature and the
 will, perceived by us as the inner reality of our own being, arises
 principally from the contrast between the wholly determined conformity
 to law in one species of phenomenon, and the apparently irregular
-arbitrariness the other’.[^book_book_book_book_book_06-Chap6_6] The key here is that the representations
+arbitrariness the other’.[^book_book_book_book_06-Chap6_6] The key here is that the representations
 of the pixels, their presented presence to us, is not necessarily
 determined by a conformity to laws but is also more than just set a
 random occurrences that is perceivable as a group of independent
@@ -8329,7 +8436,7 @@ makes a really interesting point when he notes:
 > if unconscious and non-intentional. Inorganic entities simply do not
 > seem to have proper functions nor strive towards the fulfillment of
 > real goals. In short, inorganic entities do not seem to manifest
-> will.[^book_book_book_book_book_06-Chap6_7]
+> will.[^book_book_book_book_06-Chap6_7]
 
 Scott’s interpretation of Schopenhauer at this point is that there seems
 to be an assertion of a difference between organic and inorganic
@@ -8349,7 +8456,7 @@ this limitation when he writes:
 > blindly in a dull, one-sided, and unalterable manner. Yet, because it
 > is everywhere one and the same-just as the first morning dawn shares
 > the name of sunlight with the rays of the full midday sun-it must in
-> either case bear the name of will.[^book_book_book_book_book_06-Chap6_8]
+> either case bear the name of will.[^book_book_book_book_06-Chap6_8]
 
 Schopenhauer’s use of active verbs makes it clear that he conceives of
 all things as having active wills, even inorganic objects, and that
@@ -8374,7 +8481,7 @@ way: ‘Teleology, \[Schopenhauer\] argued \[…\] is not the result of the
 accumulation of small selected adaptations, neither is it the result of
 intelligent foresight, as supposed by the rationalist and theist, but
 the inevitable showing forth of the underlying unity of the “will to
-live.”’[^book_book_book_book_book_06-Chap6_9] If one is to draw out a teleology of wills from
+live.”’[^book_book_book_book_06-Chap6_9] If one is to draw out a teleology of wills from
 Schopenhauer’s philosophy, a purpose to their existence, it is simply to
 sustain their existence in conflict with other things and, even, to
 overcome their opposition.
@@ -8399,7 +8506,7 @@ develop an applicable understanding of the *Critique of Judgment* based
 on regularities to objects of the New Aesthetic. In the *Critique of
 Pure Reason* Kant writes: ‘By nature, in the empirical sense, we
 understand the connection of appearances as regards their existence
-according to necessary rules, that is, according to laws.’[^book_book_book_book_book_06-Chap6_10] If this
+according to necessary rules, that is, according to laws.’[^book_book_book_book_06-Chap6_10] If this
 is the case, is there a degree of regularity involved with postdigital
 and New Aesthetic objects?
 
@@ -8419,7 +8526,7 @@ left only with nature itself? More importantly, what happens when the
 opportunity to make a judgment of taste eludes us or, even more
 poignantly, is an impossibility?
 
-For Kant beauty is only for humans.[^book_book_book_book_book_06-Chap6_11] This is a crucially important
+For Kant beauty is only for humans.[^book_book_book_book_06-Chap6_11] This is a crucially important
 part of Kant’s examination of judgments because judgment is always
 subjectively reflective, regardless of whether it’s aesthetic or
 teleological, and is distinct from epistemic claims or moral certitude
@@ -8470,7 +8577,7 @@ to disregard the manner in which it ‘enhances’ our lives or alerts us to
 information about ourselves that we could not have known otherwise? Is
 it possible to neither love nor hate our iPhones but disinterestedly
 appreciate them, especially when they don’t ‘just work’? Regardless of
-the debate about the functional beauty of artworks,[^book_book_book_book_book_06-Chap6_12] the
+the debate about the functional beauty of artworks,[^book_book_book_book_06-Chap6_12] the
 functionality of New Aesthetic objects makes it impossible to assess
 their aesthetic quality as beautiful in a Kantian sense because the
 presentations of their functional and aesthetic natures are frequently
@@ -8505,7 +8612,7 @@ beautiful but because they apparently will themselves to be described as
 beautiful. Kant writes: ‘For a judgment of taste consists precisely in
 this, that it calls a thing beautiful only by virtue of that
 characteristic in which it adapts itself to the way we apprehend
-it.’[^book_book_book_book_book_06-Chap6_13] This means that the appearance of objects will seemingly
+it.’[^book_book_book_book_06-Chap6_13] This means that the appearance of objects will seemingly
 change so as to be in accordance with our capacity to judge them as
 beautiful, but Kant certainly didn’t mean that the objects would
 actually change. New Aesthetic objects, however, do change in a
@@ -8549,7 +8656,7 @@ simple objection however is that the ‘dilemma \[…\] is \[that either\]
 the free play of the faculties is involved in all cognitive perceptual
 experience, or it is not. If it is, then it would seem,
 counterintuitively, that every object should be perceived as
-beautiful.’[^book_book_book_book_book_06-Chap6_15] In the case of New Aesthetic objects what can be
+beautiful.’[^book_book_book_book_06-Chap6_15] In the case of New Aesthetic objects what can be
 intuited about their intention is, at best, the nature of their origins;
 this, however, is entirely alien to our nature, as they derive their
 existence from self-sufficient algorithms that are impossible to submit
@@ -8559,7 +8666,7 @@ But could they be judged as having a purpose? Kant writes: ‘For if we
 want to investigate the organized products of nature by continued
 observation, we find it completely unavoidable to apply to nature the
 concept of intention, so that even for our empirical use of reason this
-concept is an absolutely necessary maxim.’[^book_book_book_book_book_06-Chap6_16]
+concept is an absolutely necessary maxim.’[^book_book_book_book_06-Chap6_16]
 
 Objects of the New Aesthetic do exist for aesthetic and, therefore,
 reflective judgment. Furthermore, New Aesthetic objects do exist as a
@@ -8574,7 +8681,7 @@ aesthetics to Kant’s conception of teleological judgments.
 While Kant’s ideas on teleology are, at most, complicated and primarily
 a niche interest, it can be asserted that ‘teleology serves a useful, if
 not indispensable, role in our understanding of the living objects and
-phenomena in nature’.[^book_book_book_book_book_06-Chap6_17] For Kant, a teleological judgment of an
+phenomena in nature’.[^book_book_book_book_06-Chap6_17] For Kant, a teleological judgment of an
 object is a judgment as *understanding* of its intrinsic purpose, a
 purpose to which the object embodies its realization. Teleological
 judgments are primarily concerned with a theoretical analysis of the
@@ -8589,7 +8696,7 @@ the *Critique of Teleological* *Judgement* Kant is concerned with
 particular material objects of experience, and not with the concept of
 matter as it can be “constructed” in pure intuition. In order to explain
 the former we thus require laws that go beyond and are more specific
-than the a priori laws of pure science.’[^book_book_book_book_book_06-Chap6_18] While a teleological
+than the a priori laws of pure science.’[^book_book_book_book_06-Chap6_18] While a teleological
 judgment may reveal a sense of the purpose of the object, perhaps even
 more valuable is that the identification of that purpose reveals the
 object as a self-organizing organism; it’s not just that we figure out
@@ -8606,7 +8713,7 @@ articulated in the antinomy based on the following two principles:
 > The second maxim is the antithesis: Some products of material nature
 > cannot be judged as possible according to merely mechanical laws
 > (judging them requires an entirely different law of causality, namely
-> that of final causes).[^book_book_book_book_book_06-Chap6_19]
+> that of final causes).[^book_book_book_book_06-Chap6_19]
 
 What emerges is a dialectic that describes these organisms, subject to
 teleological judgment, as both things that are restricted to the
@@ -8628,7 +8735,7 @@ Natural Purposes’, Kant writes:
 > it is *both cause and effect of itself* (although in two different
 > senses). For this involves a concept of a nature without regarding
 > nature as acting from a purpose; and even then, though we can think
-> this causality, we cannot grasp it.[^book_book_book_book_book_06-Chap6_20]
+> this causality, we cannot grasp it.[^book_book_book_book_06-Chap6_20]
 
 What Kant means by this is that a natural object will both be itself,
 exist as it is, while equally be available for judgment as to the
@@ -8651,7 +8758,7 @@ his critical system, Kant argues that any effort to judge the natural
 purpose of a thing, its *Naturzweck*, based on its intrinsic form, is
 dependent on its natural form as *Naturwerk*; when an object appears to
 our experience to be efficaciously purposive, initially understood as
-related to art[^book_book_book_book_book_06-Chap6_21] but extended to all things that ground a causality
+related to art[^book_book_book_book_06-Chap6_21] but extended to all things that ground a causality
 to a purpose, it is because it appears to be a means by which a purpose
 is achieved as an intrinsic quality of the object, such that ‘\[…\] we
 arrive at no categorical \[but only a hypothetical\] purpose if we
@@ -8659,7 +8766,7 @@ disregard the internal form and organization \[of a blade of grass\],
 and consider instead extrinsic purposive relations as to what use other
 natural beings make of the grass \[…\] this condition (namely, the
 existence of a thing as a final purpose) is unconditioned and hence lies
-wholly outside a physicoteleological consideration of the world’.[^book_book_book_book_book_06-Chap6_22]
+wholly outside a physicoteleological consideration of the world’.[^book_book_book_book_06-Chap6_22]
 To put it another way, Kant’s idea of a teleological judgment depends on
 ignoring our aesthetic response (the tastiness of an apple, for example)
 in favor of seeing different purposes to the parts of the organism that
@@ -8668,7 +8775,7 @@ the apple tree and its species).
 
 A teleological judgment regards an object only in terms of its efficient
 presentation of its purpose, what Kant refers to as its ‘intrinsic
-purpose’.[^book_book_book_book_book_06-Chap6_23] While this is problematic – as a number of commentators
+purpose’.[^book_book_book_book_06-Chap6_23] While this is problematic – as a number of commentators
 point out this is both paradoxical to human thought and appears opposed
 to scientific thinking – Kant argues that it is a necessary judgment in
 order not to explain objects but simply to be able to cite their
@@ -8677,7 +8784,7 @@ asses, wherein an object is a means towards an end in a causal
 connection that is real, far more interesting are the intrinsic
 purposes, wherein an object is organized to reveal itself as itself in a
 causal connection that is ideal, an organism is ‘both cause and effect
-of itself’.[^book_book_book_book_book_06-Chap6_24]
+of itself’.[^book_book_book_book_06-Chap6_24]
 
 Kant is quite upfront about this being inapplicable to art, writing:
 ‘Now in order for a thing to be a natural purpose, it must meet two
@@ -8686,7 +8793,7 @@ their existence and their form) must depend on their relation to the
 whole. For since the thing itself is a purpose, it is covered by a
 concept or idea that must determine a priori everything that the thing
 is to contain. But if we think of a thing as possible only in *that* way
-then it is merely a work of art’.[^book_book_book_book_book_06-Chap6_25] This is where Lou’s *Color Field*
+then it is merely a work of art’.[^book_book_book_book_06-Chap6_25] This is where Lou’s *Color Field*
 serves as a differentiating boundary point; quite clearly, the work
 doesn’t serve a natural purpose and its teleological nature is neither
 self-sufficient nor autonomous. While there is a telos involved – the
@@ -8718,7 +8825,7 @@ of sustaining the continuation of the whole.
 > the form and combination of all the parts, not as cause – for then the
 > whole would be a product of art – but as the basis on which someone
 > judging this whole cognizes the systematic unity in the form and
-> combination of all the manifold contained in the given matter.[^book_book_book_book_book_06-Chap6_26]
+> combination of all the manifold contained in the given matter.[^book_book_book_book_06-Chap6_26]
 
 Normally this second condition is not available to inanimate objects but
 only to living organisms because the parts of the whole do not generate
@@ -8739,13 +8846,13 @@ this maxim: ‘Everything in the world is good for something or other;
 nothing in it is gratuitous; and the example that nature offers us in
 its organic products justifies us, indeed calls upon us, to expect
 nothing from it and its laws except what is purposive in \[relation to\]
-the whole’.[^book_book_book_book_book_06-Chap6_27] As a reflective judgment, and not as a determinative
+the whole’.[^book_book_book_book_06-Chap6_27] As a reflective judgment, and not as a determinative
 judgment, this allows us to reflect on objects of our experience and to
 transcend the specificities of the object. In short, we can begin to
 teleologically judge non-natural objects in a manner similar to natural
 objects. Kant even proposes that we are ‘entitled’ to go beyond the
 specific purposiveness of an object to a consideration of a ‘unity of
-supersensible principle’[^book_book_book_book_book_06-Chap6_28] whereby the entirety of nature as a system
+supersensible principle’[^book_book_book_book_06-Chap6_28] whereby the entirety of nature as a system
 is considered and judged as a whole. This allows us, in a way, to
 understand the frequent biological metaphors used to describe digital
 ecologies.
@@ -8761,13 +8868,13 @@ purpose unless we resort (as is hinted by Kant) to some divine power.
 Kant wants to avoid this, and so do we. ‘A teleological principle for
 explaining the inner possibility of certain natural forms leaves it
 undetermined whether their purposiveness is intentional or
-unintentional.’[^book_book_book_book_book_06-Chap6_29] This dialectic between intention and driven
+unintentional.’[^book_book_book_book_06-Chap6_29] This dialectic between intention and driven
 necessity complicates the intrinsic causal relations of the object but
 it’s in that complexity that the teleological judgment has the most
 force. Kant writes: ‘we would find no distinction between a natural
 mechanism and a technique of nature, i.e., a connection to ends in it,
 if our understanding were not of the sort that must go from the
-universal to the particular’.[^book_book_book_book_book_06-Chap6_30] This gets to a central point of the
+universal to the particular’.[^book_book_book_book_06-Chap6_30] This gets to a central point of the
 matter. For Kant, an identification of the
 
 > apparent internal purposiveness – as presented in the phenomena of
@@ -8777,7 +8884,7 @@ matter. For Kant, an identification of the
 > purposes exhibiting a real, internal purposiveness having its source
 > in a nonhuman, intelligent causality analogous to our own practical
 > causality \[…\] which provides us with an intelligible estimation
-> (*Beurteilung*) of organic nature.[^book_book_book_book_book_06-Chap6_31]
+> (*Beurteilung*) of organic nature.[^book_book_book_book_06-Chap6_31]
 
 What’s taking place here is crucial. *Naturwerke*, natural organisms,
 appear to have *Naturzwecke*, natural ends, but are they programmed or
@@ -8793,7 +8900,7 @@ smartphone that do all those things? Would we start to call them
 organisms?
 
 This goes beyond what Paul Fishwick has described as the aesthetic
-products of embodied cognition[^book_book_book_book_book_06-Chap6_32] in that it describes a set of
+products of embodied cognition[^book_book_book_book_06-Chap6_32] in that it describes a set of
 aesthetic forms that are the products of cognitive organisms that are
 the result of programming but function independently of the intentions
 of their programming. Ralf Baecker’s art illustrates this very well,
@@ -8811,7 +8918,7 @@ an interview after it was installed at the NOME art gallery in Berlin.
 > mathematical foundations of these technologies. A closer look reveals
 > a fully closed deterministic system, that is the result of separating
 > mathematics from the world and our experience of it, in order to
-> create a pure formal system.[^book_book_book_book_book_06-Chap6_33]
+> create a pure formal system.[^book_book_book_book_06-Chap6_33]
 
 Our focus on objects of the New Aesthetic ends up there. What if we were
 to take Kant’s solution to the problem and run with it? Kant would
@@ -8819,13 +8926,13 @@ certainly disagree with where we are heading but, for Kant, a
 reconciliation between the mechanistic character of the first
 requirement and the natural self-sufficiency of the second requirement
 can happen if the mechanistic becomes subordinate to the teleology while
-remaining autonomous and independent.[^book_book_book_book_book_06-Chap6_34] We want to avoid intentional
+remaining autonomous and independent.[^book_book_book_book_06-Chap6_34] We want to avoid intentional
 purposes because those make it difficult to avoid thinking about whose
 intentions we’re looking at. We want to only discuss natural purposes as
 natural ends. And what are natural purposes ultimately? To continue life
 as *Naturwerk*, natural works, sustained through their *Naturzwecke*,
 their own closed, unique and self-determinating organizational
-principals.[^book_book_book_book_book_06-Chap6_35]
+principals.[^book_book_book_book_06-Chap6_35]
 
 Any reflective judgment must discover *a priori* the purposiveness of
 nature revealed in teleological judgments while simultaneously engaging
@@ -8850,7 +8957,7 @@ teleological judgment of New Aesthetic objects. Kant may write that
 purposiveness, which is essentially distinct from a practical
 purposiveness), if it is not to be a merely superstitious substitution
 of *what we make out of nature* for what *nature is*, is a concept
-separate from all dogmatic philosophy’[^book_book_book_book_book_06-Chap6_36] but we arrive at a different
+separate from all dogmatic philosophy’[^book_book_book_book_06-Chap6_36] but we arrive at a different
 conclusion regarding these technologically based objects. Obviously New
 Aesthetic objects are not actually biological organisms, but we would
 argue that the degree to which they are analogous to *Naturwerk*e is
@@ -8903,7 +9010,7 @@ understanding evolution and biological processes. He writes:
 > heavy stress on the necessity of teleological considerations for the
 > understanding of organisms would seem to lead to the conclusion that
 > teleology is a constitutive condition for the possibility of biology,
-> and thus not regulative.[^book_book_book_book_book_06-Chap6_37]
+> and thus not regulative.[^book_book_book_book_06-Chap6_37]
 
 Quarfood’s point is clear and aligned with Kant’s: we can, we do, and we
 are even driven to make teleological judgments about organisms. While
@@ -8924,7 +9031,7 @@ inherent to the existence of objects. Quarfood continues:
 > to be constitutive for that experience, provided that this
 > constitutivity is understood as relative to this level and to the
 > “human point of view”, rather than as prescriptive for objects in
-> general.[^book_book_book_book_book_06-Chap6_38]
+> general.[^book_book_book_book_06-Chap6_38]
 
 The point here is similar to Kant’s in that teleological judgments
 provide only a human perspective for human experience; every time we
@@ -8944,12 +9051,12 @@ help it, with Quarfood noting that ‘In § 68, Kant tells us that
 concerning “empirical laws of natural purposes in organized beings it is
 not merely permissible but even unavoidable to use the teleological way
 of judging as the principle of the theory of nature with regard to a
-special class of its objects” (CJ 382).’[^book_book_book_book_book_06-Chap6_39] Organized beings are
+special class of its objects” (CJ 382).’[^book_book_book_book_06-Chap6_39] Organized beings are
 necessarily recognized as organized – we can’t avoid seeing patterns,
 regulative processes and purposiveness in organisms even if they aren’t
 there – even if Kant himself would go on to say that such recognitions
 are inexplicable and only serve as a rough, failing guide to describing
-mechanistic explanations.[^book_book_book_book_book_06-Chap6_40]
+mechanistic explanations.[^book_book_book_book_06-Chap6_40]
 
 Quarfood’s point is neatly applicable if one reverses it and then
 extends it far beyond his philosophical position: it’s not just that we
@@ -8979,7 +9086,7 @@ teleology as a concept in the philosophy of science, points out:
 > physicalism, “known to be the best” or at least the only reliable
 > methods for such analyses. These philosophers have ignored the
 > findings of the biologists, even though teleology concerns mostly or
-> entirely the world of life.[^book_book_book_book_book_06-Chap6_41]
+> entirely the world of life.[^book_book_book_book_06-Chap6_41]
 
 What’s interesting about this statement, written before the explosion of
 the increasingly pervasive presence of the internet, is its dependency
@@ -8992,7 +9099,7 @@ teleology, Mayr disassociates the notion that a teleological description
 is oriented towards finality and instead moves it beyond
 functional-associations. As Mayr notes: ‘the principal endeavor of the
 traditional philosopher was to eliminate teleological language from all
-descriptions and analyses’[^book_book_book_book_book_06-Chap6_42] because it got wrapped up into excessive
+descriptions and analyses’[^book_book_book_book_06-Chap6_42] because it got wrapped up into excessive
 speculation that resulted in terminating descriptions of history such as
 Hegel’s own efforts. For Mayr, though, teleology still has a role in
 biology because it emphasizes the self-preservative drive of organisms,
@@ -9026,12 +9133,12 @@ migrations, which are seemingly programmed but subject to variable
 conditions and which respond to those variables. For Mayr, neither
 teleomatic nor teleonomic processes are adequate, however, in describing
 a genuine sense of the teleological, regardless of some debates
-concerning their conceptual similarity to teleology[^book_book_book_book_book_06-Chap6_43] and especially
+concerning their conceptual similarity to teleology[^book_book_book_book_06-Chap6_43] and especially
 in light of the tendency to conflate teleonomy with a theist notion of
 teleology; for Mayr, teleology is more than just adherence to laws or
 the realization of goals, it is the manifestation of goals that is less
 a product of adaptiveness (which Mayr identifies as Kant’s
-*Zweckmässigkeit*)[^book_book_book_book_book_06-Chap6_44] and more a product of goal-orientation
+*Zweckmässigkeit*)[^book_book_book_book_06-Chap6_44] and more a product of goal-orientation
 capability. In a way, this is similar to Mayr’s notion of what a species
 is, in response to the species problem present in Charles Darwin’s
 ideas; for Mayr, a species is not just a group of similar individuals
@@ -9104,9 +9211,9 @@ taken care of✨’, *Excellences & Perfections*
 
 In a post on Facebook
 referencing a review published in the British Newspaper *The
-Telegraph*,[^book_book_book_book_book_06-Chap6_45] Nicolas Bourriaud described Ulman’s project as an
+Telegraph*,[^book_book_book_book_06-Chap6_45] Nicolas Bourriaud described Ulman’s project as an
 example of post-internet art, then quickly declared that to be an
-incorrect appellation.[^book_book_book_book_book_06-Chap6_46] Bourriaud’s rejection of the term is
+incorrect appellation.[^book_book_book_book_06-Chap6_46] Bourriaud’s rejection of the term is
 ensconced in his critical perspective of relational aesthetics, but his
 willingness to reconsider Ulman’s work based on the review is
 fascinating. Sean O’Hagan, writing in *The Guardian*, notes:
@@ -9118,7 +9225,7 @@ fascinating. Sean O’Hagan, writing in *The Guardian*, notes:
 > attempts to become a somebody in Los Angeles. Like a would-be Kim
 > Kardashian, she recorded her shopping expeditions and pole-dancing
 > classes, attracting the inevitable “haters”, but also about 90,000
-> followers.[^book_book_book_book_book_06-Chap6_47]
+> followers.[^book_book_book_book_06-Chap6_47]
 
 Ulman’s work is about gender, celebrity, identity construction and an
 exploration of an engagement with social media. At the same time, in a
@@ -9152,7 +9259,7 @@ make it hard to apply it to New Aesthetic objects; Kant writes (§64):
 ‘all our art finds itself infinitely outdistanced if it tries to
 reconstruct those products of the vegetable kingdom from the elements we
 obtain by dissecting them, or for that matter from the material that
-nature supplies for their nourishment’.[^book_book_book_book_book_06-Chap6_48] We hope that this chapter
+nature supplies for their nourishment’.[^book_book_book_book_06-Chap6_48] We hope that this chapter
 hasn’t been read as a slavishly devoted appropriation of Schopenhauer’s
 and Kant’s ideas, influential as they are. Instead, we’ve thought of
 their ideas, and those of other theorists mentioned throughout the book,
@@ -9185,105 +9292,105 @@ are both indistinguishable from manufactured, digital artifacts on one
 level and indistinguishable on another, functional level from biological
 organisms.
 
-[^book_book_book_book_book_06-Chap6_1]: Again, as always, the irony doesn’t escape us.
+[^book_book_book_book_06-Chap6_1]: Again, as always, the irony doesn’t escape us.
 
-[^book_book_book_book_book_06-Chap6_2]: Miya Tokumitsu, ‘The Politics of the Curation Craze’, *New
+[^book_book_book_book_06-Chap6_2]: Miya Tokumitsu, ‘The Politics of the Curation Craze’, *New
     Republic*, 24 August 2015,
     <http://www.newrepublic.com/article/122589/when-did-we-all-become-curators>.
 
-[^book_book_book_book_book_06-Chap6_3]: Dmitriy Krotevich, ‘PixelDrifter’, *Internet Archive*, 11 May
+[^book_book_book_book_06-Chap6_3]: Dmitriy Krotevich, ‘PixelDrifter’, *Internet Archive*, 11 May
     2014, <https://archive.org/details/pixeldrifter>.
 
-[^book_book_book_book_book_06-Chap6_4]: Margaret Rhodes, ‘This Glitch Art Is Made of Pixels Powered by
+[^book_book_book_book_06-Chap6_4]: Margaret Rhodes, ‘This Glitch Art Is Made of Pixels Powered by
     Their Own AI’, *Wired.com*, 7 August 2014,
     <http://www.wired.com/2014/08/this-glitch-art-is-made-of-pixels-powered-by-their-own-ai/>.
 
-[^book_book_book_book_book_06-Chap6_5]: DJ Pangburn, ‘Here’s What Artificially Intelligent Pixel Bending
+[^book_book_book_book_06-Chap6_5]: DJ Pangburn, ‘Here’s What Artificially Intelligent Pixel Bending
     Looks Like ‘, *The Creators Project*, 28 July 2014,
     <http://thecreatorsproject.vice.com/blog/heres-what-artificially-intelligent-pixel-bending-looks-like>.
 
-[^book_book_book_book_book_06-Chap6_6]: Arthur Schopenhauer, *The World as Will and Representation*,
+[^book_book_book_book_06-Chap6_6]: Arthur Schopenhauer, *The World as Will and Representation*,
     trans. E.F.J. Payne. Dover Publications, New York: 1966, p. 118.
 
-[^book_book_book_book_book_06-Chap6_7]: Damion Scott, ‘Functional Analysis and Schopenhauer’s Theory of
+[^book_book_book_book_06-Chap6_7]: Damion Scott, ‘Functional Analysis and Schopenhauer’s Theory of
     the Will’ (*The World as Will and Representation*, Volume I,
     Sections 17-29),
     <https://www.academia.edu/2576175/Functional_Analysis_and_Schopenhauers_Theory_of_the_Will>.
 
-[^book_book_book_book_book_06-Chap6_8]: Arthur Schopenhauer, *The World as Will and Representation*, p.
+[^book_book_book_book_06-Chap6_8]: Arthur Schopenhauer, *The World as Will and Representation*, p.
     118.
 
-[^book_book_book_book_book_06-Chap6_9]: DeWitt H. Parker, ‘Introduction’, *Schopenhauer Selections*, New
+[^book_book_book_book_06-Chap6_9]: DeWitt H. Parker, ‘Introduction’, *Schopenhauer Selections*, New
     York: Scribner, 1928.
 
-[^book_book_book_book_book_06-Chap6_10]: *Critique of Pure Reason*, A216/B263
+[^book_book_book_book_06-Chap6_10]: *Critique of Pure Reason*, A216/B263
 
-[^book_book_book_book_book_06-Chap6_11]: KU 15
+[^book_book_book_book_06-Chap6_11]: KU 15
 
-[^book_book_book_book_book_06-Chap6_12]: Stephen Davies, ‘Aesthetic Judgements, Artworks and Functional
+[^book_book_book_book_06-Chap6_12]: Stephen Davies, ‘Aesthetic Judgements, Artworks and Functional
     Beauty’, *The Philosophical Quarterly*, Vol. 56, No. 223 (April,
     2006): 224-241.
 
-[^book_book_book_book_book_06-Chap6_13]: Immanuel Kant*, The Critique of Judgment*, trans. Pluhar, Werner,
+[^book_book_book_book_06-Chap6_13]: Immanuel Kant*, The Critique of Judgment*, trans. Pluhar, Werner,
     Indianapolis, IN: Hackett, 1987, p. 145.
 
-[^book_book_book_book_book_06-Chap6_15]: Hannah Ginsborg, ‘Kant’s Aesthetics and Teleology’, in Edward N.
+[^book_book_book_book_06-Chap6_15]: Hannah Ginsborg, ‘Kant’s Aesthetics and Teleology’, in Edward N.
     Zalta (ed.) *The Stanford Encyclopedia of Philosophy*, Fall 2014,
     <http://plato.stanford.edu/archives/fall2014/entries/kant-aesthetics/>.
 
-[^book_book_book_book_book_06-Chap6_16]: Kant, *Critique of Judgment*, Pluhar, p. 280
+[^book_book_book_book_06-Chap6_16]: Kant, *Critique of Judgment*, Pluhar, p. 280
 
-[^book_book_book_book_book_06-Chap6_17]: Shidan Lofti, ‘The ‘Purposiveness’ of Life: Kant’s Critique of
+[^book_book_book_book_06-Chap6_17]: Shidan Lofti, ‘The ‘Purposiveness’ of Life: Kant’s Critique of
     Natural Teleology’, *The Monist*, January 2010, 93:1, p. 124.
 
-[^book_book_book_book_book_06-Chap6_18]: Angela Breitenbach, ‘Two views on nature: A solution to Kant’s
+[^book_book_book_book_06-Chap6_18]: Angela Breitenbach, ‘Two views on nature: A solution to Kant’s
     antinomy of mechanism and teleology’, *British Journal for the
     History of Philosophy*, 16:2, 2008: 351-369.
 
-[^book_book_book_book_book_06-Chap6_19]: Immanuel Kant, *Kritik der Urtheilskraft*, (*KdU*), §70, AAV:
+[^book_book_book_book_06-Chap6_19]: Immanuel Kant, *Kritik der Urtheilskraft*, (*KdU*), §70, AAV:
     387.
 
-[^book_book_book_book_book_06-Chap6_20]: Kant, *Critique of Judgment*, Pluhar, p. 249.
+[^book_book_book_book_06-Chap6_20]: Kant, *Critique of Judgment*, Pluhar, p. 249.
 
-[^book_book_book_book_book_06-Chap6_21]: KU §10
+[^book_book_book_book_06-Chap6_21]: KU §10
 
-[^book_book_book_book_book_06-Chap6_22]: Kant, *Critique of Judgment*, Pluhar, p. 258.
+[^book_book_book_book_06-Chap6_22]: Kant, *Critique of Judgment*, Pluhar, p. 258.
 
-[^book_book_book_book_book_06-Chap6_23]: ‘\[I\]f a thing is a natural product but yet we are to cognize it
+[^book_book_book_book_06-Chap6_23]: ‘\[I\]f a thing is a natural product but yet we are to cognize it
     as possible only as a natural purpose, then it must have this
     character: it must relate to itself in such a way that it is both
     cause and effect of itself.’ Kant, *Critique of Judgment*, Pluhar,
     p. 251.
 
-[^book_book_book_book_book_06-Chap6_24]: Kant, *Critique of Judgment*, Pluhar, p. 371.
+[^book_book_book_book_06-Chap6_24]: Kant, *Critique of Judgment*, Pluhar, p. 371.
 
-[^book_book_book_book_book_06-Chap6_25]: Kant, *Critique of Judgment*, Pluhar, p. 252.
+[^book_book_book_book_06-Chap6_25]: Kant, *Critique of Judgment*, Pluhar, p. 252.
 
-[^book_book_book_book_book_06-Chap6_26]: Kant, *Critique of Judgment*, Pluhar, p. 252.
+[^book_book_book_book_06-Chap6_26]: Kant, *Critique of Judgment*, Pluhar, p. 252.
 
-[^book_book_book_book_book_06-Chap6_27]: Kant, *Critique of Judgment*, Pluhar, p. 259.
+[^book_book_book_book_06-Chap6_27]: Kant, *Critique of Judgment*, Pluhar, p. 259.
 
-[^book_book_book_book_book_06-Chap6_28]: Kant, *Critique of Judgment*, Pluhar, p. 261.
+[^book_book_book_book_06-Chap6_28]: Kant, *Critique of Judgment*, Pluhar, p. 261.
 
-[^book_book_book_book_book_06-Chap6_29]: Kant, *Critique of Judgment*, Pluhar, p. 237.
+[^book_book_book_book_06-Chap6_29]: Kant, *Critique of Judgment*, Pluhar, p. 237.
 
-[^book_book_book_book_book_06-Chap6_30]: Immanuel Kant, *KdU*, AAV: 404.
+[^book_book_book_book_06-Chap6_30]: Immanuel Kant, *KdU*, AAV: 404.
 
-[^book_book_book_book_book_06-Chap6_31]: A.C. Genova, ‘Review of *Kant’s Concept of Teleology* by J.D.
+[^book_book_book_book_06-Chap6_31]: A.C. Genova, ‘Review of *Kant’s Concept of Teleology* by J.D.
     McFarland’, *Ethics*, University of Chicago Press, Vol. 81, No. 2
     (Jan., 1971): 186-189.
 
-[^book_book_book_book_book_06-Chap6_32]: Paul Fishwick, ‘Aesthetic Computing’, Mads Soegaard and Rikke
+[^book_book_book_book_06-Chap6_32]: Paul Fishwick, ‘Aesthetic Computing’, Mads Soegaard and Rikke
     Friis Dam (eds.) *The Encyclopedia of Human-Computer Interaction*,
     Aarhus: The Interactive Design Foundation, 2013.
 
-[^book_book_book_book_book_06-Chap6_33]: Régine Debatty, ‘Order+Noise, a tug of war for motors, strings
+[^book_book_book_book_06-Chap6_33]: Régine Debatty, ‘Order+Noise, a tug of war for motors, strings
     and rubber bands’, We Make Money Not Art blog, 29 April 2016,
     <http://we-make-money-not-art.com/ordernoise-a-tug-of-war-for-motors-strings-and-rubber-bands/>.
 
-[^book_book_book_book_book_06-Chap6_34]: Kant, *Critique of Judgment*, Pluhar, p. 144.
+[^book_book_book_book_06-Chap6_34]: Kant, *Critique of Judgment*, Pluhar, p. 144.
 
-[^book_book_book_book_book_06-Chap6_35]: In a strange but related aside, the Viennese art historian Alois
+[^book_book_book_book_06-Chap6_35]: In a strange but related aside, the Viennese art historian Alois
     Riegl wrote ‘Naturwerk und Kunstwerk I’, in Alois Riegl, *Gesammelte
     Aufsätze*, Augsburg-Wien: Benno Filser Verlag, 1928, 64; Alois
     Riegl, ‘Naturwerk und Kunstwerk II’, 67, 70, proposing a similar
@@ -9293,46 +9400,46 @@ organisms.
     Vienna*, San Diego: University of California, 1997. We wonder what
     Riegl would have made of New Aesthetic objects.
 
-[^book_book_book_book_book_06-Chap6_36]: Kant, *Critique of Judgment*, Pluhar, p. 243.
+[^book_book_book_book_06-Chap6_36]: Kant, *Critique of Judgment*, Pluhar, p. 243.
 
-[^book_book_book_book_book_06-Chap6_37]: Marcel Quarfood, ‘Kant on Biological Teleology: Towards a
+[^book_book_book_book_06-Chap6_37]: Marcel Quarfood, ‘Kant on Biological Teleology: Towards a
     Two-level Interpretation’, *Studies in History and Philosophy of
     Biological and Biomedical Sciences*, vol. 37, 2006: 735-747.
 
-[^book_book_book_book_book_06-Chap6_38]: Marcel Quarfood, ‘Kant on Biological Teleology’.
+[^book_book_book_book_06-Chap6_38]: Marcel Quarfood, ‘Kant on Biological Teleology’.
 
-[^book_book_book_book_book_06-Chap6_39]: Quarfood, ‘Kant on Biological Teleology’, quoting Kant.
+[^book_book_book_book_06-Chap6_39]: Quarfood, ‘Kant on Biological Teleology’, quoting Kant.
 
-[^book_book_book_book_book_06-Chap6_40]: James Kreines, ‘The Inexplicability of Kant’s Naturzweck: Kant on
+[^book_book_book_book_06-Chap6_40]: James Kreines, ‘The Inexplicability of Kant’s Naturzweck: Kant on
     Teleology, Explanation and Biology’, *Archiv für Geschichte der
     Philosophie* 87 (3: 2005): 270-311.
 
-[^book_book_book_book_book_06-Chap6_41]: Ernst Mayr, ‘The Idea of Teleology’, *Journal of the History of
+[^book_book_book_book_06-Chap6_41]: Ernst Mayr, ‘The Idea of Teleology’, *Journal of the History of
     Ideas*, 53:1, 1992.
 
-[^book_book_book_book_book_06-Chap6_42]: Mayr, ‘The Idea of Teleology’, p. 122.
+[^book_book_book_book_06-Chap6_42]: Mayr, ‘The Idea of Teleology’, p. 122.
 
-[^book_book_book_book_book_06-Chap6_43]: Nicholas Cf. Thompson, ‘The Misappropriation of Teleonomy’, in
+[^book_book_book_book_06-Chap6_43]: Nicholas Cf. Thompson, ‘The Misappropriation of Teleonomy’, in
     *Perspectives in Ethology* (eds) Bateson, P. Bateosn and P. Klopfer,
     P., *Volume 7: Alternatives*, Springer-Verlag, 1987.
 
-[^book_book_book_book_book_06-Chap6_44]: Mayr, ‘The Idea of Teleology’, p. 134.
+[^book_book_book_book_06-Chap6_44]: Mayr, ‘The Idea of Teleology’, p. 134.
 
-[^book_book_book_book_book_06-Chap6_45]: Sooke, Alastair, “Is this the first Instagram Masterpiece?”, *The
+[^book_book_book_book_06-Chap6_45]: Sooke, Alastair, “Is this the first Instagram Masterpiece?”, *The
     Telegraph*, 18 January 2016,
     <http://www.telegraph.co.uk/photography/what-to-see/is-this-the-first-instagram-masterpiece/>.
 
-[^book_book_book_book_book_06-Chap6_46]: Nicholas Bourraiud’s Facebook Page. Accessed January 31^st^,
+[^book_book_book_book_06-Chap6_46]: Nicholas Bourraiud’s Facebook Page. Accessed January 31^st^,
     2016.
     <https://www.facebook.com/nicolas.bourriaud.7/posts/10154019377457280?pnref=story>.
 
-[^book_book_book_book_book_06-Chap6_47]: Sean O’Hagan, ‘Exposed: photography’s fabulous fakes. Phoney
+[^book_book_book_book_06-Chap6_47]: Sean O’Hagan, ‘Exposed: photography’s fabulous fakes. Phoney
     engagements, flying surrealists, faux Instagram celebrities, dubious
     family portraits … a short history of performance photography’, *The
     Guardian*, January 31 2016,
     <http://www.theguardian.com/artanddesign/2016/jan/31/exposed-photographys-fabulous-fakes>.
 
-[^book_book_book_book_book_06-Chap6_48]: Kant, *CJ*, p. 250.
+[^book_book_book_book_06-Chap6_48]: Kant, *CJ*, p. 250.
 
  <br></br> 
  <br></br> 
@@ -9343,13 +9450,13 @@ organisms.
 *shardcore* {Fig. 117} is a collection of projects by Eric Drass, an
 artist and curator who aptly describes his work as such: ‘Sometimes this
 work is political, frequently it is playful, often it is provocative or
-transgressive in some way.’[^book_book_book_book_07-Conclusion_1] 
+transgressive in some way.’[^book_book_book_07-Conclusion_1] 
 
 ![](img/Fig117.png)   
 Fig. 117 Eric Drass, *shardcore* (2016)
 
 In March 2016, Drass launched the
-‘Glitch News Network’[^book_book_book_book_07-Conclusion_2] that consists of conglomerations of the day’s
+‘Glitch News Network’[^book_book_book_07-Conclusion_2] that consists of conglomerations of the day’s
 news in visual form assembled into a video 2000 microseconds in length
 that is undecipherable at a conscious level but entirely decipherable at
 an unconscious level with only the briefest moments of recognition
@@ -9364,7 +9471,7 @@ enhances our survivability; he’s correct, but the extension of this is
 that the digital representation of information can be equally sped up.
 ‘The Glitch News Network perhaps offers a glimpse of the future, where
 we further disengage from our conscious central executor and merely
-stream blipverts at our subconscious.’[^book_book_book_book_07-Conclusion_3] Drass’ project is clearly a
+stream blipverts at our subconscious.’[^book_book_book_07-Conclusion_3] Drass’ project is clearly a
 little sardonic, but the point is well taken in this remarkably
 intelligent art work: it’s not just simply that we, as human beings,
 have evolved to process information quickly but that the information
@@ -9376,7 +9483,7 @@ extendable beyond his words when he writes: ‘After the novel, and
 subsequently cinema privileged narrative as the key form of cultural
 expression of the modern age, the computer age introduces its correlate
 – database. But it is also appropriate that we would want to develop
-poetics, aesthetics, and ethics of this database.’[^book_book_book_book_07-Conclusion_4]
+poetics, aesthetics, and ethics of this database.’[^book_book_book_07-Conclusion_4]
 
 In taking a broader overview than we have, focusing on software, Lev
 Manovich recently wrote: ‘I am interested in how software appears to
@@ -9384,7 +9491,7 @@ users – i.e. what *functions* it offers to create, share, reuse, mix,
 create, manage, share and communicate content, the *interfaces* used to
 present these functions, and *assumptions and models about a user,
 her/his needs, and society* encoded in these functions and their
-interface design.’[^book_book_book_book_07-Conclusion_5] Our approach has been very similar, if a little
+interface design.’[^book_book_book_07-Conclusion_5] Our approach has been very similar, if a little
 more focused on a particular set of objects as the outcomes of software,
 in line with one piece of art by Metahaven that declares *The Future Of
 Soft Power Depends On A Handful Of Pixels*, part of the *Disposable
@@ -9435,17 +9542,17 @@ has become so independent from the creators’ full control in our
 postdigital world that it has asserted an autonomy of its own. And,
 therein, can be found the New Aesthetic.
 
-[^book_book_book_book_07-Conclusion_1]: Eric Drass, *shardcore*, ‘About shardcore.org: bio’,
+[^book_book_book_07-Conclusion_1]: Eric Drass, *shardcore*, ‘About shardcore.org: bio’,
     <http://www.shardcore.org/shardpress/about-shardcoreorg/>.
 
-[^book_book_book_book_07-Conclusion_2]: Eric Drass, *shardcore*, ‘Glitch New Network’, 2 March 2016,
+[^book_book_book_07-Conclusion_2]: Eric Drass, *shardcore*, ‘Glitch New Network’, 2 March 2016,
     <http://www.shardcore.org/shardpress/2016/03/02/glitch-news-network/>.
 
-[^book_book_book_book_07-Conclusion_3]: Eric Drass, *shardcore*.
+[^book_book_book_07-Conclusion_3]: Eric Drass, *shardcore*.
 
-[^book_book_book_book_07-Conclusion_4]: Manovich, *The Language of New Media*, p. 219.
+[^book_book_book_07-Conclusion_4]: Manovich, *The Language of New Media*, p. 219.
 
-[^book_book_book_book_07-Conclusion_5]: Manovich, *Software Takes Command*, p. 29.
+[^book_book_book_07-Conclusion_5]: Manovich, *Software Takes Command*, p. 29.
 
  <br></br> 
  <br></br> 
@@ -10923,91 +11030,6 @@ computer graphics’, August, 2006, *ZKM*,
  <br></br> 
 
 
-# <span id="_Toc321914225" class="anchor"><span id="_Toc321914119" class="anchor"></span></span>Acknowledgements
-
-This book has been written by two authors who at first glance could not
-be more different, from different academic background, at a different
-moments of career development and from different generations. Scott is a
-full professor at East Tennessee State University, where he teaches art
-history in the Department of Art & Design and aesthetics in the
-Department of Philosophy & Humanities with a primary research focus in
-aesthetic ontology and Lacan. Łukasz is a an early-career researcher,
-enrolled as a PhD student in cultural studies at the University’s of
-Warsaw Faculty of ‘Artes Liberales’ while collaborating with the newly
-founded Digital Economy Lab (DELab) at the University of Warsaw. He also
-works as a journalist and consultant covering emerging digital
-technologies, digital society and culture.
-
-This book had its start at the International Congress of Aesthetics, a
-highly select and ambitious international conference devoted to
-aesthetics, art and media study, held in Kraków, Poland in the summer of
-2013. Assigned to speak on the same panel because we were presenting on
-the same topic – digital autonomy and the New Aesthetic – we quickly
-realized that we had many more overlapping academic interests. As a
-result of our first meeting on the first day of the conference we
-decided to take a more creative approach to our presentations, splitting
-them up so that each could address the areas we planned on covering in a
-logical sequence and inadvertently taking over the dynamic of the
-successful session. Since our time in Kraków, we have been exchanging
-ideas and quickly realized that publishing a co-authored book would be a
-perfect opportunity to collaboratively produce an introduction to New
-Aesthetics incorporating not only an approach ensconced in a broad
-theoretical of digital technology’s impact but also its impact on the
-contemporary art world.
-
-We would like to thank: the Institute of Network Cultures at the
-Amsterdam University of Applied Sciences for giving us the possibility
-to publish our work with them, and particularly Miriam Rasch and Nadine
-Roestenburg for taking great care of us throughout the writing, editing
-and publishing process; East Tennessee State University’s Office of
-Research & Sponsored Programs, Department of Art & Design and Honors
-College, all of whom provided specific financial support that made the
-project possible in its final stages; the Polish government, which
-financed Łukasz’ work from the budget for science of the Republic of
-Poland as a research project within the ‘Diamond Grant’ programme in
-2012-16; and the artists included herein, many of whom supplied
-information and images about their work and were incredibly gracious in
-their responses to our inquiries.
-
-For the last 4 years Łukasz has been a research director of a project
-funded by the Polish Ministry of Science and Higher Education. This
-early-career research grant allowed Łukasz to meet and share ideas with
-many distinguished scholars whose knowledge, insight and support were
-crucial for emergence of many ideas presented in the book. He is
-particularly grateful to the research community of the Digital
-Aesthetics Research Center / Participation Information Technologies
-Group at the University of Aarhus where he spent some time as a visiting
-researcher in 2014. He would like to also thank the research community
-of the Sussex Humanities Lab at the University of Sussex where he was a
-visiting Ph.D. student in 2015.
-
-Scott would like to thank his many friends and colleagues across many
-disciplines in his university and his family and friends. He especially
-thanks his wife and son Karlota and Anton for their love and support;
-the book would never have been finished as soon as it was if Karlota
-didn’t encourage him to go to Warsaw for a few days, and Anton appears
-in one of the images inside.
-
-Łukasz would like to express particular thanks to Christian Ulrik
-Andersen (Aarhus University), David M. Berry (University of Sussex),
-Piotr Celiński (Maria Curie-Skłodowska-University), Damien Charrieras
-(City University of Hong Kong), Lev Manovich (CUNY), Søren Bro Pold
-(Aarhus University), Krzysztof Rutkowski (University of Warsaw), Winnie
-Soon (Aarhus University) and Piotr Wilczek (University of Warsaw). You
-have always been kind and very supportive. Your ongoing encouragement
-pushed me to work even harder to develop my ideas.
-
-Scott Contreras-Koterbay  
-Łukasz Mirocha  
-Johnson City, TN, USA  
-Brighton, UK  
-Warsaw, Poland  
-2014-2016
-  
-   
-  
-    
-    
 # Biographies
 
 **Scott Contreras-Koterbay** is a professor of contemporary art history at East Tennessee State University in the United States, with a research emphasis on aesthetic ontology and reception theory.  
