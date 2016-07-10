@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="7.5(142)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="7.5" Self="d">
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal"/>
+	<FontFamily Self="di38" Name="Minion Pro">
+		<Font Self="di38FontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+	</FontFamily>
+	<FontFamily Self="di79" Name="Myriad Pro">
+		<Font Self="di79FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+	</FontFamily>
+	<FontFamily Self="di7d" Name="Kozuka Mincho Pro">
+		<Font Self="di7dFontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="KozMinPro-ExtraLight" Status="Installed" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="KozMinPro-Light" Status="Installed" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="KozMinPro-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+	</FontFamily>
+	<FontFamily Self="dib6" Name="Lato">
+		<Font Self="dib6FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato Hairline" FullNameNative="Lato Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato Hairline Italic" FullNameNative="Lato Hairline Italic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Installed" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato Light" FullNameNative="Lato Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato Light Italic" FullNameNative="Lato Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Installed" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Installed" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Installed" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+	</FontFamily>
+	<FontFamily Self="dib7" Name="Helvetica Neue">
+		<Font Self="dib7FontnHelvetica Neue Condensed Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Condensed Bold" PostScriptName="HelveticaNeue-CondensedBold" Status="Installed" FontStyleName="Condensed Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Condensed Bold" FullNameNative="Helvetica Neue Condensed Bold" FontStyleNameNative="Condensed Bold" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Condensed Black" FontFamily="Helvetica Neue" Name="Helvetica Neue Condensed Black" PostScriptName="HelveticaNeue-CondensedBlack" Status="Installed" FontStyleName="Condensed Black" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Condensed Black" FullNameNative="Helvetica Neue Condensed Black" FontStyleNameNative="Condensed Black" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue UltraLight" FontFamily="Helvetica Neue" Name="Helvetica Neue UltraLight" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="UltraLight" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue UltraLight" FullNameNative="Helvetica Neue UltraLight" FontStyleNameNative="UltraLight" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue UltraLight Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue UltraLight Italic" PostScriptName="HelveticaNeue-UltraLightItalic" Status="Installed" FontStyleName="UltraLight Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue UltraLight Italic" FullNameNative="Helvetica Neue UltraLight Italic" FontStyleNameNative="UltraLight Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Thin" FontFamily="Helvetica Neue" Name="Helvetica Neue Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Thin" FullNameNative="Helvetica Neue Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Thin Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Thin Italic" FullNameNative="Helvetica Neue Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Light" FontFamily="Helvetica Neue" Name="Helvetica Neue Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Light" FullNameNative="Helvetica Neue Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Light Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Light Italic" FullNameNative="Helvetica Neue Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Regular" FontFamily="Helvetica Neue" Name="Helvetica Neue Regular" PostScriptName="HelveticaNeue" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue" FullNameNative="Helvetica Neue" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Italic" FullNameNative="Helvetica Neue Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Medium" FontFamily="Helvetica Neue" Name="Helvetica Neue Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Medium" FullNameNative="Helvetica Neue Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Medium Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Medium Italic" FullNameNative="Helvetica Neue Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+	</FontFamily>
+	<FontFamily Self="dib8" Name="HK Grotesk">
+		<Font Self="dib8FontnHK Grotesk Light" FontFamily="HK Grotesk" Name="HK Grotesk Light" PostScriptName="HKGrotesk-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Light" FullNameNative="HK Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Light Italic" FontFamily="HK Grotesk" Name="HK Grotesk Light Italic" PostScriptName="HKGrotesk-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Light Italic" FullNameNative="HK Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Regular" FontFamily="HK Grotesk" Name="HK Grotesk Regular" PostScriptName="HKGrotesk-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Regular" FullNameNative="HK Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 001.000 "/>
+		<Font Self="dib8FontnHK Grotesk Italic" FontFamily="HK Grotesk" Name="HK Grotesk Italic" PostScriptName="HKGrotesk-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Italic" FullNameNative="HK Grotesk Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Medium" FontFamily="HK Grotesk" Name="HK Grotesk Medium" PostScriptName="HKGrotesk-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Medium" FullNameNative="HK Grotesk Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Medium Italic" FontFamily="HK Grotesk" Name="HK Grotesk Medium Italic" PostScriptName="HKGrotesk-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Medium Italic" FullNameNative="HK Grotesk Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Bold" FontFamily="HK Grotesk" Name="HK Grotesk Bold" PostScriptName="HKGrotesk-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold" FullNameNative="HK Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 001.000 "/>
+		<Font Self="dib8FontnHK Grotesk Bold Italic" FontFamily="HK Grotesk" Name="HK Grotesk Bold Italic" PostScriptName="HKGrotesk-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold Italic" FullNameNative="HK Grotesk Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+	</FontFamily>
+	<FontFamily Self="dib9" Name="Calibri">
+		<Font Self="dib9FontnCalibri Regular" FontFamily="Calibri" Name="Calibri Regular" PostScriptName="Calibri" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri" FullNameNative="Calibri" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.00"/>
+		<Font Self="dib9FontnCalibri Bold" FontFamily="Calibri" Name="Calibri Bold" PostScriptName="Calibri-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold" FullNameNative="Calibri Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.00"/>
+		<Font Self="dib9FontnCalibri Italic" FontFamily="Calibri" Name="Calibri Italic" PostScriptName="Calibri-Italic" Status="Substituted" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Italic" FullNameNative="Calibri Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 5.62"/>
+		<Font Self="dib9FontnCalibri Bold Italic" FontFamily="Calibri" Name="Calibri Bold Italic" PostScriptName="Calibri-BoldItalic" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold Italic" FullNameNative="Calibri Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 5.62"/>
+		<Font Self="dib9FontnCalibri Light" FontFamily="Calibri" Name="Calibri Light" PostScriptName="Calibri-Light" Status="Substituted" FontStyleName="Light" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Light" FullNameNative="Calibri Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.02"/>
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="u7c" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u7e" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u7f" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u80" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u81" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u82" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<RootCharacterStyleGroup Self="u65">
+		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+	</RootCharacterStyleGroup>
+	<RootParagraphStyleGroup Self="u64">
+		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" Hyphenation="false" SpaceAfter="2.834645669291339" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">17</Leading>
+				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">HK Grotesk</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<CrossReferenceFormat Self="u1bd8" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bd8BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd8BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd8BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd8BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bd9" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bd9BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd9BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd9BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bda" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdaBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdaBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdaBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdaBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bdb" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdbBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdbBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdbBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bdc" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdcBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdcBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdcBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bdd" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bddBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bde" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdeBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdeBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdeBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdeBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bdf" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdfBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdfBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdfBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1be0" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1be0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1be0BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<Story Self="ud892" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection"/>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false"/>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Acknowledgements</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>This book has been written by two authors who at first glance could not be more different, from different academic background, at a different moments of career development and from different generations. Scott is a full professor at East Tennessee State University, where he teaches art history in the Department of Art &amp; Design and aesthetics in the Department of Philosophy &amp; Humanities with a primary research focus in aesthetic ontology and Lacan. Łukasz is a an early-career researcher, currently afiliated with the University’s of Warsaw Faculty of ‘Artes Liberales’ while collaborating with the newly founded Digital Economy Lab (DELab) at the University of Warsaw. He also works as a journalist and consultant covering emerging digital technologies, digital society and culture.</Content>
+				<Br/>
+				<Content>This book had its start at the International Congress of Aesthetics, a highly select and ambitious international conference devoted to aesthetics, art and media study, held in Kraków, Poland in the summer of 2013. Assigned to speak on the same panel because we were presenting on the same topic – digital autonomy and the New Aesthetic – we quickly realized that we had many more overlapping academic interests. As a result of our first meeting on the first day of the conference we decided to take a more creative approach to our presentations, splitting them up so that each could address the areas we planned on covering in a logical sequence and inadvertently taking over the dynamic of the successful session. Since our time in Kraków, we have been exchanging ideas and quickly realized that publishing a co-authored book would be a perfect opportunity to collaboratively produce an introduction to New Aesthetics incorporating not only an approach ensconced in a broad theoretical of digital technology’s impact but also its impact on the contemporary art world.</Content>
+				<Br/>
+				<Content>We would like to thank: the Institute of Network Cultures at the Amsterdam University of Applied Sciences for giving us the possibility to publish our work with them, and particularly Miriam Rasch and Nadine Roestenburg for taking great care of us throughout the writing, editing and publishing process; East Tennessee State University’s Office of Research &amp; Sponsored Programs, Department of Art &amp; Design and Honors College, all of whom provided specific financial support that made the project possible in its final stages; the Polish government, which financed Łukasz’ work from the budget for science of the Republic of Poland as a research project within the ‘Diamond Grant’ programme in 2012–2016; and the artists included herein, many of whom supplied information and images about their work and were incredibly gracious in their responses to our inquiries.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>For the last 4 years Łukasz has been a research director of a project funded by the Polish Ministry of Science and Higher Education. This early-career research grant allowed Łukasz to meet and share ideas with many distinguished scholars whose knowledge, insight and support were crucial for emergence of many ideas presented in the book. He is particularly grateful to the research community of the Digital Aesthetics Research Center/Participation Information Technologies Group at the University of Aarhus where he spent some time as a visiting researcher in 2014. He would like to also thank the research community of the Sussex Humanities Lab at the University of Sussex which he visited in 2015.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Scott would like to thank his many friends and colleagues across many disciplines in his university and his family and friends. He especially thanks his wife and son Karlota and Anton for their love and support; the book would never have been finished as soon as it was if Karlota didn’t encourage him to go to Warsaw for a few days, and Anton appears in one of the images inside.</Content>
+				<Br/>
+				<Content>Łukasz would like to express particular thanks to Christian Ulrik Andersen (Aarhus University), David M. Berry (University of Sussex), Piotr Celiński (Maria Curie-Skłodowska-University), Damien Charrieras (City University of Hong Kong), Lev Manovich (CUNY), Søren Bro Pold (Aarhus University), Krzysztof Rutkowski (University of Warsaw), Winnie Soon (Aarhus University) and Piotr Wilczek (University of Warsaw). You have always been kind and very supportive. Your ongoing encouragement pushed me to work even harder to develop my ideas.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph" Justification="RightAlign">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Scott Contreras-Koterbay Łukasz Mirocha Johnson City, TN, USA Brighton, UK Warsaw, Poland 2014–2016</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" DestinationUniqueKey="1" Name="link" DestinationURL="numbering.xml" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 2" DestinationUniqueKey="2" Name="URL 2" DestinationURL="http://www.tapuz.co.il" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 3" DestinationUniqueKey="3" Name="URL 3" DestinationURL="http://www.tapuz.co.il" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 38" DestinationUniqueKey="4" Name="URL 38" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 37" DestinationUniqueKey="5" Name="URL 37" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 6" DestinationUniqueKey="644" Name="URL 6" DestinationURL="https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/doc/consumer/uso-standard-marketing-plan.doc" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 7" DestinationUniqueKey="645" Name="URL 7" DestinationURL="http://www.abc.net.au/local/stories/2015/03/16/4198439.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 8" DestinationUniqueKey="646" Name="URL 8" DestinationURL="http://rhizomatica.org/about-2/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 9" DestinationUniqueKey="647" Name="URL 9" DestinationURL="http://insidestory.org.au/internet-on-the-outstation" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 10" DestinationUniqueKey="648" Name="URL 10" DestinationURL="http://www.abc.net.au/news/stories/2009/09/09/2680645" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 11" DestinationUniqueKey="649" Name="URL 11" DestinationURL="https://www.communications.gov.au/sites/g/files/net301/f/Northern%20Territory%20Government%20-%20Public%20Submission%20RTIRC%202015.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 12" DestinationUniqueKey="650" Name="URL 12" DestinationURL="http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 13" DestinationUniqueKey="651" Name="URL 13" DestinationURL="http://www.education.nt.gov.au/__data/assets/pdf_file/0005/7475/learning_lessons_review.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 14" DestinationUniqueKey="652" Name="URL 14" DestinationURL="http://www.acal.edu.au/conference/08/Deadly_Dreaming_Mahon.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 15" DestinationUniqueKey="653" Name="URL 15" DestinationURL="http://www.abc.net.au/news/2008-09-25/fiery-debate-over-dpp-decision/521100" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 16" DestinationUniqueKey="654" Name="URL 16" DestinationURL="http://www.partnerinfo.lenovo.com/partners/us/products/downloads/thinkcentre-mseries/TBR-Quality-Study-ExecSummary.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 17" DestinationUniqueKey="655" Name="URL 17" DestinationURL="https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&amp;download" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 18" DestinationUniqueKey="656" Name="URL 18" DestinationURL="http://www.idrc.ca/EN/Resources/Publications/openebooks/342-3/index.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 19" DestinationUniqueKey="657" Name="URL 19" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 20" DestinationUniqueKey="658" Name="URL 20" DestinationURL="http://www.abc.net.au/news/2015-04-08/free-wifi-in-alice-springs-town-camps-could-solve-youth-problems/6378914" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 21" DestinationUniqueKey="659" Name="URL 21" DestinationURL="http://paulfletcher.com.au/speeches/portfolio-speeches/item/1316-speech-to-the-accan-uso-forum.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 22" DestinationUniqueKey="660" Name="URL 22" DestinationURL="http://www.abc.net.au/news/2014-08-25/barrow-creek-3g-network-lacking/5693386" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 23" DestinationUniqueKey="661" Name="URL 23" DestinationURL="http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 24" DestinationUniqueKey="662" Name="URL 24" DestinationURL="http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 25" DestinationUniqueKey="663" Name="URL 25" DestinationURL="http://www.economist.com/news/technology-quarterly/21645498-fed-up-failings-big-operators-remote-mexican-communities-are-acting" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 26" DestinationUniqueKey="664" Name="URL 26" DestinationURL="http://insidestory.org.au/a-new-protection-policy/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 27" DestinationUniqueKey="665" Name="URL 27" DestinationURL="http://www.budget.gov.au/2005-06/ministerial/html/dotars-12.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 28" DestinationUniqueKey="666" Name="URL 28" DestinationURL="http://www.budget.gov.au/2015-16/content/bp2/html/bp2_expense-19.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 29" DestinationUniqueKey="667" Name="URL 29" DestinationURL="http://caylus.org.au/papunya-computer-room/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 30" DestinationUniqueKey="668" Name="URL 30" DestinationURL="http://aliceonline.com.au/2011/10/17/a-tortuous-trail-bob-beadmans-short-history-of-outstations/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 31" DestinationUniqueKey="669" Name="URL 31" DestinationURL="http://www.afccra.org/media%20releases%20documents/ATM%20Fees%20in%20Remote%20Indigenous%20Communities.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 32" DestinationUniqueKey="670" Name="URL 32" DestinationURL="http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 33" DestinationUniqueKey="671" Name="URL 33" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 34" DestinationUniqueKey="672" Name="URL 34" DestinationURL="http://www.acma.gov.au/webwr/_assets/main/lib311995/2009-10_comms_report-complete.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 35" DestinationUniqueKey="673" Name="URL 35" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 36" DestinationUniqueKey="674" Name="URL 36" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 39" DestinationUniqueKey="675" Name="URL 39" DestinationURL="http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/4710.0Main%20Features42006?opendocument&amp;tabname=Summary&amp;prodno=4710.0&amp;issue=2006&amp;num=&amp;view" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 40" DestinationUniqueKey="676" Name="URL 40" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2075.0main+features32011" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 41" DestinationUniqueKey="677" Name="URL 41" DestinationURL="http://www.abs.gov.au/websitedbs/censushome.nsf/home" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 42" DestinationUniqueKey="678" Name="URL 42" DestinationURL="http://www.cci.edu.au/projects/world-internet-project-australia" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 43" DestinationUniqueKey="841" Name="URL 43" DestinationURL="https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/doc/consumer/uso-standard-marketing-plan.doc" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 44" DestinationUniqueKey="842" Name="URL 44" DestinationURL="http://www.abc.net.au/local/stories/2015/03/16/4198439.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 45" DestinationUniqueKey="843" Name="URL 45" DestinationURL="http://rhizomatica.org/about-2/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 46" DestinationUniqueKey="844" Name="URL 46" DestinationURL="http://insidestory.org.au/internet-on-the-outstation" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 47" DestinationUniqueKey="845" Name="URL 47" DestinationURL="http://www.abc.net.au/news/stories/2009/09/09/2680645" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 48" DestinationUniqueKey="846" Name="URL 48" DestinationURL="https://www.communications.gov.au/sites/g/files/net301/f/Northern%20Territory%20Government%20-%20Public%20Submission%20RTIRC%202015.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 49" DestinationUniqueKey="847" Name="URL 49" DestinationURL="http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 50" DestinationUniqueKey="848" Name="URL 50" DestinationURL="http://www.education.nt.gov.au/__data/assets/pdf_file/0005/7475/learning_lessons_review.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 51" DestinationUniqueKey="849" Name="URL 51" DestinationURL="http://www.acal.edu.au/conference/08/Deadly_Dreaming_Mahon.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 52" DestinationUniqueKey="850" Name="URL 52" DestinationURL="http://www.abc.net.au/news/2008-09-25/fiery-debate-over-dpp-decision/521100" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 53" DestinationUniqueKey="851" Name="URL 53" DestinationURL="http://www.partnerinfo.lenovo.com/partners/us/products/downloads/thinkcentre-mseries/TBR-Quality-Study-ExecSummary.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 54" DestinationUniqueKey="852" Name="URL 54" DestinationURL="https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&amp;download" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 55" DestinationUniqueKey="853" Name="URL 55" DestinationURL="http://www.idrc.ca/EN/Resources/Publications/openebooks/342-3/index.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 56" DestinationUniqueKey="854" Name="URL 56" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 57" DestinationUniqueKey="855" Name="URL 57" DestinationURL="http://www.abc.net.au/news/2015-04-08/free-wifi-in-alice-springs-town-camps-could-solve-youth-problems/6378914" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 58" DestinationUniqueKey="856" Name="URL 58" DestinationURL="http://paulfletcher.com.au/speeches/portfolio-speeches/item/1316-speech-to-the-accan-uso-forum.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 59" DestinationUniqueKey="857" Name="URL 59" DestinationURL="http://www.abc.net.au/news/2014-08-25/barrow-creek-3g-network-lacking/5693386" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 60" DestinationUniqueKey="858" Name="URL 60" DestinationURL="http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 61" DestinationUniqueKey="859" Name="URL 61" DestinationURL="http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 62" DestinationUniqueKey="860" Name="URL 62" DestinationURL="http://www.economist.com/news/technology-quarterly/21645498-fed-up-failings-big-operators-remote-mexican-communities-are-acting" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 63" DestinationUniqueKey="861" Name="URL 63" DestinationURL="http://insidestory.org.au/a-new-protection-policy/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 64" DestinationUniqueKey="862" Name="URL 64" DestinationURL="http://www.budget.gov.au/2005-06/ministerial/html/dotars-12.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 65" DestinationUniqueKey="863" Name="URL 65" DestinationURL="http://www.budget.gov.au/2015-16/content/bp2/html/bp2_expense-19.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 66" DestinationUniqueKey="864" Name="URL 66" DestinationURL="http://caylus.org.au/papunya-computer-room/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 67" DestinationUniqueKey="865" Name="URL 67" DestinationURL="http://aliceonline.com.au/2011/10/17/a-tortuous-trail-bob-beadmans-short-history-of-outstations/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 68" DestinationUniqueKey="866" Name="URL 68" DestinationURL="http://www.afccra.org/media%20releases%20documents/ATM%20Fees%20in%20Remote%20Indigenous%20Communities.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 69" DestinationUniqueKey="867" Name="URL 69" DestinationURL="http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 70" DestinationUniqueKey="868" Name="URL 70" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 71" DestinationUniqueKey="869" Name="URL 71" DestinationURL="http://www.acma.gov.au/webwr/_assets/main/lib311995/2009-10_comms_report-complete.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 72" DestinationUniqueKey="870" Name="URL 72" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 73" DestinationUniqueKey="871" Name="URL 73" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 74" DestinationUniqueKey="872" Name="URL 74" DestinationURL="http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/4710.0Main%20Features42006?opendocument&amp;tabname=Summary&amp;prodno=4710.0&amp;issue=2006&amp;num=&amp;view" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 75" DestinationUniqueKey="873" Name="URL 75" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2075.0main+features32011" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 76" DestinationUniqueKey="874" Name="URL 76" DestinationURL="http://www.abs.gov.au/websitedbs/censushome.nsf/home" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 77" DestinationUniqueKey="875" Name="URL 77" DestinationURL="http://www.cci.edu.au/projects/world-internet-project-australia" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 78" DestinationUniqueKey="876" Name="URL 78" DestinationURL="https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/doc/consumer/uso-standard-marketing-plan.doc" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 79" DestinationUniqueKey="877" Name="URL 79" DestinationURL="http://www.abc.net.au/local/stories/2015/03/16/4198439.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 80" DestinationUniqueKey="878" Name="URL 80" DestinationURL="http://rhizomatica.org/about-2/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 81" DestinationUniqueKey="879" Name="URL 81" DestinationURL="http://insidestory.org.au/internet-on-the-outstation" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 82" DestinationUniqueKey="880" Name="URL 82" DestinationURL="http://www.abc.net.au/news/stories/2009/09/09/2680645" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 83" DestinationUniqueKey="881" Name="URL 83" DestinationURL="https://www.communications.gov.au/sites/g/files/net301/f/Northern%20Territory%20Government%20-%20Public%20Submission%20RTIRC%202015.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 84" DestinationUniqueKey="882" Name="URL 84" DestinationURL="http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 85" DestinationUniqueKey="883" Name="URL 85" DestinationURL="http://www.education.nt.gov.au/__data/assets/pdf_file/0005/7475/learning_lessons_review.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 86" DestinationUniqueKey="884" Name="URL 86" DestinationURL="http://www.acal.edu.au/conference/08/Deadly_Dreaming_Mahon.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 87" DestinationUniqueKey="885" Name="URL 87" DestinationURL="http://www.abc.net.au/news/2008-09-25/fiery-debate-over-dpp-decision/521100" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 88" DestinationUniqueKey="886" Name="URL 88" DestinationURL="http://www.partnerinfo.lenovo.com/partners/us/products/downloads/thinkcentre-mseries/TBR-Quality-Study-ExecSummary.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 89" DestinationUniqueKey="887" Name="URL 89" DestinationURL="https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&amp;download" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 90" DestinationUniqueKey="888" Name="URL 90" DestinationURL="http://www.idrc.ca/EN/Resources/Publications/openebooks/342-3/index.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 91" DestinationUniqueKey="889" Name="URL 91" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 92" DestinationUniqueKey="890" Name="URL 92" DestinationURL="http://www.abc.net.au/news/2015-04-08/free-wifi-in-alice-springs-town-camps-could-solve-youth-problems/6378914" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 93" DestinationUniqueKey="891" Name="URL 93" DestinationURL="http://paulfletcher.com.au/speeches/portfolio-speeches/item/1316-speech-to-the-accan-uso-forum.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 94" DestinationUniqueKey="892" Name="URL 94" DestinationURL="http://www.abc.net.au/news/2014-08-25/barrow-creek-3g-network-lacking/5693386" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 95" DestinationUniqueKey="893" Name="URL 95" DestinationURL="http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 96" DestinationUniqueKey="894" Name="URL 96" DestinationURL="http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 97" DestinationUniqueKey="895" Name="URL 97" DestinationURL="http://www.economist.com/news/technology-quarterly/21645498-fed-up-failings-big-operators-remote-mexican-communities-are-acting" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 98" DestinationUniqueKey="896" Name="URL 98" DestinationURL="http://insidestory.org.au/a-new-protection-policy/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 99" DestinationUniqueKey="897" Name="URL 99" DestinationURL="http://www.budget.gov.au/2005-06/ministerial/html/dotars-12.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 100" DestinationUniqueKey="898" Name="URL 100" DestinationURL="http://www.budget.gov.au/2015-16/content/bp2/html/bp2_expense-19.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 101" DestinationUniqueKey="899" Name="URL 101" DestinationURL="http://caylus.org.au/papunya-computer-room/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 102" DestinationUniqueKey="900" Name="URL 102" DestinationURL="http://aliceonline.com.au/2011/10/17/a-tortuous-trail-bob-beadmans-short-history-of-outstations/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 103" DestinationUniqueKey="901" Name="URL 103" DestinationURL="http://www.afccra.org/media%20releases%20documents/ATM%20Fees%20in%20Remote%20Indigenous%20Communities.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 104" DestinationUniqueKey="902" Name="URL 104" DestinationURL="http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 105" DestinationUniqueKey="903" Name="URL 105" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 106" DestinationUniqueKey="904" Name="URL 106" DestinationURL="http://www.acma.gov.au/webwr/_assets/main/lib311995/2009-10_comms_report-complete.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 107" DestinationUniqueKey="905" Name="URL 107" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 108" DestinationUniqueKey="906" Name="URL 108" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 109" DestinationUniqueKey="907" Name="URL 109" DestinationURL="http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/4710.0Main%20Features42006?opendocument&amp;tabname=Summary&amp;prodno=4710.0&amp;issue=2006&amp;num=&amp;view" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 110" DestinationUniqueKey="908" Name="URL 110" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2075.0main+features32011" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 111" DestinationUniqueKey="909" Name="URL 111" DestinationURL="http://www.abs.gov.au/websitedbs/censushome.nsf/home" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 112" DestinationUniqueKey="910" Name="URL 112" DestinationURL="http://www.cci.edu.au/projects/world-internet-project-australia" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 113" DestinationUniqueKey="936" Name="URL 113" DestinationURL="http://new-aesthetic.tumblr.com/about" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 114" DestinationUniqueKey="937" Name="URL 114" DestinationURL="http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 115" DestinationUniqueKey="938" Name="URL 115" DestinationURL="http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 116" DestinationUniqueKey="939" Name="URL 116" DestinationURL="https://aeon.co/essays/what-do-we-uncover-when-we-look-through-digital-eyes" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 117" DestinationUniqueKey="940" Name="URL 117" DestinationURL="http://www.poszu.com/new-aesthetics-new-politics.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 118" DestinationUniqueKey="941" Name="URL 118" DestinationURL="http://new-aesthetic.tumblr.com/about" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 119" DestinationUniqueKey="942" Name="URL 119" DestinationURL="http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 120" DestinationUniqueKey="943" Name="URL 120" DestinationURL="http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 121" DestinationUniqueKey="944" Name="URL 121" DestinationURL="https://aeon.co/essays/what-do-we-uncover-when-we-look-through-digital-eyes" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 122" DestinationUniqueKey="945" Name="URL 122" DestinationURL="http://www.poszu.com/new-aesthetics-new-politics.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 123" DestinationUniqueKey="946" Name="URL 123" DestinationURL="http://new-aesthetic.tumblr.com/about" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 124" DestinationUniqueKey="947" Name="URL 124" DestinationURL="http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 125" DestinationUniqueKey="948" Name="URL 125" DestinationURL="http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 126" DestinationUniqueKey="949" Name="URL 126" DestinationURL="https://aeon.co/essays/what-do-we-uncover-when-we-look-through-digital-eyes" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 127" DestinationUniqueKey="950" Name="URL 127" DestinationURL="http://www.poszu.com/new-aesthetics-new-politics.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 128" DestinationUniqueKey="951" Name="URL 128" DestinationURL="https://en.wikipedia.org/w/index.php?title=Frieder_Nake&amp;oldid=688732078" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 129" DestinationUniqueKey="952" Name="URL 129" DestinationURL="http://www.art-agenda.com/reviews/hito-steyerl&apos;s-" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 130" DestinationUniqueKey="953" Name="URL 130" DestinationURL="https://youtu.be/Bs7NFbE2NS8" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 131" DestinationUniqueKey="954" Name="URL 131" DestinationURL="http://ilovechrisbaker.com/" Hidden="false"/>
+</Document>
