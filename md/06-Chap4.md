@@ -1691,7 +1691,7 @@ New Aesthetic art are revealed.
 
 [^04-Chap4_54]: Liz Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
 
-[^04-Chap4_55]: Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
+[^04-Chap4_55]: Liz Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
 
 [^04-Chap4_56]: Lital Khaikin, ‘The Radical Capacity of Glitch Art: Expression
     through an Aesthetic Rooted in Error’, *REDEFINE*, 5 February 2014,

@@ -370,7 +370,7 @@ processed through a disinterested perspective and, for all of the talk
 of the appealing design of hardware and software objects, their
 relatable tangibility could possibly be ignored in favor of a
 dispassionate aesthetic assessment. It’s conceivable, for instance, to
-imagine that disucssions of the design of hardware and software take
+imagine that discussions of the design of hardware and software take
 place in a rarified state of objectivity, and that the debate between
 Apple fans and their PC loyalist detractors take place on the merits of
 their respective GUIs alone. At the same time this is a little
@@ -850,7 +850,7 @@ believe we see a pattern, a natural law, etc. in the constitutive nature
 and functions of an object we are seeing those patterns only as they
 exist in human understanding. For Quarfood, a teleological judgment is
 the means by which an organism is first identified as an organism, as a
-*Naturweck*, in that it is being what it should be because the
+*Naturwerke*, in that it is being what it should be because the
 relationship between the parts and the whole are interdependent and
 substantiating as a fulfillment of its natural purpose which is to
 produce itself. This means that while it’s impossible to use teleology
@@ -1136,7 +1136,7 @@ organisms.
 
 [^06-Chap6_10]: *Critique of Pure Reason*, A216/B263
 
-[^06-Chap6_11]: KU 15
+[^06-Chap6_11]: Immanuel Kant, Kritik der Urtheilskraft, (KdU), §15.
 
 [^06-Chap6_12]: Stephen Davies, ‘Aesthetic Judgements, Artworks and Functional
     Beauty’, *The Philosophical Quarterly*, Vol. 56, No. 223 (April,
@@ -1163,7 +1163,7 @@ organisms.
 
 [^06-Chap6_20]: Kant, *Critique of Judgment*, Pluhar, p. 249.
 
-[^06-Chap6_21]: KU §10
+[^06-Chap6_21]: Immanuel Kant, Kritik der Urtheilskraft, (KdU), §10. 
 
 [^06-Chap6_22]: Kant, *Critique of Judgment*, Pluhar, p. 258.
 
@@ -1240,7 +1240,7 @@ organisms.
     Telegraph*, 18 January 2016,
     <http://www.telegraph.co.uk/photography/what-to-see/is-this-the-first-instagram-masterpiece/>.
 
-[^06-Chap6_46]: Nicholas Bourraiud’s Facebook Page. Accessed January 31^st^,
+[^06-Chap6_46]: Nicholas Bourriaud’s Facebook Page. Accessed January 31st,
     2016.
     <https://www.facebook.com/nicolas.bourriaud.7/posts/10154019377457280?pnref=story>.
 
@@ -1250,7 +1250,7 @@ organisms.
     Guardian*, January 31 2016,
     <http://www.theguardian.com/artanddesign/2016/jan/31/exposed-photographys-fabulous-fakes>.
 
-[^06-Chap6_48]: Kant, *CJ*, p. 250.
+[^06-Chap6_48]: Kant, *CJ*, p. 250, §64.
 
  <br></br> 
  <br></br> 

@@ -1465,7 +1465,7 @@ April 2012, [http://www.poszu.com/new-aesthetics-new-politics.html](http://www.p
 
 [^book_book_book_book_book_book_book_book_book_01-Chap1_15]: Rober Urquhart, ‘An Interview With James Bridle of the New Aesthetic’, *The Huffington Post,* 9 May 2012, [http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html](http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html).
 
-[^book_book_book_book_book_book_book_book_book_01-Chap1_16]: J.J. Charlesworth, ‘We are the droids we’re looking for: the New Aesthetic and its friendly critics’, *JJ Charlesworth Blog*,7 May 2012, [https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/](https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_16]: J.J. Charlesworth, ‘We are the droids we’re looking for: the New Aesthetic and its friendly critics’, *JJ Charlesworth Blog*, 7 May 2012, [https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/](https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/).
 
 [^book_book_book_book_book_book_book_book_book_01-Chap1_17]: Wim Westera, *The Digital Turn: How the Internet Transforms Our
 Existence*, 2015 (2013), [http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf](http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf), p. 125.
@@ -1505,7 +1505,7 @@ July, 2008, [http://www.apple.com/pr/library/2008/07/10iPhone-3G-on-Sale-Tomorro
 
 [^book_book_book_book_book_book_book_book_book_01-Chap1_29]: Palladio Humanities thinking with data, [http://hdlab.stanford.edu/projects/palladio/](http://hdlab.stanford.edu/projects/palladio/).
 
-[^book_book_book_book_book_book_book_book_book_01-Chap1_30]: Thomas Faith and Joseph Wicentowski, ‘Visualizing the History of U.S. Foreign Relations: The State of TEI at Foggy Bottom’, [http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf](http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf).
+[^book_book_book_book_book_book_book_book_book_01-Chap1_30]: Thomas Faith and Joseph Wicentowski, ‘Visualizing the History of U.S. Foreign Relations: The State of TEI at Foggy Bottom’, 2014,[http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf](http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf).
 
 [^book_book_book_book_book_book_book_book_book_01-Chap1_31]: TXTBKS, [https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html](https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html).
 
@@ -3423,9 +3423,7 @@ and its thingness become transparent or unremarkable. The tool follows
 the logic of immediacy, being a mere mean to an end. ‘The paradox of the
 ready-to-hand is therefore the fact that in its most authentic form, it
 necessarily withdraws from direct view’, Gunkel and Taylor
-write.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_25]<span id="_Toc321914099" class="anchor"><span
-id="_Toc321914205" class="anchor"></span></span>The Glitch as
-Non-operative Modi
+write.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_25]
 
 Now we’ve arrived to a point when Heidegger’s theory on things meets
 with principal assumptions about human-computer interaction and digital
@@ -3454,7 +3452,7 @@ ready-to-hand may be met as something unusable, not properly adapted for
 the use we have decided upon. \[…\] we discover its unusability,
 however, not by looking at it and establishing its properties, but
 rather by the circumspection of the dealings in which we use
-it’.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_29]Gunkel and Taylor also emphasize the fact that the evolution
+it’.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_29] Gunkel and Taylor also emphasize the fact that the evolution
 from being ready-to-hand to present-to-hand of certain tools, takes
 place not in the user’s perception of a tool, but through putting it to
 actual use. ‘Something becomes present-at-hand when the thing in
@@ -3465,7 +3463,7 @@ theoretical approach that takes to the forefront of our perception the
 conditions of existence of the computational in the postdigital age
 together with its limitations, the critical potential of studying
 certain technologies and media in their unready-to-hand conditions,
-looks very promising.Heidegger uses three different notions to describe
+looks very promising. Heidegger uses three different notions to describe
 specific conditions of things when they reveal their presence-at-hand
 through unique unreadiness-to-hand. The modi of conspicuousness,
 obtrusiveness and obstinacy introduce a micro-temporal context, an
@@ -3486,7 +3484,7 @@ was initially designed.[^book_book_book_book_book_book_book_03-Chap3_03-Chap3_31
 interaction and utility paradigm in partially working machines or
 software. The conspicuousness is a result of a complete failure of the
 computational, a situation in which a user is confronted with a broken
-piece of hardware, or an application that fails to launch.A thing
+piece of hardware, or an application that fails to launch. A thing
 becomes *obtrusive* when it is missing. As Heidegger argues, the thing
 is then not ‘handy’ but is not ‘to hand’ at all. The more we need what
 is missing to perform a task, the more intensive it enters into the
@@ -3518,7 +3516,7 @@ Similarly, glitches in the display of elements of graphical user
 interfaces or image artifacts in web-based services such as Google
 Earth, Apple Maps, do break the immediacy of a particular tool,
 challenging the seamless interaction and perfect visual representation
-paradigms, but the tool as a whole itself is still functioning.Many
+paradigms, but the tool as a whole itself is still functioning. Many
 phenomena and artistic interventions associated with the New Aesthetic
 are manifestations of the state of obstinacy. They do interfere with a
 particular software or device to an extent that they cannot be ignored
@@ -3654,7 +3652,7 @@ of the postdigital age.
 [^book_book_book_book_book_book_book_03-Chap3_03-Chap3_4]: van den Boomen, *Transcoding the Digital*, p. 65.
 
 [^book_book_book_book_book_book_book_03-Chap3_03-Chap3_5]: Matt Jones,’Sensor-Vernacular’, *Berg London blog*, 13 May 2011
-    2011, <http://berglondon.com/blog/2011/05/13/sensor-vernacular/>.
+    <http://berglondon.com/blog/2011/05/13/sensor-vernacular/>.
 
 [^book_book_book_book_book_book_book_03-Chap3_03-Chap3_6]: Kim Cascone, ‘The Aesthetics of Failure: Post-Digital Tendencies
     in Contemporary Computer Music’, *subsol*, 24 April 2004,
@@ -5436,7 +5434,7 @@ New Aesthetic art are revealed.
 
 [^book_book_book_book_book_book_04-Chap4_54]: Liz Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
 
-[^book_book_book_book_book_book_04-Chap4_55]: Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
+[^book_book_book_book_book_book_04-Chap4_55]: Liz Stinson, ‘Wonderfully Twisted Photos From a Glitch Art Guru’.
 
 [^book_book_book_book_book_book_04-Chap4_56]: Lital Khaikin, ‘The Radical Capacity of Glitch Art: Expression
     through an Aesthetic Rooted in Error’, *REDEFINE*, 5 February 2014,
@@ -8559,7 +8557,7 @@ processed through a disinterested perspective and, for all of the talk
 of the appealing design of hardware and software objects, their
 relatable tangibility could possibly be ignored in favor of a
 dispassionate aesthetic assessment. It’s conceivable, for instance, to
-imagine that disucssions of the design of hardware and software take
+imagine that discussions of the design of hardware and software take
 place in a rarified state of objectivity, and that the debate between
 Apple fans and their PC loyalist detractors take place on the merits of
 their respective GUIs alone. At the same time this is a little
@@ -9039,7 +9037,7 @@ believe we see a pattern, a natural law, etc. in the constitutive nature
 and functions of an object we are seeing those patterns only as they
 exist in human understanding. For Quarfood, a teleological judgment is
 the means by which an organism is first identified as an organism, as a
-*Naturweck*, in that it is being what it should be because the
+*Naturwerke*, in that it is being what it should be because the
 relationship between the parts and the whole are interdependent and
 substantiating as a fulfillment of its natural purpose which is to
 produce itself. This means that while it’s impossible to use teleology
@@ -9325,7 +9323,7 @@ organisms.
 
 [^book_book_book_book_06-Chap6_10]: *Critique of Pure Reason*, A216/B263
 
-[^book_book_book_book_06-Chap6_11]: KU 15
+[^book_book_book_book_06-Chap6_11]: Immanuel Kant, Kritik der Urtheilskraft, (KdU), §15.
 
 [^book_book_book_book_06-Chap6_12]: Stephen Davies, ‘Aesthetic Judgements, Artworks and Functional
     Beauty’, *The Philosophical Quarterly*, Vol. 56, No. 223 (April,
@@ -9352,7 +9350,7 @@ organisms.
 
 [^book_book_book_book_06-Chap6_20]: Kant, *Critique of Judgment*, Pluhar, p. 249.
 
-[^book_book_book_book_06-Chap6_21]: KU §10
+[^book_book_book_book_06-Chap6_21]: Immanuel Kant, Kritik der Urtheilskraft, (KdU), §10. 
 
 [^book_book_book_book_06-Chap6_22]: Kant, *Critique of Judgment*, Pluhar, p. 258.
 
@@ -9429,7 +9427,7 @@ organisms.
     Telegraph*, 18 January 2016,
     <http://www.telegraph.co.uk/photography/what-to-see/is-this-the-first-instagram-masterpiece/>.
 
-[^book_book_book_book_06-Chap6_46]: Nicholas Bourraiud’s Facebook Page. Accessed January 31^st^,
+[^book_book_book_book_06-Chap6_46]: Nicholas Bourriaud’s Facebook Page. Accessed January 31st,
     2016.
     <https://www.facebook.com/nicolas.bourriaud.7/posts/10154019377457280?pnref=story>.
 
@@ -9439,7 +9437,7 @@ organisms.
     Guardian*, January 31 2016,
     <http://www.theguardian.com/artanddesign/2016/jan/31/exposed-photographys-fabulous-fakes>.
 
-[^book_book_book_book_06-Chap6_48]: Kant, *CJ*, p. 250.
+[^book_book_book_book_06-Chap6_48]: Kant, *CJ*, p. 250, §64.
 
  <br></br> 
  <br></br> 

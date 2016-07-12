@@ -1103,7 +1103,7 @@ April 2012, [http://www.poszu.com/new-aesthetics-new-politics.html](http://www.p
 
 [^01-Chap1_15]: Rober Urquhart, ‘An Interview With James Bridle of the New Aesthetic’, *The Huffington Post,* 9 May 2012, [http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html](http://www.huffingtonpost.co.uk/robert-urquhart/james-bridle-the-new-aesthetic_b_1498958.html).
 
-[^01-Chap1_16]: J.J. Charlesworth, ‘We are the droids we’re looking for: the New Aesthetic and its friendly critics’, *JJ Charlesworth Blog*,7 May 2012, [https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/](https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/).
+[^01-Chap1_16]: J.J. Charlesworth, ‘We are the droids we’re looking for: the New Aesthetic and its friendly critics’, *JJ Charlesworth Blog*, 7 May 2012, [https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/](https://blogjjcharlesworth.wordpress.com/2012/05/07/we-are-the-droids-were-looking-for-the-new-aesthetic-and-its-friendly-critics/).
 
 [^01-Chap1_17]: Wim Westera, *The Digital Turn: How the Internet Transforms Our
 Existence*, 2015 (2013), [http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf](http://www.thedigitalturn.co.uk/TheDigitalTurn.pdf), p. 125.
@@ -1143,7 +1143,7 @@ July, 2008, [http://www.apple.com/pr/library/2008/07/10iPhone-3G-on-Sale-Tomorro
 
 [^01-Chap1_29]: Palladio Humanities thinking with data, [http://hdlab.stanford.edu/projects/palladio/](http://hdlab.stanford.edu/projects/palladio/).
 
-[^01-Chap1_30]: Thomas Faith and Joseph Wicentowski, ‘Visualizing the History of U.S. Foreign Relations: The State of TEI at Foggy Bottom’, [http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf](http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf).
+[^01-Chap1_30]: Thomas Faith and Joseph Wicentowski, ‘Visualizing the History of U.S. Foreign Relations: The State of TEI at Foggy Bottom’, 2014,[http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf](http://tei.northwestern.edu/files/2014/04/Faith-Wicentowski-1ntyfbr.pdf).
 
 [^01-Chap1_31]: TXTBKS, [https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html](https://www.thinkwithgoogle.com/campaigns/smart-communications-txtbks.html).
 

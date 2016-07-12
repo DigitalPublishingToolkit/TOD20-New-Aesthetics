@@ -420,9 +420,7 @@ and its thingness become transparent or unremarkable. The tool follows
 the logic of immediacy, being a mere mean to an end. ‘The paradox of the
 ready-to-hand is therefore the fact that in its most authentic form, it
 necessarily withdraws from direct view’, Gunkel and Taylor
-write.[^03-Chap3_03-Chap3_25]<span id="_Toc321914099" class="anchor"><span
-id="_Toc321914205" class="anchor"></span></span>The Glitch as
-Non-operative Modi
+write.[^03-Chap3_03-Chap3_25]
 
 Now we’ve arrived to a point when Heidegger’s theory on things meets
 with principal assumptions about human-computer interaction and digital
@@ -451,7 +449,7 @@ ready-to-hand may be met as something unusable, not properly adapted for
 the use we have decided upon. \[…\] we discover its unusability,
 however, not by looking at it and establishing its properties, but
 rather by the circumspection of the dealings in which we use
-it’.[^03-Chap3_03-Chap3_29]Gunkel and Taylor also emphasize the fact that the evolution
+it’.[^03-Chap3_03-Chap3_29] Gunkel and Taylor also emphasize the fact that the evolution
 from being ready-to-hand to present-to-hand of certain tools, takes
 place not in the user’s perception of a tool, but through putting it to
 actual use. ‘Something becomes present-at-hand when the thing in
@@ -462,7 +460,7 @@ theoretical approach that takes to the forefront of our perception the
 conditions of existence of the computational in the postdigital age
 together with its limitations, the critical potential of studying
 certain technologies and media in their unready-to-hand conditions,
-looks very promising.Heidegger uses three different notions to describe
+looks very promising. Heidegger uses three different notions to describe
 specific conditions of things when they reveal their presence-at-hand
 through unique unreadiness-to-hand. The modi of conspicuousness,
 obtrusiveness and obstinacy introduce a micro-temporal context, an
@@ -483,7 +481,7 @@ was initially designed.[^03-Chap3_03-Chap3_31] It is not just about breaking the
 interaction and utility paradigm in partially working machines or
 software. The conspicuousness is a result of a complete failure of the
 computational, a situation in which a user is confronted with a broken
-piece of hardware, or an application that fails to launch.A thing
+piece of hardware, or an application that fails to launch. A thing
 becomes *obtrusive* when it is missing. As Heidegger argues, the thing
 is then not ‘handy’ but is not ‘to hand’ at all. The more we need what
 is missing to perform a task, the more intensive it enters into the
@@ -515,7 +513,7 @@ Similarly, glitches in the display of elements of graphical user
 interfaces or image artifacts in web-based services such as Google
 Earth, Apple Maps, do break the immediacy of a particular tool,
 challenging the seamless interaction and perfect visual representation
-paradigms, but the tool as a whole itself is still functioning.Many
+paradigms, but the tool as a whole itself is still functioning. Many
 phenomena and artistic interventions associated with the New Aesthetic
 are manifestations of the state of obstinacy. They do interfere with a
 particular software or device to an extent that they cannot be ignored
@@ -651,7 +649,7 @@ of the postdigital age.
 [^03-Chap3_03-Chap3_4]: van den Boomen, *Transcoding the Digital*, p. 65.
 
 [^03-Chap3_03-Chap3_5]: Matt Jones,’Sensor-Vernacular’, *Berg London blog*, 13 May 2011
-    2011, <http://berglondon.com/blog/2011/05/13/sensor-vernacular/>.
+    <http://berglondon.com/blog/2011/05/13/sensor-vernacular/>.
 
 [^03-Chap3_03-Chap3_6]: Kim Cascone, ‘The Aesthetics of Failure: Post-Digital Tendencies
     in Contemporary Computer Music’, *subsol*, 24 April 2004,
